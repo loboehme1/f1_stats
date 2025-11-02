@@ -1,5 +1,6 @@
 import os, requests, pandas as pd, matplotlib.pyplot as plt
 
+# Fetch driver standings data from the Ergast API and return as a DataFrame
 def get_df(season=2024, rounds=24):
     rows=[]
     for rnd in range(1, rounds+1):
@@ -11,6 +12,7 @@ def get_df(season=2024, rounds=24):
             rows.append({"Round":rnd,"Driver":name,"Position":int(e["position"])})
     return pd.DataFrame(rows)
 
+# Generate and save a PNG plot of driver standings over the season
 def make_png(path):
     df=get_df()
     plt.style.use("dark_background")
