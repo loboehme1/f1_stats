@@ -73,7 +73,8 @@ def get_df(season=2024, rounds=24):
         for driver in standings_drivers:
             name = f"{driver.get("Driver", {}).get("givenName")} {driver.get("Driver", {}).get("familyName")}"
             pos = driver.get("position")
-            standings.append({"Round": round+1, "Driver": name, "Position": pos})
+            points = driver.get("points")
+            standings.append({"Round": round+1, "Driver": name, "Position": pos, "Points": points})
 
 
     # extract driver info
@@ -89,11 +90,16 @@ def get_df(season=2024, rounds=24):
 
 
 # Generate and save a PNG plot of driver standings over the season
-def make_png(path):
+def make_line(path):
     plt.style.use("dark_background") 
     standings, series = get_df()
+
+    make_bar("public/driverstandings_bar.png", standings)
+
     # Plotting
     fig, ax = plt.subplots(figsize=(12, 6), constrained_layout=False)
+    fig, ax = plt.subplots(figsize=(14,6), facecolor='#00001C')
+    ax.set_facecolor('#00001C')
     for drv, pts in series.items():
         pts.sort(key=lambda x: x[0])        # sort by Round
         xs = [r for r, _ in pts]
@@ -109,7 +115,6 @@ def make_png(path):
 
     plt.xlabel('Round')
     plt.ylabel('Position')
-    plt.title('Driver Standings Over 2025 Season')
     plt.grid(True, linestyle='--', alpha=0.4)
 
     ax.legend(
@@ -124,5 +129,41 @@ def make_png(path):
     fig.savefig(path, dpi=200, bbox_inches="tight")
     plt.close(fig)
 
+def make_bar(path, standings):
+    if standings:  # avoid ValueError on empty
+        max_round = max(item["Round"] for item in standings)
+        latest_entries = [item for item in standings if item["Round"] == max_round]
+    else:
+        latest_entries = []
+
+    # Sort by Points descending
+    data = sorted(latest_entries, key=lambda d: int(d['Points']), reverse=True)
+
+    names  = [d['Driver'] for d in data]
+    points = [int(d['Points']) for d in data]
+
+    plt.style.use('dark_background')
+    fig, ax = plt.subplots(figsize=(14,6), facecolor='#00001C')
+    ax.set_facecolor('#00001C')
+
+    bars = ax.bar(names, points, color='#80c7ff')  # light blue
+    ax.set_ylabel('Points', color='white')
+    ax.tick_params(axis='x', rotation=55, labelsize=9, colors='#dddddd')
+    ax.tick_params(axis='y', colors='#dddddd')
+    for spine in ax.spines.values():
+        spine.set_color('#444')
+
+    # value labels
+    for rect, val in zip(bars, points):
+        ax.text(rect.get_x()+rect.get_width()/2, val+1, str(val),
+                ha='center', va='bottom', fontsize=8, color="#69d2ed")
+
+    plt.subplots_adjust(right=0.78)   # tweak (0.75–0.85) as needed
+
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+
+    fig.savefig(path, dpi=200, bbox_inches="tight")
+    plt.close(fig)
+
 if __name__ == "__main__":
-    make_png("public/driverstandings.png")
+    make_line("public/driverstandings.png")
