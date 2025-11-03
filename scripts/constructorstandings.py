@@ -10,31 +10,30 @@ from urllib3.util.retry import Retry
 
 
 def color_for(drv):
-    driver_colors = {
+    constructor_colors = {
         # McLaren
-        "Lando Norris":      "#FF8700", "Oscar Piastri":         "#FF8700",
+        "McLaren":       "#FF8700", 
         # Red Bull
-        "Max Verstappen":    "#00008b", "Yuki Tsunoda":          "#00008b",
+        "Red Bull":      "#00008b",
         # Ferrari
-        "Charles Leclerc":   "#DC0000", "Lewis Hamilton":        "#DC0000",
+        "Ferrari":       "#DC0000",
         # Mercedes
-        "George Russell":    "#00A19C", "Andrea Kimi Antonelli": "#00A19C",
+        "Mercedes":      "#00A19C", 
         # Aston Martin
-        "Fernando Alonso":   "#0A7968", "Lance Stroll":          "#0A7968",
+        "Aston Martin":  "#0A7968", 
         # Williams
-        "Alexander Albon":   "#46b1eb", "Carlos Sainz":          "#46b1eb",
+        "Williams":      "#46b1eb", 
         # Alpine
-        "Pierre Gasly":      "#f743e8", "Jack Doohan":           "#f743e8",
-        "Franco Colapinto":  "#f743e8",
+        "Alpine F1 Team":"#f743e8", 
         # Haas
-        "Esteban Ocon":      "#f04a4a", "Oliver Bearman":        "#f04a4a",
+        "Haas F1 Team":  "#f04a4a", 
         # RB (Visa Cash App RB)
-        "Liam Lawson":       "#B6BABD", "Isack Hadjar":          "#B6BABD",
+        "RB F1 Team":    "#B6BABD", 
         # Stake Sauber
-        "Gabriel Bortoleto": "#09eb24", "Nico Hülkenberg":       "#09eb24"
+        "Sauber":        "#09eb24", 
     }
 
-    return driver_colors.get(drv) or "#FFFFFF"  # default white
+    return constructor_colors.get(drv) or "#FFFFFF"  # default white
 
 def _session():
     s = requests.Session()
@@ -50,51 +49,52 @@ def _session():
     return s
 
 
-# Fetch driver standings data from the Ergast API and return as a DataFrame
+# Fetch constr standings data from the Ergast API and return as a DataFrame
 def get_df(season=2024, rounds=24):
 
     s = _session()
     standings = []
 
     for round in range(rounds):
-        url = f"https://api.jolpi.ca/ergast/f1/2025/{round + 1}/driverstandings/"
+        url = f"https://api.jolpi.ca/ergast/f1/2025/{round + 1}/constructorstandings/"
         response = s.get(url)
         response.raise_for_status()  # Ensure we got a successful response
         data = response.json()
 
         standings_list = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
 
+
         if not standings_list:
             print(f"No standings data for round {round + 1}")
             continue
 
-        standings_drivers = standings_list[0].get("DriverStandings", [])
+        standings_constr = standings_list[0].get("ConstructorStandings", [])
 
-        for driver in standings_drivers:
-            name = f"{driver.get("Driver", {}).get("givenName")} {driver.get("Driver", {}).get("familyName")}"
-            pos = driver.get("position")
-            points = driver.get("points")
-            standings.append({"Round": round+1, "Driver": name, "Position": pos, "Points": points})
+        for constr in standings_constr:
+            name = f"{constr.get("Constructor", {}).get("name")}"
+            pos = constr.get("position")
+            points = constr.get("points")
+            standings.append({"Round": round+1, "Constructor": name, "Position": pos, "Points": points})
 
 
-    # extract driver info
-    series = {}  # driver -> list[(Round, Position)]
+    # extract constr info
+    series = {}  # constr -> list[(Round, Position)]
     for entry in standings:
         pos = entry["Position"]
         if pos is None:
             continue  # don't plot missing positions
-        drv = entry["Driver"]
+        drv = entry["Constructor"]
         series.setdefault(drv, []).append((int(entry["Round"]), int(pos)))
 
     return standings, series
 
 
-# Generate and save a PNG plot of driver standings over the season
+# Generate and save a PNG plot of constr standings over the season
 def make_line(path):
     plt.style.use("dark_background") 
     standings, series = get_df()
 
-    make_bar("public/driverstandings_bar.png", standings)
+    make_bar("public/constructorstandings_bar.png", standings)
 
     # Plotting
     fig, ax = plt.subplots(figsize=(12, 6), constrained_layout=False)
@@ -139,7 +139,7 @@ def make_bar(path, standings):
     # Sort by Points descending
     data = sorted(latest_entries, key=lambda d: int(d['Points']), reverse=True)
 
-    names  = [d['Driver'] for d in data]
+    names  = [d['Constructor'] for d in data]
     points = [int(d['Points']) for d in data]
 
     plt.style.use('dark_background')
@@ -166,4 +166,4 @@ def make_bar(path, standings):
     plt.close(fig)
 
 if __name__ == "__main__":
-    make_line("public/driverstandings.png")
+    make_line("public/constructorstandings.png")
