@@ -1,0 +1,39 @@
+name: Publish JSON to GitHub Pages
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+  # optional nightly rebuild
+  schedule:
+    - cron: "0 3 * * *"
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # If you generate files with Python/Node, do it here.
+      # For now we just publish whatever is already in /data
+      - name: Upload artifact (the site)
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: data   # <— EVERYTHING in /data becomes your website root
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
