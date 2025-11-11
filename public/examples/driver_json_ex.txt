@@ -1,0 +1,91 @@
+Short answer: a small index.json to map driverId → slug/name/team, plus one per-driver JSON with the exact fields your UI reads (and a few future-proof ones).
+
+Here’s a clean, drop-in shape.
+
+1) drivers/index.json
+{
+  "updated_at": "2025-11-07T17:00:00Z",
+  "drivers": [
+    {
+      "id": "VER",
+      "slug": "max-verstappen",
+      "name": "Max Verstappen",
+      "team": "Red Bull Racing",
+      "number": "1",
+      "nationality": "Dutch",
+      "assets": {
+        "avatar": "https://cdn.example.com/f1/VER/avatar.png",
+        "podium_png": "https://cdn.example.com/f1/VER/race_results.png"
+      },
+      "colors": { "team_primary": "#001F3F", "team_secondary": "#FCA311" }
+    }
+    // ... other drivers
+  ]
+}
+
+2) drivers/VER.json (per-driver detail)
+{
+  "id": "VER",
+  "slug": "max-verstappen",
+  "name": "Max Verstappen",
+  "team": "Red Bull Racing",
+  "number": "1",
+  "nationality": "Dutch",
+
+  "season": 2025,
+  "standing": {
+    "points": 575,
+    "position": 1,
+    "wins": 19,
+    "podiums": 21
+  },
+
+  "recent_results": [
+    { "round": 24, "grand_prix": "Abu Dhabi GP", "date": "2025-11-23", "finish": "P1", "points": 26 },
+    { "round": 23, "grand_prix": "Las Vegas GP", "date": "2025-11-16", "finish": "P1", "points": 25 },
+    { "round": 22, "grand_prix": "Qatar GP", "date": "2025-11-02", "finish": "P2", "points": 18 }
+  ],
+
+  "assets": {
+    "avatar": "https://cdn.example.com/f1/VER/avatar.png",
+    "podium_png": "https://github.com/loboehme1/f1_stats/blob/main/public/VER/race_results.png?raw=1"
+  },
+
+  "colors": {
+    "team_primary": "#00008B",
+    "team_secondary": "#F4F4F5"
+  },
+
+  "provenance": {
+    "source_api": "ergast/jolpica (daily batch)",
+    "last_refreshed": "2025-11-07T16:55:00Z"
+  }
+}
+
+3) Minimal TS type (optional)
+export type DriverDetail = {
+  id: string; slug: string;
+  name: string; team: string; number: string; nationality: string;
+  season: number;
+  standing: { points: number; position: number; wins: number; podiums: number; };
+  recent_results: { round: number; grand_prix: string; date: string; finish: string; points: number; }[];
+  assets: { avatar: string; podium_png: string; };
+  colors?: { team_primary: string; team_secondary?: string; };
+  provenance?: { source_api: string; last_refreshed: string; };
+};
+
+4) How your component would fetch
+const { driverId } = useParams();
+const { data: driver } = useQuery({
+  queryKey: ['driver', driverId],
+  queryFn: () => fetch(`https://cdn.example.com/f1/drivers/${driverId}.json`).then(r => r.json())
+});
+
+
+Why this works:
+
+Matches your UI props 1:1 (name, team, number, points/wins/podiums, nationality, recent GP list, and podium_png).
+
+index.json enables list pages & routing; per-driver JSON keeps detail pages fast.
+
+updated_at/last_refreshed helps cache busting and debugging in your GitHub-workflow/CDN setup.
