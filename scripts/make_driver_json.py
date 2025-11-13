@@ -11,7 +11,7 @@ from collections import OrderedDict
 def color_for(drv_id):
     driver_colors = {
         # McLaren
-        "NOR": "#FF8700", "PIA": "#FF8700",
+        "NOR": "#FF8700", "PIA": "#FFFFFF",#"PIA": "#FF8700",
         # Red Bull
         "VER": "#00008b", "TSU": "#00008b",
         # Ferrari
