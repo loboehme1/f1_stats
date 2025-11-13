@@ -6,10 +6,10 @@ on:
   workflow_dispatch:
   # optional nightly rebuild
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 5 * * *"   # runs every day at 03:00 UTC
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -20,8 +20,38 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      # If you generate files with Python/Node, do it here.
-      # For now we just publish whatever is already in /data
+      # Set up Python (if your script is Python-based)
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Install dependencies (if you have any)
+      # Adjust or remove if not needed
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      # Run your JSON generator
+      - name: Generate JSON files
+        run: |
+          mkdir -p data/2025/driver_data
+          python scripts/make_driver_json.py
+          # make_driver_json.py should write its output into ./data/2025/driver_data
+          # e.g. /data/2025/driver_data/driver_json_XXX.json, etc.
+
+      # Commit and push updated JSON files back to repository
+      - name: Commit and push updated files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add data/2025/driver_data/*.json
+          git diff --staged --quiet || git commit -m "Update driver JSON files [skip ci]"
+          git push
+
+      # Publish everything in /data as the website
       - name: Upload artifact (the site)
         uses: actions/upload-pages-artifact@v3
         with:

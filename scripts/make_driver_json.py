@@ -258,6 +258,9 @@ def combine_data(SEASON, ROUNDS):
 
 
 def make_jsons(OUT_DIR, SEASON, ROUNDS):
+    # Ensure output directory exists
+    os.makedirs(OUT_DIR, exist_ok=True)
+    
     comb_all, comb_indiv = combine_data(SEASON, ROUNDS)    # combined dict results + standings, cleanded number + team
     
     comb_all = list(comb_all.values())
