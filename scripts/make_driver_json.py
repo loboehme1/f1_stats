@@ -8,6 +8,32 @@ from collections import OrderedDict
 
 ####### Make driver json with all drivers ######
 
+def color_for(drv_id):
+    driver_colors = {
+        # McLaren
+        "NOR": "#FF8700", "PIA": "#FF8700",
+        # Red Bull
+        "VER": "#00008b", "TSU": "#00008b",
+        # Ferrari
+        "LEC": "#DC0000", "HAM": "#DC0000",
+        # Mercedes
+        "RUS": "#00A19C", "ANT": "#00A19C",
+        # Aston Martin
+        "ALO": "#0A7968", "STR": "#0A7968",
+        # Williams
+        "ALB": "#46b1eb", "SAI": "#46b1eb",
+        # Alpine
+        "GAS": "#f743e8", "DOO": "#f743e8",
+        "COL": "#f743e8",
+        # Haas
+        "OCO": "#f04a4a", "BEA": "#f04a4a",
+        # RB (Visa Cash App RB)
+        "LAW": "#B6BABD", "HAD": "#B6BABD",
+        # Stake Sauber
+        "BOR": "#09eb24", "HUL": "#09eb24"
+    }
+
+    return driver_colors.get(drv_id) or "#FFFFFF"  # default white
 
 
 # fetch basic driver data from results --> this gives us the actual number instead of just the permanent number
@@ -34,7 +60,7 @@ def fetch_driver_data(SEASON):
         nationality = driver.get('nationality', '')
         dob = driver.get('dateOfBirth', '')
         assets = {'profile_photo': 'link1'} ### if needed profile pic
-        colors = {'primary': '#000000', 'secondary': '#FFFFFF'} ### get from my own data source
+        colors = {'primary': color_for(driver_id)}
 
 
         driver_data[driver_id] = {
