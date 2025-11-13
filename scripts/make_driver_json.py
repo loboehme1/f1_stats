@@ -10,7 +10,7 @@ from collections import OrderedDict
 
 
 
-# get the basic driver data from results --> this gives us the actual number instead of just the permanent number
+# fetch basic driver data from results --> this gives us the actual number instead of just the permanent number
     # id, name, team, number, nationality, dob, (assets, colors)
 def fetch_driver_data(SEASON):
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/results/"
@@ -51,75 +51,11 @@ def fetch_driver_data(SEASON):
     return driver_data
 
 
-# reorganize data and standardize team names
-def to_list(data):
-
-    TEAM_FIX = {
-    "Haas F1 Team": "Haas", #
-    "Alpine F1 Team": "Alpine",
-    "RB F1 Team": "Racing Bulls", #
-    "Red Bull": "Red Bull", #
-    "McLaren": "McLaren", #
-    "Aston Martin": "Aston Martin", #
-    "Williams": "Williams", #
-    "Mercedes": "Mercedes", #
-    "Ferrari": "Ferrari", #
-    "Sauber": "Sauber" #
-    }  
-     
-    """Accepts dict keyed by driver_id OR an already-made list; returns cleaned list."""
-    items = data.values() if isinstance(data, dict) else data
-    out = []
-    for d in items:
-        dd = dict(d)  # shallow copy
-
-        # team normalization
-        t = dd.get("team")
-        if t in TEAM_FIX:
-            dd["team"] = TEAM_FIX[t]
-
-        # number → int when possible
-        n = dd.get("number")
-        try:
-            dd["number"] = int(n)
-        except (TypeError, ValueError):
-            pass  # leave as-is if not numeric
-
-        out.append(dd)
-
-    # stable order (by driver_id)
-    out.sort(key=lambda x: x.get("driver_id", ""))
-    return out
-
-
-# generate the json file
-def make_json_all(OUT_DIR, SEASON):
-    path = os.path.join(OUT_DIR, f"driver_json_all.json")
-    data = fetch_driver_data(SEASON)                 # returns your dict keyed by driver_id
-    data = to_list(data)                       # <- convert + clean
-    with open(path, "w", encoding="utf-8") as f:
-        json.dump(data, f, indent=2, ensure_ascii=False)
-    print(f'Written to {path}')
-    return path
-
-
-###### Individual jsons for drivers ######
-
-# test of driver id exists
-def test_driverId(driverId):
-
-    if driverId == '':
-        print('DriverId empty, something went wrong')
-        return False
-        
-    return True
-
-
 # fetch current standings data fro driverStandings
     # position, points, wins
-def fetch_standings_indiv(SEASON = 'current', folder = 'public/'):
+def fetch_standings(SEASON = 'current'):
 
-    standings_indiv = {}
+    standings = {}
 
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/driverStandings/"
 
@@ -133,7 +69,6 @@ def fetch_standings_indiv(SEASON = 'current', folder = 'public/'):
         driver_info = driver.get('Driver', {})
 
         driver_id = driver_info.get('code', '')
-        test_driverId(driver_id)
 
         # data to add for standings
         pos = driver.get("position")
@@ -141,9 +76,9 @@ def fetch_standings_indiv(SEASON = 'current', folder = 'public/'):
         wins = driver.get("wins")
         # podiums -> fetched later
 
-        standings_indiv[driver_id] = {'position': pos, 'points': points, 'wins': wins}
+        standings[driver_id] = {'position': int(pos), 'points': int(points), 'wins': int(wins)}
 
-    return standings_indiv
+    return standings
 
 
 # fetch results for each round for each driver from results
@@ -205,9 +140,9 @@ def fetch_results_indiv(SEASON, ROUNDS):
                 'round': round_no,
                 'raceName': race_name,
                 'date': date,
-                'points': points,
-                'endPos': end_pos,
-                'startPos': start_pos,
+                'points': int(points),
+                'endPos': int(end_pos),
+                'startPos': int(start_pos),
                 'status': status
             }
 
@@ -220,71 +155,96 @@ def fetch_results_indiv(SEASON, ROUNDS):
     return driver_results, podiums
 
 
-# combine data from all fetches (including basic data from json with all drivers)
+# reorganize data and standardize team names
+def normalized_map(data):
+    """Dict keyed by driver_id → driver dict (your desired structure)."""
+
+    TEAM_FIX = {
+    "Haas F1 Team": "Haas",
+    "Alpine F1 Team": "Alpine",
+    "RB F1 Team": "Racing Bulls",
+    "Red Bull": "Red Bull",
+    "McLaren": "McLaren",
+    "Aston Martin": "Aston Martin",
+    "Williams": "Williams",
+    "Mercedes": "Mercedes",
+    "Ferrari": "Ferrari",
+    "Sauber": "Sauber",
+    }
+
+    items = data.values() if isinstance(data, dict) else data
+    keyed = {}
+    for d in items:
+        dd = dict(d)
+        if dd.get("team") in TEAM_FIX:
+            dd["team"] = TEAM_FIX[dd["team"]]
+        n = dd.get("number")
+        try:
+            dd["number"] = int(n)
+        except (TypeError, ValueError):
+            pass
+        did = dd.get("driver_id")
+        if did:
+            keyed[did] = dd
+            
+    # stable, alphabetic key order
+    return dict(sorted(keyed.items(), key=lambda kv: kv[0]))
+
+
+# combine data for individual jsons and json with all drivers
 def combine_data(SEASON, ROUNDS):
 
     ## run individual processes:
 
-    # basic data from json with all drivers
+    #driver data
     drivers_dict = fetch_driver_data(SEASON)
 
-    # stadings data
-    standings_dict = fetch_standings_indiv(SEASON, ROUNDS)
+    #data standings
+    standings_dict = fetch_standings(SEASON)
 
-    # results data
+    #results
     results_by_driver, podiums = fetch_results_indiv(SEASON, ROUNDS)
 
     ## combine all data
 
-    combined = {}
-    all_ids = set(chain(drivers_dict.keys(), standings_dict.keys(), results_by_driver.keys(), podiums.keys()))
+    combined_all = {}
+    combined_indiv = {}
+    all_ids = set(chain(drivers_dict.keys(), standings_dict.keys()))
     for did in sorted(all_ids):
-        core = dict(drivers_dict.get(did, {"driver_id": did}))        # keep core info if present
+        core_all = dict(drivers_dict.get(did, {"driver_id": did}))    # keep core info if present
+        core_indiv = dict(drivers_dict.get(did, {"driver_id": did}))
+
         st   = dict(standings_dict.get(did, {}))                      # copy so we can mutate
         st["podiums"] = podiums.get(did, 0)                           # add podiums (default 0)
+        core_all["standings"] = st                                    # add standings
+        core_indiv["standings"] = st                                  # add standings
+
         res  = list(results_by_driver.get(did, []))                   # list (may be empty)
+        core_indiv["results"] = res                                   # add results
 
-        core["standings"] = st
-        core["results"]   = res
-        combined[did]     = core
+        combined_all[did] = core_all                                  # save in new dict
+        combined_indiv[did] = core_indiv                              # save in new dict
 
-    return combined
+    comb_norm_all = normalized_map(combined_all)
+    comb_norm_indiv = normalized_map(combined_indiv)
 
-
-# normalize driver data
-def normalize_driver(d):
-
-    KEY_ORDER = [
-    "driver_id","name","team","number","nationality","date_of_birth",
-    "assets","colors","standings","results"
-    ]
-
-    # sort results by round (numeric) but keep all values as strings as in your data
-    results = sorted(d.get("results", []), key=lambda r: int(r.get("round", "0")))
-    # rebuild in fixed key order to preserve structure
-    od = OrderedDict()
-    for k in KEY_ORDER:
-        if k == "results":
-            od[k] = results
-        else:
-            od[k] = d.get(k, {})
-    return od
+    return comb_norm_all, comb_norm_indiv
 
 
-# make json for each driver individually
-def make_json_indiv(OUT_DIR, SEASON, ROUNDS):
-    # your big dict:
-    drivers = combine_data(SEASON, ROUNDS)
+def make_jsons(OUT_DIR, SEASON, ROUNDS):
+    comb_all, comb_indiv = combine_data(SEASON, ROUNDS)    # combined dict results + standings, cleanded number + team
+    
+    comb_all = list(comb_all.values())
+    path = os.path.join(OUT_DIR, f"driver_json_all.json")
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(comb_all, f, indent=2, ensure_ascii=False)
+    print(f"Wrote {path}")
 
-    os.makedirs(OUT_DIR, exist_ok=True)
 
-
-    for code, data in drivers.items():
-        norm = normalize_driver(data)
-        # prefer slug if present, else the code
+    for code, data in comb_indiv.items():
         path = os.path.join(OUT_DIR, f"driver_json_{code}.json")
         with open(path, "w", encoding="utf-8") as f:
-            json.dump(norm, f, ensure_ascii=False, indent=2, sort_keys=False)
+            json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=False)
         print(f"Wrote {path}")
 
 
@@ -293,7 +253,6 @@ if __name__ == "__main__":
     season = 2025
     rounds_no = 24
     OUT_DIR = f'data/{season}/driver_data/'
-    make_json_all(OUT_DIR, season)
-    make_json_indiv(OUT_DIR, season, rounds_no)
+    make_jsons(OUT_DIR, season, rounds_no)
 
 

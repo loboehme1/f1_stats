@@ -1,16 +1,9 @@
 {
   "driver_id": "DOO",
-  "name": {},
-  "team": {},
-  "number": {},
-  "nationality": {},
-  "date_of_birth": {},
-  "assets": {},
-  "colors": {},
   "standings": {
-    "position": "21",
-    "points": "0",
-    "wins": "0",
+    "position": 21,
+    "points": 0,
+    "wins": 0,
     "podiums": 0
   },
   "results": [
@@ -18,54 +11,54 @@
       "round": "1",
       "raceName": "Australian Grand Prix",
       "date": "2025-03-16",
-      "points": "0",
-      "endPos": "19",
-      "startPos": "14",
+      "points": 0,
+      "endPos": 19,
+      "startPos": 14,
       "status": "Retired"
     },
     {
       "round": "2",
       "raceName": "Chinese Grand Prix",
       "date": "2025-03-23",
-      "points": "0",
-      "endPos": "13",
-      "startPos": "18",
+      "points": 0,
+      "endPos": 13,
+      "startPos": 18,
       "status": "Finished"
     },
     {
       "round": "3",
       "raceName": "Japanese Grand Prix",
       "date": "2025-04-06",
-      "points": "0",
-      "endPos": "15",
-      "startPos": "19",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 19,
       "status": "Finished"
     },
     {
       "round": "4",
       "raceName": "Bahrain Grand Prix",
       "date": "2025-04-13",
-      "points": "0",
-      "endPos": "14",
-      "startPos": "11",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 11,
       "status": "Finished"
     },
     {
       "round": "5",
       "raceName": "Saudi Arabian Grand Prix",
       "date": "2025-04-20",
-      "points": "0",
-      "endPos": "17",
-      "startPos": "17",
+      "points": 0,
+      "endPos": 17,
+      "startPos": 17,
       "status": "Finished"
     },
     {
       "round": "6",
       "raceName": "Miami Grand Prix",
       "date": "2025-05-04",
-      "points": "0",
-      "endPos": "20",
-      "startPos": "14",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 14,
       "status": "Retired"
     }
   ]

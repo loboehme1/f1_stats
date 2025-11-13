@@ -12,6 +12,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 8,
+      "points": 73,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -27,6 +33,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 12,
+      "points": 40,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -42,6 +54,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 7,
+      "points": 122,
+      "wins": 0,
+      "podiums": 2
     }
   },
   {
@@ -57,6 +75,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 11,
+      "points": 40,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -72,6 +96,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 19,
+      "points": 19,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -87,6 +117,21 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 20,
+      "points": 0,
+      "wins": 0,
+      "podiums": 0
+    }
+  },
+  {
+    "driver_id": "DOO",
+    "standings": {
+      "position": 21,
+      "points": 0,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -102,6 +147,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 18,
+      "points": 22,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -117,6 +168,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 10,
+      "points": 43,
+      "wins": 0,
+      "podiums": 1
     }
   },
   {
@@ -132,6 +189,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 6,
+      "points": 148,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -147,6 +210,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 9,
+      "points": 43,
+      "wins": 0,
+      "podiums": 1
     }
   },
   {
@@ -162,6 +231,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 14,
+      "points": 36,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -177,6 +252,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 5,
+      "points": 214,
+      "wins": 0,
+      "podiums": 7
     }
   },
   {
@@ -192,6 +273,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 1,
+      "points": 390,
+      "wins": 7,
+      "podiums": 17
     }
   },
   {
@@ -207,6 +294,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 16,
+      "points": 30,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -222,6 +315,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 2,
+      "points": 366,
+      "wins": 7,
+      "podiums": 14
     }
   },
   {
@@ -237,6 +336,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 4,
+      "points": 276,
+      "wins": 2,
+      "podiums": 8
     }
   },
   {
@@ -252,6 +357,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 13,
+      "points": 38,
+      "wins": 0,
+      "podiums": 1
     }
   },
   {
@@ -267,6 +378,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 15,
+      "points": 32,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -282,6 +399,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 17,
+      "points": 28,
+      "wins": 0,
+      "podiums": 0
     }
   },
   {
@@ -297,6 +420,12 @@
     "colors": {
       "primary": "#000000",
       "secondary": "#FFFFFF"
+    },
+    "standings": {
+      "position": 3,
+      "points": 341,
+      "wins": 5,
+      "podiums": 12
     }
   }
 ]
