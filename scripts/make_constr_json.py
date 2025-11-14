@@ -66,14 +66,30 @@ def fetch_constr_data(SEASON):
 
     return constr_info
 
+def fetch_drivers(SEASON):
+    url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/driverstandings/"
+    response = requests.get(url)
+    results = response.json()['MRData']['StandingsTable']['StandingsLists'][0]['DriverStandings']
+
+    drivers = defaultdict(list)
+
+    for pos in results:
+        constr_id = pos.get('Constructors')[0].get('constructorId')
+        driver_info = pos.get('Driver')
+        driver_id = driver_info.get('code')
+        position = pos.get('position')
+        driver_name = f"{driver_info.get('givenName')} {driver_info.get('familyName')}"
+
+        drivers[constr_id].append({'driver_id': driver_id , 'name': driver_name, 'pos': position})
+
+    return drivers
+
 
 
 def fetch_results_indiv(SEASON, ROUNDS):
 
     constr_results = defaultdict(list)
     podiums = {}
-    drivers = defaultdict(list)          # constr_id -> list of {driver_id, name}
-    driver_ids_by_team = defaultdict(set)  # constr_id -> set of driver_ids we've already added
 
     for race in range(ROUNDS):
 
@@ -101,16 +117,6 @@ def fetch_results_indiv(SEASON, ROUNDS):
             constr = position.get('Constructor', {})
             constr_id = constr.get('constructorId', '')
 
-            driver_info = position.get('Driver', {})
-            driver_id = driver_info.get('code')  # e.g. "NOR"
-            driver_name = f"{driver_info.get('givenName')} {driver_info.get('familyName')}"
-
-            # only add driver once per constructor, based on driver_id
-            if driver_id and driver_id not in driver_ids_by_team[constr_id]:
-                driver = {'driver_id': driver_id, 'name': driver_name}
-                drivers[constr_id].append(driver)
-                driver_ids_by_team[constr_id].add(driver_id)
-
             # init podiums dict when we see the constructor
             podiums.setdefault(constr_id, 0)
 
@@ -130,7 +136,7 @@ def fetch_results_indiv(SEASON, ROUNDS):
             }
             constr_results[constr_id].append(entry)
 
-    return constr_results, podiums, drivers
+    return constr_results, podiums
 
 
 def normalized_map(data):
@@ -170,7 +176,9 @@ def combine_data(SEASON, ROUNDS):
 
     constr_dict = fetch_constr_data(SEASON) # general + standings
 
-    constr_results, podiums, drivers = fetch_results_indiv(SEASON, ROUNDS) # constructor results per race
+    constr_drivers = fetch_drivers(SEASON)
+
+    constr_results, podiums = fetch_results_indiv(SEASON, ROUNDS) # constructor results per race
 
     ## combine all data
 
@@ -181,8 +189,8 @@ def combine_data(SEASON, ROUNDS):
         core_all = dict(constr_dict.get(cid, {"constr_id": cid}))    # keep core info if present
         core_indiv = dict(constr_dict.get(cid, {"constr_id": cid}))
 
-        core_all["drivers"] = drivers.get(cid, 0)
-        core_indiv["drivers"] = drivers.get(cid, 0)
+        core_all["drivers"] = constr_drivers.get(cid, 0)
+        core_indiv["drivers"] = constr_drivers.get(cid, 0)
 
         core_all["standings"]["podiums"] = podiums.get(cid, 0)
         core_indiv["standings"]["podiums"] = podiums.get(cid, 0)

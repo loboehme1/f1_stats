@@ -17,11 +17,13 @@
   "drivers": [
     {
       "driver_id": "NOR",
-      "name": "Lando Norris"
+      "name": "Lando Norris",
+      "pos": "1"
     },
     {
       "driver_id": "PIA",
-      "name": "Oscar Piastri"
+      "name": "Oscar Piastri",
+      "pos": "2"
     }
   ],
   "results": [
