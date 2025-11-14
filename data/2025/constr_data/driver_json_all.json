@@ -1,0 +1,284 @@
+[
+  {
+    "constr_id": "alpine",
+    "name": "Alpine",
+    "nationality": "French",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#f743e8"
+    },
+    "standings": {
+      "position": "10",
+      "points": "22",
+      "wins": "0",
+      "podiums": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly"
+      },
+      {
+        "driver_id": "DOO",
+        "name": "Jack Doohan"
+      },
+      {
+        "driver_id": "COL",
+        "name": "Franco Colapinto"
+      }
+    ]
+  },
+  {
+    "constr_id": "aston_martin",
+    "name": "Aston Martin",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#FFFFFF"
+    },
+    "standings": {
+      "position": "7",
+      "points": "72",
+      "wins": "0",
+      "podiums": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "STR",
+        "name": "Lance Stroll"
+      },
+      {
+        "driver_id": "ALO",
+        "name": "Fernando Alonso"
+      }
+    ]
+  },
+  {
+    "constr_id": "ferrari",
+    "name": "Ferrari",
+    "nationality": "Italian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#DC0000"
+    },
+    "standings": {
+      "position": "4",
+      "points": "362",
+      "wins": "0",
+      "podiums": 7
+    },
+    "drivers": [
+      {
+        "driver_id": "LEC",
+        "name": "Charles Leclerc"
+      },
+      {
+        "driver_id": "HAM",
+        "name": "Lewis Hamilton"
+      }
+    ]
+  },
+  {
+    "constr_id": "haas",
+    "name": "Haas",
+    "nationality": "American",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#f04a4a"
+    },
+    "standings": {
+      "position": "8",
+      "points": "70",
+      "wins": "0",
+      "podiums": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "OCO",
+        "name": "Esteban Ocon"
+      },
+      {
+        "driver_id": "BEA",
+        "name": "Oliver Bearman"
+      }
+    ]
+  },
+  {
+    "constr_id": "mclaren",
+    "name": "McLaren",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#FF8700"
+    },
+    "standings": {
+      "position": "1",
+      "points": "756",
+      "wins": "14",
+      "podiums": 31
+    },
+    "drivers": [
+      {
+        "driver_id": "NOR",
+        "name": "Lando Norris"
+      },
+      {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri"
+      }
+    ]
+  },
+  {
+    "constr_id": "mercedes",
+    "name": "Mercedes",
+    "nationality": "German",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#00A19C"
+    },
+    "standings": {
+      "position": "2",
+      "points": "398",
+      "wins": "2",
+      "podiums": 10
+    },
+    "drivers": [
+      {
+        "driver_id": "RUS",
+        "name": "George Russell"
+      },
+      {
+        "driver_id": "ANT",
+        "name": "Andrea Kimi Antonelli"
+      }
+    ]
+  },
+  {
+    "constr_id": "rb",
+    "name": "Racing Bulls",
+    "nationality": "Italian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#B6BABD"
+    },
+    "standings": {
+      "position": "6",
+      "points": "82",
+      "wins": "0",
+      "podiums": 1
+    },
+    "drivers": [
+      {
+        "driver_id": "TSU",
+        "name": "Yuki Tsunoda"
+      },
+      {
+        "driver_id": "HAD",
+        "name": "Isack Hadjar"
+      },
+      {
+        "driver_id": "LAW",
+        "name": "Liam Lawson"
+      }
+    ]
+  },
+  {
+    "constr_id": "red_bull",
+    "name": "Red Bull",
+    "nationality": "Austrian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#00008b"
+    },
+    "standings": {
+      "position": "3",
+      "points": "366",
+      "wins": "5",
+      "podiums": 12
+    },
+    "drivers": [
+      {
+        "driver_id": "VER",
+        "name": "Max Verstappen"
+      },
+      {
+        "driver_id": "LAW",
+        "name": "Liam Lawson"
+      },
+      {
+        "driver_id": "TSU",
+        "name": "Yuki Tsunoda"
+      }
+    ]
+  },
+  {
+    "constr_id": "sauber",
+    "name": "Sauber",
+    "nationality": "Swiss",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#09eb24"
+    },
+    "standings": {
+      "position": "9",
+      "points": "62",
+      "wins": "0",
+      "podiums": 1
+    },
+    "drivers": [
+      {
+        "driver_id": "HUL",
+        "name": "Nico Hülkenberg"
+      },
+      {
+        "driver_id": "BOR",
+        "name": "Gabriel Bortoleto"
+      }
+    ]
+  },
+  {
+    "constr_id": "williams",
+    "name": "Williams",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#46b1eb"
+    },
+    "standings": {
+      "position": "5",
+      "points": "111",
+      "wins": "0",
+      "podiums": 1
+    },
+    "drivers": [
+      {
+        "driver_id": "ALB",
+        "name": "Alexander Albon"
+      },
+      {
+        "driver_id": "SAI",
+        "name": "Carlos Sainz"
+      }
+    ]
+  }
+]

@@ -38,9 +38,9 @@ jobs:
       - name: Generate JSON files
         run: |
           mkdir -p data/2025/driver_data
+          mkdir -p data/2025/constr_data
           python scripts/make_driver_json.py
-          # make_driver_json.py should write its output into ./data/2025/driver_data
-          # e.g. /data/2025/driver_data/driver_json_XXX.json, etc.
+          python scripts/make_constr_json.py
 
       # Commit and push updated JSON files back to repository
       - name: Commit and push updated files

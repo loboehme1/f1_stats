@@ -1,0 +1,155 @@
+{
+  "constr_id": "aston_martin",
+  "name": "Aston Martin",
+  "nationality": "British",
+  "assets": {
+    "logo_photo": "logo_link"
+  },
+  "colors": {
+    "primary": "#FFFFFF"
+  },
+  "standings": {
+    "position": "7",
+    "points": "72",
+    "wins": "0",
+    "podiums": 0
+  },
+  "drivers": [
+    {
+      "driver_id": "STR",
+      "name": "Lance Stroll"
+    },
+    {
+      "driver_id": "ALO",
+      "name": "Fernando Alonso"
+    }
+  ],
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2025-03-16",
+      "points": 8
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2025-03-23",
+      "points": 2
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2025-04-06",
+      "points": 0
+    },
+    {
+      "round": "4",
+      "raceName": "Bahrain Grand Prix",
+      "date": "2025-04-13",
+      "points": 0
+    },
+    {
+      "round": "5",
+      "raceName": "Saudi Arabian Grand Prix",
+      "date": "2025-04-20",
+      "points": 0
+    },
+    {
+      "round": "6",
+      "raceName": "Miami Grand Prix",
+      "date": "2025-05-04",
+      "points": 0
+    },
+    {
+      "round": "7",
+      "raceName": "Emilia Romagna Grand Prix",
+      "date": "2025-05-18",
+      "points": 0
+    },
+    {
+      "round": "8",
+      "raceName": "Monaco Grand Prix",
+      "date": "2025-05-25",
+      "points": 0
+    },
+    {
+      "round": "9",
+      "raceName": "Spanish Grand Prix",
+      "date": "2025-06-01",
+      "points": 2
+    },
+    {
+      "round": "10",
+      "raceName": "Canadian Grand Prix",
+      "date": "2025-06-15",
+      "points": 6
+    },
+    {
+      "round": "11",
+      "raceName": "Austrian Grand Prix",
+      "date": "2025-06-29",
+      "points": 6
+    },
+    {
+      "round": "12",
+      "raceName": "British Grand Prix",
+      "date": "2025-07-06",
+      "points": 8
+    },
+    {
+      "round": "13",
+      "raceName": "Belgian Grand Prix",
+      "date": "2025-07-27",
+      "points": 0
+    },
+    {
+      "round": "14",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2025-08-03",
+      "points": 16
+    },
+    {
+      "round": "15",
+      "raceName": "Dutch Grand Prix",
+      "date": "2025-08-31",
+      "points": 10
+    },
+    {
+      "round": "16",
+      "raceName": "Italian Grand Prix",
+      "date": "2025-09-07",
+      "points": 0
+    },
+    {
+      "round": "17",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2025-09-21",
+      "points": 0
+    },
+    {
+      "round": "18",
+      "raceName": "Singapore Grand Prix",
+      "date": "2025-10-05",
+      "points": 6
+    },
+    {
+      "round": "19",
+      "raceName": "United States Grand Prix",
+      "date": "2025-10-19",
+      "points": 1
+    },
+    {
+      "round": "20",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2025-10-26",
+      "points": 0
+    },
+    {
+      "round": "21",
+      "raceName": "São Paulo Grand Prix",
+      "date": "2025-11-09",
+      "points": 0
+    }
+  ]
+}
