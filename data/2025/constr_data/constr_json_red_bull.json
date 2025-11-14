@@ -18,11 +18,13 @@
     {
       "driver_id": "VER",
       "name": "Max Verstappen",
+      "number": "33",
       "pos": "3"
     },
     {
       "driver_id": "LAW",
       "name": "Liam Lawson",
+      "number": "30",
       "pos": "14"
     }
   ],

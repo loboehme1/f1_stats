@@ -18,11 +18,13 @@
     {
       "driver_id": "BEA",
       "name": "Oliver Bearman",
+      "number": "87",
       "pos": "11"
     },
     {
       "driver_id": "OCO",
       "name": "Esteban Ocon",
+      "number": "31",
       "pos": "16"
     }
   ],

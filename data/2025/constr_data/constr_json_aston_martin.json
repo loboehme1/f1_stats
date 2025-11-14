@@ -18,11 +18,13 @@
     {
       "driver_id": "ALO",
       "name": "Fernando Alonso",
+      "number": "14",
       "pos": "12"
     },
     {
       "driver_id": "STR",
       "name": "Lance Stroll",
+      "number": "18",
       "pos": "15"
     }
   ],

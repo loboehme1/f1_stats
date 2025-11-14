@@ -18,11 +18,13 @@
     {
       "driver_id": "RUS",
       "name": "George Russell",
+      "number": "63",
       "pos": "4"
     },
     {
       "driver_id": "ANT",
       "name": "Andrea Kimi Antonelli",
+      "number": "12",
       "pos": "7"
     }
   ],

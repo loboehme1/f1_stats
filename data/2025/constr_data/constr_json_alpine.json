@@ -18,16 +18,19 @@
     {
       "driver_id": "GAS",
       "name": "Pierre Gasly",
+      "number": "10",
       "pos": "18"
     },
     {
       "driver_id": "COL",
       "name": "Franco Colapinto",
+      "number": "43",
       "pos": "20"
     },
     {
       "driver_id": "DOO",
       "name": "Jack Doohan",
+      "number": "7",
       "pos": "21"
     }
   ],

@@ -18,11 +18,13 @@
     {
       "driver_id": "LEC",
       "name": "Charles Leclerc",
+      "number": "16",
       "pos": "5"
     },
     {
       "driver_id": "HAM",
       "name": "Lewis Hamilton",
+      "number": "44",
       "pos": "6"
     }
   ],

@@ -18,11 +18,13 @@
     {
       "driver_id": "HUL",
       "name": "Nico Hülkenberg",
+      "number": "27",
       "pos": "9"
     },
     {
       "driver_id": "BOR",
       "name": "Gabriel Bortoleto",
+      "number": "5",
       "pos": "19"
     }
   ],

@@ -78,9 +78,10 @@ def fetch_drivers(SEASON):
         driver_info = pos.get('Driver')
         driver_id = driver_info.get('code')
         position = pos.get('position')
-        driver_name = f"{driver_info.get('givenName')} {driver_info.get('familyName')}"
+        name = f"{driver_info.get('givenName')} {driver_info.get('familyName')}"
+        number = driver_info.get('permanentNumber')
 
-        drivers[constr_id].append({'driver_id': driver_id , 'name': driver_name, 'pos': position})
+        drivers[constr_id].append({'driver_id': driver_id , 'name': name, 'number': number, 'pos': position})
 
     return drivers
 

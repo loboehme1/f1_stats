@@ -18,11 +18,13 @@
     {
       "driver_id": "HAD",
       "name": "Isack Hadjar",
+      "number": "6",
       "pos": "10"
     },
     {
       "driver_id": "TSU",
       "name": "Yuki Tsunoda",
+      "number": "22",
       "pos": "17"
     }
   ],

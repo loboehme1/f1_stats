@@ -18,11 +18,13 @@
     {
       "driver_id": "ALB",
       "name": "Alexander Albon",
+      "number": "23",
       "pos": "8"
     },
     {
       "driver_id": "SAI",
       "name": "Carlos Sainz",
+      "number": "55",
       "pos": "13"
     }
   ],
