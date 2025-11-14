@@ -15,7 +15,7 @@ def color_constr(constr_id):
         # Mercedes
         "mercedes": "#00A19C", 
         # Aston Martin
-        "astonmartin": "#0A7968", 
+        "aston_martin": "#0A7968", 
         # Williams
         "williams": "#46b1eb", 
         # Alpine
