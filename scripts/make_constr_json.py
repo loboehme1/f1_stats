@@ -206,14 +206,14 @@ def make_jsons(OUT_DIR, SEASON, ROUNDS):
     comb_all, comb_indiv = combine_data(SEASON, ROUNDS)
 
     comb_all = list(comb_all.values())
-    path = os.path.join(OUT_DIR, f"driver_json_all.json")
+    path = os.path.join(OUT_DIR, f"constr_json_all.json")
     with open(path, "w", encoding="utf-8") as f:
         json.dump(comb_all, f, indent=2, ensure_ascii=False)
     print(f"Wrote {path}")
 
 
     for code, data in comb_indiv.items():
-        path = os.path.join(OUT_DIR, f"driver_json_{code}.json")
+        path = os.path.join(OUT_DIR, f"constr_json_{code}.json")
         with open(path, "w", encoding="utf-8") as f:
             json.dump(data, f, ensure_ascii=False, indent=2, sort_keys=False)
         print(f"Wrote {path}")
