@@ -28,7 +28,7 @@ def color_driver(drv_id):
         # Haas
         "OCO": "#f04a4a", "BEA": "#f04a4a",
         # RB (Visa Cash App RB)
-        "LAW": "#B6BABD", "HAD": "#B6BABD",
+        "LAW": "#4B4B4C", "HAD": "#B6BABD",
         # Stake Sauber
         "BOR": "#09eb24", "HUL": "#09eb24"
     }
