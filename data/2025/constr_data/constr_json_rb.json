@@ -18,12 +18,24 @@
     {
       "driver_id": "LAW",
       "name": "Liam Lawson",
-      "number": "30"
+      "number": "30",
+      "standings": {
+        "position": 14,
+        "points": 36,
+        "wins": 0,
+        "podiums": 0
+      }
     },
     {
       "driver_id": "HAD",
       "name": "Isack Hadjar",
-      "number": "6"
+      "number": "6",
+      "standings": {
+        "position": 10,
+        "points": 43,
+        "wins": 0,
+        "podiums": 1
+      }
     }
   ],
   "results": [

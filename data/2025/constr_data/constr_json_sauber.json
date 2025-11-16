@@ -18,12 +18,24 @@
     {
       "driver_id": "HUL",
       "name": "Nico Hülkenberg",
-      "number": "27"
+      "number": "27",
+      "standings": {
+        "position": 9,
+        "points": 43,
+        "wins": 0,
+        "podiums": 1
+      }
     },
     {
       "driver_id": "BOR",
       "name": "Gabriel Bortoleto",
-      "number": "5"
+      "number": "5",
+      "standings": {
+        "position": 19,
+        "points": 19,
+        "wins": 0,
+        "podiums": 0
+      }
     }
   ],
   "results": [

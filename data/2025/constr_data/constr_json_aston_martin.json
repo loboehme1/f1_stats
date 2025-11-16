@@ -18,12 +18,24 @@
     {
       "driver_id": "ALO",
       "name": "Fernando Alonso",
-      "number": "14"
+      "number": "14",
+      "standings": {
+        "position": 12,
+        "points": 40,
+        "wins": 0,
+        "podiums": 0
+      }
     },
     {
       "driver_id": "STR",
       "name": "Lance Stroll",
-      "number": "18"
+      "number": "18",
+      "standings": {
+        "position": 15,
+        "points": 32,
+        "wins": 0,
+        "podiums": 0
+      }
     }
   ],
   "results": [

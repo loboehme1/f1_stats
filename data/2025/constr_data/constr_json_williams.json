@@ -18,12 +18,24 @@
     {
       "driver_id": "ALB",
       "name": "Alexander Albon",
-      "number": "23"
+      "number": "23",
+      "standings": {
+        "position": 8,
+        "points": 73,
+        "wins": 0,
+        "podiums": 0
+      }
     },
     {
       "driver_id": "SAI",
       "name": "Carlos Sainz",
-      "number": "55"
+      "number": "55",
+      "standings": {
+        "position": 13,
+        "points": 38,
+        "wins": 0,
+        "podiums": 1
+      }
     }
   ],
   "results": [

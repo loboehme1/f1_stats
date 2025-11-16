@@ -18,12 +18,24 @@
     {
       "driver_id": "NOR",
       "name": "Lando Norris",
-      "number": "4"
+      "number": "4",
+      "standings": {
+        "position": 1,
+        "points": 390,
+        "wins": 7,
+        "podiums": 17
+      }
     },
     {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
-      "number": "81"
+      "number": "81",
+      "standings": {
+        "position": 2,
+        "points": 366,
+        "wins": 7,
+        "podiums": 14
+      }
     }
   ],
   "results": [

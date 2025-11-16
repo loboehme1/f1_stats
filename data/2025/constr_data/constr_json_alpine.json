@@ -18,12 +18,24 @@
     {
       "driver_id": "GAS",
       "name": "Pierre Gasly",
-      "number": "10"
+      "number": "10",
+      "standings": {
+        "position": 18,
+        "points": 22,
+        "wins": 0,
+        "podiums": 0
+      }
     },
     {
       "driver_id": "COL",
       "name": "Franco Colapinto",
-      "number": "43"
+      "number": "43",
+      "standings": {
+        "position": 20,
+        "points": 0,
+        "wins": 0,
+        "podiums": 0
+      }
     }
   ],
   "results": [

@@ -3,7 +3,7 @@ import json
 from collections import defaultdict
 from itertools import chain
 import os
-from collections import OrderedDict
+from collections import OrderedDict, defaultdict
 
 
 ####### Make driver json with all drivers ######
@@ -153,7 +153,8 @@ def fetch_constr_data(SEASON):
     # position, points, wins
 def fetch_standings(SEASON):
 
-    standings = {}
+    driver_standings = {}
+    constr_standings = defaultdict(list)
 
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/driverStandings/"
 
@@ -165,8 +166,10 @@ def fetch_standings(SEASON):
     for driver in standings_drivers:
 
         driver_info = driver.get('Driver', {})
+        constr_info = driver.get('Constructors', {})
 
         driver_id = driver_info.get('code', '')
+        constr_id = constr_info[0].get('constructorId')
 
         # data to add for standings
         pos = driver.get("position")
@@ -174,9 +177,16 @@ def fetch_standings(SEASON):
         wins = driver.get("wins")
         # podiums -> fetched later
 
-        standings[driver_id] = {'position': int(pos), 'points': int(points), 'wins': int(wins)}
+        entry = {
+            'position': int(pos), 
+            'points': int(points), 
+            'wins': int(wins)
+        }
 
-    return standings
+        driver_standings[driver_id] = entry
+        constr_standings[constr_id].append(entry)
+
+    return driver_standings, constr_standings
 
 
 # fetch results for each round for each driver from results
@@ -354,12 +364,12 @@ def combine_data(SEASON, ROUNDS):
     constr_info = fetch_constr_data(SEASON)
 
     #data standings
-    driver_standings = fetch_standings(SEASON)
+    driver_standings, constr_standings = fetch_standings(SEASON)
 
     #results
     driver_results, constr_results, driver_podiums, constr_podiums = fetch_results(SEASON, ROUNDS)
 
-    ## combine all data
+    ## combine drivers
 
     driver_comb_all = {}
     driver_comb_indiv = {}
@@ -367,7 +377,6 @@ def combine_data(SEASON, ROUNDS):
     all_ids = set(chain(driver_info.keys(), driver_standings.keys()))
     for did in sorted(all_ids):
 
-        #combine driver
         driver_core_all = dict(driver_info.get(did, {"driver_id": did}))    # core info all drivers
         driver_core_indiv = dict(driver_info.get(did, {"driver_id": did}))  # core info individual drivers
 
@@ -398,8 +407,20 @@ def combine_data(SEASON, ROUNDS):
         constr_core_all = dict(constr_info.get(cid, {"constr_id": cid}))        # core info all constr
         constr_core_indiv = dict(constr_info.get(cid, {"constr_id": cid}))      # core info individual constr
 
-        constr_core_all["drivers"] = constr_driver_info.get(cid, 0)             # add drivers to all constr
-        constr_core_indiv["drivers"] = constr_driver_info.get(cid, 0)           # add drivers to individual constr
+        # add drivers with standings to constructors
+        drivers_list = constr_driver_info.get(cid, [])
+        drivers_with_standings = []
+        for driver in drivers_list:
+            driver_copy = dict(driver)  # copy driver dict
+            driver_id = driver_copy.get('driver_id', '')
+            # add standings to each driver
+            driver_standings_data = dict(driver_standings.get(driver_id, {}))
+            driver_standings_data["podiums"] = driver_podiums.get(driver_id, 0)
+            driver_copy["standings"] = driver_standings_data
+            drivers_with_standings.append(driver_copy)
+        
+        constr_core_all["drivers"] = drivers_with_standings                     # add drivers to all constr
+        constr_core_indiv["drivers"] = drivers_with_standings                   # add drivers to individual constr
 
         constr_core_all["standings"]["podiums"] = constr_podiums.get(cid, 0)    # add podiums to standings
         constr_core_indiv["standings"]["podiums"] = constr_podiums.get(cid, 0)  # add podiums to standings

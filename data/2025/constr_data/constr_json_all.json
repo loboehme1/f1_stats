@@ -19,12 +19,24 @@
       {
         "driver_id": "GAS",
         "name": "Pierre Gasly",
-        "number": "10"
+        "number": "10",
+        "standings": {
+          "position": 18,
+          "points": 22,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "COL",
         "name": "Franco Colapinto",
-        "number": "43"
+        "number": "43",
+        "standings": {
+          "position": 20,
+          "points": 0,
+          "wins": 0,
+          "podiums": 0
+        }
       }
     ]
   },
@@ -48,12 +60,24 @@
       {
         "driver_id": "ALO",
         "name": "Fernando Alonso",
-        "number": "14"
+        "number": "14",
+        "standings": {
+          "position": 12,
+          "points": 40,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "STR",
         "name": "Lance Stroll",
-        "number": "18"
+        "number": "18",
+        "standings": {
+          "position": 15,
+          "points": 32,
+          "wins": 0,
+          "podiums": 0
+        }
       }
     ]
   },
@@ -77,12 +101,24 @@
       {
         "driver_id": "HAM",
         "name": "Lewis Hamilton",
-        "number": "44"
+        "number": "44",
+        "standings": {
+          "position": 6,
+          "points": 148,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "LEC",
         "name": "Charles Leclerc",
-        "number": "16"
+        "number": "16",
+        "standings": {
+          "position": 5,
+          "points": 214,
+          "wins": 0,
+          "podiums": 7
+        }
       }
     ]
   },
@@ -106,12 +142,24 @@
       {
         "driver_id": "BEA",
         "name": "Oliver Bearman",
-        "number": "87"
+        "number": "87",
+        "standings": {
+          "position": 11,
+          "points": 40,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "OCO",
         "name": "Esteban Ocon",
-        "number": "31"
+        "number": "31",
+        "standings": {
+          "position": 16,
+          "points": 30,
+          "wins": 0,
+          "podiums": 0
+        }
       }
     ]
   },
@@ -135,12 +183,24 @@
       {
         "driver_id": "NOR",
         "name": "Lando Norris",
-        "number": "4"
+        "number": "4",
+        "standings": {
+          "position": 1,
+          "points": 390,
+          "wins": 7,
+          "podiums": 17
+        }
       },
       {
         "driver_id": "PIA",
         "name": "Oscar Piastri",
-        "number": "81"
+        "number": "81",
+        "standings": {
+          "position": 2,
+          "points": 366,
+          "wins": 7,
+          "podiums": 14
+        }
       }
     ]
   },
@@ -164,12 +224,24 @@
       {
         "driver_id": "ANT",
         "name": "Kimi Antonelli",
-        "number": "12"
+        "number": "12",
+        "standings": {
+          "position": 7,
+          "points": 122,
+          "wins": 0,
+          "podiums": 2
+        }
       },
       {
         "driver_id": "RUS",
         "name": "George Russell",
-        "number": "63"
+        "number": "63",
+        "standings": {
+          "position": 4,
+          "points": 276,
+          "wins": 2,
+          "podiums": 8
+        }
       }
     ]
   },
@@ -193,12 +265,24 @@
       {
         "driver_id": "LAW",
         "name": "Liam Lawson",
-        "number": "30"
+        "number": "30",
+        "standings": {
+          "position": 14,
+          "points": 36,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "HAD",
         "name": "Isack Hadjar",
-        "number": "6"
+        "number": "6",
+        "standings": {
+          "position": 10,
+          "points": 43,
+          "wins": 0,
+          "podiums": 1
+        }
       }
     ]
   },
@@ -222,12 +306,24 @@
       {
         "driver_id": "VER",
         "name": "Max Verstappen",
-        "number": "1"
+        "number": "1",
+        "standings": {
+          "position": 3,
+          "points": 341,
+          "wins": 5,
+          "podiums": 12
+        }
       },
       {
         "driver_id": "TSU",
         "name": "Yuki Tsunoda",
-        "number": "22"
+        "number": "22",
+        "standings": {
+          "position": 17,
+          "points": 28,
+          "wins": 0,
+          "podiums": 0
+        }
       }
     ]
   },
@@ -251,12 +347,24 @@
       {
         "driver_id": "HUL",
         "name": "Nico Hülkenberg",
-        "number": "27"
+        "number": "27",
+        "standings": {
+          "position": 9,
+          "points": 43,
+          "wins": 0,
+          "podiums": 1
+        }
       },
       {
         "driver_id": "BOR",
         "name": "Gabriel Bortoleto",
-        "number": "5"
+        "number": "5",
+        "standings": {
+          "position": 19,
+          "points": 19,
+          "wins": 0,
+          "podiums": 0
+        }
       }
     ]
   },
@@ -280,12 +388,24 @@
       {
         "driver_id": "ALB",
         "name": "Alexander Albon",
-        "number": "23"
+        "number": "23",
+        "standings": {
+          "position": 8,
+          "points": 73,
+          "wins": 0,
+          "podiums": 0
+        }
       },
       {
         "driver_id": "SAI",
         "name": "Carlos Sainz",
-        "number": "55"
+        "number": "55",
+        "standings": {
+          "position": 13,
+          "points": 38,
+          "wins": 0,
+          "podiums": 1
+        }
       }
     ]
   }
