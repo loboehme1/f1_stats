@@ -9,7 +9,8 @@
     "profile_photo": "link1"
   },
   "colors": {
-    "primary": "#4B4B4C"
+    "primary": "#B6BABD",
+    "secondary": "#4B4B4C"
   },
   "standings": {
     "position": 14,

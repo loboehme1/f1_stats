@@ -9,7 +9,7 @@ from collections import OrderedDict, defaultdict
 ####### Make driver json with all drivers ######
 
 def color_driver(drv_id):
-    driver_colors = {
+    driver_colors_primary = {
         # McLaren
         "NOR": "#FF8700", "PIA": "#FF8700",
         # Red Bull
@@ -28,12 +28,39 @@ def color_driver(drv_id):
         # Haas
         "OCO": "#f04a4a", "BEA": "#f04a4a",
         # RB (Visa Cash App RB)
-        "LAW": "#4B4B4C", "HAD": "#B6BABD",
+        "LAW": "#B6BABD", "HAD": "#B6BABD",
         # Stake Sauber
         "BOR": "#09eb24", "HUL": "#09eb24"
     }
 
-    return driver_colors.get(drv_id) or "#FFFFFF"  # default white
+    driver_colors_secondary = {
+        # McLaren
+        "NOR": "#B6BABD", "PIA": "#B6BABD",
+        # Red Bull
+        "VER": "#B6BABD", "TSU": "#B6BABD",
+        # Ferrari
+        "LEC": "#B6BABD", "HAM": "#B6BABD",
+        # Mercedes
+        "RUS": "#B6BABD", "ANT": "#B6BABD",
+        # Aston Martin
+        "ALO": "#B6BABD", "STR": "#B6BABD",
+        # Williams
+        "ALB": "#B6BABD", "SAI": "#B6BABD",
+        # Alpine
+        "GAS": "#B6BABD", "DOO": "#B6BABD",
+        "COL": "#B6BABD",
+        # Haas
+        "OCO": "#B6BABD", "BEA": "#B6BABD",
+        # RB (Visa Cash App RB)
+        "LAW": "#4B4B4C", "HAD": "#4B4B4C",
+        # Stake Sauber
+        "BOR": "#B6BABD", "HUL": "#B6BABD"
+    }
+
+    primary = driver_colors_primary.get(drv_id) or "#FFFFFF" # default white
+    secondary = driver_colors_secondary.get(drv_id) or "#B6BABD" # default light grey
+
+    return primary, secondary
 
 def color_constr(constr_id):
     constr_colors = {
@@ -89,7 +116,7 @@ def fetch_driver_data(SEASON):
         team = constr.get('name', 'Unknown')
 
         assets = {'profile_photo': 'link1'} ### if needed profile pic
-        colors = {'primary': color_driver(driver_id)}
+        colors = {'primary': color_driver(driver_id)[0], 'secondary': color_driver(driver_id)[1]}
 
 
         driver_info[driver_id] = {

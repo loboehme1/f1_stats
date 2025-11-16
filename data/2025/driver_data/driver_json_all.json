@@ -10,7 +10,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#46b1eb"
+      "primary": "#46b1eb",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 8,
@@ -30,7 +31,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#0A7968"
+      "primary": "#0A7968",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 12,
@@ -50,7 +52,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00A19C"
+      "primary": "#00A19C",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 7,
@@ -70,7 +73,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a"
+      "primary": "#f04a4a",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 11,
@@ -90,7 +94,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#09eb24"
+      "primary": "#09eb24",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 19,
@@ -110,7 +115,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f743e8"
+      "primary": "#f743e8",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 20,
@@ -139,7 +145,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f743e8"
+      "primary": "#f743e8",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 18,
@@ -159,7 +166,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#B6BABD"
+      "primary": "#B6BABD",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 10,
@@ -179,7 +187,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#DC0000"
+      "primary": "#DC0000",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 6,
@@ -199,7 +208,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#09eb24"
+      "primary": "#09eb24",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 9,
@@ -219,7 +229,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#4B4B4C"
+      "primary": "#B6BABD",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 14,
@@ -239,7 +250,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#DC0000"
+      "primary": "#DC0000",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 5,
@@ -259,7 +271,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FF8700"
+      "primary": "#FF8700",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 1,
@@ -279,7 +292,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a"
+      "primary": "#f04a4a",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 16,
@@ -299,7 +313,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FF8700"
+      "primary": "#FF8700",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 2,
@@ -319,7 +334,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00A19C"
+      "primary": "#00A19C",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 4,
@@ -339,7 +355,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#46b1eb"
+      "primary": "#46b1eb",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 13,
@@ -359,7 +376,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#0A7968"
+      "primary": "#0A7968",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 15,
@@ -379,7 +397,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00008b"
+      "primary": "#00008b",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 17,
@@ -399,7 +418,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00008b"
+      "primary": "#00008b",
+      "secondary": "#B6BABD"
     },
     "standings": {
       "position": 3,
