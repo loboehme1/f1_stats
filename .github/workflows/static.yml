@@ -39,6 +39,7 @@ jobs:
         run: |
           mkdir -p data/2025/driver_data
           mkdir -p data/2025/constr_data
+          mkdir -p data/2025/race_data
           python scripts/make_jsons.py
 
       # Commit and push updated JSON files back to repository
@@ -46,7 +47,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/2025/driver_data/*.json
+          git add data/2025/*/*.json
           git diff --staged --quiet || git commit -m "Update driver JSON files [skip ci]"
           git push
 
