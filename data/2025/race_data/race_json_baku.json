@@ -969,6 +969,20 @@
         "name": "Haas F1 Team",
         "nationality": "American"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "NOR",
+        "time": "01:41.322000"
+      },
+      "q2": {
+        "driver_id": "VER",
+        "time": "01:41.255000"
+      },
+      "q3": {
+        "driver_id": "VER",
+        "time": "01:41.117000"
+      }
     }
   ]
 }

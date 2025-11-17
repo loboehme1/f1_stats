@@ -961,6 +961,20 @@
         "name": "Alpine F1 Team",
         "nationality": "French"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "VER",
+        "time": "01:25.886000"
+      },
+      "q2": {
+        "driver_id": "HAM",
+        "time": "01:25.084000"
+      },
+      "q3": {
+        "driver_id": "VER",
+        "time": "01:24.892000"
+      }
     }
   ]
 }

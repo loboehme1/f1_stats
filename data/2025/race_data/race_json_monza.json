@@ -969,6 +969,20 @@
         "name": "RB F1 Team",
         "nationality": "Italian"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "RUS",
+        "time": "01:19.414000"
+      },
+      "q2": {
+        "driver_id": "VER",
+        "time": "01:19.140000"
+      },
+      "q3": {
+        "driver_id": "VER",
+        "time": "01:18.792000"
+      }
     }
   ]
 }

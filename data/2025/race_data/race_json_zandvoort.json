@@ -977,6 +977,20 @@
         "name": "Aston Martin",
         "nationality": "British"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "PIA",
+        "time": "01:09.338000"
+      },
+      "q2": {
+        "driver_id": "NOR",
+        "time": "01:08.874000"
+      },
+      "q3": {
+        "driver_id": "PIA",
+        "time": "01:08.662000"
+      }
     }
   ]
 }

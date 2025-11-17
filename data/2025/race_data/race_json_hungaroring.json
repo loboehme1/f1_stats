@@ -977,6 +977,20 @@
         "name": "Williams",
         "nationality": "British"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "PIA",
+        "time": "01:15.211000"
+      },
+      "q2": {
+        "driver_id": "NOR",
+        "time": "01:14.890000"
+      },
+      "q3": {
+        "driver_id": "LEC",
+        "time": "01:15.372000"
+      }
     }
   ]
 }

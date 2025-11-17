@@ -4,6 +4,7 @@ from collections import defaultdict
 from itertools import chain
 import os
 from collections import OrderedDict, defaultdict
+from datetime import datetime
 
 
 ####### Make driver json with all drivers ######
@@ -417,6 +418,8 @@ def fetch_quali(SEASON, ROUNDS):
 
     quali_results = defaultdict(list)
 
+    time_format = '%M:%S.%f'
+
     for race in range(ROUNDS):
 
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/qualifying/"
@@ -437,6 +440,11 @@ def fetch_quali(SEASON, ROUNDS):
 
         result_per_race = []
 
+        fastest_q1 = datetime.strptime('59:59.99', time_format)
+        fastest_q2 = datetime.strptime('59:59.99', time_format)
+        fastest_q3 = datetime.strptime('59:59.99', time_format)
+
+
         for result in qualification:
 
             quali_pos = result.get('position')
@@ -446,6 +454,7 @@ def fetch_quali(SEASON, ROUNDS):
             q3 = result.get('Q3')
 
             sectors = {'q1': q1, 'q2': q2, 'q3': q3}
+
 
             driver = result.get('Driver')
             driver_number = result.get('number')
@@ -472,8 +481,36 @@ def fetch_quali(SEASON, ROUNDS):
 
             result_per_race.append(entry_results)
 
+            if q1:
+                q1_f = datetime.strptime(q1, time_format)
+            if q2:
+                q2_f = datetime.strptime(q2, time_format)
+            if q3:
+                q3_f = datetime.strptime(q3, time_format)
+
+            if q1_f < fastest_q1:
+                fastest_q1_driver = driver_id
+                fastest_q1 = q1_f
+            
+            if q2_f < fastest_q2:
+                fastest_q2_driver = driver_id
+                fastest_q2 = q2_f
+
+            if q3_f < fastest_q3:
+                fastest_q3_driver = driver_id
+                fastest_q3 = q3_f
+
+        fastest_per_q = {
+            'q1': {'driver_id': fastest_q1_driver, 'time': fastest_q1.strftime("%M:%S.%f")},
+            'q2': {'driver_id': fastest_q2_driver, 'time': fastest_q2.strftime("%M:%S.%f")},
+            'q3': {'driver_id': fastest_q3_driver, 'time': fastest_q3.strftime("%M:%S.%f")}
+        }
+
+        result_per_race.append(fastest_per_q)
+
         quali_results[circuit_id] = result_per_race
 
+    print(quali_results)
 
     return quali_results
     

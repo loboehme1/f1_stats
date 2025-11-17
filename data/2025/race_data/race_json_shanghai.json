@@ -953,6 +953,20 @@
         "name": "Red Bull",
         "nationality": "Austrian"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "NOR",
+        "time": "01:30.983000"
+      },
+      "q2": {
+        "driver_id": "NOR",
+        "time": "01:30.787000"
+      },
+      "q3": {
+        "driver_id": "PIA",
+        "time": "01:30.641000"
+      }
     }
   ]
 }

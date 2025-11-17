@@ -977,6 +977,20 @@
         "name": "Williams",
         "nationality": "British"
       }
+    },
+    {
+      "q1": {
+        "driver_id": "HAM",
+        "time": "01:29.765000"
+      },
+      "q2": {
+        "driver_id": "RUS",
+        "time": "01:29.562000"
+      },
+      "q3": {
+        "driver_id": "RUS",
+        "time": "01:29.158000"
+      }
     }
   ]
 }
