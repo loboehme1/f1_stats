@@ -501,9 +501,9 @@ def fetch_quali(SEASON, ROUNDS):
                 fastest_q3 = q3_f
 
         fastest_per_q = {
-            'q1': {'driver_id': fastest_q1_driver, 'time': fastest_q1.strftime("%M:%S.%f")},
-            'q2': {'driver_id': fastest_q2_driver, 'time': fastest_q2.strftime("%M:%S.%f")},
-            'q3': {'driver_id': fastest_q3_driver, 'time': fastest_q3.strftime("%M:%S.%f")}
+            'q1': {'driver_id': fastest_q1_driver, 'time': fastest_q1.strftime("%M:%S.%f").strip('0')},
+            'q2': {'driver_id': fastest_q2_driver, 'time': fastest_q2.strftime("%M:%S.%f").strip('0')},
+            'q3': {'driver_id': fastest_q3_driver, 'time': fastest_q3.strftime("%M:%S.%f").strip('0')}
         }
 
         result_per_race.append(fastest_per_q)
