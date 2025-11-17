@@ -40,7 +40,9 @@ jobs:
           mkdir -p data/2025/driver_data
           mkdir -p data/2025/constr_data
           mkdir -p data/2025/race_data
+          mkdir -p data/2025/laps_data
           python scripts/make_jsons.py
+          python scripts/make_laps_jsons.py
 
       # Commit and push updated JSON files back to repository
       - name: Commit and push updated files
