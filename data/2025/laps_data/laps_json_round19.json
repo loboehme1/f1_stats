@@ -1,0 +1,4380 @@
+{
+  "americas": {
+    "1": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "sainz",
+        "position": "9"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "16"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "17"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      },
+      {
+        "driver_id": "albon",
+        "position": "20"
+      }
+    ],
+    "2": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "7"
+      },
+      {
+        "driver_id": "sainz",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "17"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      },
+      {
+        "driver_id": "albon",
+        "position": "20"
+      }
+    ],
+    "3": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "7"
+      },
+      {
+        "driver_id": "sainz",
+        "position": "8"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "9"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "17"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      },
+      {
+        "driver_id": "albon",
+        "position": "20"
+      }
+    ],
+    "4": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "7"
+      },
+      {
+        "driver_id": "sainz",
+        "position": "8"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "9"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "17"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      },
+      {
+        "driver_id": "albon",
+        "position": "20"
+      }
+    ],
+    "5": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "7"
+      },
+      {
+        "driver_id": "sainz",
+        "position": "8"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "9"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "17"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      },
+      {
+        "driver_id": "albon",
+        "position": "20"
+      }
+    ],
+    "6": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "19"
+      }
+    ],
+    "7": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "albon",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "19"
+      }
+    ],
+    "8": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "9": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "10": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "11": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "12": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "13": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "14": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "albon",
+        "position": "19"
+      }
+    ],
+    "15": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "16": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "17": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "18": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "19": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "20": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "21": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "albon",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "22": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "albon",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "23": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "albon",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "24": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "albon",
+        "position": "16"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "25": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "albon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "18"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "19"
+      }
+    ],
+    "26": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "18"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "19"
+      }
+    ],
+    "27": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "18"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "19"
+      }
+    ],
+    "28": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "6"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "albon",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "17"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "18"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "19"
+      }
+    ],
+    "29": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "12"
+      },
+      {
+        "driver_id": "albon",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "17"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      }
+    ],
+    "30": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "6"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "10"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "11"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "12"
+      },
+      {
+        "driver_id": "albon",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "17"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      }
+    ],
+    "31": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "russell",
+        "position": "4"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "5"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "6"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "7"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "10"
+      },
+      {
+        "driver_id": "albon",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "14"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "17"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      }
+    ],
+    "32": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "russell",
+        "position": "3"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "4"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "5"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "6"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "7"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "albon",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "12"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "13"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "16"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "17"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "18"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "19"
+      }
+    ],
+    "33": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "russell",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "norris",
+        "position": "4"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "5"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "6"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "7"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "albon",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "19"
+      }
+    ],
+    "34": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "albon",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "19"
+      }
+    ],
+    "35": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "albon",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "19"
+      }
+    ],
+    "36": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "albon",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "17"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "18"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "19"
+      }
+    ],
+    "37": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "albon",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "38": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "15"
+      },
+      {
+        "driver_id": "albon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "39": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "15"
+      },
+      {
+        "driver_id": "albon",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "40": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "41": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "42": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "43": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "44": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "45": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "46": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "47": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "48": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "49": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "50": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "51": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "52": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "53": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "albon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "17"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "54": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "albon",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "17"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "18"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "19"
+      }
+    ],
+    "55": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "albon",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "17"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "18"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "19"
+      }
+    ],
+    "56": [
+      {
+        "driver_id": "max_verstappen",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "antonelli",
+        "position": "13"
+      },
+      {
+        "driver_id": "albon",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      }
+    ]
+  }
+}

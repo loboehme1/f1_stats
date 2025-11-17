@@ -1,0 +1,4640 @@
+{
+  "red_bull_ring": {
+    "1": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "16"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "17"
+      }
+    ],
+    "2": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "17"
+      }
+    ],
+    "3": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "4": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "5": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "6": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "7": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "8": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "9": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "albon",
+        "position": "6"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "10": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "albon",
+        "position": "6"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "11": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "albon",
+        "position": "6"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "14"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "17"
+      }
+    ],
+    "12": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "albon",
+        "position": "6"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "7"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "10"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "11"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "14"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "17"
+      }
+    ],
+    "13": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "albon",
+        "position": "7"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "11"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "12"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "15"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "16"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "17"
+      }
+    ],
+    "14": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "10"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "albon",
+        "position": "13"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "14"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "15"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "16"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "17"
+      }
+    ],
+    "15": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "10"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "14"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "15"
+      },
+      {
+        "driver_id": "albon",
+        "position": "16"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "17"
+      }
+    ],
+    "16": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "10"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "14"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "17": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "10"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "14"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "18": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "14"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "19": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "russell",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "20": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "8"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "9"
+      },
+      {
+        "driver_id": "russell",
+        "position": "10"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "21": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "norris",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "7"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "8"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "9"
+      },
+      {
+        "driver_id": "russell",
+        "position": "10"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "22": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "norris",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "23": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "norris",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "24": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "norris",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "25": [
+      {
+        "driver_id": "hamilton",
+        "position": "1"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "2"
+      },
+      {
+        "driver_id": "norris",
+        "position": "3"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "7"
+      },
+      {
+        "driver_id": "russell",
+        "position": "8"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "26": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "2"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "3"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "4"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "5"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "27": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "3"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "4"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "5"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "10"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "28": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "4"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "5"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "29": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "14"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "30": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "14"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "31": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "32": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "33": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "34": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "9"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "35": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "13"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "36": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "37": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "10"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "11"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "12"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "38": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "9"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "12"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "39": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "10"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "40": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "41": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "7"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "42": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "7"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "8"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "9"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "43": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "7"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "44": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "7"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "45": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "6"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "7"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "8"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "46": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "47": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "12"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "48": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "49": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "5"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "6"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "7"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "8"
+      },
+      {
+        "driver_id": "russell",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "50": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "3"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "7"
+      },
+      {
+        "driver_id": "russell",
+        "position": "8"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "9"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "10"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "51": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "52": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "13"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "53": [
+      {
+        "driver_id": "piastri",
+        "position": "1"
+      },
+      {
+        "driver_id": "norris",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "6"
+      },
+      {
+        "driver_id": "russell",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "16"
+      }
+    ],
+    "54": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "5"
+      },
+      {
+        "driver_id": "russell",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "55": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "8"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "56": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "9"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "57": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "10"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "58": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "59": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "60": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "15"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "16"
+      }
+    ],
+    "61": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "62": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "63": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "64": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "65": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "11"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "14"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "66": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "67": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "68": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      },
+      {
+        "driver_id": "tsunoda",
+        "position": "16"
+      }
+    ],
+    "69": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      },
+      {
+        "driver_id": "alonso",
+        "position": "7"
+      },
+      {
+        "driver_id": "bortoleto",
+        "position": "8"
+      },
+      {
+        "driver_id": "hulkenberg",
+        "position": "9"
+      },
+      {
+        "driver_id": "ocon",
+        "position": "10"
+      },
+      {
+        "driver_id": "bearman",
+        "position": "11"
+      },
+      {
+        "driver_id": "hadjar",
+        "position": "12"
+      },
+      {
+        "driver_id": "gasly",
+        "position": "13"
+      },
+      {
+        "driver_id": "stroll",
+        "position": "14"
+      },
+      {
+        "driver_id": "colapinto",
+        "position": "15"
+      }
+    ],
+    "70": [
+      {
+        "driver_id": "norris",
+        "position": "1"
+      },
+      {
+        "driver_id": "piastri",
+        "position": "2"
+      },
+      {
+        "driver_id": "leclerc",
+        "position": "3"
+      },
+      {
+        "driver_id": "hamilton",
+        "position": "4"
+      },
+      {
+        "driver_id": "russell",
+        "position": "5"
+      },
+      {
+        "driver_id": "lawson",
+        "position": "6"
+      }
+    ]
+  }
+}
