@@ -2,6 +2,7 @@ import requests
 import time
 import json
 import os
+from helpers import color_driver, id_to_code, code_to_id
 
 def fetch_lap_info(SEASON, ROUND):
 
@@ -51,7 +52,13 @@ def fetch_lap_info(SEASON, ROUND):
             for timing in lap["Timings"]:
                 driver_id = timing.get("driverId")
                 position = timing.get("position")
-                entry_timing = {"driver_id": driver_id, "position": position}
+                # Handle "max_verstappen" -> "verstappen" format
+                driver_id_clean = driver_id.replace("max_", "") if driver_id else ""
+                driver_code = id_to_code(driver_id_clean)
+                prim, sec = color_driver(driver_code)
+                colors = {'primary': prim, 'secondary': sec}
+                # Convert position to number and use driver_code to match race results format
+                entry_timing = {"driver_id": driver_code, "position": int(position) if position else 0, "colors": colors}
                 timing_race[lap_no].append(entry_timing)
 
         indiv_race_lap_info[circuit_id] = timing_race
@@ -63,9 +70,11 @@ def fetch_lap_info(SEASON, ROUND):
         else:
             time.sleep(0.9)
 
-    json_ready = {
-        circuit_id: {str(lap_no): timings for lap_no, timings in timing_race.items()}
-    }
+    # Transform to array format: [{lap: 1, positions: [...]}, {lap: 2, positions: [...]}, ...]
+    json_ready = [
+        {"lap": lap_no, "positions": timings}
+        for lap_no, timings in sorted(timing_race.items())
+    ]
 
     return json_ready, True
 
