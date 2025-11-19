@@ -1,5 +1,6 @@
 {
   "driver_id": "HAM",
+  "original_driver_id": "hamilton",
   "name": "Lewis Hamilton",
   "team": "Ferrari",
   "number": 44,
@@ -16,7 +17,8 @@
     "position": 6,
     "points": 148,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 3
   },
   "results": [
     {

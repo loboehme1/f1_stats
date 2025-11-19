@@ -1,5 +1,6 @@
 {
   "driver_id": "TSU",
+  "original_driver_id": "tsunoda",
   "name": "Yuki Tsunoda",
   "team": "Red Bull",
   "number": 22,
@@ -16,7 +17,8 @@
     "position": 17,
     "points": 28,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 1
   },
   "results": [
     {

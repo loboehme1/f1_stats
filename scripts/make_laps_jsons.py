@@ -2,7 +2,8 @@ import requests
 import time
 import json
 import os
-from helpers import color_driver, id_to_code, code_to_id
+from helpers import color_driver, id_to_code, code_to_id, normalize_driver_name
+from config import API_TIMEOUT, API_RETRY_DELAY, SEASON, ROUNDS, OUTPUT_BASE_DIR
 
 def fetch_lap_info(SEASON, ROUND):
 
@@ -20,7 +21,7 @@ def fetch_lap_info(SEASON, ROUND):
 
     while True:
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{ROUND+1}/laps/"
-        response = requests.get(url, params={"limit": 1000, "offset": offset})
+        response = requests.get(url, params={"limit": 1000, "offset": offset}, timeout=API_TIMEOUT)
         status = response.status_code
 
         if status != 200:
@@ -52,9 +53,8 @@ def fetch_lap_info(SEASON, ROUND):
             for timing in lap["Timings"]:
                 driver_id = timing.get("driverId")
                 position = timing.get("position")
-                # Handle "max_verstappen" -> "verstappen" format
-                driver_id_clean = driver_id.replace("max_", "") if driver_id else ""
-                driver_code = id_to_code(driver_id_clean)
+                # Use id_to_code which now handles all driver ID formats
+                driver_code = id_to_code(driver_id) if driver_id else ""
                 prim, sec = color_driver(driver_code)
                 colors = {'primary': prim, 'secondary': sec}
                 # Convert position to number and use driver_code to match race results format
@@ -68,7 +68,7 @@ def fetch_lap_info(SEASON, ROUND):
         if offset >= total or limit == 0:
             break
         else:
-            time.sleep(0.9)
+            time.sleep(API_RETRY_DELAY)
 
     # Transform to array format: [{lap: 1, positions: [...]}, {lap: 2, positions: [...]}, ...]
     json_ready = [
@@ -106,13 +106,9 @@ def find_round(OUT_DIR, SEASON, ROUNDS):
         else:
             print(f'{file_path} already exists')
 
-
 if __name__ == "__main__":
-    season = 2025
-    rounds_no = 24
-    OUT_DIR = f'data/{season}/'
-
-    laps_path = os.path.join(OUT_DIR, "laps_data")
+    # Use settings from config file
+    laps_path = os.path.join(OUTPUT_BASE_DIR, str(SEASON), "laps_data")
     os.makedirs(laps_path, exist_ok=True)
 
-    find_round(laps_path, season, rounds_no)
+    find_round(laps_path, SEASON, ROUNDS)

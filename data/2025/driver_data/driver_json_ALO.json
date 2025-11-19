@@ -1,5 +1,6 @@
 {
   "driver_id": "ALO",
+  "original_driver_id": "alonso",
   "name": "Fernando Alonso",
   "team": "Aston Martin",
   "number": 14,
@@ -16,7 +17,8 @@
     "position": 12,
     "points": 40,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 5
   },
   "results": [
     {

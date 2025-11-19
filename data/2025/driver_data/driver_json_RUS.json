@@ -1,5 +1,6 @@
 {
   "driver_id": "RUS",
+  "original_driver_id": "russell",
   "name": "George Russell",
   "team": "Mercedes",
   "number": 63,
@@ -16,7 +17,8 @@
     "position": 4,
     "points": 276,
     "wins": 2,
-    "podiums": 8
+    "podiums": 8,
+    "dnf_count": 0
   },
   "results": [
     {

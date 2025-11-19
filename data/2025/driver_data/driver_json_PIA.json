@@ -1,5 +1,6 @@
 {
   "driver_id": "PIA",
+  "original_driver_id": "piastri",
   "name": "Oscar Piastri",
   "team": "McLaren",
   "number": 81,
@@ -16,7 +17,8 @@
     "position": 2,
     "points": 366,
     "wins": 7,
-    "podiums": 14
+    "podiums": 14,
+    "dnf_count": 1
   },
   "results": [
     {

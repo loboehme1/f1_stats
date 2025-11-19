@@ -1,5 +1,6 @@
 {
   "driver_id": "HAD",
+  "original_driver_id": "hadjar",
   "name": "Isack Hadjar",
   "team": "Racing Bulls",
   "number": 6,
@@ -16,7 +17,8 @@
     "position": 10,
     "points": 43,
     "wins": 0,
-    "podiums": 1
+    "podiums": 1,
+    "dnf_count": 2
   },
   "results": [
     {

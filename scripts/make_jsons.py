@@ -6,7 +6,8 @@ import os
 from collections import OrderedDict, defaultdict
 from datetime import datetime
 
-from helpers import color_driver, color_constr
+from helpers import color_driver, color_constr, normalize_driver_name
+from config import API_TIMEOUT, SEASON, ROUNDS, OUTPUT_BASE_DIR
 
 
 ####### Make driver json with all drivers ######
@@ -21,16 +22,52 @@ def fetch_driver_data(SEASON):
 
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/results/"
 
-    response = requests.get(url)
-    results = response.json()['MRData']['RaceTable']['Races'][0].get('Results', [])
+    try:
+        response = requests.get(url, timeout=API_TIMEOUT)
+        response.raise_for_status()  # Raises HTTPError for 4xx/5xx status codes
+        data = response.json()
+        
+        races = data.get('MRData', {}).get('RaceTable', {}).get('Races', [])
+        if not races:
+            print(f"No race data found for {SEASON}")
+            return {}, {}
+        
+        results = races[0].get('Results', [])
+        
+    except requests.exceptions.Timeout:
+        print(f"API request timed out after {API_TIMEOUT} seconds")
+        return {}, {}
+    except requests.exceptions.RequestException as e:
+        print(f"API request failed: {e}")
+        return {}, {}
+    except (KeyError, IndexError, ValueError) as e:
+        print(f"Data parsing error: {e}")
+        return {}, {}
 
     driver_info = {}
     driver_info_constr = defaultdict(list)
+    
+    # Mappings for helpers.py
+    id_to_code_map = {}
+    code_to_id_map = {}
 
     for entry in results:
-        driver = entry['Driver']
+        driver = entry.get('Driver', {})
 
-        driver_id = driver.get('code', '')
+        code = driver.get('code', '')
+        original_driver_id = driver.get('driverId', '')
+        
+        # Fallback if code is missing (rare, but good for safety)
+        if not code and original_driver_id:
+            code = original_driver_id.upper()[:3]
+            
+        driver_id = code # We use code as the main identifier in this project
+        
+        # Populate mappings
+        if original_driver_id and code:
+            id_to_code_map[original_driver_id] = code
+            code_to_id_map[code] = original_driver_id
+
         name = f"{driver.get('givenName', '')} {driver.get('familyName', '')}"
         nationality = driver.get('nationality', '')
         dob = driver.get('dateOfBirth', '')
@@ -38,7 +75,7 @@ def fetch_driver_data(SEASON):
         # ensures verstappen (or current future wl will get 1 if chosen)
         number = entry.get('number', driver.get('permanentNumber', '')) 
         
-        constr = entry['Constructor']
+        constr = entry.get('Constructor', {})
         constr_id = constr.get('constructorId')
         team = constr.get('name', 'Unknown')
 
@@ -48,6 +85,7 @@ def fetch_driver_data(SEASON):
 
         driver_info[driver_id] = {
             'driver_id': driver_id,
+            'original_driver_id': original_driver_id,
             'name': name,
             'team': team,
             'number': number,
@@ -62,6 +100,23 @@ def fetch_driver_data(SEASON):
             'name': name,
             'number': number,
         })
+        
+    # Save mappings to JSON
+    mappings = {
+        "id_to_code": id_to_code_map,
+        "code_to_id": code_to_id_map
+    }
+    
+    mapping_dir = f'{OUTPUT_BASE_DIR}/{SEASON}/'
+    os.makedirs(mapping_dir, exist_ok=True)
+    mapping_file = os.path.join(mapping_dir, "driver_mappings.json")
+    
+    try:
+        with open(mapping_file, 'w', encoding='utf-8') as f:
+            json.dump(mappings, f, indent=2)
+        print(f"Generated driver mappings at {mapping_file}")
+    except Exception as e:
+        print(f"Failed to save driver mappings: {e}")
 
     return driver_info, driver_info_constr
 
@@ -163,6 +218,10 @@ def fetch_results(SEASON, ROUNDS):
     # store podium info for constructors and drivers
     podiums_driver = {}
     podiums_constr = {}
+    
+    # store DNF/retirement counts for drivers and constructors
+    dnf_driver = {}
+    dnf_constr = {}
 
     # go through each race
     for race in range(ROUNDS):
@@ -245,6 +304,16 @@ def fetch_results(SEASON, ROUNDS):
             if int(end_pos) <= 3:
                 podiums_driver[driver_id] += 1
                 podiums_constr[constr_id] += 1
+            
+            # Count DNFs (status not Finished or lapped)
+            # Initialize if not exists
+            dnf_driver.setdefault(driver_id, 0)
+            dnf_constr.setdefault(constr_id, 0)
+            
+            status_lower = status.lower()
+            if status_lower not in ['finished', '+1 lap', '+2 laps', '+3 laps']:
+                dnf_driver[driver_id] += 1
+                dnf_constr[constr_id] += 1
 
             race_points[constr_id] += points
 
@@ -253,6 +322,7 @@ def fetch_results(SEASON, ROUNDS):
 
             driver_number = position.get('number')
             driver_name = f"{driver.get('givenName')} {driver.get('familyName')}"
+            driver_name = normalize_driver_name(driver_name)  # Normalize name
             driver_dob = driver.get('dateOfBirth')
             driver_nation = driver.get('nationality')
 
@@ -332,7 +402,7 @@ def fetch_results(SEASON, ROUNDS):
         results_info[circuit_id] = results_race
         race_info[circuit_id] = entry_race_core
 
-    return driver_results, constr_results, podiums_driver, podiums_constr, race_info, results_info, fastest_lap_info
+    return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, race_info, results_info, fastest_lap_info
 
 
 def fetch_quali(SEASON, ROUNDS):
@@ -348,7 +418,13 @@ def fetch_quali(SEASON, ROUNDS):
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/qualifying/"
 
         response = requests.get(url)
-        data = response.json()['MRData']['RaceTable']['Races']
+        
+        # Handle empty responses for races that haven't happened yet
+        try:
+            data = response.json()['MRData']['RaceTable']['Races']
+        except (requests.exceptions.JSONDecodeError, KeyError):
+            print(f'No entry for round {race+1}.')
+            continue
 
         if not data:
             print(f'No entry for round {race+1}.')
@@ -383,6 +459,7 @@ def fetch_quali(SEASON, ROUNDS):
             driver_number = result.get('number')
             driver_id = driver.get('code')
             driver_name = f"{driver.get('givenName')} {driver.get('familyName')}"
+            driver_name = normalize_driver_name(driver_name)  # Normalize name
             driver_dob = driver.get('dateOfBirth')
             driver_nation = driver.get('nationality')
 
@@ -458,10 +535,6 @@ def normalize_driver(data):
         "Sauber": "Sauber",
     }
 
-    DRIVER_FIX = {
-        "Andrea Kimi Antonelli": "Kimi Antonelli",
-    }
-
     items = data.values() if isinstance(data, dict) else data
     keyed = {}
     for d in items:
@@ -469,8 +542,9 @@ def normalize_driver(data):
         if dd.get("team") in TEAM_FIX:
             dd["team"] = TEAM_FIX[dd["team"]]
 
-        if dd.get("name") in DRIVER_FIX:
-            dd["name"] = DRIVER_FIX[dd["name"]]
+        # Normalize driver name
+        if dd.get("name"):
+            dd["name"] = normalize_driver_name(dd["name"])
 
         n = dd.get("number")
         try:
@@ -500,10 +574,6 @@ def normalize_constr(data):
         "Sauber": "Sauber",
     }
 
-    DRIVER_FIX = {
-        "Andrea Kimi Antonelli": "Kimi Antonelli"
-    }
-
     items = data.values() if isinstance(data, dict) else data
     keyed = {}
     for d in items:
@@ -511,9 +581,10 @@ def normalize_constr(data):
         if dd.get("name") in TEAM_FIX:
             dd["name"] = TEAM_FIX[dd["name"]]
 
-        for driver in dd.get("drivers"):
-            if driver["name"] in DRIVER_FIX:
-                driver["name"] = DRIVER_FIX[driver["name"]]
+        # Normalize driver names in constructor's driver list
+        for driver in dd.get("drivers", []):
+            if driver.get("name"):
+                driver["name"] = normalize_driver_name(driver["name"])
 
         did = dd.get("constr_id")
         if did:
@@ -539,7 +610,7 @@ def combine_data(SEASON, ROUNDS):
     driver_standings = fetch_driver_standings(SEASON)
 
     #race results
-    driver_results, constr_results, driver_podiums, constr_podiums, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)
+    driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)
 
     # qualification results
     quali_info = fetch_quali(SEASON, ROUNDS)
@@ -559,6 +630,7 @@ def combine_data(SEASON, ROUNDS):
 
         st = dict(driver_standings.get(did, {}))                            # driver standings copy
         st["podiums"] = driver_podiums.get(did, 0)                          # add podiums to standings
+        st["dnf_count"] = driver_dnfs.get(did, 0)                           # add DNF count to standings
         driver_core_all["standings"] = st                                   # add standings to all drivers
         driver_core_indiv["standings"] = st                                 # add standings to individual drivers
 
@@ -602,7 +674,9 @@ def combine_data(SEASON, ROUNDS):
         constr_core_indiv["drivers"] = drivers_with_standings                   # add drivers to individual constr
 
         constr_core_all["standings"]["podiums"] = constr_podiums.get(cid, 0)    # add podiums to standings
+        constr_core_all["standings"]["dnf_count"] = constr_dnfs.get(cid, 0)     # add DNF count to standings
         constr_core_indiv["standings"]["podiums"] = constr_podiums.get(cid, 0)  # add podiums to standings
+        constr_core_indiv["standings"]["dnf_count"] = constr_dnfs.get(cid, 0)   # add DNF count to standings
 
         res  = list(constr_results.get(cid, []))                                # constr results
         constr_core_indiv["results"] = res                                      # add results to individual constr
@@ -701,11 +775,9 @@ def make_jsons(OUT_DIR, SEASON, ROUNDS):
         print(f"Wrote {path}")
 
 
-
 if __name__ == "__main__":
-    season = 2025
-    rounds_no = 24
-    OUT_DIR = f'data/{season}/'
-    make_jsons(OUT_DIR, season, rounds_no)
+    # Use settings from config file
+    OUT_DIR = f'{OUTPUT_BASE_DIR}/{SEASON}/'
+    make_jsons(OUT_DIR, SEASON, ROUNDS)
 
 

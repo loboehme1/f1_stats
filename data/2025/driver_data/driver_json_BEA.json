@@ -1,5 +1,6 @@
 {
   "driver_id": "BEA",
+  "original_driver_id": "bearman",
   "name": "Oliver Bearman",
   "team": "Haas",
   "number": 87,
@@ -16,7 +17,8 @@
     "position": 11,
     "points": 40,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 2
   },
   "results": [
     {

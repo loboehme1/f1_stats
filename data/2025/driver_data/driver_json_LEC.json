@@ -1,5 +1,6 @@
 {
   "driver_id": "LEC",
+  "original_driver_id": "leclerc",
   "name": "Charles Leclerc",
   "team": "Ferrari",
   "number": 16,
@@ -16,7 +17,8 @@
     "position": 5,
     "points": 214,
     "wins": 0,
-    "podiums": 7
+    "podiums": 7,
+    "dnf_count": 3
   },
   "results": [
     {

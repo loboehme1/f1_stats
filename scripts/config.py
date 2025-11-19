@@ -1,0 +1,17 @@
+# Configuration file for F1 data fetching scripts
+
+# Season settings
+SEASON = 2025
+ROUNDS = 24
+
+# API settings
+API_BASE_URL = "https://api.jolpi.ca/ergast/f1"
+API_TIMEOUT = 30  # seconds - higher timeout in case API is busy
+API_RETRY_DELAY = 0.9  # seconds between paginated requests
+
+# Output settings
+OUTPUT_BASE_DIR = "/home/lorena/f1_statistics/f1_stats/data"
+
+# Script behavior
+SKIP_EXISTING_FILES = True  # Set to False to regenerate all files
+VERBOSE_LOGGING = True  # Set to False for less output

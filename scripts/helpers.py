@@ -79,56 +79,69 @@ def color_constr(constr_id):
     return constr_colors.get(constr_id) or "#FFFFFF"  # default white
 
 
-def code_to_id(driver_id):
-    driver_code = {
-        # McLaren
-        "NOR": "norris", "PIA": "piastri",
-        # Red Bull
-        "VER": "verstappen", "TSU": "tsunoda",
-        # Ferrari
-        "LEC": "leclerc", "HAM": "hamilton",
-        # Mercedes
-        "RUS": "russell", "ANT": "antonelli",
-        # Aston Martin
-        "ALO": "alonso", "STR": "stroll",
-        # Williams
-        "ALB": "albon", "SAI": "sainz",
-        # Alpine
-        "GAS": "gasly", "DOO": "doohan",
-        "COL": "colapinto",
-        # Haas
-        "OCO": "ocon", "BEA": "bearman",
-        # RB (Visa Cash App RB)
-        "LAW": "lawson", "HAD": "hadjar",
-        # Stake Sauber
-        "BOR": "bortoleto", "HUL": "hulkenberg"
-    }
+import json
+import os
+from config import OUTPUT_BASE_DIR, SEASON
 
-    return driver_code.get(driver_id) or driver_id
+# Cache for loaded mappings
+_driver_mappings = None
+
+def _load_driver_mappings():
+    """Load driver mappings from JSON file."""
+    global _driver_mappings
+    
+    if _driver_mappings is not None:
+        return _driver_mappings
+    
+    mapping_file = os.path.join(OUTPUT_BASE_DIR, str(SEASON), "driver_mappings.json")
+    
+    try:
+        with open(mapping_file, 'r') as f:
+            _driver_mappings = json.load(f)
+    except FileNotFoundError:
+        # This might happen if make_jsons.py hasn't run yet
+        # Return empty dicts to avoid crashes, but functions will fallback
+        _driver_mappings = {"id_to_code": {}, "code_to_id": {}}
+    except Exception as e:
+        print(f"Error loading driver mappings: {e}")
+        _driver_mappings = {"id_to_code": {}, "code_to_id": {}}
+    
+    return _driver_mappings
+
+
+def code_to_id(driver_code):
+    """
+    Convert driver code (e.g. 'VER') to original driver ID (e.g. 'verstappen').
+    Uses dynamically generated mappings.
+    """
+    mappings = _load_driver_mappings()
+    return mappings.get("code_to_id", {}).get(driver_code) or driver_code
 
 def id_to_code(driver_id):
-    driver_code = {
-        # McLaren
-        "norris": "NOR", "piastri": "PIA",
-        # Red Bull
-        "verstappen": "VER", "tsunoda": "TSU",
-        # Ferrari
-        "leclerc": "LEC", "hamilton": "HAM",
-        # Mercedes
-        "russell": "RUS", "antonelli": "ANT",
-        # Aston Martin
-        "alonso": "ALO", "stroll": "STR",
-        # Williams
-        "albon": "ALB", "sainz": "SAI",
-        # Alpine
-        "gasly": "GAS", "doohan": "DOO",
-        "colapinto": "COL",
-        # Haas
-        "ocon": "OCO", "bearman": "BEA",
-        # RB (Visa Cash App RB)
-        "lawson": "LAW", "hadjar": "HAD",
-        # Stake Sauber
-        "bortoleto": "BOR", "hulkenberg": "HUL"
-    }
+    """
+    Convert driver ID from API format to driver code.
+    Handles formats like 'max_verstappen' -> 'VER' or 'verstappen' -> 'VER'
+    Uses dynamically generated mappings.
+    """
+    if not driver_id:
+        return driver_id
 
-    return driver_code.get(driver_id) or driver_id
+    mappings = _load_driver_mappings()
+    return mappings.get("id_to_code", {}).get(driver_id) or driver_id.upper()[:3]
+
+
+def normalize_driver_name(name):
+    """
+    Normalize driver names to their preferred/shortened versions.
+    
+    Args:
+        name (str): Full driver name as it appears in the API
+        
+    Returns:
+        str: Normalized driver name
+    """
+    DRIVER_NAME_FIXES = {
+        "Andrea Kimi Antonelli": "Kimi Antonelli",
+    }
+    
+    return DRIVER_NAME_FIXES.get(name, name)

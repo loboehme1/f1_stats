@@ -1,5 +1,6 @@
 {
   "driver_id": "ALB",
+  "original_driver_id": "albon",
   "name": "Alexander Albon",
   "team": "Williams",
   "number": 23,
@@ -16,7 +17,8 @@
     "position": 8,
     "points": 73,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 3
   },
   "results": [
     {

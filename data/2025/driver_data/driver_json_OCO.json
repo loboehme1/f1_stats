@@ -1,5 +1,6 @@
 {
   "driver_id": "OCO",
+  "original_driver_id": "ocon",
   "name": "Esteban Ocon",
   "team": "Haas",
   "number": 31,
@@ -16,7 +17,8 @@
     "position": 16,
     "points": 30,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 1
   },
   "results": [
     {

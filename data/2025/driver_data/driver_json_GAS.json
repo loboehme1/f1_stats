@@ -1,5 +1,6 @@
 {
   "driver_id": "GAS",
+  "original_driver_id": "gasly",
   "name": "Pierre Gasly",
   "team": "Alpine",
   "number": 10,
@@ -16,7 +17,8 @@
     "position": 18,
     "points": 22,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 3
   },
   "results": [
     {

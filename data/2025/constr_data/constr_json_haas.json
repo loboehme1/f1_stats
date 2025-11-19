@@ -12,7 +12,8 @@
     "position": "8",
     "points": "70",
     "wins": "0",
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 3
   },
   "drivers": [
     {

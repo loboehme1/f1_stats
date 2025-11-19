@@ -1,5 +1,6 @@
 {
   "driver_id": "VER",
+  "original_driver_id": "max_verstappen",
   "name": "Max Verstappen",
   "team": "Red Bull",
   "number": 1,
@@ -16,7 +17,8 @@
     "position": 3,
     "points": 341,
     "wins": 5,
-    "podiums": 12
+    "podiums": 12,
+    "dnf_count": 1
   },
   "results": [
     {

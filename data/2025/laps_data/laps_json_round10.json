@@ -3,10 +3,10 @@
     "lap": 1,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -168,10 +168,10 @@
     "lap": 2,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -333,10 +333,10 @@
     "lap": 3,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -498,10 +498,10 @@
     "lap": 4,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -663,10 +663,10 @@
     "lap": 5,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -828,10 +828,10 @@
     "lap": 6,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -993,10 +993,10 @@
     "lap": 7,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -1158,10 +1158,10 @@
     "lap": 8,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -1323,10 +1323,10 @@
     "lap": 9,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -1488,10 +1488,10 @@
     "lap": 10,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -1653,10 +1653,10 @@
     "lap": 11,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -1818,10 +1818,10 @@
     "lap": 12,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2031,10 +2031,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 7,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2188,10 +2188,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 6,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2337,10 +2337,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 4,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2494,10 +2494,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2659,10 +2659,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2824,10 +2824,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -2989,10 +2989,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3154,10 +3154,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3319,10 +3319,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3484,10 +3484,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3649,10 +3649,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3814,10 +3814,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -3979,10 +3979,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4136,10 +4136,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4301,10 +4301,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4466,10 +4466,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4623,10 +4623,10 @@
     "lap": 29,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4788,10 +4788,10 @@
     "lap": 30,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -4953,10 +4953,10 @@
     "lap": 31,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5118,10 +5118,10 @@
     "lap": 32,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5283,10 +5283,10 @@
     "lap": 33,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5448,10 +5448,10 @@
     "lap": 34,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5613,10 +5613,10 @@
     "lap": 35,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5778,10 +5778,10 @@
     "lap": 36,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -5943,10 +5943,10 @@
     "lap": 37,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6108,10 +6108,10 @@
     "lap": 38,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6273,10 +6273,10 @@
     "lap": 39,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6438,10 +6438,10 @@
     "lap": 40,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6603,10 +6603,10 @@
     "lap": 41,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6792,10 +6792,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 4,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -6957,10 +6957,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 4,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7122,10 +7122,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 4,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7279,10 +7279,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7444,10 +7444,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 3,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7601,10 +7601,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7758,10 +7758,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -7915,10 +7915,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8072,10 +8072,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8229,10 +8229,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8386,10 +8386,10 @@
         }
       },
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 2,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8535,10 +8535,10 @@
     "lap": 53,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8692,10 +8692,10 @@
     "lap": 54,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8841,10 +8841,10 @@
     "lap": 55,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -8990,10 +8990,10 @@
     "lap": 56,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9139,10 +9139,10 @@
     "lap": 57,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9288,10 +9288,10 @@
     "lap": 58,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9437,10 +9437,10 @@
     "lap": 59,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9586,10 +9586,10 @@
     "lap": 60,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9735,10 +9735,10 @@
     "lap": 61,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -9884,10 +9884,10 @@
     "lap": 62,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10033,10 +10033,10 @@
     "lap": 63,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10182,10 +10182,10 @@
     "lap": 64,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10331,10 +10331,10 @@
     "lap": 65,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10480,10 +10480,10 @@
     "lap": 66,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10629,10 +10629,10 @@
     "lap": 67,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10770,10 +10770,10 @@
     "lap": 68,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -10911,10 +10911,10 @@
     "lap": 69,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },
@@ -11052,10 +11052,10 @@
     "lap": 70,
     "positions": [
       {
-        "driver_id": "russell",
+        "driver_id": "RUS",
         "position": 1,
         "colors": {
-          "primary": "#FFFFFF",
+          "primary": "#00A19C",
           "secondary": "#B6BABD"
         }
       },

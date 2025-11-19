@@ -1,5 +1,6 @@
 {
   "driver_id": "HUL",
+  "original_driver_id": "hulkenberg",
   "name": "Nico Hülkenberg",
   "team": "Sauber",
   "number": 27,
@@ -16,7 +17,8 @@
     "position": 9,
     "points": 43,
     "wins": 0,
-    "podiums": 1
+    "podiums": 1,
+    "dnf_count": 3
   },
   "results": [
     {

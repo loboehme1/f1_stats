@@ -1,5 +1,6 @@
 {
   "driver_id": "NOR",
+  "original_driver_id": "norris",
   "name": "Lando Norris",
   "team": "McLaren",
   "number": 4,
@@ -16,7 +17,8 @@
     "position": 1,
     "points": 390,
     "wins": 7,
-    "podiums": 17
+    "podiums": 17,
+    "dnf_count": 2
   },
   "results": [
     {

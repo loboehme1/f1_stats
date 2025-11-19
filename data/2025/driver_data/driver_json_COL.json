@@ -1,5 +1,6 @@
 {
   "driver_id": "COL",
+  "original_driver_id": "colapinto",
   "name": "Franco Colapinto",
   "team": "Alpine",
   "number": 43,
@@ -16,7 +17,8 @@
     "position": 20,
     "points": 0,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 1
   },
   "results": [
     {

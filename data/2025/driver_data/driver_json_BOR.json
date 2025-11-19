@@ -1,5 +1,6 @@
 {
   "driver_id": "BOR",
+  "original_driver_id": "bortoleto",
   "name": "Gabriel Bortoleto",
   "team": "Sauber",
   "number": 5,
@@ -16,7 +17,8 @@
     "position": 19,
     "points": 19,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 4
   },
   "results": [
     {

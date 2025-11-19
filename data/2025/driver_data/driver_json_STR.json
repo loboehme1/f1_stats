@@ -1,5 +1,6 @@
 {
   "driver_id": "STR",
+  "original_driver_id": "stroll",
   "name": "Lance Stroll",
   "team": "Aston Martin",
   "number": 18,
@@ -16,7 +17,8 @@
     "position": 15,
     "points": 32,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 0
   },
   "results": [
     {

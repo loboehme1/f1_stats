@@ -1,5 +1,6 @@
 {
   "driver_id": "SAI",
+  "original_driver_id": "sainz",
   "name": "Carlos Sainz",
   "team": "Williams",
   "number": 55,
@@ -16,7 +17,8 @@
     "position": 13,
     "points": 38,
     "wins": 0,
-    "podiums": 1
+    "podiums": 1,
+    "dnf_count": 5
   },
   "results": [
     {

@@ -1,5 +1,6 @@
 {
   "driver_id": "LAW",
+  "original_driver_id": "lawson",
   "name": "Liam Lawson",
   "team": "Racing Bulls",
   "number": 30,
@@ -16,7 +17,8 @@
     "position": 14,
     "points": 36,
     "wins": 0,
-    "podiums": 0
+    "podiums": 0,
+    "dnf_count": 5
   },
   "results": [
     {
