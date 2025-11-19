@@ -1,3 +1,7 @@
+import json
+import os
+from config import OUTPUT_BASE_DIR, SEASON
+
 def color_driver(drv_id):
     driver_colors_primary = {
         # McLaren
@@ -79,9 +83,7 @@ def color_constr(constr_id):
     return constr_colors.get(constr_id) or "#FFFFFF"  # default white
 
 
-import json
-import os
-from config import OUTPUT_BASE_DIR, SEASON
+
 
 # Cache for loaded mappings
 _driver_mappings = None

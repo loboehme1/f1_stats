@@ -114,7 +114,6 @@ def fetch_driver_data(SEASON):
     try:
         with open(mapping_file, 'w', encoding='utf-8') as f:
             json.dump(mappings, f, indent=2)
-        print(f"Generated driver mappings at {mapping_file}")
     except Exception as e:
         print(f"Failed to save driver mappings: {e}")
 
@@ -509,8 +508,6 @@ def fetch_quali(SEASON, ROUNDS):
         result_per_race.append(fastest_per_q)
 
         quali_results[circuit_id] = result_per_race
-
-    print(quali_results)
 
     return quali_results
     
