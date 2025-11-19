@@ -88,7 +88,7 @@ def code_to_id(driver_id):
         # Ferrari
         "LEC": "leclerc", "HAM": "hamilton",
         # Mercedes
-        "RUS": "russel", "ANT": "antonelli",
+        "RUS": "russell", "ANT": "antonelli",
         # Aston Martin
         "ALO": "alonso", "STR": "stroll",
         # Williams
