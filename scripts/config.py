@@ -10,7 +10,7 @@ API_TIMEOUT = 30  # seconds - higher timeout in case API is busy
 API_RETRY_DELAY = 0.9  # seconds between paginated requests
 
 # Output settings
-OUTPUT_BASE_DIR = "/home/lorena/f1_statistics/f1_stats/data"
+OUTPUT_BASE_DIR = "./data"
 
 # Script behavior
 SKIP_EXISTING_FILES = True  # Set to False to regenerate all files
