@@ -139,6 +139,19 @@
   },
   {
     "driver_id": "DOO",
+    "original_driver_id": "doohan",
+    "name": "Jack Doohan",
+    "team": "Alpine",
+    "number": 7,
+    "nationality": "Australian",
+    "date_of_birth": "2003-01-20",
+    "assets": {
+      "profile_photo": "link1"
+    },
+    "colors": {
+      "primary": "#f743e8",
+      "secondary": "#B6BABD"
+    },
     "standings": {
       "position": 21,
       "points": 0,

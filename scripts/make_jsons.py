@@ -6,7 +6,7 @@ import os
 from collections import OrderedDict, defaultdict
 from datetime import datetime
 
-from helpers import color_driver, color_constr, normalize_driver_name
+from helpers import color_driver, color_constr, normalize_driver_name, normalize_constr_name
 from config import API_TIMEOUT, SEASON, ROUNDS, OUTPUT_BASE_DIR
 
 
@@ -126,8 +126,12 @@ def fetch_constr_data(SEASON):
 
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/constructorstandings/"
 
-    response = requests.get(url)
-    results = response.json()['MRData']
+    try:
+        response = requests.get(url)
+        results = response.json()['MRData']
+    except Exception as e:
+        print(f"Failed to fetch constructor data: {e}")
+        return {}
 
     constructors = results['StandingsTable']['StandingsLists'][0]['ConstructorStandings']
 
@@ -162,7 +166,7 @@ def fetch_constr_data(SEASON):
 
 # fetch current standings data fro driverStandings
     # position, points, wins
-def fetch_driver_standings(SEASON):
+def fetch_driver_standings(SEASON, driver_info_old, constr_info_old):
 
     print("Fetch driver standings")
 
@@ -170,8 +174,12 @@ def fetch_driver_standings(SEASON):
 
     url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/last/driverStandings/"
 
-    response = requests.get(url)
-    data = response.json()
+    try:
+        response = requests.get(url)
+        data = response.json()
+    except Exception as e:
+        print(f"Failed to fetch driver standings: {e}")
+        return {}
 
     standings_drivers = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0].get("DriverStandings", [])
 
@@ -181,6 +189,37 @@ def fetch_driver_standings(SEASON):
         constr_info = driver.get('Constructors', {})
 
         driver_id = driver_info.get('code', '')
+
+        if driver_id not in driver_info_old:
+            original_driver_id = driver_info.get('driverId', '')
+            name = driver_info.get('givenName', '') + ' ' + driver_info.get('familyName', '')
+            team = constr_info[0].get('name', 'Unknown')
+            number = driver_info.get('number', driver_info.get('permanentNumber', ''))
+            nationality = driver_info.get('nationality', '')
+            dob = driver_info.get('dateOfBirth', '')
+            assets = {'profile_photo': 'link1'} ### if needed profile pic
+            colors = {'primary': color_driver(driver_id)[0], 'secondary': color_driver(driver_id)[1]}
+
+            constr_id = constr_info[0].get('constructorId', '')
+
+            driver_info_old[driver_id] = {
+                'driver_id': driver_id,
+                'original_driver_id': original_driver_id,
+                'name': name,
+                'team': team,
+                'number': number,
+                'nationality': nationality,
+                'date_of_birth': dob,
+                'assets': assets,
+                'colors': colors
+            }
+
+            constr_info_old[constr_id].append({
+                'driver_id': driver_id,
+                'name': name,
+                'number': number,
+            })
+            
 
         # data to add for standings
         pos = driver.get("position")
@@ -196,7 +235,7 @@ def fetch_driver_standings(SEASON):
 
         driver_standings[driver_id] = entry
 
-    return driver_standings
+    return driver_standings, driver_info_old, constr_info_old
 
 
 # fetch results for each round for each driver from results
@@ -227,8 +266,12 @@ def fetch_results(SEASON, ROUNDS):
 
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/results/"
 
-        response = requests.get(url)
-        results = response.json()['MRData']['RaceTable']['Races']
+        try:
+            response = requests.get(url)
+            results = response.json()['MRData']['RaceTable']['Races']
+        except Exception as e:
+            print(f"Failed to fetch results for race {race+1}: {e}")
+            continue
 
         # check if race data has been published yet
         if not results:
@@ -512,32 +555,18 @@ def fetch_quali(SEASON, ROUNDS):
     return quali_results
     
 
-def fetch_lap_data(SEASON, ROUNDS):
-    pass
-
 # reorganize data and standardize team names
 def normalize_driver(data):
     """Dict keyed by driver_id → driver dict (your desired structure)."""
-
-    TEAM_FIX = {
-        "Haas F1 Team": "Haas",
-        "Alpine F1 Team": "Alpine",
-        "RB F1 Team": "Racing Bulls",
-        "Red Bull": "Red Bull",
-        "McLaren": "McLaren",
-        "Aston Martin": "Aston Martin",
-        "Williams": "Williams",
-        "Mercedes": "Mercedes",
-        "Ferrari": "Ferrari",
-        "Sauber": "Sauber",
-    }
 
     items = data.values() if isinstance(data, dict) else data
     keyed = {}
     for d in items:
         dd = dict(d)
-        if dd.get("team") in TEAM_FIX:
-            dd["team"] = TEAM_FIX[dd["team"]]
+
+        # Normalize team name
+        if dd.get("team"):
+            dd["team"] = normalize_constr_name(dd["team"])  
 
         # Normalize driver name
         if dd.get("name"):
@@ -604,7 +633,7 @@ def combine_data(SEASON, ROUNDS):
     constr_info = fetch_constr_data(SEASON)
 
     #data standings
-    driver_standings = fetch_driver_standings(SEASON)
+    driver_standings, driver_info, constr_driver_info = fetch_driver_standings(SEASON, driver_info, constr_driver_info)
 
     #race results
     driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)

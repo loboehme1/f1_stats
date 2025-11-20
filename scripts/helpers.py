@@ -146,4 +146,21 @@ def normalize_driver_name(name):
         "Andrea Kimi Antonelli": "Kimi Antonelli",
     }
     
-    return DRIVER_NAME_FIXES.get(name, name)
+    return DRIVER_NAME_FIXES.get(name) or name
+
+
+def normalize_constr_name(name):
+    TEAM_FIX = {
+        "Haas F1 Team": "Haas",
+        "Alpine F1 Team": "Alpine",
+        "RB F1 Team": "Racing Bulls",
+        "Red Bull": "Red Bull",
+        "McLaren": "McLaren",
+        "Aston Martin": "Aston Martin",
+        "Williams": "Williams",
+        "Mercedes": "Mercedes",
+        "Ferrari": "Ferrari",
+        "Sauber": "Sauber",
+    }
+    
+    return TEAM_FIX.get(name) or name
