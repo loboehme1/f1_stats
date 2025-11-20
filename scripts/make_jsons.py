@@ -260,6 +260,8 @@ def fetch_results(SEASON, ROUNDS):
     # store DNF/retirement counts for drivers and constructors
     dnf_driver = {}
     dnf_constr = {}
+    disqualified_driver = {}
+    disqualified_constr = {}
 
     # go through each race
     for race in range(ROUNDS):
@@ -351,11 +353,17 @@ def fetch_results(SEASON, ROUNDS):
             # Initialize if not exists
             dnf_driver.setdefault(driver_id, 0)
             dnf_constr.setdefault(constr_id, 0)
+            disqualified_driver.setdefault(driver_id, 0)
+            disqualified_constr.setdefault(constr_id, 0)
             
             status_lower = status.lower()
-            if status_lower not in ['finished', '+1 lap', '+2 laps', '+3 laps']:
+            if status_lower not in ['finished', '+1 lap', '+2 laps', '+3 laps', 'disqualified']:
                 dnf_driver[driver_id] += 1
                 dnf_constr[constr_id] += 1
+
+            if status_lower == 'disqualified':
+                disqualified_driver[driver_id] += 1
+                disqualified_constr[constr_id] += 1
 
             race_points[constr_id] += points
 
@@ -444,7 +452,7 @@ def fetch_results(SEASON, ROUNDS):
         results_info[circuit_id] = results_race
         race_info[circuit_id] = entry_race_core
 
-    return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, race_info, results_info, fastest_lap_info
+    return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, disqualified_driver, disqualified_constr, race_info, results_info, fastest_lap_info
 
 
 def fetch_quali(SEASON, ROUNDS):
@@ -636,7 +644,7 @@ def combine_data(SEASON, ROUNDS):
     driver_standings, driver_info, constr_driver_info = fetch_driver_standings(SEASON, driver_info, constr_driver_info)
 
     #race results
-    driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)
+    driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, driver_disq, constr_disq, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)
 
     # qualification results
     quali_info = fetch_quali(SEASON, ROUNDS)
@@ -656,7 +664,8 @@ def combine_data(SEASON, ROUNDS):
 
         st = dict(driver_standings.get(did, {}))                            # driver standings copy
         st["podiums"] = driver_podiums.get(did, 0)                          # add podiums to standings
-        st["dnf_count"] = driver_dnfs.get(did, 0)                           # add DNF count to standings
+        st["dnf_count"] = driver_dnfs.get(did, 0)    
+        st["disq_count"] = driver_disq.get(did, 0)                       # add DNF count to standings
         driver_core_all["standings"] = st                                   # add standings to all drivers
         driver_core_indiv["standings"] = st                                 # add standings to individual drivers
 
@@ -701,8 +710,10 @@ def combine_data(SEASON, ROUNDS):
 
         constr_core_all["standings"]["podiums"] = constr_podiums.get(cid, 0)    # add podiums to standings
         constr_core_all["standings"]["dnf_count"] = constr_dnfs.get(cid, 0)     # add DNF count to standings
+        constr_core_all["standings"]["disq_count"] = constr_disq.get(cid, 0)    # add disqualified count to standings
         constr_core_indiv["standings"]["podiums"] = constr_podiums.get(cid, 0)  # add podiums to standings
         constr_core_indiv["standings"]["dnf_count"] = constr_dnfs.get(cid, 0)   # add DNF count to standings
+        constr_core_indiv["standings"]["disq_count"] = constr_disq.get(cid, 0)  # add disqualified count to standings
 
         res  = list(constr_results.get(cid, []))                                # constr results
         constr_core_indiv["results"] = res                                      # add results to individual constr

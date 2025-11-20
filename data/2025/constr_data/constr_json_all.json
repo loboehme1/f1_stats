@@ -14,7 +14,8 @@
       "points": "22",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 6
+      "dnf_count": 5,
+      "disq_count": 1
     },
     "drivers": [
       {
@@ -67,7 +68,8 @@
       "points": "72",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 5
+      "dnf_count": 5,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -109,7 +111,8 @@
       "points": "362",
       "wins": "0",
       "podiums": 7,
-      "dnf_count": 6
+      "dnf_count": 4,
+      "disq_count": 2
     },
     "drivers": [
       {
@@ -151,7 +154,8 @@
       "points": "70",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 3
+      "dnf_count": 3,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -193,7 +197,8 @@
       "points": "756",
       "wins": "14",
       "podiums": 31,
-      "dnf_count": 3
+      "dnf_count": 3,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -235,7 +240,8 @@
       "points": "398",
       "wins": "2",
       "podiums": 10,
-      "dnf_count": 4
+      "dnf_count": 4,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -277,7 +283,8 @@
       "points": "82",
       "wins": "0",
       "podiums": 1,
-      "dnf_count": 6
+      "dnf_count": 6,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -319,7 +326,8 @@
       "points": "366",
       "wins": "5",
       "podiums": 12,
-      "dnf_count": 3
+      "dnf_count": 3,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -361,7 +369,8 @@
       "points": "62",
       "wins": "0",
       "podiums": 1,
-      "dnf_count": 7
+      "dnf_count": 6,
+      "disq_count": 1
     },
     "drivers": [
       {
@@ -403,7 +412,8 @@
       "points": "111",
       "wins": "0",
       "podiums": 1,
-      "dnf_count": 8
+      "dnf_count": 8,
+      "disq_count": 0
     },
     "drivers": [
       {
