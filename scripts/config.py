@@ -3,6 +3,11 @@
 # Season settings
 SEASON = 2025
 ROUNDS = 24
+SPRINTS = 6
+
+# Pagination settings
+OFFSET = 0
+LIMIT = 1000
 
 # API settings
 API_BASE_URL = "https://api.jolpi.ca/ergast/f1"

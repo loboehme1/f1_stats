@@ -1,13 +1,14 @@
 import requests
 import json
+import os
+import time
+
 from collections import defaultdict
 from itertools import chain
-import os
-from collections import OrderedDict, defaultdict
 from datetime import datetime
 
 from helpers import color_driver, color_constr, normalize_driver_name, normalize_constr_name
-from config import API_TIMEOUT, SEASON, ROUNDS, OUTPUT_BASE_DIR
+from config import API_TIMEOUT, API_RETRY_DELAY, SEASON, ROUNDS, SPRINTS, OUTPUT_BASE_DIR
 
 
 ####### Make driver json with all drivers ######
@@ -166,7 +167,7 @@ def fetch_constr_data(SEASON):
 
 # fetch current standings data fro driverStandings
     # position, points, wins
-def fetch_driver_standings(SEASON, driver_info_old, constr_info_old):
+def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go, sprints_to_go):
 
     print("Fetch driver standings")
 
@@ -181,7 +182,12 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old):
         print(f"Failed to fetch driver standings: {e}")
         return {}
 
-    standings_drivers = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0].get("DriverStandings", [])
+    standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0]
+    standings_drivers = standings_info.get("DriverStandings", [])
+
+    highest_points = standings_drivers[0].get('Driver', {}).get('points', 0)
+    points_to_go = (races_to_go * 25) + (sprints_to_go * 8)
+    print(f'{points_to_go}, {races_to_go}, {sprints_to_go}')
 
     for driver in standings_drivers:
 
@@ -190,7 +196,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old):
 
         driver_id = driver_info.get('code', '')
 
-        if driver_id not in driver_info_old:
+        if driver_info_old is not None and driver_id not in driver_info_old:
             original_driver_id = driver_info.get('driverId', '')
             name = driver_info.get('givenName', '') + ' ' + driver_info.get('familyName', '')
             team = constr_info[0].get('name', 'Unknown')
@@ -227,10 +233,17 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old):
         wins = driver.get("wins")
         # podiums -> fetched later
 
+        # championship contender
+        if int(points) + int(points_to_go) >= int(highest_points):
+            contender = True
+        else:
+            contender = False
+
         entry = {
             'position': int(pos), 
             'points': int(points), 
-            'wins': int(wins)
+            'wins': int(wins),
+            'contender': contender
         }
 
         driver_standings[driver_id] = entry
@@ -263,6 +276,8 @@ def fetch_results(SEASON, ROUNDS):
     disqualified_driver = {}
     disqualified_constr = {}
 
+    races_to_go = 0
+
     # go through each race
     for race in range(ROUNDS):
 
@@ -278,6 +293,7 @@ def fetch_results(SEASON, ROUNDS):
         # check if race data has been published yet
         if not results:
             print(f'No entry for round {race+1}.')
+            races_to_go += 1
             continue
 
         results = results[0]
@@ -452,7 +468,7 @@ def fetch_results(SEASON, ROUNDS):
         results_info[circuit_id] = results_race
         race_info[circuit_id] = entry_race_core
 
-    return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, disqualified_driver, disqualified_constr, race_info, results_info, fastest_lap_info
+    return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, disqualified_driver, disqualified_constr, race_info, results_info, fastest_lap_info, races_to_go
 
 
 def fetch_quali(SEASON, ROUNDS):
@@ -460,6 +476,7 @@ def fetch_quali(SEASON, ROUNDS):
     print("Fetch qualification data")
 
     quali_results = defaultdict(list)
+    quali_race_info = {}  # Store circuit metadata for races with qualifying data
 
     time_format = '%M:%S.%f'
 
@@ -482,10 +499,33 @@ def fetch_quali(SEASON, ROUNDS):
 
         data = data[0]
 
+        # Extract circuit metadata
+        circuit = data.get('Circuit', {})
+        circuit_id = circuit.get('circuitId')
+        circuit_name = circuit.get('circuitName')
+        
+        race_location = circuit.get('Location', {})
+        race_country = race_location.get('country')
+        race_city = race_location.get('locality')
+        
+        round_no = data.get('round', '')
+        race_name = data.get('raceName', '')
+        race_date = data.get('date', '')
+        race_time = data.get('time', '')
+        
+        # Store circuit metadata
+        quali_race_info[circuit_id] = {
+            'circuit_id': circuit_id,
+            'round': round_no,
+            'race_name': race_name,
+            'circuit_name': circuit_name,
+            'country': race_country,
+            'city': race_city,
+            'date': race_date,
+            'time': race_time
+        }
 
         qualification = data['QualifyingResults']
-
-        circuit_id = data['Circuit'].get('circuitId')
 
         result_per_race = []
 
@@ -560,8 +600,119 @@ def fetch_quali(SEASON, ROUNDS):
 
         quali_results[circuit_id] = result_per_race
 
-    return quali_results
+    return quali_results, quali_race_info
     
+def fetch_sprint(SEASON, ROUNDS, sprint_rounds):
+
+    print("Fetch sprint data")
+
+    sprint_dict = defaultdict(list)
+
+    sprints_to_go = 0
+
+    for race in range(ROUNDS):
+
+        url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/sprint/"
+
+        try:
+            response = requests.get(url)
+            sprints = response.json()['MRData']['RaceTable']['Races']
+        except Exception as e:
+            print(f"Failed to fetch results for race {race+1}: {e}")
+            continue
+
+        # check if race data has been published yet
+        if not sprints:
+            if race+1 in sprint_rounds:
+                print(f'No entry for round {race+1}.')
+                sprints_to_go += 1
+            continue
+
+        #sprints = sprints[0]
+
+        for sprint in sprints:
+
+            circuit_id = sprint["Circuit"]["circuitId"]
+            round_no = sprint["round"]
+            race_name = sprint["raceName"]
+            circuit_name = sprint["Circuit"]["circuitName"]
+            country = sprint["Circuit"]["Location"]["country"]
+            city = sprint["Circuit"]["Location"]["locality"]
+            sprint_date = sprint["date"]
+            sprint_time = sprint["time"]
+
+            sprint_res = sprint["SprintResults"]
+
+            results = []
+
+            for result in sprint_res:
+                points = result["points"]
+                end_pos = result["position"]
+                start_pos = result["grid"]
+                completed_laps = result["laps"]
+                status = result["status"]
+                #driver_time = result["Time"]["time"]
+
+
+                driver_info = result["Driver"]
+                driver_id = driver_info["driverId"]
+                driver_name = f'{driver_info["givenName"]} {driver_info["familyName"]}'
+                driver_number = result["number"]
+                driver_dob = driver_info["dateOfBirth"]
+                driver_nationality = driver_info["nationality"]
+
+                driver = {
+                    "driver_id": driver_id,
+                    "driver_name": driver_name,
+                    "driver_number": driver_number,
+                    "driver_dob": driver_dob,
+                    "driver_nationality": driver_nationality,
+                }
+                
+                constr = result["Constructor"]
+                constructor_id = constr["constructorId"]
+                constructor_name = constr["name"]
+                constructor_nationality = constr["nationality"]
+
+                constructor = {
+                    "constructor_id": constructor_id,
+                    "constructor_name": constructor_name,
+                    "constructor_nationality": constructor_nationality,
+                }
+
+                results.append({
+                    "points": points,
+                    "end_pos": end_pos,
+                    "start_pos": start_pos,
+                    "completed_laps": completed_laps,
+                    "status": status,
+                    #"time": driver_time,
+                    "driver": driver,
+                    "constructor": constructor,
+                })
+
+            laps = results[0].get("completed_laps", 0)
+
+            sprint_dict[circuit_id].append(
+                {
+                    "circuit_id": circuit_id,
+                    "round_no": round_no,
+                    "race_name": race_name,
+                    "circuit_name": circuit_name,
+                    "laps": laps,
+                    "country": country,
+                    "city": city,
+                    "date": sprint_date,
+                    "time": sprint_time,
+                    "SprintRresults": results,
+                }
+            )
+
+    return sprint_dict, sprints_to_go
+
+
+# Now you have one big dict:
+# all_laps[(circuit_id, lap_no, driver_id)] -> "1:40.123"
 
 # reorganize data and standardize team names
 def normalize_driver(data):
@@ -629,9 +780,12 @@ def normalize_constr(data):
 
 
 # combine data for individual jsons and json with all drivers
-def combine_data(SEASON, ROUNDS):
+def combine_data(SEASON):
 
     print("Combine data for driver json")
+
+    # get rounds, sprints, sprint rounds:
+    rounds, sprints, sprint_rounds = count_rounds_sprints()
 
     ## run individual processes:
 
@@ -640,14 +794,19 @@ def combine_data(SEASON, ROUNDS):
 
     constr_info = fetch_constr_data(SEASON)
 
-    #data standings
-    driver_standings, driver_info, constr_driver_info = fetch_driver_standings(SEASON, driver_info, constr_driver_info)
-
     #race results
-    driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, driver_disq, constr_disq, race_info, results_info, lap_info = fetch_results(SEASON, ROUNDS)
+    driver_results, constr_results, driver_podiums, constr_podiums, driver_dnfs, constr_dnfs, driver_disq, constr_disq, race_info, results_info, lap_info, races_to_go = fetch_results(SEASON, rounds)
 
-    # qualification results
-    quali_info = fetch_quali(SEASON, ROUNDS)
+    # sprint results
+    sprint_info, sprints_to_go = fetch_sprint(SEASON, rounds, sprint_rounds)
+
+    #data standings
+    driver_standings, driver_info, constr_driver_info = fetch_driver_standings(SEASON, driver_info, constr_driver_info, races_to_go, sprints_to_go)
+
+
+    # qualification results (includes circuit metadata for upcoming races)
+    quali_info, quali_race_info = fetch_quali(SEASON, rounds)
+
 
     ## combine drivers
 
@@ -731,19 +890,45 @@ def combine_data(SEASON, ROUNDS):
     race_comb_all = {}
     race_comb_indiv = {}
 
-    all_ids = chain(race_info.keys())
+    # Include circuits from both race_info and quali_info (for races that haven't happened yet)
+    all_ids = set(chain(race_info.keys(), quali_info.keys()))
     for rid in sorted(all_ids):
-        race_core_all = dict(race_info.get(rid, {}))        # core info all races
-        race_core_indiv = dict(race_info.get(rid, {}))      # core info individual races
+        # Use race_info if available, otherwise use quali_race_info for upcoming races
+        if rid in race_info:
+            race_core_all = dict(race_info.get(rid, {}))
+            race_core_indiv = dict(race_info.get(rid, {}))
+        elif rid in quali_race_info:
+            # Race hasn't happened yet, but we have qualifying data
+            race_core_all = dict(quali_race_info.get(rid, {}))
+            race_core_indiv = dict(quali_race_info.get(rid, {}))
+        else:
+            # Shouldn't happen, but just in case
+            race_core_all = {}
+            race_core_indiv = {}
 
         # Get results and quali data for this circuit
         race_results = results_info.get(rid, [])
         quali_results = quali_info.get(rid, [])
         lap_results = lap_info.get(rid, [])
+
+        if sprint_info not in [None, {}]:
+            if sprint_info.get(rid, []) != []:
+                sprint_results = sprint_info.get(rid, [])
+                sprint = True
+            else:
+                sprint_results = []
+                sprint = False
+        else:
+            sprint_results = []
+            sprint = False
         
+        race_core_all['sprint'] = sprint
+        
+        race_core_indiv['sprint'] = sprint
         race_core_indiv['fastest_laps'] = lap_results
         race_core_indiv['race_results'] = race_results
         race_core_indiv['quali_results'] = quali_results
+        race_core_indiv['sprint_results'] = sprint_results
         
 
         race_comb_all[rid] = race_core_all                                  # save all constr data
@@ -755,7 +940,7 @@ def combine_data(SEASON, ROUNDS):
     return driver_comb_norm_all, driver_comb_norm_indiv, constr_comb_norm_all, constr_comb_norm_indiv, race_comb_norm_all, race_comb_norm_indiv
 
 
-def make_jsons(OUT_DIR, SEASON, ROUNDS):
+def make_jsons(OUT_DIR, SEASON):
 
     print("Generate jsons")
     
@@ -769,7 +954,7 @@ def make_jsons(OUT_DIR, SEASON, ROUNDS):
     os.makedirs(race_path, exist_ok=True)
     
     # combined dict results + standings, cleanded number + team
-    driver_all, driver_indiv, constr_all, constr_indiv, race_all, race_indiv = combine_data(SEASON, ROUNDS)    
+    driver_all, driver_indiv, constr_all, constr_indiv, race_all, race_indiv = combine_data(SEASON)    
     
     # make driver jsons
     driver_all = list(driver_all.values())
@@ -812,9 +997,36 @@ def make_jsons(OUT_DIR, SEASON, ROUNDS):
         print(f"Wrote {path}")
 
 
+# count rounds and sprint weekends
+def count_rounds_sprints():
+
+    url = f"https://api.jolpi.ca/ergast/f1/2025/races/"
+    response = requests.get(url, params={"limit": 1000, "offset": 0})
+    status = response.status_code
+
+    data = response.json()['MRData']
+
+    races = data['RaceTable']['Races']
+
+    count_sprints = 0
+    count_races = 0
+    sprint_rounds = []
+
+    for race in races:
+        count_races+=1
+
+        sprint = race.get('Sprint')
+        if sprint != None:
+            count_sprints+=1
+            sprint_rounds.append(count_races)
+        
+
+    return count_races, count_sprints, sprint_rounds
+
+
 if __name__ == "__main__":
     # Use settings from config file
     OUT_DIR = f'{OUTPUT_BASE_DIR}/{SEASON}/'
-    make_jsons(OUT_DIR, SEASON, ROUNDS)
+    make_jsons(OUT_DIR, SEASON)
 
 

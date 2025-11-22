@@ -25,6 +25,7 @@
         "position": 1,
         "points": 390,
         "wins": 7,
+        "contender": true,
         "podiums": 17
       }
     },
@@ -36,6 +37,7 @@
         "position": 2,
         "points": 366,
         "wins": 7,
+        "contender": true,
         "podiums": 14
       }
     }

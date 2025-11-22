@@ -13,6 +13,7 @@
     "rank": "1",
     "time": "1:15.743"
   },
+  "sprint": false,
   "fastest_laps": [
     {
       "driver_id": "PIA",
@@ -964,5 +965,6 @@
         "time": "1:11.546"
       }
     }
-  ]
+  ],
+  "sprint_results": []
 }

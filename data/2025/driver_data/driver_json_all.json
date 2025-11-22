@@ -18,6 +18,7 @@
       "position": 8,
       "points": 73,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 3,
       "disq_count": 0
@@ -42,6 +43,7 @@
       "position": 12,
       "points": 40,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 5,
       "disq_count": 0
@@ -66,6 +68,7 @@
       "position": 7,
       "points": 122,
       "wins": 0,
+      "contender": true,
       "podiums": 2,
       "dnf_count": 4,
       "disq_count": 0
@@ -90,6 +93,7 @@
       "position": 11,
       "points": 40,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 2,
       "disq_count": 0
@@ -114,6 +118,7 @@
       "position": 19,
       "points": 19,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 4,
       "disq_count": 0
@@ -138,6 +143,7 @@
       "position": 20,
       "points": 0,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
@@ -162,6 +168,7 @@
       "position": 21,
       "points": 0,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 2,
       "disq_count": 0
@@ -186,6 +193,7 @@
       "position": 18,
       "points": 22,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 2,
       "disq_count": 1
@@ -210,6 +218,7 @@
       "position": 10,
       "points": 43,
       "wins": 0,
+      "contender": true,
       "podiums": 1,
       "dnf_count": 2,
       "disq_count": 0
@@ -234,6 +243,7 @@
       "position": 6,
       "points": 148,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 2,
       "disq_count": 1
@@ -258,6 +268,7 @@
       "position": 9,
       "points": 43,
       "wins": 0,
+      "contender": true,
       "podiums": 1,
       "dnf_count": 2,
       "disq_count": 1
@@ -282,6 +293,7 @@
       "position": 14,
       "points": 36,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 5,
       "disq_count": 0
@@ -306,6 +318,7 @@
       "position": 5,
       "points": 214,
       "wins": 0,
+      "contender": true,
       "podiums": 7,
       "dnf_count": 2,
       "disq_count": 1
@@ -330,6 +343,7 @@
       "position": 1,
       "points": 390,
       "wins": 7,
+      "contender": true,
       "podiums": 17,
       "dnf_count": 2,
       "disq_count": 0
@@ -354,6 +368,7 @@
       "position": 16,
       "points": 30,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
@@ -378,6 +393,7 @@
       "position": 2,
       "points": 366,
       "wins": 7,
+      "contender": true,
       "podiums": 14,
       "dnf_count": 1,
       "disq_count": 0
@@ -402,6 +418,7 @@
       "position": 4,
       "points": 276,
       "wins": 2,
+      "contender": true,
       "podiums": 8,
       "dnf_count": 0,
       "disq_count": 0
@@ -426,6 +443,7 @@
       "position": 13,
       "points": 38,
       "wins": 0,
+      "contender": true,
       "podiums": 1,
       "dnf_count": 5,
       "disq_count": 0
@@ -450,6 +468,7 @@
       "position": 15,
       "points": 32,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
@@ -474,6 +493,7 @@
       "position": 17,
       "points": 28,
       "wins": 0,
+      "contender": true,
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
@@ -498,6 +518,7 @@
       "position": 3,
       "points": 341,
       "wins": 5,
+      "contender": true,
       "podiums": 12,
       "dnf_count": 1,
       "disq_count": 0

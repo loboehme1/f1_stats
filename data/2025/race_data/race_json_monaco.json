@@ -13,6 +13,7 @@
     "rank": "1",
     "time": "1:13.221"
   },
+  "sprint": false,
   "fastest_laps": [
     {
       "driver_id": "NOR",
@@ -992,5 +993,6 @@
         "time": "1:09.954"
       }
     }
-  ]
+  ],
+  "sprint_results": []
 }
