@@ -1,0 +1,6602 @@
+[
+  {
+    "lap": 1,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 4,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 9,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 13,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 14,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 2,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 4,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 3,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 4,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 4,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 4,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 5,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 4,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 6,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 6,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 7,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 7,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 8,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 9,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 10,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 10,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 11,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 13,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 14,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 15,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 11,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 10,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 11,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 12,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 13,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 12,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 12,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 14,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 16,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 18,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 13,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 14,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 19,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 14,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 14,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 15,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 14,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 16,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 14,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 17,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 14,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 18,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 8,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 9,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 13,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 14,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 19,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 8,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 12,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 14,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 18,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 20,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 8,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 9,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 10,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 16,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 17,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 21,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 5,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 6,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 8,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 9,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 11,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 12,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 14,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 16,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 22,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 5,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 6,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 7,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 8,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 12,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 13,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 14,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 16,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 23,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 3,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 4,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 6,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 7,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 8,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 14,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 16,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 24,
+    "positions": [
+      {
+        "driver_id": "PIA",
+        "position": 1,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "VER",
+        "position": 2,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 3,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 4,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 6,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 7,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 8,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 14,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 16,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 17,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 25,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 3,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 4,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 5,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 6,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 7,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 8,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 26,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 7,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 8,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 27,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 19,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 28,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 29,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 30,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 31,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 32,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 33,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 34,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 12,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 13,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 15,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 35,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 11,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 12,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 14,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 15,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 16,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 17,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 18,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 36,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 11,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 12,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 14,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 15,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 17,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 18,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 19,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 37,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 9,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 10,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 13,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 15,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 17,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 18,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 38,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 10,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 11,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 12,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 13,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 14,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 17,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 18,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 39,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 8,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 10,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 11,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 12,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 13,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 14,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 16,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 17,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 18,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  },
+  {
+    "lap": 40,
+    "positions": [
+      {
+        "driver_id": "VER",
+        "position": 1,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "NOR",
+        "position": 2,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RUS",
+        "position": 3,
+        "colors": {
+          "primary": "#00A19C",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "position": 4,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "position": 5,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "position": 6,
+        "colors": {
+          "primary": "#FF8700",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "PER",
+        "position": 7,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "GAS",
+        "position": 8,
+        "colors": {
+          "primary": "#f743e8",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "position": 9,
+        "colors": {
+          "primary": "#f04a4a",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "TSU",
+        "position": 10,
+        "colors": {
+          "primary": "#00008b",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "STR",
+        "position": 11,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "position": 12,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "position": 13,
+        "colors": {
+          "primary": "#09eb24",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "MAG",
+        "position": 14,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "RIC",
+        "position": 15,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "LEC",
+        "position": 16,
+        "colors": {
+          "primary": "#DC0000",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "position": 17,
+        "colors": {
+          "primary": "#46b1eb",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "position": 18,
+        "colors": {
+          "primary": "#0A7968",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "ZHO",
+        "position": 19,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      },
+      {
+        "driver_id": "SAR",
+        "position": 20,
+        "colors": {
+          "primary": "#FFFFFF",
+          "secondary": "#B6BABD"
+        }
+      }
+    ]
+  }
+]

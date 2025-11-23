@@ -201,7 +201,7 @@
       "rank": "1",
       "time": "1:30.634"
     },
-    "sprint": false
+    "sprint": true
   },
   {
     "circuit_id": "monaco",
@@ -252,7 +252,7 @@
       "rank": "1",
       "time": "1:07.694"
     },
-    "sprint": false
+    "sprint": true
   },
   {
     "circuit_id": "rodriguez",
@@ -286,7 +286,7 @@
       "rank": "1",
       "time": "1:37.810"
     },
-    "sprint": false
+    "sprint": true
   },
   {
     "circuit_id": "silverstone",
