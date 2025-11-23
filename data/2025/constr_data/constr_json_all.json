@@ -67,7 +67,7 @@
       "primary": "#0A7968"
     },
     "standings": {
-      "position": "7",
+      "position": "8",
       "points": "72",
       "wins": "0",
       "podiums": 0,
@@ -92,7 +92,7 @@
         "name": "Lance Stroll",
         "number": "18",
         "standings": {
-          "position": 15,
+          "position": 16,
           "points": 32,
           "wins": 0,
           "contender": false,
@@ -113,7 +113,7 @@
     },
     "standings": {
       "position": "4",
-      "points": "371",
+      "points": "378",
       "wins": "0",
       "podiums": 7,
       "dnf_count": 4,
@@ -126,7 +126,7 @@
         "number": "16",
         "standings": {
           "position": 5,
-          "points": 222,
+          "points": 226,
           "wins": 0,
           "contender": false,
           "podiums": 7
@@ -138,7 +138,7 @@
         "number": "44",
         "standings": {
           "position": 6,
-          "points": 149,
+          "points": 152,
           "wins": 0,
           "contender": false,
           "podiums": 0
@@ -157,8 +157,8 @@
       "primary": "#f04a4a"
     },
     "standings": {
-      "position": "8",
-      "points": "70",
+      "position": "7",
+      "points": "73",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 3,
@@ -170,8 +170,8 @@
         "name": "Esteban Ocon",
         "number": "31",
         "standings": {
-          "position": 16,
-          "points": 30,
+          "position": 15,
+          "points": 32,
           "wins": 0,
           "contender": false,
           "podiums": 0
@@ -183,7 +183,7 @@
         "number": "87",
         "standings": {
           "position": 12,
-          "points": 40,
+          "points": 41,
           "wins": 0,
           "contender": false,
           "podiums": 0
@@ -203,11 +203,11 @@
     },
     "standings": {
       "position": "1",
-      "points": "786",
+      "points": "756",
       "wins": "14",
-      "podiums": 32,
+      "podiums": 31,
       "dnf_count": 3,
-      "disq_count": 0
+      "disq_count": 2
     },
     "drivers": [
       {
@@ -216,10 +216,10 @@
         "number": "4",
         "standings": {
           "position": 1,
-          "points": 408,
+          "points": 390,
           "wins": 7,
           "contender": true,
-          "podiums": 18
+          "podiums": 17
         }
       },
       {
@@ -228,7 +228,7 @@
         "number": "81",
         "standings": {
           "position": 2,
-          "points": 378,
+          "points": 366,
           "wins": 7,
           "contender": true,
           "podiums": 14
@@ -248,9 +248,9 @@
     },
     "standings": {
       "position": "2",
-      "points": "423",
+      "points": "431",
       "wins": "2",
-      "podiums": 11,
+      "podiums": 12,
       "dnf_count": 4,
       "disq_count": 0
     },
@@ -261,7 +261,7 @@
         "number": "63",
         "standings": {
           "position": 4,
-          "points": 291,
+          "points": 294,
           "wins": 2,
           "contender": false,
           "podiums": 9
@@ -273,7 +273,7 @@
         "number": "12",
         "standings": {
           "position": 7,
-          "points": 132,
+          "points": 137,
           "wins": 0,
           "contender": false,
           "podiums": 2
@@ -293,7 +293,7 @@
     },
     "standings": {
       "position": "6",
-      "points": "86",
+      "points": "90",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 6,
@@ -306,7 +306,7 @@
         "number": "6",
         "standings": {
           "position": 9,
-          "points": 47,
+          "points": 51,
           "wins": 0,
           "contender": false,
           "podiums": 1
@@ -383,7 +383,7 @@
     },
     "standings": {
       "position": "9",
-      "points": "64",
+      "points": "68",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 7,
@@ -396,7 +396,7 @@
         "number": "27",
         "standings": {
           "position": 10,
-          "points": 45,
+          "points": 49,
           "wins": 0,
           "contender": false,
           "podiums": 1
@@ -428,7 +428,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "117",
+      "points": "121",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 9,
@@ -441,7 +441,7 @@
         "number": "55",
         "standings": {
           "position": 11,
-          "points": 44,
+          "points": 48,
           "wins": 0,
           "contender": false,
           "podiums": 1

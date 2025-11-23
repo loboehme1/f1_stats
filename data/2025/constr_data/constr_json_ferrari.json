@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "371",
+    "points": "378",
     "wins": "0",
     "podiums": 7,
     "dnf_count": 4,
@@ -23,7 +23,7 @@
       "number": "16",
       "standings": {
         "position": 5,
-        "points": 222,
+        "points": 226,
         "wins": 0,
         "contender": false,
         "podiums": 7
@@ -35,7 +35,7 @@
       "number": "44",
       "standings": {
         "position": 6,
-        "points": 149,
+        "points": 152,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -173,7 +173,7 @@
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
       "date": "2025-11-23",
-      "points": 9
+      "points": 16
     }
   ]
 }

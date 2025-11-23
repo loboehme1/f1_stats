@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 7,
-    "points": 132,
+    "points": 137,
     "wins": 0,
     "contender": false,
     "podiums": 2,
@@ -213,13 +213,13 @@
       "status": "Finished"
     },
     {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2025-11-09",
-      "points": 0,
-      "endPos": 20,
-      "startPos": 18,
-      "status": "Retired"
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 15,
+      "endPos": 3,
+      "startPos": 17,
+      "status": "Finished"
     }
   ]
 }
