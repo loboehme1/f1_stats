@@ -14,7 +14,7 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 15,
+    "position": 16,
     "points": 32,
     "wins": 0,
     "contender": true,
@@ -204,12 +204,12 @@
       "status": "Finished"
     },
     {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2025-11-09",
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
       "points": 0,
-      "endPos": 20,
-      "startPos": 18,
+      "endPos": 18,
+      "startPos": 12,
       "status": "Retired"
     }
   ]
