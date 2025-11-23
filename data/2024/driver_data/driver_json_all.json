@@ -61,7 +61,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a",
+      "primary": "#FFFFFF",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -86,7 +86,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#09eb24",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -111,7 +111,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f743e8",
+      "primary": "#46b1eb",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -186,7 +186,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#DC0000",
+      "primary": "#00A19C",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -211,7 +211,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#09eb24",
+      "primary": "#f04a4a",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -286,7 +286,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#f04a4a",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -336,7 +336,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a",
+      "primary": "#f743e8",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -361,7 +361,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#00008b",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -411,8 +411,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
-      "secondary": "#B6BABD"
+      "primary": "#8A8D8F",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 17,
@@ -461,7 +461,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#46b1eb",
+      "primary": "#DC0000",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -486,7 +486,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#46b1eb",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -536,8 +536,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00008b",
-      "secondary": "#B6BABD"
+      "primary": "#8A8D8F",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 12,
@@ -586,7 +586,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#09eb24",
       "secondary": "#B6BABD"
     },
     "standings": {
