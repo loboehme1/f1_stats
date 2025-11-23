@@ -81,7 +81,7 @@ def fetch_driver_data(SEASON):
         team = constr.get('name', 'Unknown')
 
         assets = {'profile_photo': 'link1'} ### if needed profile pic
-        colors = {'primary': color_driver(driver_id)[0], 'secondary': color_driver(driver_id)[1]}
+        colors = {'primary': color_driver(driver_id, SEASON)[0], 'secondary': color_driver(driver_id, SEASON)[1]}
 
 
         driver_info[driver_id] = {
@@ -204,7 +204,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
             nationality = driver_info.get('nationality', '')
             dob = driver_info.get('dateOfBirth', '')
             assets = {'profile_photo': 'link1'} ### if needed profile pic
-            colors = {'primary': color_driver(driver_id)[0], 'secondary': color_driver(driver_id)[1]}
+            colors = {'primary': color_driver(driver_id, SEASON)[0], 'secondary': color_driver(driver_id, SEASON)[1]}
 
             constr_id = constr_info[0].get('constructorId', '')
 
