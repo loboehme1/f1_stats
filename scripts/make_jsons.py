@@ -187,7 +187,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
 
     highest_points = standings_drivers[0].get('Driver', {}).get('points', 0)
     points_to_go = (races_to_go * 25) + (sprints_to_go * 8)
-    print(f'{points_to_go}, {races_to_go}, {sprints_to_go}')
+    print(f'{highest_points}, {points_to_go}, {races_to_go}, {sprints_to_go}')
 
     for driver in standings_drivers:
 
