@@ -1,0 +1,567 @@
+{
+  "circuit_id": "rodriguez",
+  "round": "20",
+  "race_name": "Mexico City Grand Prix",
+  "circuit_name": "Autódromo Hermanos Rodríguez",
+  "laps": "71",
+  "country": "Mexico",
+  "city": "Mexico City",
+  "date": "2024-10-27",
+  "time": "20:00:00Z",
+  "fastest_lap": {
+    "driver_id": "LEC",
+    "rank": "1",
+    "time": "1:18.336"
+  },
+  "sprint": false,
+  "fastest_laps": [
+    {
+      "driver_id": "SAI",
+      "rank": "7",
+      "time": "1:20.137"
+    },
+    {
+      "driver_id": "NOR",
+      "rank": "4",
+      "time": "1:19.691"
+    },
+    {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:18.336"
+    },
+    {
+      "driver_id": "HAM",
+      "rank": "8",
+      "time": "1:20.371"
+    },
+    {
+      "driver_id": "RUS",
+      "rank": "11",
+      "time": "1:20.731"
+    },
+    {
+      "driver_id": "VER",
+      "rank": "13",
+      "time": "1:20.872"
+    },
+    {
+      "driver_id": "MAG",
+      "rank": "9",
+      "time": "1:20.637"
+    },
+    {
+      "driver_id": "PIA",
+      "rank": "5",
+      "time": "1:20.064"
+    },
+    {
+      "driver_id": "HUL",
+      "rank": "12",
+      "time": "1:20.748"
+    },
+    {
+      "driver_id": "GAS",
+      "rank": "15",
+      "time": "1:21.274"
+    },
+    {
+      "driver_id": "STR",
+      "rank": "16",
+      "time": "1:21.311"
+    },
+    {
+      "driver_id": "COL",
+      "rank": "6",
+      "time": "1:20.090"
+    },
+    {
+      "driver_id": "OCO",
+      "rank": "10",
+      "time": "1:20.659"
+    },
+    {
+      "driver_id": "BOT",
+      "rank": "14",
+      "time": "1:21.085"
+    },
+    {
+      "driver_id": "ZHO",
+      "rank": "17",
+      "time": "1:21.553"
+    },
+    {
+      "driver_id": "LAW",
+      "rank": "3",
+      "time": "1:19.502"
+    },
+    {
+      "driver_id": "PER",
+      "rank": "2",
+      "time": "1:19.209"
+    },
+    {
+      "driver_id": "ALO",
+      "rank": "18",
+      "time": "1:22.722"
+    }
+  ],
+  "race_results": [
+    {
+      "points": 25,
+      "end_pos": "1",
+      "start_pos": "1",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "7",
+        "time": "1:20.137"
+      },
+      "driver": {
+        "driver_id": "SAI",
+        "name": "Carlos Sainz",
+        "number": "55",
+        "dob": "1994-09-01",
+        "nationality": "Spanish"
+      },
+      "constr": {
+        "constr_id": "ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "points": 18,
+      "end_pos": "2",
+      "start_pos": "3",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "4",
+        "time": "1:19.691"
+      },
+      "driver": {
+        "driver_id": "NOR",
+        "name": "Lando Norris",
+        "number": "4",
+        "dob": "1999-11-13",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mclaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 16,
+      "end_pos": "3",
+      "start_pos": "4",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "1",
+        "time": "1:18.336"
+      },
+      "driver": {
+        "driver_id": "LEC",
+        "name": "Charles Leclerc",
+        "number": "16",
+        "dob": "1997-10-16",
+        "nationality": "Monegasque"
+      },
+      "constr": {
+        "constr_id": "ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "points": 12,
+      "end_pos": "4",
+      "start_pos": "6",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "8",
+        "time": "1:20.371"
+      },
+      "driver": {
+        "driver_id": "HAM",
+        "name": "Lewis Hamilton",
+        "number": "44",
+        "dob": "1985-01-07",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mercedes",
+        "name": "Mercedes",
+        "nationality": "German"
+      }
+    },
+    {
+      "points": 10,
+      "end_pos": "5",
+      "start_pos": "5",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "11",
+        "time": "1:20.731"
+      },
+      "driver": {
+        "driver_id": "RUS",
+        "name": "George Russell",
+        "number": "63",
+        "dob": "1998-02-15",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mercedes",
+        "name": "Mercedes",
+        "nationality": "German"
+      }
+    },
+    {
+      "points": 8,
+      "end_pos": "6",
+      "start_pos": "2",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "13",
+        "time": "1:20.872"
+      },
+      "driver": {
+        "driver_id": "VER",
+        "name": "Max Verstappen",
+        "number": "1",
+        "dob": "1997-09-30",
+        "nationality": "Dutch"
+      },
+      "constr": {
+        "constr_id": "red_bull",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      }
+    },
+    {
+      "points": 6,
+      "end_pos": "7",
+      "start_pos": "7",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "9",
+        "time": "1:20.637"
+      },
+      "driver": {
+        "driver_id": "MAG",
+        "name": "Kevin Magnussen",
+        "number": "20",
+        "dob": "1992-10-05",
+        "nationality": "Danish"
+      },
+      "constr": {
+        "constr_id": "haas",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    },
+    {
+      "points": 4,
+      "end_pos": "8",
+      "start_pos": "17",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "5",
+        "time": "1:20.064"
+      },
+      "driver": {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri",
+        "number": "81",
+        "dob": "2001-04-06",
+        "nationality": "Australian"
+      },
+      "constr": {
+        "constr_id": "mclaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 2,
+      "end_pos": "9",
+      "start_pos": "10",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "12",
+        "time": "1:20.748"
+      },
+      "driver": {
+        "driver_id": "HUL",
+        "name": "Nico Hülkenberg",
+        "number": "27",
+        "dob": "1987-08-19",
+        "nationality": "German"
+      },
+      "constr": {
+        "constr_id": "haas",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    },
+    {
+      "points": 1,
+      "end_pos": "10",
+      "start_pos": "8",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "15",
+        "time": "1:21.274"
+      },
+      "driver": {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly",
+        "number": "10",
+        "dob": "1996-02-07",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "11",
+      "start_pos": "14",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "16",
+        "time": "1:21.311"
+      },
+      "driver": {
+        "driver_id": "STR",
+        "name": "Lance Stroll",
+        "number": "18",
+        "dob": "1998-10-29",
+        "nationality": "Canadian"
+      },
+      "constr": {
+        "constr_id": "aston_martin",
+        "name": "Aston Martin",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "12",
+      "start_pos": "16",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "6",
+        "time": "1:20.090"
+      },
+      "driver": {
+        "driver_id": "COL",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "dob": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "constr": {
+        "constr_id": "williams",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "13",
+      "start_pos": "0",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "10",
+        "time": "1:20.659"
+      },
+      "driver": {
+        "driver_id": "OCO",
+        "name": "Esteban Ocon",
+        "number": "31",
+        "dob": "1996-09-17",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "14",
+      "start_pos": "15",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "14",
+        "time": "1:21.085"
+      },
+      "driver": {
+        "driver_id": "BOT",
+        "name": "Valtteri Bottas",
+        "number": "77",
+        "dob": "1989-08-28",
+        "nationality": "Finnish"
+      },
+      "constr": {
+        "constr_id": "sauber",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "15",
+      "start_pos": "19",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "17",
+        "time": "1:21.553"
+      },
+      "driver": {
+        "driver_id": "ZHO",
+        "name": "Guanyu Zhou",
+        "number": "24",
+        "dob": "1999-05-30",
+        "nationality": "Chinese"
+      },
+      "constr": {
+        "constr_id": "sauber",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "16",
+      "start_pos": "12",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "3",
+        "time": "1:19.502"
+      },
+      "driver": {
+        "driver_id": "LAW",
+        "name": "Liam Lawson",
+        "number": "30",
+        "dob": "2002-02-11",
+        "nationality": "New Zealander"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "17",
+      "start_pos": "18",
+      "completed_laps": "70",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "2",
+        "time": "1:19.209"
+      },
+      "driver": {
+        "driver_id": "PER",
+        "name": "Sergio Pérez",
+        "number": "11",
+        "dob": "1990-01-26",
+        "nationality": "Mexican"
+      },
+      "constr": {
+        "constr_id": "red_bull",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "18",
+      "start_pos": "13",
+      "completed_laps": "15",
+      "status": "Retired",
+      "fastest_lap": {
+        "rank": "18",
+        "time": "1:22.722"
+      },
+      "driver": {
+        "driver_id": "ALO",
+        "name": "Fernando Alonso",
+        "number": "14",
+        "dob": "1981-07-29",
+        "nationality": "Spanish"
+      },
+      "constr": {
+        "constr_id": "aston_martin",
+        "name": "Aston Martin",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "19",
+      "start_pos": "9",
+      "completed_laps": "0",
+      "status": "Retired",
+      "fastest_lap": null,
+      "driver": {
+        "driver_id": "ALB",
+        "name": "Alexander Albon",
+        "number": "23",
+        "dob": "1996-03-23",
+        "nationality": "Thai"
+      },
+      "constr": {
+        "constr_id": "williams",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "20",
+      "start_pos": "11",
+      "completed_laps": "0",
+      "status": "Retired",
+      "fastest_lap": null,
+      "driver": {
+        "driver_id": "TSU",
+        "name": "Yuki Tsunoda",
+        "number": "22",
+        "dob": "2000-05-11",
+        "nationality": "Japanese"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      }
+    }
+  ],
+  "quali_results": [],
+  "sprint_results": []
+}

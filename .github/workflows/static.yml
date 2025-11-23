@@ -37,10 +37,6 @@ jobs:
       # Run your JSON generator
       - name: Generate JSON files
         run: |
-          mkdir -p data/2025/driver_data
-          mkdir -p data/2025/constr_data
-          mkdir -p data/2025/race_data
-          mkdir -p data/2025/laps_data
           python scripts/make_jsons.py
           python scripts/make_laps_jsons.py
 
@@ -49,9 +45,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/2025/driver_data/*.json
-          git add data/2025/constr_data/*.json
-          git add data/2025/race_data/*.json
+          git add data/*
           git diff --staged --quiet || git commit -m "Update driver JSON files [skip ci]"
           git push
 
