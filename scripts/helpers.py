@@ -3,7 +3,10 @@ import os
 from config import OUTPUT_BASE_DIR, SEASON
 
 def color_driver(drv_id, season):
-    if season == "2025":
+    # Convert season to string for comparison
+    season_str = str(season)
+    
+    if season_str == "2025":
         driver_colors_primary = {
             # McLaren
             "NOR": "#FF8700", "PIA": "#FF8700",
@@ -33,7 +36,7 @@ def color_driver(drv_id, season):
             "LAW": "#4B4B4C", "HAD": "#4B4B4C",
             "RIC": "#4B4B4C",
         }
-    elif season == '2024':
+    elif season_str == '2024':
         driver_colors_primary = {
             # McLaren
             "NOR": "#FF8700", "PIA": "#FF8700",
@@ -65,11 +68,18 @@ def color_driver(drv_id, season):
             "LAW": "#4B4B4C", "TSU": "#4B4B4C",
             "RIC": "#4B4B4C",
         }
+    else:
+        # Default empty dictionaries for unsupported seasons
+        driver_colors_primary = {}
+        driver_colors_secondary = {}
 
     primary = driver_colors_primary.get(drv_id) or "#FFFFFF" # default white
     secondary = driver_colors_secondary.get(drv_id) or "#B6BABD" # default light grey
 
     return primary, secondary
+
+
+
 
 def color_constr(constr_id):
     constr_colors = {
