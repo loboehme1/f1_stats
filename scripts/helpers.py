@@ -2,54 +2,69 @@ import json
 import os
 from config import OUTPUT_BASE_DIR, SEASON
 
-def color_driver(drv_id):
-    driver_colors_primary = {
-        # McLaren
-        "NOR": "#FF8700", "PIA": "#FF8700",
-        # Red Bull
-        "VER": "#00008b", "TSU": "#00008b",
-        # Ferrari
-        "LEC": "#DC0000", "HAM": "#DC0000",
-        # Mercedes
-        "RUS": "#00A19C", "ANT": "#00A19C",
-        # Aston Martin
-        "ALO": "#0A7968", "STR": "#0A7968",
-        # Williams
-        "ALB": "#46b1eb", "SAI": "#46b1eb",
-        # Alpine
-        "GAS": "#f743e8", "DOO": "#f743e8",
-        "COL": "#f743e8",
-        # Haas
-        "OCO": "#f04a4a", "BEA": "#f04a4a",
-        # RB (Visa Cash App RB)
-        "LAW": "#8A8D8F", "HAD": "#8A8D8F",
-        # Stake Sauber
-        "BOR": "#09eb24", "HUL": "#09eb24"
-    }
+def color_driver(drv_id, season):
+    if season == "2025":
+        driver_colors_primary = {
+            # McLaren
+            "NOR": "#FF8700", "PIA": "#FF8700",
+            # Red Bull
+            "VER": "#00008b", "TSU": "#00008b",
+            # Ferrari
+            "LEC": "#DC0000", "HAM": "#DC0000",
+            # Mercedes
+            "RUS": "#00A19C", "ANT": "#00A19C",
+            # Aston Martin
+            "ALO": "#0A7968", "STR": "#0A7968",
+            # Williams
+            "ALB": "#46b1eb", "SAI": "#46b1eb",
+            # Alpine
+            "GAS": "#f743e8", "DOO": "#f743e8",
+            "COL": "#f743e8",
+            # Haas
+            "OCO": "#f04a4a", "BEA": "#f04a4a",
+            # RB (Visa Cash App RB)
+            "LAW": "#8A8D8F", "HAD": "#8A8D8F",
+            # Stake Sauber
+            "BOR": "#09eb24", "HUL": "#09eb24"
+        }
 
-    driver_colors_secondary = {
-        # McLaren
-        "NOR": "#B6BABD", "PIA": "#B6BABD",
-        # Red Bull
-        "VER": "#B6BABD", "TSU": "#B6BABD",
-        # Ferrari
-        "LEC": "#B6BABD", "HAM": "#B6BABD",
-        # Mercedes
-        "RUS": "#B6BABD", "ANT": "#B6BABD",
-        # Aston Martin
-        "ALO": "#B6BABD", "STR": "#B6BABD",
-        # Williams
-        "ALB": "#B6BABD", "SAI": "#B6BABD",
-        # Alpine
-        "GAS": "#B6BABD", "DOO": "#B6BABD",
-        "COL": "#B6BABD",
-        # Haas
-        "OCO": "#B6BABD", "BEA": "#B6BABD",
-        # RB (Visa Cash App RB)
-        "LAW": "#4B4B4C", "HAD": "#4B4B4C",
-        # Stake Sauber
-        "BOR": "#B6BABD", "HUL": "#B6BABD"
-    }
+        driver_colors_secondary = {
+            # RB (Visa Cash App RB)
+            "LAW": "#4B4B4C", "HAD": "#4B4B4C",
+            "RIC": "#4B4B4C",
+        }
+    elif season == '2024':
+        driver_colors_primary = {
+            # McLaren
+            "NOR": "#FF8700", "PIA": "#FF8700",
+            # Red Bull
+            "VER": "#00008b", "PER": "#00008b",
+            # Ferrari
+            "LEC": "#DC0000", "SAI": "#DC0000",
+            # Mercedes
+            "RUS": "#00A19C", "HAM": "#00A19C",
+            # Aston Martin
+            "ALO": "#0A7968", "STR": "#0A7968",
+            # Williams
+            "ALB": "#46b1eb", "COL": "#46b1eb",
+            "SAR": "#46b1eb", 
+            # Alpine
+            "GAS": "#f743e8", "OCO": "#f743e8",
+            "DOO": "#f743e8",
+            # Haas
+            "HUL": "#f04a4a", "MAG": "#f04a4a",
+            # RB (Visa Cash App RB)
+            "LAW": "#8A8D8F", "TSU": "#8A8D8F",
+            "RIC": "#8A8D8F",
+            # Stake Sauber
+            "BOT": "#09eb24", "ZHO": "#09eb24"
+        }
+
+        driver_colors_secondary = {
+            # RB (Visa Cash App RB)
+            "LAW": "#4B4B4C", "TSU": "#4B4B4C",
+            "RIC": "#4B4B4C",
+        }
 
     primary = driver_colors_primary.get(drv_id) or "#FFFFFF" # default white
     secondary = driver_colors_secondary.get(drv_id) or "#B6BABD" # default light grey
