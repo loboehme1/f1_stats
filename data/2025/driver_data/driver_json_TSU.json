@@ -211,6 +211,15 @@
       "endPos": 17,
       "startPos": 17,
       "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "São Paulo Grand Prix",
+      "date": "2025-11-09",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 18,
+      "status": "Retired"
     }
   ]
 }

@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 4,
-    "points": 276,
+    "points": 291,
     "wins": 2,
     "contender": true,
-    "podiums": 8,
+    "podiums": 9,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -211,6 +211,15 @@
       "endPos": 4,
       "startPos": 6,
       "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "São Paulo Grand Prix",
+      "date": "2025-11-09",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 18,
+      "status": "Retired"
     }
   ]
 }

@@ -10,35 +10,35 @@
   },
   "standings": {
     "position": "2",
-    "points": "398",
+    "points": "423",
     "wins": "2",
-    "podiums": 10,
+    "podiums": 11,
     "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "ANT",
-      "name": "Kimi Antonelli",
-      "number": "12",
-      "standings": {
-        "position": 7,
-        "points": 122,
-        "wins": 0,
-        "contender": true,
-        "podiums": 2
-      }
-    },
     {
       "driver_id": "RUS",
       "name": "George Russell",
       "number": "63",
       "standings": {
         "position": 4,
-        "points": 276,
+        "points": 291,
         "wins": 2,
         "contender": true,
-        "podiums": 8
+        "podiums": 9
+      }
+    },
+    {
+      "driver_id": "ANT",
+      "name": "Kimi Antonelli",
+      "number": "12",
+      "standings": {
+        "position": 7,
+        "points": 132,
+        "wins": 0,
+        "contender": true,
+        "podiums": 2
       }
     }
   ],
@@ -168,6 +168,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 30
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 25
     }
   ]
 }

@@ -180,6 +180,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 1
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 0
     }
   ]
 }

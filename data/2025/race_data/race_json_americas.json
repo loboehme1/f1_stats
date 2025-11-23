@@ -13,7 +13,7 @@
     "rank": "1",
     "time": "1:37.577"
   },
-  "sprint": false,
+  "sprint": true,
   "fastest_laps": [
     {
       "driver_id": "VER",
@@ -578,10 +578,6 @@
       }
     }
   ],
-<<<<<<< HEAD
-  "quali_results": [],
-  "sprint_results": []
-=======
   "quali_results": [
     {
       "quali_pos": "1",
@@ -1393,5 +1389,4 @@
       ]
     }
   ]
->>>>>>> 042185b03f68d6f7e948bcaec51b577d3460e608
 }

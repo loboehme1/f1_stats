@@ -343,15 +343,21 @@ def fetch_results(SEASON, ROUNDS):
             if status == 'Lapped':
                 status = 'Finished'
 
-            entry_driver = {
-                'round': round_no,
-                'raceName': race_name,
-                'date': race_date,
-                'points': int(points),
-                'endPos': int(end_pos),
-                'startPos': int(start_pos),
-                'status': status
-            }
+            try:
+
+                entry_driver = {
+                    'round': round_no,
+                    'raceName': race_name,
+                    'date': race_date,
+                    'points': int(points),
+                    'endPos': int(end_pos),
+                    'startPos': int(start_pos),
+                    'status': status
+                }
+
+            except:
+                print(round)
+                print(start_pos)
 
             driver_results[driver_id].append(entry_driver)
 
@@ -899,6 +905,7 @@ def combine_data(SEASON):
             race_core_indiv = dict(race_info.get(rid, {}))
         elif rid in quali_race_info:
             # Race hasn't happened yet, but we have qualifying data
+            print(dict(quali_race_info.get(rid, {})))
             race_core_all = dict(quali_race_info.get(rid, {}))
             race_core_indiv = dict(quali_race_info.get(rid, {}))
         else:

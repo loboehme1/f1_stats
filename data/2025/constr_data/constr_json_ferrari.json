@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "362",
+    "points": "371",
     "wins": "0",
     "podiums": 7,
     "dnf_count": 4,
@@ -18,27 +18,27 @@
   },
   "drivers": [
     {
-      "driver_id": "HAM",
-      "name": "Lewis Hamilton",
-      "number": "44",
-      "standings": {
-        "position": 6,
-        "points": 148,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "LEC",
       "name": "Charles Leclerc",
       "number": "16",
       "standings": {
         "position": 5,
-        "points": 214,
+        "points": 222,
         "wins": 0,
         "contender": true,
         "podiums": 7
+      }
+    },
+    {
+      "driver_id": "HAM",
+      "name": "Lewis Hamilton",
+      "number": "44",
+      "standings": {
+        "position": 6,
+        "points": 149,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
       }
     }
   ],
@@ -168,6 +168,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 0
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 9
     }
   ]
 }

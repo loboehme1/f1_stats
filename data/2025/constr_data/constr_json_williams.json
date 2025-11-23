@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "5",
-    "points": "111",
+    "points": "117",
     "wins": "0",
     "podiums": 1,
-    "dnf_count": 8,
+    "dnf_count": 9,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "SAI",
+      "name": "Carlos Sainz",
+      "number": "55",
+      "standings": {
+        "position": 11,
+        "points": 44,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
+      }
+    },
     {
       "driver_id": "ALB",
       "name": "Alexander Albon",
@@ -27,18 +39,6 @@
         "wins": 0,
         "contender": true,
         "podiums": 0
-      }
-    },
-    {
-      "driver_id": "SAI",
-      "name": "Carlos Sainz",
-      "number": "55",
-      "standings": {
-        "position": 13,
-        "points": 38,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
       }
     }
   ],
@@ -168,6 +168,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 0
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 6
     }
   ]
 }

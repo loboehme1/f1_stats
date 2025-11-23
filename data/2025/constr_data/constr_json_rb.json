@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "6",
-    "points": "82",
+    "points": "86",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 9,
+        "points": 47,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
+      }
+    },
     {
       "driver_id": "LAW",
       "name": "Liam Lawson",
@@ -27,18 +39,6 @@
         "wins": 0,
         "contender": true,
         "podiums": 0
-      }
-    },
-    {
-      "driver_id": "HAD",
-      "name": "Isack Hadjar",
-      "number": "6",
-      "standings": {
-        "position": 10,
-        "points": 43,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
       }
     }
   ],
@@ -168,6 +168,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 10
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 4
     }
   ]
 }

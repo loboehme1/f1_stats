@@ -31,7 +31,7 @@
       "rank": "1",
       "time": "1:37.577"
     },
-    "sprint": false
+    "sprint": true
   },
   {
     "circuit_id": "bahrain",
@@ -319,6 +319,23 @@
       "driver_id": "ANT",
       "rank": "1",
       "time": "1:30.965"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "vegas",
+    "round": "22",
+    "race_name": "Las Vegas Grand Prix",
+    "circuit_name": "Las Vegas Strip Street Circuit",
+    "laps": "50",
+    "country": "USA",
+    "city": "Las Vegas",
+    "date": "2025-11-23",
+    "time": "04:00:00Z",
+    "fastest_lap": {
+      "driver_id": "VER",
+      "rank": "1",
+      "time": "1:33.365"
     },
     "sprint": false
   },

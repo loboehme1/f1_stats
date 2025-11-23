@@ -20,7 +20,7 @@
       "wins": 0,
       "contender": true,
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 4,
       "disq_count": 0
     }
   },
@@ -40,7 +40,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 12,
+      "position": 13,
       "points": 40,
       "wins": 0,
       "contender": true,
@@ -66,7 +66,7 @@
     },
     "standings": {
       "position": 7,
-      "points": 122,
+      "points": 132,
       "wins": 0,
       "contender": true,
       "podiums": 2,
@@ -90,7 +90,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 11,
+      "position": 12,
       "points": 40,
       "wins": 0,
       "contender": true,
@@ -120,7 +120,7 @@
       "wins": 0,
       "contender": true,
       "podiums": 0,
-      "dnf_count": 4,
+      "dnf_count": 5,
       "disq_count": 0
     }
   },
@@ -215,8 +215,8 @@
       "secondary": "#4B4B4C"
     },
     "standings": {
-      "position": 10,
-      "points": 43,
+      "position": 9,
+      "points": 47,
       "wins": 0,
       "contender": true,
       "podiums": 1,
@@ -241,7 +241,7 @@
     },
     "standings": {
       "position": 6,
-      "points": 148,
+      "points": 149,
       "wins": 0,
       "contender": true,
       "podiums": 0,
@@ -265,8 +265,8 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 9,
-      "points": 43,
+      "position": 10,
+      "points": 45,
       "wins": 0,
       "contender": true,
       "podiums": 1,
@@ -316,7 +316,7 @@
     },
     "standings": {
       "position": 5,
-      "points": 214,
+      "points": 222,
       "wins": 0,
       "contender": true,
       "podiums": 7,
@@ -341,10 +341,10 @@
     },
     "standings": {
       "position": 1,
-      "points": 390,
+      "points": 408,
       "wins": 7,
       "contender": true,
-      "podiums": 17,
+      "podiums": 18,
       "dnf_count": 2,
       "disq_count": 0
     }
@@ -391,7 +391,7 @@
     },
     "standings": {
       "position": 2,
-      "points": 366,
+      "points": 378,
       "wins": 7,
       "contender": true,
       "podiums": 14,
@@ -416,10 +416,10 @@
     },
     "standings": {
       "position": 4,
-      "points": 276,
+      "points": 291,
       "wins": 2,
       "contender": true,
-      "podiums": 8,
+      "podiums": 9,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -440,8 +440,8 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 13,
-      "points": 38,
+      "position": 11,
+      "points": 44,
       "wins": 0,
       "contender": true,
       "podiums": 1,
@@ -470,7 +470,7 @@
       "wins": 0,
       "contender": true,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -516,10 +516,10 @@
     },
     "standings": {
       "position": 3,
-      "points": 341,
-      "wins": 5,
+      "points": 366,
+      "wins": 6,
       "contender": true,
-      "podiums": 12,
+      "podiums": 13,
       "dnf_count": 1,
       "disq_count": 0
     }

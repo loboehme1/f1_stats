@@ -14,7 +14,7 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 12,
+    "position": 13,
     "points": 40,
     "wins": 0,
     "contender": true,
@@ -211,6 +211,15 @@
       "endPos": 14,
       "startPos": 11,
       "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "São Paulo Grand Prix",
+      "date": "2025-11-09",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 18,
+      "status": "Retired"
     }
   ]
 }

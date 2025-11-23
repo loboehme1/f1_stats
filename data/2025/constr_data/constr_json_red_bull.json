@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "366",
-    "wins": "5",
-    "podiums": 12,
+    "points": "391",
+    "wins": "6",
+    "podiums": 13,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "1",
       "standings": {
         "position": 3,
-        "points": 341,
-        "wins": 5,
+        "points": 366,
+        "wins": 6,
         "contender": true,
-        "podiums": 12
+        "podiums": 13
       }
     },
     {
@@ -168,6 +168,12 @@
       "raceName": "São Paulo Grand Prix",
       "date": "2025-11-09",
       "points": 15
+    },
+    {
+      "round": "22",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2025-11-23",
+      "points": 25
     }
   ]
 }
