@@ -185,7 +185,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
     standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0]
     standings_drivers = standings_info.get("DriverStandings", [])
 
-    highest_points = standings_drivers[0].get('Driver', {}).get('points', 0)
+    highest_points = standings_drivers[0].get('points', 0)
     points_to_go = (races_to_go * 25) + (sprints_to_go * 8)
     print(f'{highest_points}, {points_to_go}, {races_to_go}, {sprints_to_go}')
 

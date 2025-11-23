@@ -17,7 +17,7 @@
     "position": 5,
     "points": 222,
     "wins": 0,
-    "contender": true,
+    "contender": false,
     "podiums": 7,
     "dnf_count": 2,
     "disq_count": 1
