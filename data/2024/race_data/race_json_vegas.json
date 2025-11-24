@@ -578,6 +578,421 @@
       }
     }
   ],
-  "quali_results": [],
+  "quali_results": [
+    {
+      "quali_pos": "1",
+      "sectors": {
+        "q1": "1:33.186",
+        "q2": "1:32.779",
+        "q3": "1:32.312"
+      },
+      "driver": {
+        "driver_id": "RUS",
+        "name": "George Russell",
+        "number": "63",
+        "dob": "1998-02-15",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mercedes",
+        "name": "Mercedes",
+        "nationality": "German"
+      }
+    },
+    {
+      "quali_pos": "2",
+      "sectors": {
+        "q1": "1:33.484",
+        "q2": "1:32.711",
+        "q3": "1:32.410"
+      },
+      "driver": {
+        "driver_id": "SAI",
+        "name": "Carlos Sainz",
+        "number": "55",
+        "dob": "1994-09-01",
+        "nationality": "Spanish"
+      },
+      "constr": {
+        "constr_id": "ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "quali_pos": "3",
+      "sectors": {
+        "q1": "1:33.691",
+        "q2": "1:32.879",
+        "q3": "1:32.664"
+      },
+      "driver": {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly",
+        "number": "10",
+        "dob": "1996-02-07",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "quali_pos": "4",
+      "sectors": {
+        "q1": "1:33.446",
+        "q2": "1:33.016",
+        "q3": "1:32.783"
+      },
+      "driver": {
+        "driver_id": "LEC",
+        "name": "Charles Leclerc",
+        "number": "16",
+        "dob": "1997-10-16",
+        "nationality": "Monegasque"
+      },
+      "constr": {
+        "constr_id": "ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "quali_pos": "5",
+      "sectors": {
+        "q1": "1:33.299",
+        "q2": "1:33.085",
+        "q3": "1:32.797"
+      },
+      "driver": {
+        "driver_id": "VER",
+        "name": "Max Verstappen",
+        "number": "1",
+        "dob": "1997-09-30",
+        "nationality": "Dutch"
+      },
+      "constr": {
+        "constr_id": "red_bull",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      }
+    },
+    {
+      "quali_pos": "6",
+      "sectors": {
+        "q1": "1:33.592",
+        "q2": "1:33.099",
+        "q3": "1:33.008"
+      },
+      "driver": {
+        "driver_id": "NOR",
+        "name": "Lando Norris",
+        "number": "4",
+        "dob": "1999-11-13",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mclaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    },
+    {
+      "quali_pos": "7",
+      "sectors": {
+        "q1": "1:33.789",
+        "q2": "1:33.089",
+        "q3": "1:33.029"
+      },
+      "driver": {
+        "driver_id": "TSU",
+        "name": "Yuki Tsunoda",
+        "number": "22",
+        "dob": "2000-05-11",
+        "nationality": "Japanese"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "quali_pos": "8",
+      "sectors": {
+        "q1": "1:33.450",
+        "q2": "1:33.024",
+        "q3": "1:33.033"
+      },
+      "driver": {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri",
+        "number": "81",
+        "dob": "2001-04-06",
+        "nationality": "Australian"
+      },
+      "constr": {
+        "constr_id": "mclaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    },
+    {
+      "quali_pos": "9",
+      "sectors": {
+        "q1": "1:33.920",
+        "q2": "1:33.114",
+        "q3": "1:33.062"
+      },
+      "driver": {
+        "driver_id": "HUL",
+        "name": "Nico Hülkenberg",
+        "number": "27",
+        "dob": "1987-08-19",
+        "nationality": "German"
+      },
+      "constr": {
+        "constr_id": "haas",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    },
+    {
+      "quali_pos": "10",
+      "sectors": {
+        "q1": "1:33.225",
+        "q2": "1:32.567",
+        "q3": "1:48.106"
+      },
+      "driver": {
+        "driver_id": "HAM",
+        "name": "Lewis Hamilton",
+        "number": "44",
+        "dob": "1985-01-07",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "mercedes",
+        "name": "Mercedes",
+        "nationality": "German"
+      }
+    },
+    {
+      "quali_pos": "11",
+      "sectors": {
+        "q1": "1:33.968",
+        "q2": "1:33.221",
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "OCO",
+        "name": "Esteban Ocon",
+        "number": "31",
+        "dob": "1996-09-17",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "quali_pos": "12",
+      "sectors": {
+        "q1": "1:33.991",
+        "q2": "1:33.297",
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "MAG",
+        "name": "Kevin Magnussen",
+        "number": "20",
+        "dob": "1992-10-05",
+        "nationality": "Danish"
+      },
+      "constr": {
+        "constr_id": "haas",
+        "name": "Haas F1 Team",
+        "nationality": "American"
+      }
+    },
+    {
+      "quali_pos": "13",
+      "sectors": {
+        "q1": "1:34.079",
+        "q2": "1:33.566",
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "ZHO",
+        "name": "Guanyu Zhou",
+        "number": "24",
+        "dob": "1999-05-30",
+        "nationality": "Chinese"
+      },
+      "constr": {
+        "constr_id": "sauber",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      }
+    },
+    {
+      "quali_pos": "14",
+      "sectors": {
+        "q1": "1:33.746",
+        "q2": "1:33.749",
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "COL",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "dob": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "constr": {
+        "constr_id": "williams",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    },
+    {
+      "quali_pos": "15",
+      "sectors": {
+        "q1": "1:34.087",
+        "q2": "1:34.257",
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "LAW",
+        "name": "Liam Lawson",
+        "number": "30",
+        "dob": "2002-02-11",
+        "nationality": "New Zealander"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "quali_pos": "16",
+      "sectors": {
+        "q1": "1:34.155",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "PER",
+        "name": "Sergio Pérez",
+        "number": "11",
+        "dob": "1990-01-26",
+        "nationality": "Mexican"
+      },
+      "constr": {
+        "constr_id": "red_bull",
+        "name": "Red Bull",
+        "nationality": "Austrian"
+      }
+    },
+    {
+      "quali_pos": "17",
+      "sectors": {
+        "q1": "1:34.258",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "ALO",
+        "name": "Fernando Alonso",
+        "number": "14",
+        "dob": "1981-07-29",
+        "nationality": "Spanish"
+      },
+      "constr": {
+        "constr_id": "aston_martin",
+        "name": "Aston Martin",
+        "nationality": "British"
+      }
+    },
+    {
+      "quali_pos": "18",
+      "sectors": {
+        "q1": "1:34.425",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "ALB",
+        "name": "Alexander Albon",
+        "number": "23",
+        "dob": "1996-03-23",
+        "nationality": "Thai"
+      },
+      "constr": {
+        "constr_id": "williams",
+        "name": "Williams",
+        "nationality": "British"
+      }
+    },
+    {
+      "quali_pos": "19",
+      "sectors": {
+        "q1": "1:34.430",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "BOT",
+        "name": "Valtteri Bottas",
+        "number": "77",
+        "dob": "1989-08-28",
+        "nationality": "Finnish"
+      },
+      "constr": {
+        "constr_id": "sauber",
+        "name": "Sauber",
+        "nationality": "Swiss"
+      }
+    },
+    {
+      "quali_pos": "20",
+      "sectors": {
+        "q1": "1:34.484",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "STR",
+        "name": "Lance Stroll",
+        "number": "18",
+        "dob": "1998-10-29",
+        "nationality": "Canadian"
+      },
+      "constr": {
+        "constr_id": "aston_martin",
+        "name": "Aston Martin",
+        "nationality": "British"
+      }
+    },
+    {
+      "q1": {
+        "driver_id": "RUS",
+        "time": "1:33.186"
+      },
+      "q2": {
+        "driver_id": "HAM",
+        "time": "1:32.567"
+      },
+      "q3": {
+        "driver_id": "RUS",
+        "time": "1:32.312"
+      }
+    }
+  ],
   "sprint_results": []
 }
