@@ -13,8 +13,8 @@
       "position": "6",
       "points": "65",
       "wins": "0",
-      "podiums": 2,
-      "dnf_count": 3,
+      "podiums": 0,
+      "dnf_count": 2,
       "disq_count": 0
     },
     "drivers": [
@@ -27,7 +27,7 @@
           "points": 42,
           "wins": 0,
           "contender": false,
-          "podiums": 1
+          "podiums": 0
         }
       },
       {
@@ -51,7 +51,7 @@
           "points": 23,
           "wins": 0,
           "contender": false,
-          "podiums": 1
+          "podiums": 0
         }
       }
     ]
@@ -71,7 +71,7 @@
       "points": "94",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 1,
       "disq_count": 0
     },
     "drivers": [
@@ -115,8 +115,8 @@
       "position": "2",
       "points": "652",
       "wins": "5",
-      "podiums": 10,
-      "dnf_count": 2,
+      "podiums": 4,
+      "dnf_count": 0,
       "disq_count": 0
     },
     "drivers": [
@@ -129,7 +129,7 @@
           "points": 290,
           "wins": 2,
           "contender": false,
-          "podiums": 4
+          "podiums": 2
         }
       },
       {
@@ -141,7 +141,7 @@
           "points": 356,
           "wins": 3,
           "contender": false,
-          "podiums": 6
+          "podiums": 2
         }
       },
       {
@@ -174,7 +174,7 @@
       "wins": "0",
       "podiums": 0,
       "dnf_count": 1,
-      "disq_count": 1
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -217,7 +217,7 @@
       "position": "1",
       "points": "666",
       "wins": "6",
-      "podiums": 12,
+      "podiums": 2,
       "dnf_count": 0,
       "disq_count": 0
     },
@@ -231,7 +231,7 @@
           "points": 374,
           "wins": 4,
           "contender": false,
-          "podiums": 6
+          "podiums": 1
         }
       },
       {
@@ -243,7 +243,7 @@
           "points": 292,
           "wins": 2,
           "contender": false,
-          "podiums": 6
+          "podiums": 1
         }
       }
     ]
@@ -262,9 +262,9 @@
       "position": "4",
       "points": "468",
       "wins": "4",
-      "podiums": 7,
-      "dnf_count": 2,
-      "disq_count": 1
+      "podiums": 2,
+      "dnf_count": 0,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -276,7 +276,7 @@
           "points": 223,
           "wins": 2,
           "contender": false,
-          "podiums": 4
+          "podiums": 1
         }
       },
       {
@@ -288,7 +288,7 @@
           "points": 245,
           "wins": 2,
           "contender": false,
-          "podiums": 3
+          "podiums": 1
         }
       }
     ]
@@ -308,7 +308,7 @@
       "points": "46",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 1,
       "disq_count": 0
     },
     "drivers": [
@@ -364,8 +364,8 @@
       "position": "3",
       "points": "589",
       "wins": "9",
-      "podiums": 5,
-      "dnf_count": 1,
+      "podiums": 1,
+      "dnf_count": 2,
       "disq_count": 0
     },
     "drivers": [
@@ -378,7 +378,7 @@
           "points": 437,
           "wins": 9,
           "contender": true,
-          "podiums": 5
+          "podiums": 1
         }
       },
       {
@@ -455,7 +455,7 @@
       "points": "17",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 5,
+      "dnf_count": 3,
       "disq_count": 0
     },
     "drivers": [

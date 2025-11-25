@@ -22,24 +22,5 @@
     "dnf_count": 0,
     "disq_count": 0
   },
-  "results": [
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 1,
-      "endPos": 10,
-      "startPos": 10,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 0,
-      "endPos": 12,
-      "startPos": 15,
-      "status": "Finished"
-    }
-  ]
+  "results": []
 }
