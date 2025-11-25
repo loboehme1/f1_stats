@@ -49,6 +49,8 @@ def merge_driver_results(driver_results, SEASON, last_completed_round, rounds):
     fetched_rounds = set(range(start_round, last_completed_round + 1))
     
     driver_dir = f'{OUTPUT_BASE_DIR}/{SEASON}/driver_data/'
+    
+    # First, merge data for drivers who participated in recent rounds
     for driver_id in driver_results.keys():
         existing_file = os.path.join(driver_dir, f'driver_json_{driver_id}.json')
         existing_data = load_existing_json(existing_file)
@@ -59,6 +61,37 @@ def merge_driver_results(driver_results, SEASON, last_completed_round, rounds):
             driver_results[driver_id] = existing_results + driver_results[driver_id]
             # Sort by round
             driver_results[driver_id].sort(key=lambda x: int(x.get('round', 0)))
+    
+    # Second, load data for drivers who left mid-season (not in recent rounds)
+    if os.path.exists(driver_dir):
+        import glob
+        existing_files = glob.glob(os.path.join(driver_dir, 'driver_json_*.json'))
+        for existing_file in existing_files:
+            # Extract driver_id from filename
+            filename = os.path.basename(existing_file)
+            if filename.startswith('driver_json_') and filename.endswith('.json'):
+                driver_id = filename[12:-5]  # Remove 'driver_json_' and '.json'
+                
+                # Skip if we already processed this driver
+                if driver_id in driver_results:
+                    continue
+                
+                # Load existing data for drivers not in recent rounds
+                existing_data = load_existing_json(existing_file)
+                if existing_data and 'results' in existing_data:
+                    # Keep all their results since they didn't participate recently
+                    driver_results[driver_id] = existing_data['results']
+    
+    # Deduplicate results by round (keep only the first occurrence of each round)
+    for driver_id in driver_results.keys():
+        seen_rounds = set()
+        unique_results = []
+        for result in driver_results[driver_id]:
+            round_num = result.get('round')
+            if round_num not in seen_rounds:
+                seen_rounds.add(round_num)
+                unique_results.append(result)
+        driver_results[driver_id] = unique_results
     
     return driver_results
 

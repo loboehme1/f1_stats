@@ -55,6 +55,8 @@ def merge_constructor_results(constr_results, SEASON, last_completed_round, roun
     fetched_rounds = set(range(start_round, last_completed_round + 1))
     
     constr_dir = f'{OUTPUT_BASE_DIR}/{SEASON}/constr_data/'
+    
+    # First, merge data for constructors who participated in recent rounds
     for constr_id in constr_results.keys():
         existing_file = os.path.join(constr_dir, f'constr_json_{constr_id}.json')
         existing_data = load_existing_json(existing_file)
@@ -65,6 +67,37 @@ def merge_constructor_results(constr_results, SEASON, last_completed_round, roun
             constr_results[constr_id] = existing_results + constr_results[constr_id]
             # Sort by round
             constr_results[constr_id].sort(key=lambda x: int(x.get('round', 0)))
+    
+    # Second, load data for constructors who left mid-season (not in recent rounds)
+    if os.path.exists(constr_dir):
+        import glob
+        existing_files = glob.glob(os.path.join(constr_dir, 'constr_json_*.json'))
+        for existing_file in existing_files:
+            # Extract constr_id from filename
+            filename = os.path.basename(existing_file)
+            if filename.startswith('constr_json_') and filename.endswith('.json'):
+                constr_id = filename[12:-5]  # Remove 'constr_json_' and '.json'
+                
+                # Skip if we already processed this constructor
+                if constr_id in constr_results:
+                    continue
+                
+                # Load existing data for constructors not in recent rounds
+                existing_data = load_existing_json(existing_file)
+                if existing_data and 'results' in existing_data:
+                    # Keep all their results since they didn't participate recently
+                    constr_results[constr_id] = existing_data['results']
+    
+    # Deduplicate results by round (keep only the first occurrence of each round)
+    for constr_id in constr_results.keys():
+        seen_rounds = set()
+        unique_results = []
+        for result in constr_results[constr_id]:
+            round_num = result.get('round')
+            if round_num not in seen_rounds:
+                seen_rounds.add(round_num)
+                unique_results.append(result)
+        constr_results[constr_id] = unique_results
     
     return constr_results
 

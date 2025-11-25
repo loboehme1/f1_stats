@@ -8,10 +8,10 @@ from config import OUTPUT_BASE_DIR
 from fetchers.utils import load_existing_json
 
 
-def merge_race_data(race_info, results_info, lap_info, SEASON, last_completed_round, rounds):
+def merge_race_data(race_info, results_info, lap_info, quali_info, SEASON, last_completed_round, rounds):
     """Merge newly fetched race data with existing data."""
     if last_completed_round == 0:
-        return race_info, results_info, lap_info
+        return race_info, results_info, lap_info, quali_info
     
     print(f"Merging race data with existing data...")
     
@@ -26,10 +26,8 @@ def merge_race_data(race_info, results_info, lap_info, SEASON, last_completed_ro
         
         # Merge race_info: keep existing races, update with new data
         for circuit_id in existing_race_dict.keys():
-            print(f'Keys: {existing_race_dict.keys()}')
             if circuit_id not in race_info:
                 # This race wasn't fetched, keep the existing core info
-                print(circuit_id)
                 race_info[circuit_id] = {
                     'circuit_id': existing_race_dict[circuit_id].get('circuit_id'),
                     'round': existing_race_dict[circuit_id].get('round'),
@@ -42,16 +40,26 @@ def merge_race_data(race_info, results_info, lap_info, SEASON, last_completed_ro
                     'time': existing_race_dict[circuit_id].get('time'),
                     'fastest_lap': existing_race_dict[circuit_id].get('fastest_lap')
                 }
+            
+            # Load detailed race data from individual race JSON files
+            if circuit_id not in results_info or circuit_id not in lap_info or circuit_id not in quali_info:
+                individual_race_file = os.path.join(race_dir, f'race_json_{circuit_id}.json')
+                existing_race_data = load_existing_json(individual_race_file)
                 
-            # Also load the results for this race
-            if circuit_id not in results_info:
-                results_info[circuit_id] = existing_race_dict[circuit_id].get('results', [])
-                
-            # And fastest laps
-            if circuit_id not in lap_info:
-                lap_info[circuit_id] = existing_race_dict[circuit_id].get('fastest_laps', [])
+                if existing_race_data:
+                    # Load race results if not already fetched
+                    if circuit_id not in results_info:
+                        results_info[circuit_id] = existing_race_data.get('race_results', [])
+                    
+                    # Load fastest laps if not already fetched
+                    if circuit_id not in lap_info:
+                        lap_info[circuit_id] = existing_race_data.get('fastest_laps', [])
+                    
+                    # Load qualifying results if not already fetched
+                    if circuit_id not in quali_info:
+                        quali_info[circuit_id] = existing_race_data.get('quali_results', [])
     
-    return race_info, results_info, lap_info
+    return race_info, results_info, lap_info, quali_info
 
 
 def recalculate_constructor_stats(race_info, results_info):
@@ -158,8 +166,8 @@ def build_and_write(OUT_DIR, SEASON, race_info, quali_info, quali_race_info,
                     results_info, lap_info, sprint_info, last_completed_round, rounds):
     """Main entry point: merge, build, and write race JSONs."""
     # Merge with existing data if needed
-    race_info, results_info, lap_info = merge_race_data(
-        race_info, results_info, lap_info, SEASON, last_completed_round, rounds
+    race_info, results_info, lap_info, quali_info = merge_race_data(
+        race_info, results_info, lap_info, quali_info, SEASON, last_completed_round, rounds
     )
     
     # Recalculate constructor stats from merged race data

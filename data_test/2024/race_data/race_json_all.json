@@ -31,7 +31,7 @@
       "rank": "1",
       "time": "1:37.330"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "bahrain",
@@ -133,7 +133,7 @@
       "rank": "1",
       "time": "1:20.472"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "jeddah",
@@ -167,7 +167,7 @@
       "rank": "1",
       "time": "1:22.384"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "marina_bay",
@@ -201,7 +201,7 @@
       "rank": "1",
       "time": "1:30.634"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "monaco",
@@ -252,7 +252,7 @@
       "rank": "1",
       "time": "1:07.694"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "rodriguez",
@@ -286,7 +286,7 @@
       "rank": "1",
       "time": "1:37.810"
     },
-    "sprint": true
+    "sprint": false
   },
   {
     "circuit_id": "silverstone",

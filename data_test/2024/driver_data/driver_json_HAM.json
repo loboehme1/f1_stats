@@ -14,12 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 7,
-    "points": 223,
-    "wins": 2,
-    "contender": false,
-    "podiums": 1,
-    "dnf_count": 0,
+    "podiums": 5,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "results": [
@@ -33,15 +29,6 @@
       "status": "Finished"
     },
     {
-      "round": "1",
-      "raceName": "Bahrain Grand Prix",
-      "date": "2024-03-02",
-      "points": 6,
-      "endPos": 7,
-      "startPos": 9,
-      "status": "Finished"
-    },
-    {
       "round": "2",
       "raceName": "Saudi Arabian Grand Prix",
       "date": "2024-03-09",
@@ -49,24 +36,6 @@
       "endPos": 9,
       "startPos": 8,
       "status": "Finished"
-    },
-    {
-      "round": "2",
-      "raceName": "Saudi Arabian Grand Prix",
-      "date": "2024-03-09",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 8,
-      "status": "Finished"
-    },
-    {
-      "round": "3",
-      "raceName": "Australian Grand Prix",
-      "date": "2024-03-24",
-      "points": 0,
-      "endPos": 18,
-      "startPos": 11,
-      "status": "Retired"
     },
     {
       "round": "3",
@@ -87,24 +56,6 @@
       "status": "Finished"
     },
     {
-      "round": "4",
-      "raceName": "Japanese Grand Prix",
-      "date": "2024-04-07",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 7,
-      "status": "Finished"
-    },
-    {
-      "round": "5",
-      "raceName": "Chinese Grand Prix",
-      "date": "2024-04-21",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 18,
-      "status": "Finished"
-    },
-    {
       "round": "5",
       "raceName": "Chinese Grand Prix",
       "date": "2024-04-21",
@@ -117,24 +68,6 @@
       "round": "6",
       "raceName": "Miami Grand Prix",
       "date": "2024-05-05",
-      "points": 8,
-      "endPos": 6,
-      "startPos": 8,
-      "status": "Finished"
-    },
-    {
-      "round": "6",
-      "raceName": "Miami Grand Prix",
-      "date": "2024-05-05",
-      "points": 8,
-      "endPos": 6,
-      "startPos": 8,
-      "status": "Finished"
-    },
-    {
-      "round": "7",
-      "raceName": "Emilia Romagna Grand Prix",
-      "date": "2024-05-19",
       "points": 8,
       "endPos": 6,
       "startPos": 8,
@@ -159,39 +92,12 @@
       "status": "Finished"
     },
     {
-      "round": "8",
-      "raceName": "Monaco Grand Prix",
-      "date": "2024-05-26",
-      "points": 7,
-      "endPos": 7,
-      "startPos": 7,
-      "status": "Finished"
-    },
-    {
       "round": "9",
       "raceName": "Canadian Grand Prix",
       "date": "2024-06-09",
       "points": 13,
       "endPos": 4,
       "startPos": 7,
-      "status": "Finished"
-    },
-    {
-      "round": "9",
-      "raceName": "Canadian Grand Prix",
-      "date": "2024-06-09",
-      "points": 13,
-      "endPos": 4,
-      "startPos": 7,
-      "status": "Finished"
-    },
-    {
-      "round": "10",
-      "raceName": "Spanish Grand Prix",
-      "date": "2024-06-23",
-      "points": 15,
-      "endPos": 3,
-      "startPos": 3,
       "status": "Finished"
     },
     {
@@ -213,39 +119,12 @@
       "status": "Finished"
     },
     {
-      "round": "11",
-      "raceName": "Austrian Grand Prix",
-      "date": "2024-06-30",
-      "points": 12,
-      "endPos": 4,
-      "startPos": 5,
-      "status": "Finished"
-    },
-    {
       "round": "12",
       "raceName": "British Grand Prix",
       "date": "2024-07-07",
       "points": 25,
       "endPos": 1,
       "startPos": 2,
-      "status": "Finished"
-    },
-    {
-      "round": "12",
-      "raceName": "British Grand Prix",
-      "date": "2024-07-07",
-      "points": 25,
-      "endPos": 1,
-      "startPos": 2,
-      "status": "Finished"
-    },
-    {
-      "round": "13",
-      "raceName": "Hungarian Grand Prix",
-      "date": "2024-07-21",
-      "points": 15,
-      "endPos": 3,
-      "startPos": 5,
       "status": "Finished"
     },
     {
@@ -267,39 +146,12 @@
       "status": "Finished"
     },
     {
-      "round": "14",
-      "raceName": "Belgian Grand Prix",
-      "date": "2024-07-28",
-      "points": 25,
-      "endPos": 1,
-      "startPos": 3,
-      "status": "Finished"
-    },
-    {
       "round": "15",
       "raceName": "Dutch Grand Prix",
       "date": "2024-08-25",
       "points": 4,
       "endPos": 8,
       "startPos": 14,
-      "status": "Finished"
-    },
-    {
-      "round": "15",
-      "raceName": "Dutch Grand Prix",
-      "date": "2024-08-25",
-      "points": 4,
-      "endPos": 8,
-      "startPos": 14,
-      "status": "Finished"
-    },
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2024-09-01",
-      "points": 10,
-      "endPos": 5,
-      "startPos": 6,
       "status": "Finished"
     },
     {
@@ -321,24 +173,6 @@
       "status": "Finished"
     },
     {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 19,
-      "status": "Finished"
-    },
-    {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2024-09-22",
-      "points": 8,
-      "endPos": 6,
-      "startPos": 3,
-      "status": "Finished"
-    },
-    {
       "round": "18",
       "raceName": "Singapore Grand Prix",
       "date": "2024-09-22",
@@ -357,39 +191,12 @@
       "status": "Retired"
     },
     {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 0,
-      "endPos": 20,
-      "startPos": 17,
-      "status": "Retired"
-    },
-    {
       "round": "20",
       "raceName": "Mexico City Grand Prix",
       "date": "2024-10-27",
       "points": 12,
       "endPos": 4,
       "startPos": 6,
-      "status": "Finished"
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 12,
-      "endPos": 4,
-      "startPos": 6,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 1,
-      "endPos": 10,
-      "startPos": 14,
       "status": "Finished"
     },
     {

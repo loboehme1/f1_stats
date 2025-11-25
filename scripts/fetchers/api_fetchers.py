@@ -173,7 +173,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
         data = response.json()
     except Exception as e:
         print(f"{YELLOW}Warning: Failed to fetch driver standings: {e}{RESET}")
-        return {}
+        return {}, driver_info_old, constr_info_old
 
     standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0]
     standings_drivers = standings_info.get("DriverStandings", [])
@@ -511,7 +511,7 @@ def fetch_quali(SEASON, ROUNDS, last_completed_round):
         try:
             data = response.json()['MRData']['RaceTable']['Races']
         except (requests.exceptions.JSONDecodeError, KeyError):
-            print(f'{YELLOW}Warning: No entry for round {race+1}.')
+            print(f'{YELLOW}Warning: No entry for round {race+1}.{RESET}')
             continue
 
         if not data:

@@ -12,7 +12,7 @@
     "position": "1",
     "points": "666",
     "wins": "6",
-    "podiums": 2,
+    "podiums": 21,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -22,11 +22,7 @@
       "name": "Lando Norris",
       "number": "4",
       "standings": {
-        "position": 2,
-        "points": 374,
-        "wins": 4,
-        "contender": false,
-        "podiums": 1
+        "podiums": 13
       }
     },
     {
@@ -34,11 +30,7 @@
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
-        "position": 4,
-        "points": 292,
-        "wins": 2,
-        "contender": false,
-        "podiums": 1
+        "podiums": 8
       }
     }
   ],
@@ -50,28 +42,10 @@
       "points": 12
     },
     {
-      "round": "1",
-      "raceName": "Bahrain Grand Prix",
-      "date": "2024-03-02",
-      "points": 12
-    },
-    {
       "round": "2",
       "raceName": "Saudi Arabian Grand Prix",
       "date": "2024-03-09",
       "points": 16
-    },
-    {
-      "round": "2",
-      "raceName": "Saudi Arabian Grand Prix",
-      "date": "2024-03-09",
-      "points": 16
-    },
-    {
-      "round": "3",
-      "raceName": "Australian Grand Prix",
-      "date": "2024-03-24",
-      "points": 27
     },
     {
       "round": "3",
@@ -86,18 +60,6 @@
       "points": 14
     },
     {
-      "round": "4",
-      "raceName": "Japanese Grand Prix",
-      "date": "2024-04-07",
-      "points": 14
-    },
-    {
-      "round": "5",
-      "raceName": "Chinese Grand Prix",
-      "date": "2024-04-21",
-      "points": 22
-    },
-    {
       "round": "5",
       "raceName": "Chinese Grand Prix",
       "date": "2024-04-21",
@@ -110,27 +72,9 @@
       "points": 25
     },
     {
-      "round": "6",
-      "raceName": "Miami Grand Prix",
-      "date": "2024-05-05",
-      "points": 25
-    },
-    {
       "round": "7",
       "raceName": "Emilia Romagna Grand Prix",
       "date": "2024-05-19",
-      "points": 30
-    },
-    {
-      "round": "7",
-      "raceName": "Emilia Romagna Grand Prix",
-      "date": "2024-05-19",
-      "points": 30
-    },
-    {
-      "round": "8",
-      "raceName": "Monaco Grand Prix",
-      "date": "2024-05-26",
       "points": 30
     },
     {
@@ -146,28 +90,10 @@
       "points": 28
     },
     {
-      "round": "9",
-      "raceName": "Canadian Grand Prix",
-      "date": "2024-06-09",
-      "points": 28
-    },
-    {
       "round": "10",
       "raceName": "Spanish Grand Prix",
       "date": "2024-06-23",
       "points": 25
-    },
-    {
-      "round": "10",
-      "raceName": "Spanish Grand Prix",
-      "date": "2024-06-23",
-      "points": 25
-    },
-    {
-      "round": "11",
-      "raceName": "Austrian Grand Prix",
-      "date": "2024-06-30",
-      "points": 18
     },
     {
       "round": "11",
@@ -182,28 +108,10 @@
       "points": 27
     },
     {
-      "round": "12",
-      "raceName": "British Grand Prix",
-      "date": "2024-07-07",
-      "points": 27
-    },
-    {
       "round": "13",
       "raceName": "Hungarian Grand Prix",
       "date": "2024-07-21",
       "points": 43
-    },
-    {
-      "round": "13",
-      "raceName": "Hungarian Grand Prix",
-      "date": "2024-07-21",
-      "points": 43
-    },
-    {
-      "round": "14",
-      "raceName": "Belgian Grand Prix",
-      "date": "2024-07-28",
-      "points": 28
     },
     {
       "round": "14",
@@ -218,28 +126,10 @@
       "points": 38
     },
     {
-      "round": "15",
-      "raceName": "Dutch Grand Prix",
-      "date": "2024-08-25",
-      "points": 38
-    },
-    {
       "round": "16",
       "raceName": "Italian Grand Prix",
       "date": "2024-09-01",
       "points": 34
-    },
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2024-09-01",
-      "points": 34
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 38
     },
     {
       "round": "17",
@@ -254,18 +144,6 @@
       "points": 40
     },
     {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2024-09-22",
-      "points": 40
-    },
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 22
-    },
-    {
       "round": "19",
       "raceName": "United States Grand Prix",
       "date": "2024-10-20",
@@ -276,18 +154,6 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2024-10-27",
       "points": 22
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 22
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 12
     },
     {
       "round": "21",
