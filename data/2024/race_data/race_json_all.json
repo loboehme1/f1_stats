@@ -1,49 +1,5 @@
 [
   {
-    "circuit_id": "americas",
-    "round": "19",
-    "race_name": "United States Grand Prix",
-    "circuit_name": "Circuit of the Americas",
-    "country": "USA",
-    "city": "Austin",
-    "date": "2024-10-20",
-    "time": "19:00:00Z",
-    "sprint": true
-  },
-  {
-    "circuit_id": "baku",
-    "round": "17",
-    "race_name": "Azerbaijan Grand Prix",
-    "circuit_name": "Baku City Circuit",
-    "country": "Azerbaijan",
-    "city": "Baku",
-    "date": "2024-09-15",
-    "time": "11:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "hungaroring",
-    "round": "13",
-    "race_name": "Hungarian Grand Prix",
-    "circuit_name": "Hungaroring",
-    "country": "Hungary",
-    "city": "Budapest",
-    "date": "2024-07-21",
-    "time": "13:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "interlagos",
-    "round": "21",
-    "race_name": "São Paulo Grand Prix",
-    "circuit_name": "Autódromo José Carlos Pace",
-    "country": "Brazil",
-    "city": "São Paulo",
-    "date": "2024-11-03",
-    "time": "17:00:00Z",
-    "sprint": true
-  },
-  {
     "circuit_id": "losail",
     "round": "23",
     "race_name": "Qatar Grand Prix",
@@ -59,61 +15,6 @@
       "time": "1:22.384"
     },
     "sprint": true
-  },
-  {
-    "circuit_id": "marina_bay",
-    "round": "18",
-    "race_name": "Singapore Grand Prix",
-    "circuit_name": "Marina Bay Street Circuit",
-    "country": "Singapore",
-    "city": "Marina Bay",
-    "date": "2024-09-22",
-    "time": "12:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "monza",
-    "round": "16",
-    "race_name": "Italian Grand Prix",
-    "circuit_name": "Autodromo Nazionale di Monza",
-    "country": "Italy",
-    "city": "Monza",
-    "date": "2024-09-01",
-    "time": "13:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "rodriguez",
-    "round": "20",
-    "race_name": "Mexico City Grand Prix",
-    "circuit_name": "Autódromo Hermanos Rodríguez",
-    "country": "Mexico",
-    "city": "Mexico City",
-    "date": "2024-10-27",
-    "time": "20:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "silverstone",
-    "round": "12",
-    "race_name": "British Grand Prix",
-    "circuit_name": "Silverstone Circuit",
-    "country": "UK",
-    "city": "Silverstone",
-    "date": "2024-07-07",
-    "time": "14:00:00Z",
-    "sprint": false
-  },
-  {
-    "circuit_id": "spa",
-    "round": "14",
-    "race_name": "Belgian Grand Prix",
-    "circuit_name": "Circuit de Spa-Francorchamps",
-    "country": "Belgium",
-    "city": "Spa",
-    "date": "2024-07-28",
-    "time": "13:00:00Z",
-    "sprint": false
   },
   {
     "circuit_id": "vegas",
@@ -147,17 +48,6 @@
       "rank": "1",
       "time": "1:25.637"
     },
-    "sprint": false
-  },
-  {
-    "circuit_id": "zandvoort",
-    "round": "15",
-    "race_name": "Dutch Grand Prix",
-    "circuit_name": "Circuit Park Zandvoort",
-    "country": "Netherlands",
-    "city": "Zandvoort",
-    "date": "2024-08-25",
-    "time": "13:00:00Z",
     "sprint": false
   }
 ]
