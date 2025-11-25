@@ -12,8 +12,8 @@
     "position": "2",
     "points": "652",
     "wins": "5",
-    "podiums": 10,
-    "dnf_count": 2,
+    "podiums": 4,
+    "dnf_count": 0,
     "disq_count": 0
   },
   "drivers": [
@@ -26,7 +26,7 @@
         "points": 290,
         "wins": 2,
         "contender": false,
-        "podiums": 4
+        "podiums": 2
       }
     },
     {
@@ -38,7 +38,7 @@
         "points": 356,
         "wins": 3,
         "contender": false,
-        "podiums": 6
+        "podiums": 2
       }
     },
     {
@@ -56,76 +56,22 @@
   ],
   "results": [
     {
-      "round": "11",
-      "raceName": "Austrian Grand Prix",
-      "date": "2024-06-30",
-      "points": 15
-    },
-    {
-      "round": "12",
-      "raceName": "British Grand Prix",
-      "date": "2024-07-07",
-      "points": 11
-    },
-    {
-      "round": "13",
-      "raceName": "Hungarian Grand Prix",
-      "date": "2024-07-21",
-      "points": 20
-    },
-    {
-      "round": "14",
-      "raceName": "Belgian Grand Prix",
-      "date": "2024-07-28",
-      "points": 23
-    },
-    {
-      "round": "15",
-      "raceName": "Dutch Grand Prix",
-      "date": "2024-08-25",
-      "points": 25
-    },
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2024-09-01",
-      "points": 37
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 18
-    },
-    {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2024-09-22",
-      "points": 16
-    },
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 43
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 41
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 10
-    },
-    {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
       "date": "2024-11-23",
       "points": 27
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2024-12-01",
+      "points": 26
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2024-12-08",
+      "points": 33
     }
   ]
 }

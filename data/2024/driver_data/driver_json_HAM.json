@@ -18,110 +18,11 @@
     "points": 223,
     "wins": 2,
     "contender": false,
-    "podiums": 4,
-    "dnf_count": 1,
+    "podiums": 1,
+    "dnf_count": 0,
     "disq_count": 0
   },
   "results": [
-    {
-      "round": "11",
-      "raceName": "Austrian Grand Prix",
-      "date": "2024-06-30",
-      "points": 12,
-      "endPos": 4,
-      "startPos": 5,
-      "status": "Finished"
-    },
-    {
-      "round": "12",
-      "raceName": "British Grand Prix",
-      "date": "2024-07-07",
-      "points": 25,
-      "endPos": 1,
-      "startPos": 2,
-      "status": "Finished"
-    },
-    {
-      "round": "13",
-      "raceName": "Hungarian Grand Prix",
-      "date": "2024-07-21",
-      "points": 15,
-      "endPos": 3,
-      "startPos": 5,
-      "status": "Finished"
-    },
-    {
-      "round": "14",
-      "raceName": "Belgian Grand Prix",
-      "date": "2024-07-28",
-      "points": 25,
-      "endPos": 1,
-      "startPos": 3,
-      "status": "Finished"
-    },
-    {
-      "round": "15",
-      "raceName": "Dutch Grand Prix",
-      "date": "2024-08-25",
-      "points": 4,
-      "endPos": 8,
-      "startPos": 14,
-      "status": "Finished"
-    },
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2024-09-01",
-      "points": 10,
-      "endPos": 5,
-      "startPos": 6,
-      "status": "Finished"
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 19,
-      "status": "Finished"
-    },
-    {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2024-09-22",
-      "points": 8,
-      "endPos": 6,
-      "startPos": 3,
-      "status": "Finished"
-    },
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 0,
-      "endPos": 20,
-      "startPos": 17,
-      "status": "Retired"
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 12,
-      "endPos": 4,
-      "startPos": 6,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 1,
-      "endPos": 10,
-      "startPos": 14,
-      "status": "Finished"
-    },
     {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
@@ -129,6 +30,24 @@
       "points": 18,
       "endPos": 2,
       "startPos": 10,
+      "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2024-12-01",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 6,
+      "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2024-12-08",
+      "points": 12,
+      "endPos": 4,
+      "startPos": 16,
       "status": "Finished"
     }
   ]

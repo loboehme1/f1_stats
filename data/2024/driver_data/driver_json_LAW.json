@@ -19,37 +19,10 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 0,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "results": [
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 19,
-      "status": "Finished"
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 0,
-      "endPos": 16,
-      "startPos": 12,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 2,
-      "endPos": 9,
-      "startPos": 5,
-      "status": "Finished"
-    },
     {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
@@ -58,6 +31,24 @@
       "endPos": 16,
       "startPos": 14,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2024-12-01",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2024-12-08",
+      "points": 0,
+      "endPos": 17,
+      "startPos": 12,
+      "status": "Retired"
     }
   ]
 }

@@ -20,7 +20,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 4,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -45,7 +45,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -95,7 +95,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -120,7 +120,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 2,
       "disq_count": 0
     }
   },
@@ -169,8 +169,8 @@
       "points": 42,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 3,
+      "podiums": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -194,8 +194,8 @@
       "points": 223,
       "wins": 2,
       "contender": false,
-      "podiums": 4,
-      "dnf_count": 1,
+      "podiums": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -220,8 +220,8 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
-      "disq_count": 1
+      "dnf_count": 1,
+      "disq_count": 0
     }
   },
   {
@@ -245,7 +245,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -269,7 +269,7 @@
       "points": 356,
       "wins": 3,
       "contender": false,
-      "podiums": 6,
+      "podiums": 2,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -295,7 +295,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -319,7 +319,7 @@
       "points": 374,
       "wins": 4,
       "contender": false,
-      "podiums": 6,
+      "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -344,8 +344,8 @@
       "points": 23,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 0,
+      "podiums": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -370,7 +370,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 2,
       "disq_count": 0
     }
   },
@@ -394,7 +394,7 @@
       "points": 292,
       "wins": 2,
       "contender": false,
-      "podiums": 6,
+      "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -444,9 +444,9 @@
       "points": 245,
       "wins": 2,
       "contender": false,
-      "podiums": 3,
-      "dnf_count": 1,
-      "disq_count": 1
+      "podiums": 1,
+      "dnf_count": 0,
+      "disq_count": 0
     }
   },
   {
@@ -469,8 +469,8 @@
       "points": 290,
       "wins": 2,
       "contender": false,
-      "podiums": 4,
-      "dnf_count": 2,
+      "podiums": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -520,7 +520,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -545,7 +545,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -569,7 +569,7 @@
       "points": 437,
       "wins": 9,
       "contender": true,
-      "podiums": 5,
+      "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -595,7 +595,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   }
