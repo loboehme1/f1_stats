@@ -1,0 +1,21 @@
+{
+  "circuit_id": "bahrain",
+  "round": "1",
+  "race_name": "Bahrain Grand Prix",
+  "circuit_name": "Bahrain International Circuit",
+  "laps": "57",
+  "country": "Bahrain",
+  "city": "Sakhir",
+  "date": "2024-03-02",
+  "time": "15:00:00Z",
+  "fastest_lap": {
+    "driver_id": "VER",
+    "rank": "1",
+    "time": "1:32.608"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

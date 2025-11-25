@@ -1,0 +1,21 @@
+{
+  "circuit_id": "rodriguez",
+  "round": "20",
+  "race_name": "Mexico City Grand Prix",
+  "circuit_name": "Autódromo Hermanos Rodríguez",
+  "laps": "71",
+  "country": "Mexico",
+  "city": "Mexico City",
+  "date": "2024-10-27",
+  "time": "20:00:00Z",
+  "fastest_lap": {
+    "driver_id": "LEC",
+    "rank": "1",
+    "time": "1:18.336"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

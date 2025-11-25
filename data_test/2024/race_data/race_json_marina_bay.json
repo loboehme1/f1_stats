@@ -1,0 +1,21 @@
+{
+  "circuit_id": "marina_bay",
+  "round": "18",
+  "race_name": "Singapore Grand Prix",
+  "circuit_name": "Marina Bay Street Circuit",
+  "laps": "62",
+  "country": "Singapore",
+  "city": "Marina Bay",
+  "date": "2024-09-22",
+  "time": "12:00:00Z",
+  "fastest_lap": {
+    "driver_id": "RIC",
+    "rank": "1",
+    "time": "1:34.486"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

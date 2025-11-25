@@ -1,0 +1,21 @@
+{
+  "circuit_id": "villeneuve",
+  "round": "9",
+  "race_name": "Canadian Grand Prix",
+  "circuit_name": "Circuit Gilles Villeneuve",
+  "laps": "70",
+  "country": "Canada",
+  "city": "Montreal",
+  "date": "2024-06-09",
+  "time": "18:00:00Z",
+  "fastest_lap": {
+    "driver_id": "HAM",
+    "rank": "1",
+    "time": "1:14.856"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

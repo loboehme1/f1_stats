@@ -1,0 +1,21 @@
+{
+  "circuit_id": "monza",
+  "round": "16",
+  "race_name": "Italian Grand Prix",
+  "circuit_name": "Autodromo Nazionale di Monza",
+  "laps": "53",
+  "country": "Italy",
+  "city": "Monza",
+  "date": "2024-09-01",
+  "time": "13:00:00Z",
+  "fastest_lap": {
+    "driver_id": "NOR",
+    "rank": "1",
+    "time": "1:21.432"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

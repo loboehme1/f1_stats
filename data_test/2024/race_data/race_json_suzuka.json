@@ -1,0 +1,21 @@
+{
+  "circuit_id": "suzuka",
+  "round": "4",
+  "race_name": "Japanese Grand Prix",
+  "circuit_name": "Suzuka Circuit",
+  "laps": "53",
+  "country": "Japan",
+  "city": "Suzuka",
+  "date": "2024-04-07",
+  "time": "05:00:00Z",
+  "fastest_lap": {
+    "driver_id": "VER",
+    "rank": "1",
+    "time": "1:33.706"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

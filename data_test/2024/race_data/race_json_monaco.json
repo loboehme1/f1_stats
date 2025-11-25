@@ -1,0 +1,21 @@
+{
+  "circuit_id": "monaco",
+  "round": "8",
+  "race_name": "Monaco Grand Prix",
+  "circuit_name": "Circuit de Monaco",
+  "laps": "78",
+  "country": "Monaco",
+  "city": "Monte-Carlo",
+  "date": "2024-05-26",
+  "time": "13:00:00Z",
+  "fastest_lap": {
+    "driver_id": "HAM",
+    "rank": "1",
+    "time": "1:14.165"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

@@ -1,0 +1,21 @@
+{
+  "circuit_id": "albert_park",
+  "round": "3",
+  "race_name": "Australian Grand Prix",
+  "circuit_name": "Albert Park Grand Prix Circuit",
+  "laps": "58",
+  "country": "Australia",
+  "city": "Melbourne",
+  "date": "2024-03-24",
+  "time": "04:00:00Z",
+  "fastest_lap": {
+    "driver_id": "LEC",
+    "rank": "1",
+    "time": "1:19.813"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

@@ -19,7 +19,7 @@ API_TIMEOUT = 30  # seconds - higher timeout in case API is busy
 API_RETRY_DELAY = 0.9  # seconds between paginated requests
 
 # Output settings
-OUTPUT_BASE_DIR = "./data"
+OUTPUT_BASE_DIR = "./data_test"
 
 # Script behavior
 SKIP_EXISTING_FILES = True  # Set to False to regenerate all files

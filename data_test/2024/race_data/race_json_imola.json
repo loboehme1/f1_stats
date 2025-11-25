@@ -1,0 +1,21 @@
+{
+  "circuit_id": "imola",
+  "round": "7",
+  "race_name": "Emilia Romagna Grand Prix",
+  "circuit_name": "Autodromo Enzo e Dino Ferrari",
+  "laps": "63",
+  "country": "Italy",
+  "city": "Imola",
+  "date": "2024-05-19",
+  "time": "13:00:00Z",
+  "fastest_lap": {
+    "driver_id": "RUS",
+    "rank": "1",
+    "time": "1:18.589"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}

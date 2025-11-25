@@ -1,0 +1,27 @@
+{
+  "driver_id": "RIC",
+  "original_driver_id": "ricciardo",
+  "name": "Daniel Ricciardo",
+  "team": "Racing Bulls",
+  "number": 3,
+  "nationality": "Australian",
+  "date_of_birth": "1989-07-01",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#8A8D8F",
+    "secondary": "#4B4B4C"
+  },
+  "standings": {
+    "position": 17,
+    "points": 12,
+    "wins": 0,
+    "contender": false,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [],
+  " name": "Daniel Ricciardo"
+}

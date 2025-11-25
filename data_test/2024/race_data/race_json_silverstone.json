@@ -1,0 +1,21 @@
+{
+  "circuit_id": "silverstone",
+  "round": "12",
+  "race_name": "British Grand Prix",
+  "circuit_name": "Silverstone Circuit",
+  "laps": "52",
+  "country": "UK",
+  "city": "Silverstone",
+  "date": "2024-07-07",
+  "time": "14:00:00Z",
+  "fastest_lap": {
+    "driver_id": "SAI",
+    "rank": "1",
+    "time": "1:28.293"
+  },
+  "sprint": false,
+  "fastest_laps": [],
+  "race_results": [],
+  "quali_results": [],
+  "sprint_results": []
+}
