@@ -286,6 +286,8 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
     start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
     print(f"Fetching results for rounds {start_round} to {last_completed_round}")
 
+    start_round = 11
+    last_completed_round = 22
 
     # go through the last 3 races to get the results
     for race in range(start_round - 1, last_completed_round):
@@ -509,7 +511,9 @@ def fetch_quali(SEASON, ROUNDS, last_completed_round):
     start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
     print(f"Fetching qualifying for rounds {start_round} to {last_completed_round}")
 
-    for race in range(11,22): #range(start_round - 1, last_completed_round):
+    start_round = 11
+    last_completed_round = 22
+    for race in range(start_round - 1, last_completed_round):
 
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/qualifying/"
 
