@@ -1,20 +1,173 @@
 [
   {
-    "circuit_id": "losail",
-    "round": "23",
-    "race_name": "Qatar Grand Prix",
-    "circuit_name": "Losail International Circuit",
-    "laps": "57",
-    "country": "Qatar",
-    "city": "Al Daayen",
-    "date": "2024-12-01",
-    "time": "16:00:00Z",
+    "circuit_id": "americas",
+    "round": "19",
+    "race_name": "United States Grand Prix",
+    "circuit_name": "Circuit of the Americas",
+    "laps": "56",
+    "country": "USA",
+    "city": "Austin",
+    "date": "2024-10-20",
+    "time": "19:00:00Z",
+    "fastest_lap": {
+      "driver_id": "OCO",
+      "rank": "1",
+      "time": "1:37.330"
+    },
+    "sprint": true
+  },
+  {
+    "circuit_id": "baku",
+    "round": "17",
+    "race_name": "Azerbaijan Grand Prix",
+    "circuit_name": "Baku City Circuit",
+    "laps": "51",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "date": "2024-09-15",
+    "time": "11:00:00Z",
     "fastest_lap": {
       "driver_id": "NOR",
       "rank": "1",
-      "time": "1:22.384"
+      "time": "1:45.255"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "hungaroring",
+    "round": "13",
+    "race_name": "Hungarian Grand Prix",
+    "circuit_name": "Hungaroring",
+    "laps": "70",
+    "country": "Hungary",
+    "city": "Budapest",
+    "date": "2024-07-21",
+    "time": "13:00:00Z",
+    "fastest_lap": {
+      "driver_id": "RUS",
+      "rank": "1",
+      "time": "1:20.305"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "interlagos",
+    "round": "21",
+    "race_name": "São Paulo Grand Prix",
+    "circuit_name": "Autódromo José Carlos Pace",
+    "laps": "69",
+    "country": "Brazil",
+    "city": "São Paulo",
+    "date": "2024-11-03",
+    "time": "17:00:00Z",
+    "fastest_lap": {
+      "driver_id": "VER",
+      "rank": "1",
+      "time": "1:20.472"
     },
     "sprint": true
+  },
+  {
+    "circuit_id": "marina_bay",
+    "round": "18",
+    "race_name": "Singapore Grand Prix",
+    "circuit_name": "Marina Bay Street Circuit",
+    "laps": "62",
+    "country": "Singapore",
+    "city": "Marina Bay",
+    "date": "2024-09-22",
+    "time": "12:00:00Z",
+    "fastest_lap": {
+      "driver_id": "RIC",
+      "rank": "1",
+      "time": "1:34.486"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "monza",
+    "round": "16",
+    "race_name": "Italian Grand Prix",
+    "circuit_name": "Autodromo Nazionale di Monza",
+    "laps": "53",
+    "country": "Italy",
+    "city": "Monza",
+    "date": "2024-09-01",
+    "time": "13:00:00Z",
+    "fastest_lap": {
+      "driver_id": "NOR",
+      "rank": "1",
+      "time": "1:21.432"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "red_bull_ring",
+    "round": "11",
+    "race_name": "Austrian Grand Prix",
+    "circuit_name": "Red Bull Ring",
+    "laps": "71",
+    "country": "Austria",
+    "city": "Spielberg",
+    "date": "2024-06-30",
+    "time": "13:00:00Z",
+    "fastest_lap": {
+      "driver_id": "ALO",
+      "rank": "1",
+      "time": "1:07.694"
+    },
+    "sprint": true
+  },
+  {
+    "circuit_id": "rodriguez",
+    "round": "20",
+    "race_name": "Mexico City Grand Prix",
+    "circuit_name": "Autódromo Hermanos Rodríguez",
+    "laps": "71",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "date": "2024-10-27",
+    "time": "20:00:00Z",
+    "fastest_lap": {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:18.336"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "silverstone",
+    "round": "12",
+    "race_name": "British Grand Prix",
+    "circuit_name": "Silverstone Circuit",
+    "laps": "52",
+    "country": "UK",
+    "city": "Silverstone",
+    "date": "2024-07-07",
+    "time": "14:00:00Z",
+    "fastest_lap": {
+      "driver_id": "SAI",
+      "rank": "1",
+      "time": "1:28.293"
+    },
+    "sprint": false
+  },
+  {
+    "circuit_id": "spa",
+    "round": "14",
+    "race_name": "Belgian Grand Prix",
+    "circuit_name": "Circuit de Spa-Francorchamps",
+    "laps": "44",
+    "country": "Belgium",
+    "city": "Spa",
+    "date": "2024-07-28",
+    "time": "13:00:00Z",
+    "fastest_lap": {
+      "driver_id": "PER",
+      "rank": "1",
+      "time": "1:44.701"
+    },
+    "sprint": false
   },
   {
     "circuit_id": "vegas",
@@ -34,19 +187,19 @@
     "sprint": false
   },
   {
-    "circuit_id": "yas_marina",
-    "round": "24",
-    "race_name": "Abu Dhabi Grand Prix",
-    "circuit_name": "Yas Marina Circuit",
-    "laps": "58",
-    "country": "UAE",
-    "city": "Abu Dhabi",
-    "date": "2024-12-08",
+    "circuit_id": "zandvoort",
+    "round": "15",
+    "race_name": "Dutch Grand Prix",
+    "circuit_name": "Circuit Park Zandvoort",
+    "laps": "72",
+    "country": "Netherlands",
+    "city": "Zandvoort",
+    "date": "2024-08-25",
     "time": "13:00:00Z",
     "fastest_lap": {
-      "driver_id": "MAG",
+      "driver_id": "NOR",
       "rank": "1",
-      "time": "1:25.637"
+      "time": "1:13.817"
     },
     "sprint": false
   }

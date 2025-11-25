@@ -22,15 +22,5 @@
     "dnf_count": 0,
     "disq_count": 0
   },
-  "results": [
-    {
-      "round": "24",
-      "raceName": "Abu Dhabi Grand Prix",
-      "date": "2024-12-08",
-      "points": 0,
-      "endPos": 15,
-      "startPos": 17,
-      "status": "Finished"
-    }
-  ]
+  "results": []
 }
