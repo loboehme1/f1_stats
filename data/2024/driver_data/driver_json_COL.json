@@ -10,7 +10,7 @@
     "profile_photo": "link1"
   },
   "colors": {
-    "primary": "#f743e8",
+    "primary": "#46b1eb",
     "secondary": "#B6BABD"
   },
   "standings": {
@@ -19,64 +19,10 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 3,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "results": [
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2024-09-01",
-      "points": 0,
-      "endPos": 12,
-      "startPos": 18,
-      "status": "Finished"
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 4,
-      "endPos": 8,
-      "startPos": 8,
-      "status": "Finished"
-    },
-    {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2024-09-22",
-      "points": 0,
-      "endPos": 11,
-      "startPos": 12,
-      "status": "Finished"
-    },
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2024-10-20",
-      "points": 1,
-      "endPos": 10,
-      "startPos": 15,
-      "status": "Finished"
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2024-10-27",
-      "points": 0,
-      "endPos": 12,
-      "startPos": 16,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 0,
-      "endPos": 17,
-      "startPos": 16,
-      "status": "Retired"
-    },
     {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",

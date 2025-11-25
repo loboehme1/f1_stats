@@ -20,7 +20,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 7,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -45,7 +45,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -61,7 +61,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a",
+      "primary": "#FFFFFF",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -86,7 +86,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#09eb24",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -95,7 +95,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -111,7 +111,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f743e8",
+      "primary": "#46b1eb",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -120,7 +120,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 2,
       "disq_count": 0
     }
   },
@@ -169,8 +169,8 @@
       "points": 42,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 4,
+      "podiums": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -186,7 +186,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#DC0000",
+      "primary": "#00A19C",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -194,8 +194,8 @@
       "points": 223,
       "wins": 2,
       "contender": false,
-      "podiums": 5,
-      "dnf_count": 2,
+      "podiums": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -211,7 +211,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#09eb24",
+      "primary": "#f04a4a",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -220,8 +220,8 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
-      "disq_count": 1
+      "dnf_count": 1,
+      "disq_count": 0
     }
   },
   {
@@ -269,8 +269,8 @@
       "points": 356,
       "wins": 3,
       "contender": false,
-      "podiums": 13,
-      "dnf_count": 1,
+      "podiums": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -286,7 +286,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#f04a4a",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -295,7 +295,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -319,7 +319,7 @@
       "points": 374,
       "wins": 4,
       "contender": false,
-      "podiums": 13,
+      "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -336,7 +336,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#f04a4a",
+      "primary": "#f743e8",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -344,8 +344,8 @@
       "points": 23,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 2,
+      "podiums": 0,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -361,7 +361,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#00008b",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -369,8 +369,8 @@
       "points": 152,
       "wins": 0,
       "contender": false,
-      "podiums": 4,
-      "dnf_count": 5,
+      "podiums": 0,
+      "dnf_count": 2,
       "disq_count": 0
     }
   },
@@ -394,7 +394,7 @@
       "points": 292,
       "wins": 2,
       "contender": false,
-      "podiums": 8,
+      "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
     }
@@ -411,8 +411,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
-      "secondary": "#B6BABD"
+      "primary": "#8A8D8F",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 17,
@@ -420,7 +420,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -444,9 +444,9 @@
       "points": 245,
       "wins": 2,
       "contender": false,
-      "podiums": 4,
-      "dnf_count": 2,
-      "disq_count": 1
+      "podiums": 1,
+      "dnf_count": 0,
+      "disq_count": 0
     }
   },
   {
@@ -461,7 +461,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#46b1eb",
+      "primary": "#DC0000",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -469,8 +469,8 @@
       "points": 290,
       "wins": 2,
       "contender": false,
-      "podiums": 9,
-      "dnf_count": 3,
+      "podiums": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -486,7 +486,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#46b1eb",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -495,7 +495,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -520,7 +520,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 4,
+      "dnf_count": 1,
       "disq_count": 0
     }
   },
@@ -536,8 +536,8 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#00008b",
-      "secondary": "#B6BABD"
+      "primary": "#8A8D8F",
+      "secondary": "#4B4B4C"
     },
     "standings": {
       "position": 12,
@@ -545,7 +545,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 4,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -569,8 +569,8 @@
       "points": 437,
       "wins": 9,
       "contender": true,
-      "podiums": 14,
-      "dnf_count": 1,
+      "podiums": 1,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -586,7 +586,7 @@
       "profile_photo": "link1"
     },
     "colors": {
-      "primary": "#FFFFFF",
+      "primary": "#09eb24",
       "secondary": "#B6BABD"
     },
     "standings": {
@@ -595,7 +595,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 0,
       "disq_count": 0
     }
   }

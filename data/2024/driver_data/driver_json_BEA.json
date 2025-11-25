@@ -10,7 +10,7 @@
     "profile_photo": "link1"
   },
   "colors": {
-    "primary": "#f04a4a",
+    "primary": "#FFFFFF",
     "secondary": "#B6BABD"
   },
   "standings": {
@@ -22,33 +22,5 @@
     "dnf_count": 0,
     "disq_count": 0
   },
-  "results": [
-    {
-      "round": "2",
-      "raceName": "Saudi Arabian Grand Prix",
-      "date": "2024-03-09",
-      "points": 6,
-      "endPos": 7,
-      "startPos": 11,
-      "status": "Finished"
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2024-09-15",
-      "points": 1,
-      "endPos": 10,
-      "startPos": 10,
-      "status": "Finished"
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2024-11-03",
-      "points": 0,
-      "endPos": 12,
-      "startPos": 15,
-      "status": "Finished"
-    }
-  ]
+  "results": []
 }
