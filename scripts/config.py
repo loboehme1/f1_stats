@@ -1,7 +1,7 @@
 # Configuration file for F1 data fetching scripts
 
 # Season settings
-SEASON = 2024
+SEASON = 2025
 ROUNDS = 24
 SPRINTS = 6
 
@@ -19,7 +19,7 @@ API_TIMEOUT = 30  # seconds - higher timeout in case API is busy
 API_RETRY_DELAY = 0.9  # seconds between paginated requests
 
 # Output settings
-OUTPUT_BASE_DIR = "./data_test"
+OUTPUT_BASE_DIR = "./data"
 
 # Script behavior
 SKIP_EXISTING_FILES = True  # Set to False to regenerate all files
