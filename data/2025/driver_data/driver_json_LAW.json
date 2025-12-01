@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 14,
-    "points": 36,
+    "points": 38,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -220,6 +220,16 @@
       "endPos": 14,
       "startPos": 6,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 12,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Liam Lawson"
 }

@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 10,
+    "position": 11,
     "points": 49,
     "wins": 0,
     "contender": false,
     "podiums": 1,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 1
   },
   "results": [
@@ -220,6 +220,16 @@
       "endPos": 7,
       "startPos": 11,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 11,
+      "status": "Retired"
     }
-  ]
+  ],
+  " name": "Nico Hülkenberg"
 }

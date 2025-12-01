@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 16,
+    "position": 17,
     "points": 32,
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "results": [
@@ -211,6 +211,16 @@
       "endPos": 18,
       "startPos": 12,
       "status": "Retired"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 17,
+      "startPos": 18,
+      "status": "Retired"
     }
-  ]
+  ],
+  " name": "Lance Stroll"
 }

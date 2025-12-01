@@ -14,12 +14,12 @@
     "secondary": "#4B4B4C"
   },
   "standings": {
-    "position": 9,
+    "position": 10,
     "points": 51,
     "wins": 0,
     "contender": false,
     "podiums": 1,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "results": [
@@ -220,6 +220,16 @@
       "endPos": 6,
       "startPos": 8,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 18,
+      "startPos": 6,
+      "status": "Retired"
     }
-  ]
+  ],
+  " name": "Isack Hadjar"
 }

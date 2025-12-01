@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 4,
-    "points": 294,
+    "points": 309,
     "wins": 2,
     "contender": false,
     "podiums": 9,
@@ -220,6 +220,16 @@
       "endPos": 2,
       "startPos": 4,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 8,
+      "endPos": 6,
+      "startPos": 4,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "George Russell"
 }

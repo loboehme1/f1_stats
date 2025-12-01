@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "GAS",
-      "name": "Pierre Gasly",
-      "number": "10",
-      "standings": {
-        "position": 18,
-        "points": 22,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "COL",
       "name": "Franco Colapinto",
       "number": "43",
       "standings": {
         "position": 20,
         "points": 0,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "GAS",
+      "name": "Pierre Gasly",
+      "number": "10",
+      "standings": {
+        "position": 18,
+        "points": 22,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -185,6 +185,12 @@
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
       "date": "2025-11-23",
+      "points": 0
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
       "points": 0
     }
   ]

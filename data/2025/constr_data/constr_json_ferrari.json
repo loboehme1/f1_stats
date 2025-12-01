@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "378",
+    "points": "382",
     "wins": "0",
     "podiums": 7,
     "dnf_count": 4,
@@ -23,10 +23,10 @@
       "number": "16",
       "standings": {
         "position": 5,
-        "points": 226,
+        "points": 230,
         "wins": 0,
         "contender": false,
-        "podiums": 7
+        "podiums": 2
       }
     },
     {
@@ -174,6 +174,12 @@
       "raceName": "Las Vegas Grand Prix",
       "date": "2025-11-23",
       "points": 16
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 4
     }
   ]
 }

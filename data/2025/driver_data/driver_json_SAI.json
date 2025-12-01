@@ -14,11 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 11,
-    "points": 48,
+    "position": 9,
+    "points": 64,
     "wins": 0,
     "contender": false,
-    "podiums": 1,
+    "podiums": 2,
     "dnf_count": 5,
     "disq_count": 0
   },
@@ -220,6 +220,16 @@
       "endPos": 5,
       "startPos": 3,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 15,
+      "endPos": 3,
+      "startPos": 7,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Carlos Sainz"
 }

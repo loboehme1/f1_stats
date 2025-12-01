@@ -14,11 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 2,
-    "points": 366,
+    "position": 3,
+    "points": 392,
     "wins": 7,
-    "contender": true,
-    "podiums": 14,
+    "contender": false,
+    "podiums": 15,
     "dnf_count": 1,
     "disq_count": 1
   },
@@ -220,6 +220,16 @@
       "endPos": 20,
       "startPos": 5,
       "status": "Disqualified"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 18,
+      "endPos": 2,
+      "startPos": 1,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Oscar Piastri"
 }

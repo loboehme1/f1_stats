@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 17,
-    "points": 28,
+    "position": 15,
+    "points": 33,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -220,6 +220,16 @@
       "endPos": 12,
       "startPos": 20,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 1,
+      "endPos": 10,
+      "startPos": 15,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Yuki Tsunoda"
 }

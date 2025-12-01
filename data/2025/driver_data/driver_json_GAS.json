@@ -220,6 +220,16 @@
       "endPos": 13,
       "startPos": 10,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 9,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Pierre Gasly"
 }

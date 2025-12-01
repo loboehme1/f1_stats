@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "391",
-    "wins": "6",
-    "podiums": 13,
+    "points": "426",
+    "wins": "7",
+    "podiums": 14,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Max Verstappen",
       "number": "1",
       "standings": {
-        "position": 3,
-        "points": 366,
-        "wins": 6,
-        "contender": true,
-        "podiums": 13
+        "position": 2,
+        "points": 396,
+        "wins": 7,
+        "contender": false,
+        "podiums": 9
       }
     },
     {
@@ -34,8 +34,8 @@
       "name": "Yuki Tsunoda",
       "number": "22",
       "standings": {
-        "position": 17,
-        "points": 28,
+        "position": 15,
+        "points": 33,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -174,6 +174,12 @@
       "raceName": "Las Vegas Grand Prix",
       "date": "2025-11-23",
       "points": 25
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 26
     }
   ]
 }

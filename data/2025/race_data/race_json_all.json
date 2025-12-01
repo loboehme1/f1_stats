@@ -153,6 +153,23 @@
     "sprint": false
   },
   {
+    "circuit_id": "losail",
+    "round": "23",
+    "race_name": "Qatar Grand Prix",
+    "circuit_name": "Losail International Circuit",
+    "laps": "57",
+    "country": "Qatar",
+    "city": "Al Daayen",
+    "date": "2025-11-30",
+    "time": "16:00:00Z",
+    "fastest_lap": {
+      "driver_id": "PIA",
+      "rank": "1",
+      "time": "1:22.996"
+    },
+    "sprint": true
+  },
+  {
     "circuit_id": "marina_bay",
     "round": "18",
     "race_name": "Singapore Grand Prix",

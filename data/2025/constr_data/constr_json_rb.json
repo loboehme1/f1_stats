@@ -10,35 +10,35 @@
   },
   "standings": {
     "position": "6",
-    "points": "90",
+    "points": "92",
     "wins": "0",
     "podiums": 1,
-    "dnf_count": 6,
+    "dnf_count": 7,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "HAD",
-      "name": "Isack Hadjar",
-      "number": "6",
-      "standings": {
-        "position": 9,
-        "points": 51,
-        "wins": 0,
-        "contender": false,
-        "podiums": 1
-      }
-    },
     {
       "driver_id": "LAW",
       "name": "Liam Lawson",
       "number": "30",
       "standings": {
         "position": 14,
-        "points": 36,
+        "points": 38,
         "wins": 0,
         "contender": false,
         "podiums": 0
+      }
+    },
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 10,
+        "points": 51,
+        "wins": 0,
+        "contender": false,
+        "podiums": 1
       }
     }
   ],
@@ -174,6 +174,12 @@
       "raceName": "Las Vegas Grand Prix",
       "date": "2025-11-23",
       "points": 8
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 2
     }
   ]
 }

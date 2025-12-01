@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 1,
-    "points": 390,
+    "points": 408,
     "wins": 7,
     "contender": true,
     "podiums": 17,
@@ -220,6 +220,16 @@
       "endPos": 19,
       "startPos": 1,
       "status": "Disqualified"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 12,
+      "endPos": 4,
+      "startPos": 2,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Lando Norris"
 }

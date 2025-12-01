@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 13,
-    "points": 40,
+    "position": 12,
+    "points": 48,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -220,6 +220,16 @@
       "endPos": 11,
       "startPos": 7,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 6,
+      "endPos": 7,
+      "startPos": 8,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Fernando Alonso"
 }

@@ -220,6 +220,16 @@
       "endPos": 17,
       "startPos": 18,
       "status": "Retired"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 13,
+      "startPos": 19,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Gabriel Bortoleto"
 }

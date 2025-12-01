@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 12,
+    "position": 13,
     "points": 41,
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "results": [
@@ -220,6 +220,16 @@
       "endPos": 10,
       "startPos": 14,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 19,
+      "startPos": 13,
+      "status": "Retired"
     }
-  ]
+  ],
+  " name": "Oliver Bearman"
 }

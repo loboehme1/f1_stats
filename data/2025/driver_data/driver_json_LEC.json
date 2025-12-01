@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 5,
-    "points": 226,
+    "points": 230,
     "wins": 0,
     "contender": false,
     "podiums": 7,
@@ -220,6 +220,16 @@
       "endPos": 4,
       "startPos": 9,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 4,
+      "endPos": 8,
+      "startPos": 10,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Charles Leclerc"
 }

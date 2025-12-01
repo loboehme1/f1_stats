@@ -220,6 +220,16 @@
       "endPos": 8,
       "startPos": 19,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 17,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Lewis Hamilton"
 }

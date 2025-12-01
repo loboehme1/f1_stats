@@ -14,11 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 3,
-    "points": 366,
-    "wins": 6,
-    "contender": true,
-    "podiums": 13,
+    "position": 2,
+    "points": 396,
+    "wins": 7,
+    "contender": false,
+    "podiums": 14,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -220,6 +220,16 @@
       "endPos": 1,
       "startPos": 2,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 25,
+      "endPos": 1,
+      "startPos": 3,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Max Verstappen"
 }

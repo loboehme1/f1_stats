@@ -1,7 +1,7 @@
 {
   "driver_id": "ANT",
   "original_driver_id": "antonelli",
-  "name": "Kimi Antonelli",
+  "name": "Andrea Kimi Antonelli",
   "team": "Mercedes",
   "number": 12,
   "nationality": "Italian",
@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 7,
-    "points": 137,
+    "points": 150,
     "wins": 0,
     "contender": false,
     "podiums": 3,
@@ -220,6 +220,16 @@
       "endPos": 3,
       "startPos": 17,
       "status": "Finished"
+    },
+    {
+      "round": "23",
+      "raceName": "Qatar Grand Prix",
+      "date": "2025-11-30",
+      "points": 10,
+      "endPos": 5,
+      "startPos": 5,
+      "status": "Finished"
     }
-  ]
+  ],
+  " name": "Kimi Antonelli"
 }
