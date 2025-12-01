@@ -55,7 +55,7 @@ def fetch_lap_info(SEASON, ROUND):
                 position = timing.get("position")
                 # Use id_to_code which now handles all driver ID formats
                 driver_code = id_to_code(driver_id) if driver_id else ""
-                prim, sec = color_driver(driver_code)
+                prim, sec = color_driver(SEASON, driver_code)
                 colors = {'primary': prim, 'secondary': sec}
                 # Convert position to number and use driver_code to match race results format
                 entry_timing = {"driver_id": driver_code, "position": int(position) if position else 0, "colors": colors}
