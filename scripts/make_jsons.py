@@ -2,7 +2,7 @@
 
 import os
 from fetchers import api_fetchers, utils
-from builders import driver_json_builder, constructor_json_builder, race_json_builder
+from builders import driver_json_builder, constructor_json_builder, race_json_builder, standings_json_builder
 from config import OUTPUT_BASE_DIR
 
 
@@ -51,6 +51,14 @@ def make_jsons(OUT_DIR, SEASON):
         constr_dnfs = constr_dnfs_recalc
         constr_disq = constr_disq_recalc
     
+    # Merge driver results with existing data (historical/previous rounds)
+    driver_results = driver_json_builder.merge_driver_results(driver_results, SEASON, last_completed_round, rounds)
+
+    # Build and write driver standings progression
+    standings_json_builder.build_and_write(
+        OUT_DIR, SEASON, driver_info, driver_results, last_completed_round, rounds
+    )
+
     # Build and write driver JSONs
     driver_all, driver_indiv = driver_json_builder.build_and_write(
         OUT_DIR, SEASON, driver_info, driver_standings, driver_results,

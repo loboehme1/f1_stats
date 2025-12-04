@@ -166,7 +166,8 @@ def build_and_write(OUT_DIR, SEASON, driver_info, driver_standings, driver_resul
                     driver_podiums, driver_dnfs, driver_disq, last_completed_round, rounds):
     """Main entry point: merge, build, and write driver JSONs."""
     # Merge with existing data if needed
-    driver_results = merge_driver_results(driver_results, SEASON, last_completed_round, rounds)
+    # driver_results = merge_driver_results(driver_results, SEASON, last_completed_round, rounds)
+    # NOTE: driver_results is now expected to be already merged by the caller (make_jsons.py)
     
     # Recalculate stats from merged data
     if last_completed_round > 0 and last_completed_round < rounds:
