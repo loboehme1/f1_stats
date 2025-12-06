@@ -14,8 +14,8 @@
       "points": "22",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 5,
-      "disq_count": 1
+      "dnf_count": 0,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -71,7 +71,7 @@
       "points": "80",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 7,
+      "dnf_count": 4,
       "disq_count": 0
     },
     "drivers": [
@@ -115,9 +115,9 @@
       "position": "4",
       "points": "382",
       "wins": "0",
-      "podiums": 7,
+      "podiums": 2,
       "dnf_count": 4,
-      "disq_count": 2
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -161,7 +161,7 @@
       "points": "73",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 4,
+      "dnf_count": 1,
       "disq_count": 0
     },
     "drivers": [
@@ -205,8 +205,8 @@
       "position": "1",
       "points": "800",
       "wins": "14",
-      "podiums": 32,
-      "dnf_count": 3,
+      "podiums": 8,
+      "dnf_count": 2,
       "disq_count": 2
     },
     "drivers": [
@@ -218,7 +218,7 @@
           "position": 3,
           "points": 392,
           "wins": 7,
-          "contender": false,
+          "contender": true,
           "podiums": 3
         }
       },
@@ -250,8 +250,8 @@
       "position": "2",
       "points": "459",
       "wins": "2",
-      "podiums": 12,
-      "dnf_count": 4,
+      "podiums": 5,
+      "dnf_count": 0,
       "disq_count": 0
     },
     "drivers": [
@@ -296,7 +296,7 @@
       "points": "92",
       "wins": "0",
       "podiums": 1,
-      "dnf_count": 7,
+      "dnf_count": 2,
       "disq_count": 0
     },
     "drivers": [
@@ -340,8 +340,8 @@
       "position": "3",
       "points": "426",
       "wins": "7",
-      "podiums": 14,
-      "dnf_count": 3,
+      "podiums": 9,
+      "dnf_count": 0,
       "disq_count": 0
     },
     "drivers": [
@@ -353,7 +353,7 @@
           "position": 2,
           "points": 396,
           "wins": 7,
-          "contender": false,
+          "contender": true,
           "podiums": 9
         }
       },
@@ -385,9 +385,9 @@
       "position": "9",
       "points": "68",
       "wins": "0",
-      "podiums": 1,
-      "dnf_count": 8,
-      "disq_count": 1
+      "podiums": 0,
+      "dnf_count": 5,
+      "disq_count": 0
     },
     "drivers": [
       {
@@ -431,7 +431,7 @@
       "points": "137",
       "wins": "0",
       "podiums": 2,
-      "dnf_count": 9,
+      "dnf_count": 3,
       "disq_count": 0
     },
     "drivers": [
