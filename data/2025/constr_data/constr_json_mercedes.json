@@ -12,11 +12,7 @@
     "position": "2",
     "points": "459",
     "wins": "2",
-<<<<<<< HEAD
     "podiums": 2,
-=======
-    "podiums": 5,
->>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -47,132 +43,6 @@
     }
   ],
   "results": [
-    {
-      "round": "1",
-      "raceName": "Australian Grand Prix",
-      "date": "2025-03-16",
-      "points": 27
-    },
-    {
-      "round": "2",
-      "raceName": "Chinese Grand Prix",
-      "date": "2025-03-23",
-      "points": 23
-    },
-    {
-      "round": "3",
-      "raceName": "Japanese Grand Prix",
-      "date": "2025-04-06",
-      "points": 18
-    },
-    {
-      "round": "4",
-      "raceName": "Bahrain Grand Prix",
-      "date": "2025-04-13",
-      "points": 18
-    },
-    {
-      "round": "5",
-      "raceName": "Saudi Arabian Grand Prix",
-      "date": "2025-04-20",
-      "points": 18
-    },
-    {
-      "round": "6",
-      "raceName": "Miami Grand Prix",
-      "date": "2025-05-04",
-      "points": 23
-    },
-    {
-      "round": "7",
-      "raceName": "Emilia Romagna Grand Prix",
-      "date": "2025-05-18",
-      "points": 6
-    },
-    {
-      "round": "8",
-      "raceName": "Monaco Grand Prix",
-      "date": "2025-05-25",
-      "points": 0
-    },
-    {
-      "round": "9",
-      "raceName": "Spanish Grand Prix",
-      "date": "2025-06-01",
-      "points": 12
-    },
-    {
-      "round": "10",
-      "raceName": "Canadian Grand Prix",
-      "date": "2025-06-15",
-      "points": 40
-    },
-    {
-      "round": "11",
-      "raceName": "Austrian Grand Prix",
-      "date": "2025-06-29",
-      "points": 10
-    },
-    {
-      "round": "12",
-      "raceName": "British Grand Prix",
-      "date": "2025-07-06",
-      "points": 1
-    },
-    {
-      "round": "13",
-      "raceName": "Belgian Grand Prix",
-      "date": "2025-07-27",
-      "points": 10
-    },
-    {
-      "round": "14",
-      "raceName": "Hungarian Grand Prix",
-      "date": "2025-08-03",
-      "points": 16
-    },
-    {
-      "round": "15",
-      "raceName": "Dutch Grand Prix",
-      "date": "2025-08-31",
-      "points": 12
-    },
-    {
-      "round": "16",
-      "raceName": "Italian Grand Prix",
-      "date": "2025-09-07",
-      "points": 12
-    },
-    {
-      "round": "17",
-      "raceName": "Azerbaijan Grand Prix",
-      "date": "2025-09-21",
-      "points": 30
-    },
-    {
-      "round": "18",
-      "raceName": "Singapore Grand Prix",
-      "date": "2025-10-05",
-      "points": 35
-    },
-    {
-      "round": "19",
-      "raceName": "United States Grand Prix",
-      "date": "2025-10-19",
-      "points": 8
-    },
-    {
-      "round": "20",
-      "raceName": "Mexico City Grand Prix",
-      "date": "2025-10-26",
-      "points": 14
-    },
-    {
-      "round": "21",
-      "raceName": "São Paulo Grand Prix",
-      "date": "2025-11-09",
-      "points": 30
-    },
     {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",
