@@ -261,7 +261,7 @@ def fetch_driver_standings_progression(SEASON, last_completed_round):
         return driver_standings_progression
     
     start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
-    print(f"Fetching results for rounds {start_round} to {last_completed_round}")
+    print(f"Fetching driver standings progression for rounds {start_round} to {last_completed_round}")
     
     for race in range(start_round - 1, last_completed_round):
 
@@ -304,6 +304,62 @@ def fetch_driver_standings_progression(SEASON, last_completed_round):
         time.sleep(1)
             
     return driver_standings_progression
+
+
+def fetch_constr_standings_progression(SEASON, last_completed_round):
+
+    print("Fetch constructor standings progression")
+
+    constr_standings_progression = defaultdict(list)
+
+    if last_completed_round == 0:
+        print("No completed rounds yet, skipping results fetch")
+        return constr_standings_progression
+    
+    start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
+    print(f"Fetching constructor standings progression for rounds {start_round} to {last_completed_round}")
+    start_round = 1
+    for race in range(start_round - 1, last_completed_round):
+
+        url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/constructorStandings/"
+
+        try:
+            response = requests.get(url)
+            data = response.json()
+        except Exception as e:
+            print(f"{YELLOW}Warning: Failed to fetch constructor standings: {e}{RESET}")
+            return constr_standings_progression
+
+        standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
+
+        if not standings_info:
+            print(f"{YELLOW}Warning: No standings data found for round {race+1} in season {SEASON}{RESET}")
+            continue
+        
+        standings_constr = standings_info[0].get("ConstructorStandings", [])
+
+
+        for constr in standings_constr:
+
+            constr_info = constr.get('Constructor', {})
+            constr_id = constr_info.get('constructorId', '')
+
+            round_no = race + 1
+            constr_position = constr.get('position', 0)
+            constr_points = constr.get('points', 0)
+
+            if constr_position == 0:
+                constr_position = 20
+
+            constr_standings_progression[constr_id].append({
+                "round": round_no,
+                "points": constr_points,
+                "position": constr_position
+            })
+
+        time.sleep(1)
+            
+    return constr_standings_progression
 
 
 def fetch_results(SEASON, ROUNDS, last_completed_round):

@@ -38,6 +38,9 @@ def make_jsons(OUT_DIR, SEASON):
 
     print("Fetch driver standings progression")
     driver_standings_progression = api_fetchers.fetch_driver_standings_progression(SEASON, last_completed_round)
+
+    print("Fetch constructor standings progression")
+    constr_standings_progression = api_fetchers.fetch_constr_standings_progression(SEASON, last_completed_round)
     
     print("Fetch qualification data")
     quali_info, quali_race_info = api_fetchers.fetch_quali(SEASON, rounds, last_completed_round)
@@ -59,7 +62,7 @@ def make_jsons(OUT_DIR, SEASON):
 
     # Build and write driver standings progression
     standings_json_builder.build_and_write(
-        OUT_DIR, SEASON, driver_info, driver_standings_progression, last_completed_round, rounds
+        OUT_DIR, SEASON, driver_info, constr_info, driver_standings_progression, constr_standings_progression, last_completed_round
     )
 
     # Build and write driver JSONs
