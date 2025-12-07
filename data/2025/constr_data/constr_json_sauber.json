@@ -13,7 +13,11 @@
     "points": "68",
     "wins": "0",
     "podiums": 0,
+<<<<<<< HEAD
     "dnf_count": 2,
+=======
+    "dnf_count": 5,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
     "disq_count": 0
   },
   "drivers": [

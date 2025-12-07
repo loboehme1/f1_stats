@@ -18,8 +18,13 @@
     "points": 408,
     "wins": 7,
     "contender": true,
+<<<<<<< HEAD
     "podiums": 0,
     "dnf_count": 0,
+=======
+    "podiums": 5,
+    "dnf_count": 1,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
     "disq_count": 1
   },
   "results": [

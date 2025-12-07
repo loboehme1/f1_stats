@@ -46,7 +46,11 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
+<<<<<<< HEAD
       "dnf_count": 0,
+=======
+      "dnf_count": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Fernando Alonso"
@@ -71,7 +75,11 @@
       "points": 150,
       "wins": 0,
       "contender": false,
+<<<<<<< HEAD
       "podiums": 1,
+=======
+      "podiums": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "dnf_count": 0,
       "disq_count": 0
     },
@@ -124,7 +132,11 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
+<<<<<<< HEAD
       "dnf_count": 1,
+=======
+      "dnf_count": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Gabriel Bortoleto"
@@ -227,7 +239,11 @@
       "points": 51,
       "wins": 0,
       "contender": false,
+<<<<<<< HEAD
       "podiums": 0,
+=======
+      "podiums": 1,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "dnf_count": 1,
       "disq_count": 0
     },
@@ -254,7 +270,11 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
+<<<<<<< HEAD
       "dnf_count": 0,
+=======
+      "dnf_count": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Lewis Hamilton"
@@ -280,7 +300,11 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
+<<<<<<< HEAD
       "dnf_count": 1,
+=======
+      "dnf_count": 3,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Nico Hülkenberg"
@@ -306,7 +330,11 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
+<<<<<<< HEAD
       "dnf_count": 0,
+=======
+      "dnf_count": 1,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Liam Lawson"
@@ -331,8 +359,13 @@
       "points": 230,
       "wins": 0,
       "contender": false,
+<<<<<<< HEAD
       "podiums": 0,
       "dnf_count": 0,
+=======
+      "podiums": 2,
+      "dnf_count": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Charles Leclerc"
@@ -357,8 +390,13 @@
       "points": 408,
       "wins": 7,
       "contender": true,
+<<<<<<< HEAD
       "podiums": 0,
       "dnf_count": 0,
+=======
+      "podiums": 5,
+      "dnf_count": 1,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 1
     },
     " name": "Lando Norris"
@@ -409,8 +447,13 @@
       "points": 392,
       "wins": 7,
       "contender": true,
+<<<<<<< HEAD
       "podiums": 1,
       "dnf_count": 0,
+=======
+      "podiums": 3,
+      "dnf_count": 1,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 1
     },
     " name": "Oscar Piastri"
@@ -435,7 +478,11 @@
       "points": 309,
       "wins": 2,
       "contender": false,
+<<<<<<< HEAD
       "podiums": 1,
+=======
+      "podiums": 3,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "dnf_count": 0,
       "disq_count": 0
     },
@@ -461,8 +508,13 @@
       "points": 64,
       "wins": 0,
       "contender": false,
+<<<<<<< HEAD
       "podiums": 1,
       "dnf_count": 0,
+=======
+      "podiums": 2,
+      "dnf_count": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "disq_count": 0
     },
     " name": "Carlos Sainz"
@@ -539,7 +591,11 @@
       "points": 396,
       "wins": 7,
       "contender": true,
+<<<<<<< HEAD
       "podiums": 2,
+=======
+      "podiums": 9,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
       "dnf_count": 0,
       "disq_count": 0
     },

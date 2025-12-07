@@ -18,7 +18,11 @@
     "points": 150,
     "wins": 0,
     "contender": false,
+<<<<<<< HEAD
     "podiums": 1,
+=======
+    "podiums": 2,
+>>>>>>> ed8cf3d1859a6274d9b0d868ac9d8c0289927f94
     "dnf_count": 0,
     "disq_count": 0
   },
