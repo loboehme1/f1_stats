@@ -286,14 +286,14 @@ def fetch_driver_standings_progression(SEASON, last_completed_round):
         for driver in standings_drivers:
 
             driver_info = driver.get('Driver', {})
-            constr_info = driver.get('Constructors', {})
-
             driver_id = driver_info.get('code', '')
-            driver_name = driver_info.get('givenName', '') + ' ' + driver_info.get('familyName', '')
-            driver_color = driver_info.get('color', '')
+
             round_no = race + 1
             driver_position = driver.get('position', 0)
             driver_points = driver.get('points', 0)
+
+            if driver_position == 0:
+                driver_position = 20
 
             driver_standings_progression[driver_id].append({
                 "round": round_no,
