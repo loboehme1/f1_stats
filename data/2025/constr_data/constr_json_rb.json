@@ -12,8 +12,8 @@
     "position": "6",
     "points": "92",
     "wins": "0",
-    "podiums": 1,
-    "dnf_count": 7,
+    "podiums": 0,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "drivers": [
@@ -38,7 +38,7 @@
         "points": 51,
         "wins": 0,
         "contender": false,
-        "podiums": 1
+        "podiums": 0
       }
     }
   ],

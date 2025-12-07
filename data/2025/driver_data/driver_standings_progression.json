@@ -1,128 +1,5 @@
 [
   {
-    "driver_id": "NOR",
-    "code": "NOR",
-    "name": "Lando Norris",
-    "color": "#FF8700",
-    "progression": [
-      {
-        "round": 1,
-        "points": 25.0,
-        "position": 1
-      },
-      {
-        "round": 2,
-        "points": 43.0,
-        "position": 1
-      },
-      {
-        "round": 3,
-        "points": 61.0,
-        "position": 1
-      },
-      {
-        "round": 4,
-        "points": 76.0,
-        "position": 1
-      },
-      {
-        "round": 5,
-        "points": 88.0,
-        "position": 2
-      },
-      {
-        "round": 6,
-        "points": 106.0,
-        "position": 2
-      },
-      {
-        "round": 7,
-        "points": 124.0,
-        "position": 2
-      },
-      {
-        "round": 8,
-        "points": 149.0,
-        "position": 1
-      },
-      {
-        "round": 9,
-        "points": 167.0,
-        "position": 2
-      },
-      {
-        "round": 10,
-        "points": 167.0,
-        "position": 2
-      },
-      {
-        "round": 11,
-        "points": 192.0,
-        "position": 2
-      },
-      {
-        "round": 12,
-        "points": 217.0,
-        "position": 2
-      },
-      {
-        "round": 13,
-        "points": 235.0,
-        "position": 2
-      },
-      {
-        "round": 14,
-        "points": 260.0,
-        "position": 2
-      },
-      {
-        "round": 15,
-        "points": 260.0,
-        "position": 2
-      },
-      {
-        "round": 16,
-        "points": 278.0,
-        "position": 2
-      },
-      {
-        "round": 17,
-        "points": 284.0,
-        "position": 2
-      },
-      {
-        "round": 18,
-        "points": 299.0,
-        "position": 2
-      },
-      {
-        "round": 19,
-        "points": 317.0,
-        "position": 2
-      },
-      {
-        "round": 20,
-        "points": 342.0,
-        "position": 1
-      },
-      {
-        "round": 21,
-        "points": 367.0,
-        "position": 1
-      },
-      {
-        "round": 22,
-        "points": 367.0,
-        "position": 1
-      },
-      {
-        "round": 23,
-        "points": 379.0,
-        "position": 1
-      }
-    ]
-  },
-  {
     "driver_id": "VER",
     "code": "MAX",
     "name": "Max Verstappen",
@@ -134,9 +11,19 @@
         "position": 2
       },
       {
+        "round": 1,
+        "points": "18",
+        "position": "2"
+      },
+      {
         "round": 2,
         "points": 30.0,
         "position": 2
+      },
+      {
+        "round": 2,
+        "points": "36",
+        "position": "2"
       },
       {
         "round": 3,
@@ -144,9 +31,19 @@
         "position": 2
       },
       {
+        "round": 3,
+        "points": "61",
+        "position": "2"
+      },
+      {
         "round": 4,
         "points": 63.0,
         "position": 3
+      },
+      {
+        "round": 4,
+        "points": "69",
+        "position": "3"
       },
       {
         "round": 5,
@@ -154,9 +51,19 @@
         "position": 3
       },
       {
+        "round": 5,
+        "points": "87",
+        "position": "3"
+      },
+      {
         "round": 6,
         "points": 93.0,
         "position": 3
+      },
+      {
+        "round": 6,
+        "points": "99",
+        "position": "3"
       },
       {
         "round": 7,
@@ -164,9 +71,19 @@
         "position": 3
       },
       {
+        "round": 7,
+        "points": "124",
+        "position": "3"
+      },
+      {
         "round": 8,
         "points": 130.0,
         "position": 3
+      },
+      {
+        "round": 8,
+        "points": "136",
+        "position": "3"
       },
       {
         "round": 9,
@@ -174,9 +91,19 @@
         "position": 3
       },
       {
+        "round": 9,
+        "points": "137",
+        "position": "3"
+      },
+      {
         "round": 10,
         "points": 149.0,
         "position": 3
+      },
+      {
+        "round": 10,
+        "points": "155",
+        "position": "3"
       },
       {
         "round": 11,
@@ -184,9 +111,19 @@
         "position": 3
       },
       {
+        "round": 11,
+        "points": "155",
+        "position": "3"
+      },
+      {
         "round": 12,
         "points": 159.0,
         "position": 3
+      },
+      {
+        "round": 12,
+        "points": "165",
+        "position": "3"
       },
       {
         "round": 13,
@@ -194,9 +131,19 @@
         "position": 3
       },
       {
+        "round": 13,
+        "points": "185",
+        "position": "3"
+      },
+      {
         "round": 14,
         "points": 173.0,
         "position": 3
+      },
+      {
+        "round": 14,
+        "points": "187",
+        "position": "3"
       },
       {
         "round": 15,
@@ -204,9 +151,19 @@
         "position": 3
       },
       {
+        "round": 15,
+        "points": "205",
+        "position": "3"
+      },
+      {
         "round": 16,
         "points": 216.0,
         "position": 3
+      },
+      {
+        "round": 16,
+        "points": "230",
+        "position": "3"
       },
       {
         "round": 17,
@@ -214,9 +171,19 @@
         "position": 3
       },
       {
+        "round": 17,
+        "points": "255",
+        "position": "3"
+      },
+      {
         "round": 18,
         "points": 259.0,
         "position": 3
+      },
+      {
+        "round": 18,
+        "points": "273",
+        "position": "3"
       },
       {
         "round": 19,
@@ -224,9 +191,19 @@
         "position": 3
       },
       {
+        "round": 19,
+        "points": "306",
+        "position": "3"
+      },
+      {
         "round": 20,
         "points": 299.0,
         "position": 3
+      },
+      {
+        "round": 20,
+        "points": "321",
+        "position": "3"
       },
       {
         "round": 21,
@@ -234,14 +211,19 @@
         "position": 3
       },
       {
+        "round": 21,
+        "points": "341",
+        "position": "3"
+      },
+      {
         "round": 22,
-        "points": 339.0,
-        "position": 3
+        "points": "366",
+        "position": "3"
       },
       {
         "round": 23,
-        "points": 364.0,
-        "position": 2
+        "points": "396",
+        "position": "2"
       }
     ]
   },
@@ -257,14 +239,29 @@
         "position": 9
       },
       {
+        "round": 1,
+        "points": "2",
+        "position": "9"
+      },
+      {
         "round": 2,
         "points": 27.0,
         "position": 4
       },
       {
+        "round": 2,
+        "points": "34",
+        "position": "4"
+      },
+      {
         "round": 3,
         "points": 42.0,
         "position": 3
+      },
+      {
+        "round": 3,
+        "points": "49",
+        "position": "3"
       },
       {
         "round": 4,
@@ -272,9 +269,19 @@
         "position": 2
       },
       {
+        "round": 4,
+        "points": "74",
+        "position": "2"
+      },
+      {
         "round": 5,
         "points": 92.0,
         "position": 1
+      },
+      {
+        "round": 5,
+        "points": "99",
+        "position": "1"
       },
       {
         "round": 6,
@@ -282,14 +289,29 @@
         "position": 1
       },
       {
+        "round": 6,
+        "points": "131",
+        "position": "1"
+      },
+      {
         "round": 7,
         "points": 132.0,
         "position": 1
       },
       {
+        "round": 7,
+        "points": "146",
+        "position": "1"
+      },
+      {
         "round": 8,
         "points": 147.0,
         "position": 2
+      },
+      {
+        "round": 8,
+        "points": "161",
+        "position": "1"
       },
       {
         "round": 9,
@@ -297,14 +319,29 @@
         "position": 1
       },
       {
+        "round": 9,
+        "points": "186",
+        "position": "1"
+      },
+      {
         "round": 10,
         "points": 184.0,
         "position": 1
       },
       {
+        "round": 10,
+        "points": "198",
+        "position": "1"
+      },
+      {
         "round": 11,
         "points": 202.0,
         "position": 1
+      },
+      {
+        "round": 11,
+        "points": "216",
+        "position": "1"
       },
       {
         "round": 12,
@@ -312,9 +349,19 @@
         "position": 1
       },
       {
+        "round": 12,
+        "points": "234",
+        "position": "1"
+      },
+      {
         "round": 13,
         "points": 245.0,
         "position": 1
+      },
+      {
+        "round": 13,
+        "points": "266",
+        "position": "1"
       },
       {
         "round": 14,
@@ -322,9 +369,19 @@
         "position": 1
       },
       {
+        "round": 14,
+        "points": "284",
+        "position": "1"
+      },
+      {
         "round": 15,
         "points": 288.0,
         "position": 1
+      },
+      {
+        "round": 15,
+        "points": "309",
+        "position": "1"
       },
       {
         "round": 16,
@@ -332,9 +389,19 @@
         "position": 1
       },
       {
+        "round": 16,
+        "points": "324",
+        "position": "1"
+      },
+      {
         "round": 17,
         "points": 303.0,
         "position": 1
+      },
+      {
+        "round": 17,
+        "points": "324",
+        "position": "1"
       },
       {
         "round": 18,
@@ -342,9 +409,19 @@
         "position": 1
       },
       {
+        "round": 18,
+        "points": "336",
+        "position": "1"
+      },
+      {
         "round": 19,
         "points": 325.0,
         "position": 1
+      },
+      {
+        "round": 19,
+        "points": "346",
+        "position": "1"
       },
       {
         "round": 20,
@@ -352,634 +429,29 @@
         "position": 2
       },
       {
+        "round": 20,
+        "points": "356",
+        "position": "2"
+      },
+      {
         "round": 21,
         "points": 345.0,
         "position": 2
       },
       {
-        "round": 22,
-        "points": 345.0,
-        "position": 2
-      },
-      {
-        "round": 23,
-        "points": 363.0,
-        "position": 3
-      }
-    ]
-  },
-  {
-    "driver_id": "RUS",
-    "code": "RUS",
-    "name": "George Russell",
-    "color": "#00A19C",
-    "progression": [
-      {
-        "round": 1,
-        "points": 15.0,
-        "position": 3
-      },
-      {
-        "round": 2,
-        "points": 30.0,
-        "position": 3
-      },
-      {
-        "round": 3,
-        "points": 40.0,
-        "position": 4
-      },
-      {
-        "round": 4,
-        "points": 58.0,
-        "position": 4
-      },
-      {
-        "round": 5,
-        "points": 68.0,
-        "position": 4
-      },
-      {
-        "round": 6,
-        "points": 83.0,
-        "position": 4
-      },
-      {
-        "round": 7,
-        "points": 89.0,
-        "position": 4
-      },
-      {
-        "round": 8,
-        "points": 89.0,
-        "position": 4
-      },
-      {
-        "round": 9,
-        "points": 101.0,
-        "position": 4
-      },
-      {
-        "round": 10,
-        "points": 126.0,
-        "position": 4
-      },
-      {
-        "round": 11,
-        "points": 136.0,
-        "position": 4
-      },
-      {
-        "round": 12,
-        "points": 137.0,
-        "position": 4
-      },
-      {
-        "round": 13,
-        "points": 147.0,
-        "position": 4
-      },
-      {
-        "round": 14,
-        "points": 162.0,
-        "position": 4
-      },
-      {
-        "round": 15,
-        "points": 174.0,
-        "position": 4
-      },
-      {
-        "round": 16,
-        "points": 184.0,
-        "position": 4
-      },
-      {
-        "round": 17,
-        "points": 202.0,
-        "position": 4
-      },
-      {
-        "round": 18,
-        "points": 227.0,
-        "position": 4
-      },
-      {
-        "round": 19,
-        "points": 235.0,
-        "position": 4
-      },
-      {
-        "round": 20,
-        "points": 241.0,
-        "position": 4
-      },
-      {
         "round": 21,
-        "points": 253.0,
-        "position": 4
+        "points": "366",
+        "position": "2"
       },
       {
         "round": 22,
-        "points": 271.0,
-        "position": 4
+        "points": "366",
+        "position": "2"
       },
       {
         "round": 23,
-        "points": 279.0,
-        "position": 4
-      }
-    ]
-  },
-  {
-    "driver_id": "LEC",
-    "code": "LEC",
-    "name": "Charles Leclerc",
-    "color": "#DC0000",
-    "progression": [
-      {
-        "round": 1,
-        "points": 4.0,
-        "position": 8
-      },
-      {
-        "round": 2,
-        "points": 4.0,
-        "position": 10
-      },
-      {
-        "round": 3,
-        "points": 16.0,
-        "position": 7
-      },
-      {
-        "round": 4,
-        "points": 28.0,
-        "position": 6
-      },
-      {
-        "round": 5,
-        "points": 43.0,
-        "position": 5
-      },
-      {
-        "round": 6,
-        "points": 49.0,
-        "position": 5
-      },
-      {
-        "round": 7,
-        "points": 57.0,
-        "position": 5
-      },
-      {
-        "round": 8,
-        "points": 75.0,
-        "position": 5
-      },
-      {
-        "round": 9,
-        "points": 90.0,
-        "position": 5
-      },
-      {
-        "round": 10,
-        "points": 100.0,
-        "position": 5
-      },
-      {
-        "round": 11,
-        "points": 115.0,
-        "position": 5
-      },
-      {
-        "round": 12,
-        "points": 115.0,
-        "position": 5
-      },
-      {
-        "round": 13,
-        "points": 130.0,
-        "position": 5
-      },
-      {
-        "round": 14,
-        "points": 142.0,
-        "position": 5
-      },
-      {
-        "round": 15,
-        "points": 142.0,
-        "position": 5
-      },
-      {
-        "round": 16,
-        "points": 154.0,
-        "position": 5
-      },
-      {
-        "round": 17,
-        "points": 156.0,
-        "position": 5
-      },
-      {
-        "round": 18,
-        "points": 164.0,
-        "position": 5
-      },
-      {
-        "round": 19,
-        "points": 179.0,
-        "position": 5
-      },
-      {
-        "round": 20,
-        "points": 197.0,
-        "position": 5
-      },
-      {
-        "round": 21,
-        "points": 197.0,
-        "position": 5
-      },
-      {
-        "round": 22,
-        "points": 209.0,
-        "position": 5
-      },
-      {
-        "round": 23,
-        "points": 213.0,
-        "position": 5
-      }
-    ]
-  },
-  {
-    "driver_id": "ANT",
-    "code": "ANT",
-    "name": "Andrea Kimi Antonelli",
-    "color": "#00A19C",
-    "progression": [
-      {
-        "round": 1,
-        "points": 12.0,
-        "position": 4
-      },
-      {
-        "round": 2,
-        "points": 20.0,
-        "position": 5
-      },
-      {
-        "round": 3,
-        "points": 28.0,
-        "position": 5
-      },
-      {
-        "round": 4,
-        "points": 28.0,
-        "position": 5
-      },
-      {
-        "round": 5,
-        "points": 36.0,
-        "position": 6
-      },
-      {
-        "round": 6,
-        "points": 44.0,
-        "position": 6
-      },
-      {
-        "round": 7,
-        "points": 44.0,
-        "position": 6
-      },
-      {
-        "round": 8,
-        "points": 44.0,
-        "position": 7
-      },
-      {
-        "round": 9,
-        "points": 44.0,
-        "position": 7
-      },
-      {
-        "round": 10,
-        "points": 59.0,
-        "position": 7
-      },
-      {
-        "round": 11,
-        "points": 59.0,
-        "position": 7
-      },
-      {
-        "round": 12,
-        "points": 59.0,
-        "position": 7
-      },
-      {
-        "round": 13,
-        "points": 59.0,
-        "position": 7
-      },
-      {
-        "round": 14,
-        "points": 60.0,
-        "position": 7
-      },
-      {
-        "round": 15,
-        "points": 60.0,
-        "position": 8
-      },
-      {
-        "round": 16,
-        "points": 62.0,
-        "position": 8
-      },
-      {
-        "round": 17,
-        "points": 74.0,
-        "position": 7
-      },
-      {
-        "round": 18,
-        "points": 84.0,
-        "position": 7
-      },
-      {
-        "round": 19,
-        "points": 84.0,
-        "position": 7
-      },
-      {
-        "round": 20,
-        "points": 92.0,
-        "position": 7
-      },
-      {
-        "round": 21,
-        "points": 110.0,
-        "position": 7
-      },
-      {
-        "round": 22,
-        "points": 125.0,
-        "position": 7
-      },
-      {
-        "round": 23,
-        "points": 135.0,
-        "position": 6
-      }
-    ]
-  },
-  {
-    "driver_id": "HAM",
-    "code": "HAM",
-    "name": "Lewis Hamilton",
-    "color": "#DC0000",
-    "progression": [
-      {
-        "round": 1,
-        "points": 1.0,
-        "position": 10
-      },
-      {
-        "round": 2,
-        "points": 1.0,
-        "position": 13
-      },
-      {
-        "round": 3,
-        "points": 7.0,
-        "position": 10
-      },
-      {
-        "round": 4,
-        "points": 17.0,
-        "position": 8
-      },
-      {
-        "round": 5,
-        "points": 23.0,
-        "position": 7
-      },
-      {
-        "round": 6,
-        "points": 27.0,
-        "position": 8
-      },
-      {
-        "round": 7,
-        "points": 39.0,
-        "position": 8
-      },
-      {
-        "round": 8,
-        "points": 49.0,
-        "position": 6
-      },
-      {
-        "round": 9,
-        "points": 57.0,
-        "position": 6
-      },
-      {
-        "round": 10,
-        "points": 65.0,
-        "position": 6
-      },
-      {
-        "round": 11,
-        "points": 77.0,
-        "position": 6
-      },
-      {
-        "round": 12,
-        "points": 89.0,
-        "position": 6
-      },
-      {
-        "round": 13,
-        "points": 95.0,
-        "position": 6
-      },
-      {
-        "round": 14,
-        "points": 95.0,
-        "position": 6
-      },
-      {
-        "round": 15,
-        "points": 95.0,
-        "position": 6
-      },
-      {
-        "round": 16,
-        "points": 103.0,
-        "position": 6
-      },
-      {
-        "round": 17,
-        "points": 107.0,
-        "position": 6
-      },
-      {
-        "round": 18,
-        "points": 111.0,
-        "position": 6
-      },
-      {
-        "round": 19,
-        "points": 123.0,
-        "position": 6
-      },
-      {
-        "round": 20,
-        "points": 127.0,
-        "position": 6
-      },
-      {
-        "round": 21,
-        "points": 127.0,
-        "position": 6
-      },
-      {
-        "round": 22,
-        "points": 131.0,
-        "position": 6
-      },
-      {
-        "round": 23,
-        "points": 131.0,
-        "position": 7
-      }
-    ]
-  },
-  {
-    "driver_id": "ALB",
-    "code": "ALB",
-    "name": "Alexander Albon",
-    "color": "#46b1eb",
-    "progression": [
-      {
-        "round": 1,
-        "points": 10.0,
-        "position": 5
-      },
-      {
-        "round": 2,
-        "points": 16.0,
-        "position": 6
-      },
-      {
-        "round": 3,
-        "points": 18.0,
-        "position": 6
-      },
-      {
-        "round": 4,
-        "points": 18.0,
-        "position": 7
-      },
-      {
-        "round": 5,
-        "points": 20.0,
-        "position": 8
-      },
-      {
-        "round": 6,
-        "points": 30.0,
-        "position": 7
-      },
-      {
-        "round": 7,
-        "points": 40.0,
-        "position": 7
-      },
-      {
-        "round": 8,
-        "points": 42.0,
-        "position": 8
-      },
-      {
-        "round": 9,
-        "points": 42.0,
-        "position": 8
-      },
-      {
-        "round": 10,
-        "points": 42.0,
-        "position": 8
-      },
-      {
-        "round": 11,
-        "points": 42.0,
-        "position": 8
-      },
-      {
-        "round": 12,
-        "points": 46.0,
-        "position": 8
-      },
-      {
-        "round": 13,
-        "points": 54.0,
-        "position": 8
-      },
-      {
-        "round": 14,
-        "points": 54.0,
-        "position": 8
-      },
-      {
-        "round": 15,
-        "points": 64.0,
-        "position": 7
-      },
-      {
-        "round": 16,
-        "points": 70.0,
-        "position": 7
-      },
-      {
-        "round": 17,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 18,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 19,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 20,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 21,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 22,
-        "points": 70.0,
-        "position": 8
-      },
-      {
-        "round": 23,
-        "points": 70.0,
-        "position": 8
+        "points": "392",
+        "position": "3"
       }
     ]
   },
@@ -995,9 +467,19 @@
         "position": 11
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
         "round": 2,
         "points": 1.0,
         "position": 12
+      },
+      {
+        "round": 2,
+        "points": "1",
+        "position": "14"
       },
       {
         "round": 3,
@@ -1005,9 +487,19 @@
         "position": 14
       },
       {
+        "round": 3,
+        "points": "1",
+        "position": "15"
+      },
+      {
         "round": 4,
         "points": 1.0,
         "position": 16
+      },
+      {
+        "round": 4,
+        "points": "1",
+        "position": "16"
       },
       {
         "round": 5,
@@ -1015,9 +507,19 @@
         "position": 14
       },
       {
+        "round": 5,
+        "points": "5",
+        "position": "15"
+      },
+      {
         "round": 6,
         "points": 7.0,
         "position": 11
+      },
+      {
+        "round": 6,
+        "points": "7",
+        "position": "13"
       },
       {
         "round": 7,
@@ -1025,9 +527,19 @@
         "position": 10
       },
       {
+        "round": 7,
+        "points": "11",
+        "position": "11"
+      },
+      {
         "round": 8,
         "points": 12.0,
         "position": 11
+      },
+      {
+        "round": 8,
+        "points": "12",
+        "position": "12"
       },
       {
         "round": 9,
@@ -1035,9 +547,19 @@
         "position": 12
       },
       {
+        "round": 9,
+        "points": "12",
+        "position": "13"
+      },
+      {
         "round": 10,
         "points": 13.0,
         "position": 12
+      },
+      {
+        "round": 10,
+        "points": "13",
+        "position": "13"
       },
       {
         "round": 11,
@@ -1045,9 +567,19 @@
         "position": 13
       },
       {
+        "round": 11,
+        "points": "13",
+        "position": "14"
+      },
+      {
         "round": 12,
         "points": 13.0,
         "position": 15
+      },
+      {
+        "round": 12,
+        "points": "13",
+        "position": "15"
       },
       {
         "round": 13,
@@ -1055,9 +587,19 @@
         "position": 16
       },
       {
+        "round": 13,
+        "points": "16",
+        "position": "16"
+      },
+      {
         "round": 14,
         "points": 13.0,
         "position": 17
+      },
+      {
+        "round": 14,
+        "points": "16",
+        "position": "16"
       },
       {
         "round": 15,
@@ -1065,9 +607,19 @@
         "position": 18
       },
       {
+        "round": 15,
+        "points": "16",
+        "position": "17"
+      },
+      {
         "round": 16,
         "points": 13.0,
         "position": 18
+      },
+      {
+        "round": 16,
+        "points": "16",
+        "position": "18"
       },
       {
         "round": 17,
@@ -1075,9 +627,19 @@
         "position": 13
       },
       {
+        "round": 17,
+        "points": "31",
+        "position": "12"
+      },
+      {
         "round": 18,
         "points": 29.0,
         "position": 13
+      },
+      {
+        "round": 18,
+        "points": "32",
+        "position": "12"
       },
       {
         "round": 19,
@@ -1085,9 +647,19 @@
         "position": 13
       },
       {
+        "round": 19,
+        "points": "38",
+        "position": "11"
+      },
+      {
         "round": 20,
         "points": 29.0,
         "position": 14
+      },
+      {
+        "round": 20,
+        "points": "38",
+        "position": "11"
       },
       {
         "round": 21,
@@ -1095,260 +667,703 @@
         "position": 14
       },
       {
+        "round": 21,
+        "points": "38",
+        "position": "13"
+      },
+      {
         "round": 22,
-        "points": 39.0,
-        "position": 11
+        "points": "48",
+        "position": "11"
       },
       {
         "round": 23,
-        "points": 54.0,
-        "position": 9
+        "points": "64",
+        "position": "9"
       }
     ]
   },
   {
-    "driver_id": "HAD",
-    "code": "HAD",
-    "name": "Isack Hadjar",
-    "color": "#8A8D8F",
+    "driver_id": "NOR",
+    "code": "NOR",
+    "name": "Lando Norris",
+    "color": "#FF8700",
     "progression": [
       {
         "round": 1,
-        "points": 0.0,
-        "position": 19
+        "points": 25.0,
+        "position": 1
+      },
+      {
+        "round": 1,
+        "points": "25",
+        "position": "1"
       },
       {
         "round": 2,
-        "points": 0.0,
-        "position": 20
+        "points": 43.0,
+        "position": 1
+      },
+      {
+        "round": 2,
+        "points": "44",
+        "position": "1"
       },
       {
         "round": 3,
-        "points": 4.0,
-        "position": 13
+        "points": 61.0,
+        "position": 1
+      },
+      {
+        "round": 3,
+        "points": "62",
+        "position": "1"
       },
       {
         "round": 4,
-        "points": 4.0,
-        "position": 14
+        "points": 76.0,
+        "position": 1
+      },
+      {
+        "round": 4,
+        "points": "77",
+        "position": "1"
       },
       {
         "round": 5,
-        "points": 5.0,
-        "position": 15
+        "points": 88.0,
+        "position": 2
+      },
+      {
+        "round": 5,
+        "points": "89",
+        "position": "2"
       },
       {
         "round": 6,
-        "points": 5.0,
-        "position": 15
+        "points": 106.0,
+        "position": 2
+      },
+      {
+        "round": 6,
+        "points": "115",
+        "position": "2"
       },
       {
         "round": 7,
-        "points": 7.0,
-        "position": 12
+        "points": 124.0,
+        "position": 2
+      },
+      {
+        "round": 7,
+        "points": "133",
+        "position": "2"
       },
       {
         "round": 8,
-        "points": 15.0,
-        "position": 10
+        "points": 149.0,
+        "position": 1
+      },
+      {
+        "round": 8,
+        "points": "158",
+        "position": "2"
       },
       {
         "round": 9,
-        "points": 21.0,
-        "position": 9
+        "points": 167.0,
+        "position": 2
+      },
+      {
+        "round": 9,
+        "points": "176",
+        "position": "2"
       },
       {
         "round": 10,
-        "points": 21.0,
-        "position": 10
+        "points": 167.0,
+        "position": 2
+      },
+      {
+        "round": 10,
+        "points": "176",
+        "position": "2"
       },
       {
         "round": 11,
-        "points": 21.0,
-        "position": 11
+        "points": 192.0,
+        "position": 2
+      },
+      {
+        "round": 11,
+        "points": "201",
+        "position": "2"
       },
       {
         "round": 12,
-        "points": 21.0,
-        "position": 11
+        "points": 217.0,
+        "position": 2
+      },
+      {
+        "round": 12,
+        "points": "226",
+        "position": "2"
       },
       {
         "round": 13,
-        "points": 21.0,
-        "position": 11
+        "points": 235.0,
+        "position": 2
+      },
+      {
+        "round": 13,
+        "points": "250",
+        "position": "2"
       },
       {
         "round": 14,
-        "points": 21.0,
-        "position": 13
+        "points": 260.0,
+        "position": 2
+      },
+      {
+        "round": 14,
+        "points": "275",
+        "position": "2"
       },
       {
         "round": 15,
-        "points": 36.0,
-        "position": 10
+        "points": 260.0,
+        "position": 2
+      },
+      {
+        "round": 15,
+        "points": "275",
+        "position": "2"
       },
       {
         "round": 16,
-        "points": 37.0,
-        "position": 9
+        "points": 278.0,
+        "position": 2
+      },
+      {
+        "round": 16,
+        "points": "293",
+        "position": "2"
       },
       {
         "round": 17,
-        "points": 38.0,
-        "position": 9
+        "points": 284.0,
+        "position": 2
+      },
+      {
+        "round": 17,
+        "points": "299",
+        "position": "2"
       },
       {
         "round": 18,
-        "points": 38.0,
-        "position": 9
+        "points": 299.0,
+        "position": 2
+      },
+      {
+        "round": 18,
+        "points": "314",
+        "position": "2"
       },
       {
         "round": 19,
-        "points": 38.0,
-        "position": 10
+        "points": 317.0,
+        "position": 2
+      },
+      {
+        "round": 19,
+        "points": "332",
+        "position": "2"
       },
       {
         "round": 20,
-        "points": 38.0,
-        "position": 10
+        "points": 342.0,
+        "position": 1
+      },
+      {
+        "round": 20,
+        "points": "357",
+        "position": "1"
       },
       {
         "round": 21,
-        "points": 42.0,
-        "position": 10
+        "points": 367.0,
+        "position": 1
+      },
+      {
+        "round": 21,
+        "points": "390",
+        "position": "1"
       },
       {
         "round": 22,
-        "points": 50.0,
-        "position": 9
+        "points": "390",
+        "position": "1"
       },
       {
         "round": 23,
-        "points": 50.0,
-        "position": 10
+        "points": "408",
+        "position": "1"
       }
     ]
   },
   {
-    "driver_id": "HUL",
-    "code": "HUL",
-    "name": "Nico Hülkenberg",
-    "color": "#09eb24",
+    "driver_id": "ANT",
+    "code": "ANT",
+    "name": "Andrea Kimi Antonelli",
+    "color": "#00A19C",
     "progression": [
       {
         "round": 1,
-        "points": 6.0,
+        "points": 12.0,
+        "position": 4
+      },
+      {
+        "round": 1,
+        "points": "12",
+        "position": "4"
+      },
+      {
+        "round": 2,
+        "points": 20.0,
+        "position": 5
+      },
+      {
+        "round": 2,
+        "points": "22",
+        "position": "5"
+      },
+      {
+        "round": 3,
+        "points": 28.0,
+        "position": 5
+      },
+      {
+        "round": 3,
+        "points": "30",
+        "position": "5"
+      },
+      {
+        "round": 4,
+        "points": 28.0,
+        "position": 5
+      },
+      {
+        "round": 4,
+        "points": "30",
+        "position": "6"
+      },
+      {
+        "round": 5,
+        "points": 36.0,
+        "position": 6
+      },
+      {
+        "round": 5,
+        "points": "38",
+        "position": "6"
+      },
+      {
+        "round": 6,
+        "points": 44.0,
+        "position": 6
+      },
+      {
+        "round": 6,
+        "points": "48",
+        "position": "6"
+      },
+      {
+        "round": 7,
+        "points": 44.0,
+        "position": 6
+      },
+      {
+        "round": 7,
+        "points": "48",
+        "position": "7"
+      },
+      {
+        "round": 8,
+        "points": 44.0,
         "position": 7
       },
       {
-        "round": 2,
-        "points": 6.0,
-        "position": 9
-      },
-      {
-        "round": 3,
-        "points": 6.0,
-        "position": 11
-      },
-      {
-        "round": 4,
-        "points": 6.0,
-        "position": 13
-      },
-      {
-        "round": 5,
-        "points": 6.0,
-        "position": 13
-      },
-      {
-        "round": 6,
-        "points": 6.0,
-        "position": 14
-      },
-      {
-        "round": 7,
-        "points": 6.0,
-        "position": 15
-      },
-      {
         "round": 8,
-        "points": 6.0,
-        "position": 15
+        "points": "48",
+        "position": "7"
       },
       {
         "round": 9,
-        "points": 16.0,
-        "position": 11
+        "points": 44.0,
+        "position": 7
+      },
+      {
+        "round": 9,
+        "points": "48",
+        "position": "7"
       },
       {
         "round": 10,
-        "points": 20.0,
-        "position": 11
+        "points": 59.0,
+        "position": 7
+      },
+      {
+        "round": 10,
+        "points": "63",
+        "position": "7"
       },
       {
         "round": 11,
-        "points": 22.0,
-        "position": 10
+        "points": 59.0,
+        "position": 7
+      },
+      {
+        "round": 11,
+        "points": "63",
+        "position": "7"
       },
       {
         "round": 12,
-        "points": 37.0,
-        "position": 9
+        "points": 59.0,
+        "position": 7
+      },
+      {
+        "round": 12,
+        "points": "63",
+        "position": "7"
       },
       {
         "round": 13,
-        "points": 37.0,
-        "position": 9
+        "points": 59.0,
+        "position": 7
+      },
+      {
+        "round": 13,
+        "points": "63",
+        "position": "7"
       },
       {
         "round": 14,
-        "points": 37.0,
-        "position": 9
+        "points": 60.0,
+        "position": 7
+      },
+      {
+        "round": 14,
+        "points": "64",
+        "position": "7"
       },
       {
         "round": 15,
-        "points": 37.0,
-        "position": 9
+        "points": 60.0,
+        "position": 8
+      },
+      {
+        "round": 15,
+        "points": "64",
+        "position": "7"
       },
       {
         "round": 16,
-        "points": 37.0,
-        "position": 10
+        "points": 62.0,
+        "position": 8
+      },
+      {
+        "round": 16,
+        "points": "66",
+        "position": "8"
       },
       {
         "round": 17,
-        "points": 37.0,
-        "position": 10
+        "points": 74.0,
+        "position": 7
+      },
+      {
+        "round": 17,
+        "points": "78",
+        "position": "7"
       },
       {
         "round": 18,
-        "points": 37.0,
-        "position": 10
+        "points": 84.0,
+        "position": 7
+      },
+      {
+        "round": 18,
+        "points": "88",
+        "position": "7"
       },
       {
         "round": 19,
-        "points": 41.0,
-        "position": 9
+        "points": 84.0,
+        "position": 7
+      },
+      {
+        "round": 19,
+        "points": "89",
+        "position": "7"
       },
       {
         "round": 20,
-        "points": 41.0,
-        "position": 9
+        "points": 92.0,
+        "position": 7
+      },
+      {
+        "round": 20,
+        "points": "97",
+        "position": "7"
       },
       {
         "round": 21,
-        "points": 43.0,
-        "position": 9
+        "points": 110.0,
+        "position": 7
+      },
+      {
+        "round": 21,
+        "points": "122",
+        "position": "7"
       },
       {
         "round": 22,
-        "points": 49.0,
-        "position": 10
+        "points": "137",
+        "position": "7"
       },
       {
         "round": 23,
-        "points": 49.0,
-        "position": 11
+        "points": "150",
+        "position": "7"
+      }
+    ]
+  },
+  {
+    "driver_id": "RUS",
+    "code": "RUS",
+    "name": "George Russell",
+    "color": "#00A19C",
+    "progression": [
+      {
+        "round": 1,
+        "points": 15.0,
+        "position": 3
+      },
+      {
+        "round": 1,
+        "points": "15",
+        "position": "3"
+      },
+      {
+        "round": 2,
+        "points": 30.0,
+        "position": 3
+      },
+      {
+        "round": 2,
+        "points": "35",
+        "position": "3"
+      },
+      {
+        "round": 3,
+        "points": 40.0,
+        "position": 4
+      },
+      {
+        "round": 3,
+        "points": "45",
+        "position": "4"
+      },
+      {
+        "round": 4,
+        "points": 58.0,
+        "position": 4
+      },
+      {
+        "round": 4,
+        "points": "63",
+        "position": "4"
+      },
+      {
+        "round": 5,
+        "points": 68.0,
+        "position": 4
+      },
+      {
+        "round": 5,
+        "points": "73",
+        "position": "4"
+      },
+      {
+        "round": 6,
+        "points": 83.0,
+        "position": 4
+      },
+      {
+        "round": 6,
+        "points": "93",
+        "position": "4"
+      },
+      {
+        "round": 7,
+        "points": 89.0,
+        "position": 4
+      },
+      {
+        "round": 7,
+        "points": "99",
+        "position": "4"
+      },
+      {
+        "round": 8,
+        "points": 89.0,
+        "position": 4
+      },
+      {
+        "round": 8,
+        "points": "99",
+        "position": "4"
+      },
+      {
+        "round": 9,
+        "points": 101.0,
+        "position": 4
+      },
+      {
+        "round": 9,
+        "points": "111",
+        "position": "4"
+      },
+      {
+        "round": 10,
+        "points": 126.0,
+        "position": 4
+      },
+      {
+        "round": 10,
+        "points": "136",
+        "position": "4"
+      },
+      {
+        "round": 11,
+        "points": 136.0,
+        "position": 4
+      },
+      {
+        "round": 11,
+        "points": "146",
+        "position": "4"
+      },
+      {
+        "round": 12,
+        "points": 137.0,
+        "position": 4
+      },
+      {
+        "round": 12,
+        "points": "147",
+        "position": "4"
+      },
+      {
+        "round": 13,
+        "points": 147.0,
+        "position": 4
+      },
+      {
+        "round": 13,
+        "points": "157",
+        "position": "4"
+      },
+      {
+        "round": 14,
+        "points": 162.0,
+        "position": 4
+      },
+      {
+        "round": 14,
+        "points": "172",
+        "position": "4"
+      },
+      {
+        "round": 15,
+        "points": 174.0,
+        "position": 4
+      },
+      {
+        "round": 15,
+        "points": "184",
+        "position": "4"
+      },
+      {
+        "round": 16,
+        "points": 184.0,
+        "position": 4
+      },
+      {
+        "round": 16,
+        "points": "194",
+        "position": "4"
+      },
+      {
+        "round": 17,
+        "points": 202.0,
+        "position": 4
+      },
+      {
+        "round": 17,
+        "points": "212",
+        "position": "4"
+      },
+      {
+        "round": 18,
+        "points": 227.0,
+        "position": 4
+      },
+      {
+        "round": 18,
+        "points": "237",
+        "position": "4"
+      },
+      {
+        "round": 19,
+        "points": 235.0,
+        "position": 4
+      },
+      {
+        "round": 19,
+        "points": "252",
+        "position": "4"
+      },
+      {
+        "round": 20,
+        "points": 241.0,
+        "position": 4
+      },
+      {
+        "round": 20,
+        "points": "258",
+        "position": "4"
+      },
+      {
+        "round": 21,
+        "points": 253.0,
+        "position": 4
+      },
+      {
+        "round": 21,
+        "points": "276",
+        "position": "4"
+      },
+      {
+        "round": 22,
+        "points": "294",
+        "position": "4"
+      },
+      {
+        "round": 23,
+        "points": "309",
+        "position": "4"
       }
     ]
   },
@@ -1364,9 +1379,19 @@
         "position": 12
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
         "round": 2,
         "points": 0.0,
         "position": 14
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": 0
       },
       {
         "round": 3,
@@ -1374,9 +1399,19 @@
         "position": 15
       },
       {
+        "round": 3,
+        "points": "0",
+        "position": "17"
+      },
+      {
         "round": 4,
         "points": 0.0,
         "position": 17
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "17"
       },
       {
         "round": 5,
@@ -1384,9 +1419,19 @@
         "position": 17
       },
       {
+        "round": 5,
+        "points": "0",
+        "position": "17"
+      },
+      {
         "round": 6,
         "points": 0.0,
         "position": 17
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "17"
       },
       {
         "round": 7,
@@ -1394,9 +1439,19 @@
         "position": 17
       },
       {
+        "round": 7,
+        "points": "0",
+        "position": "17"
+      },
+      {
         "round": 8,
         "points": 0.0,
         "position": 18
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "18"
       },
       {
         "round": 9,
@@ -1404,9 +1459,19 @@
         "position": 18
       },
       {
+        "round": 9,
+        "points": "2",
+        "position": "18"
+      },
+      {
         "round": 10,
         "points": 8.0,
         "position": 15
+      },
+      {
+        "round": 10,
+        "points": "8",
+        "position": "16"
       },
       {
         "round": 11,
@@ -1414,14 +1479,29 @@
         "position": 12
       },
       {
+        "round": 11,
+        "points": "14",
+        "position": "13"
+      },
+      {
         "round": 12,
         "points": 16.0,
         "position": 13
       },
       {
+        "round": 12,
+        "points": "16",
+        "position": "14"
+      },
+      {
         "round": 13,
         "points": 16.0,
         "position": 13
+      },
+      {
+        "round": 13,
+        "points": "16",
+        "position": "15"
       },
       {
         "round": 14,
@@ -1429,9 +1509,19 @@
         "position": 10
       },
       {
+        "round": 14,
+        "points": "26",
+        "position": "11"
+      },
+      {
         "round": 15,
         "points": 30.0,
         "position": 11
+      },
+      {
+        "round": 15,
+        "points": "30",
+        "position": "12"
       },
       {
         "round": 16,
@@ -1439,9 +1529,19 @@
         "position": 11
       },
       {
+        "round": 16,
+        "points": "30",
+        "position": "12"
+      },
+      {
         "round": 17,
         "points": 30.0,
         "position": 11
+      },
+      {
+        "round": 17,
+        "points": "30",
+        "position": "14"
       },
       {
         "round": 18,
@@ -1449,9 +1549,19 @@
         "position": 11
       },
       {
+        "round": 18,
+        "points": "36",
+        "position": "11"
+      },
+      {
         "round": 19,
         "points": 37.0,
         "position": 11
+      },
+      {
+        "round": 19,
+        "points": "37",
+        "position": "12"
       },
       {
         "round": 20,
@@ -1459,142 +1569,257 @@
         "position": 11
       },
       {
+        "round": 20,
+        "points": "37",
+        "position": "12"
+      },
+      {
         "round": 21,
         "points": 37.0,
         "position": 12
       },
       {
+        "round": 21,
+        "points": "40",
+        "position": "12"
+      },
+      {
         "round": 22,
-        "points": 37.0,
-        "position": 13
+        "points": "40",
+        "position": "13"
       },
       {
         "round": 23,
-        "points": 43.0,
-        "position": 12
+        "points": "48",
+        "position": "12"
       }
     ]
   },
   {
-    "driver_id": "BEA",
-    "code": "BEA",
-    "name": "Oliver Bearman",
-    "color": "#f04a4a",
+    "driver_id": "LEC",
+    "code": "LEC",
+    "name": "Charles Leclerc",
+    "color": "#DC0000",
     "progression": [
       {
         "round": 1,
-        "points": 0.0,
-        "position": 20
+        "points": 4.0,
+        "position": 8
+      },
+      {
+        "round": 1,
+        "points": "4",
+        "position": "8"
       },
       {
         "round": 2,
         "points": 4.0,
-        "position": 11
+        "position": 10
+      },
+      {
+        "round": 2,
+        "points": "8",
+        "position": "10"
       },
       {
         "round": 3,
-        "points": 5.0,
-        "position": 12
+        "points": 16.0,
+        "position": 7
+      },
+      {
+        "round": 3,
+        "points": "20",
+        "position": "6"
       },
       {
         "round": 4,
-        "points": 6.0,
-        "position": 12
+        "points": 28.0,
+        "position": 6
+      },
+      {
+        "round": 4,
+        "points": "32",
+        "position": "5"
       },
       {
         "round": 5,
-        "points": 6.0,
-        "position": 12
+        "points": 43.0,
+        "position": 5
+      },
+      {
+        "round": 5,
+        "points": "47",
+        "position": "5"
       },
       {
         "round": 6,
-        "points": 6.0,
-        "position": 13
+        "points": 49.0,
+        "position": 5
+      },
+      {
+        "round": 6,
+        "points": "53",
+        "position": "5"
       },
       {
         "round": 7,
-        "points": 6.0,
-        "position": 14
+        "points": 57.0,
+        "position": 5
+      },
+      {
+        "round": 7,
+        "points": "61",
+        "position": "5"
       },
       {
         "round": 8,
-        "points": 6.0,
-        "position": 14
+        "points": 75.0,
+        "position": 5
+      },
+      {
+        "round": 8,
+        "points": "79",
+        "position": "5"
       },
       {
         "round": 9,
-        "points": 6.0,
-        "position": 15
+        "points": 90.0,
+        "position": 5
+      },
+      {
+        "round": 9,
+        "points": "94",
+        "position": "5"
       },
       {
         "round": 10,
-        "points": 6.0,
-        "position": 16
+        "points": 100.0,
+        "position": 5
+      },
+      {
+        "round": 10,
+        "points": "104",
+        "position": "5"
       },
       {
         "round": 11,
-        "points": 6.0,
-        "position": 17
+        "points": 115.0,
+        "position": 5
+      },
+      {
+        "round": 11,
+        "points": "119",
+        "position": "5"
       },
       {
         "round": 12,
-        "points": 6.0,
-        "position": 17
+        "points": 115.0,
+        "position": 5
+      },
+      {
+        "round": 12,
+        "points": "119",
+        "position": "5"
       },
       {
         "round": 13,
-        "points": 6.0,
-        "position": 18
+        "points": 130.0,
+        "position": 5
+      },
+      {
+        "round": 13,
+        "points": "139",
+        "position": "5"
       },
       {
         "round": 14,
-        "points": 6.0,
-        "position": 18
+        "points": 142.0,
+        "position": 5
+      },
+      {
+        "round": 14,
+        "points": "151",
+        "position": "5"
       },
       {
         "round": 15,
-        "points": 14.0,
-        "position": 17
+        "points": 142.0,
+        "position": 5
+      },
+      {
+        "round": 15,
+        "points": "151",
+        "position": "5"
       },
       {
         "round": 16,
-        "points": 14.0,
-        "position": 17
+        "points": 154.0,
+        "position": 5
+      },
+      {
+        "round": 16,
+        "points": "163",
+        "position": "5"
       },
       {
         "round": 17,
-        "points": 14.0,
-        "position": 19
+        "points": 156.0,
+        "position": 5
+      },
+      {
+        "round": 17,
+        "points": "165",
+        "position": "5"
       },
       {
         "round": 18,
-        "points": 16.0,
-        "position": 18
+        "points": 164.0,
+        "position": 5
+      },
+      {
+        "round": 18,
+        "points": "173",
+        "position": "5"
       },
       {
         "round": 19,
-        "points": 18.0,
-        "position": 19
+        "points": 179.0,
+        "position": 5
+      },
+      {
+        "round": 19,
+        "points": "192",
+        "position": "5"
       },
       {
         "round": 20,
-        "points": 30.0,
-        "position": 13
+        "points": 197.0,
+        "position": 5
+      },
+      {
+        "round": 20,
+        "points": "210",
+        "position": "5"
       },
       {
         "round": 21,
-        "points": 38.0,
-        "position": 11
+        "points": 197.0,
+        "position": 5
+      },
+      {
+        "round": 21,
+        "points": "214",
+        "position": "5"
       },
       {
         "round": 22,
-        "points": 39.0,
-        "position": 12
+        "points": "226",
+        "position": "5"
       },
       {
         "round": 23,
-        "points": 39.0,
-        "position": 13
+        "points": "230",
+        "position": "5"
       }
     ]
   },
@@ -1610,9 +1835,19 @@
         "position": 13
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
         "round": 2,
         "points": 0.0,
         "position": 15
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "17"
       },
       {
         "round": 3,
@@ -1620,9 +1855,19 @@
         "position": 16
       },
       {
+        "round": 3,
+        "points": "0",
+        "position": "18"
+      },
+      {
         "round": 4,
         "points": 0.0,
         "position": 18
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "18"
       },
       {
         "round": 5,
@@ -1630,9 +1875,19 @@
         "position": 18
       },
       {
+        "round": 5,
+        "points": "0",
+        "position": "18"
+      },
+      {
         "round": 6,
         "points": 0.0,
         "position": 18
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "18"
       },
       {
         "round": 7,
@@ -1640,14 +1895,29 @@
         "position": 18
       },
       {
+        "round": 7,
+        "points": "0",
+        "position": "18"
+      },
+      {
         "round": 8,
         "points": 4.0,
         "position": 16
       },
       {
+        "round": 8,
+        "points": "4",
+        "position": "17"
+      },
+      {
         "round": 9,
         "points": 4.0,
         "position": 16
+      },
+      {
+        "round": 9,
+        "points": "4",
+        "position": "17"
       },
       {
         "round": 10,
@@ -1655,9 +1925,19 @@
         "position": 17
       },
       {
+        "round": 10,
+        "points": "4",
+        "position": "18"
+      },
+      {
         "round": 11,
         "points": 12.0,
         "position": 14
+      },
+      {
+        "round": 11,
+        "points": "12",
+        "position": "15"
       },
       {
         "round": 12,
@@ -1665,9 +1945,19 @@
         "position": 16
       },
       {
+        "round": 12,
+        "points": "12",
+        "position": "16"
+      },
+      {
         "round": 13,
         "points": 16.0,
         "position": 14
+      },
+      {
+        "round": 13,
+        "points": "16",
+        "position": "14"
       },
       {
         "round": 14,
@@ -1675,9 +1965,19 @@
         "position": 14
       },
       {
+        "round": 14,
+        "points": "20",
+        "position": "15"
+      },
+      {
         "round": 15,
         "points": 20.0,
         "position": 14
+      },
+      {
+        "round": 15,
+        "points": "20",
+        "position": "15"
       },
       {
         "round": 16,
@@ -1685,9 +1985,19 @@
         "position": 14
       },
       {
+        "round": 16,
+        "points": "20",
+        "position": "15"
+      },
+      {
         "round": 17,
         "points": 30.0,
         "position": 12
+      },
+      {
+        "round": 17,
+        "points": "30",
+        "position": "13"
       },
       {
         "round": 18,
@@ -1695,14 +2005,29 @@
         "position": 12
       },
       {
+        "round": 18,
+        "points": "30",
+        "position": "14"
+      },
+      {
         "round": 19,
         "points": 30.0,
         "position": 12
       },
       {
+        "round": 19,
+        "points": "30",
+        "position": "14"
+      },
+      {
         "round": 20,
         "points": 30.0,
         "position": 12
+      },
+      {
+        "round": 20,
+        "points": "30",
+        "position": "15"
       },
       {
         "round": 21,
@@ -1710,260 +2035,19 @@
         "position": 13
       },
       {
-        "round": 22,
-        "points": 36.0,
-        "position": 14
-      },
-      {
-        "round": 23,
-        "points": 38.0,
-        "position": 14
-      }
-    ]
-  },
-  {
-    "driver_id": "OCO",
-    "code": "OCO",
-    "name": "Esteban Ocon",
-    "color": "#f04a4a",
-    "progression": [
-      {
-        "round": 1,
-        "points": 0.0,
-        "position": 17
-      },
-      {
-        "round": 2,
-        "points": 10.0,
-        "position": 7
-      },
-      {
-        "round": 3,
-        "points": 10.0,
-        "position": 8
-      },
-      {
-        "round": 4,
-        "points": 14.0,
-        "position": 9
-      },
-      {
-        "round": 5,
-        "points": 14.0,
-        "position": 9
-      },
-      {
-        "round": 6,
-        "points": 14.0,
-        "position": 9
-      },
-      {
-        "round": 7,
-        "points": 14.0,
-        "position": 9
-      },
-      {
-        "round": 8,
-        "points": 20.0,
-        "position": 9
-      },
-      {
-        "round": 9,
-        "points": 20.0,
-        "position": 10
-      },
-      {
-        "round": 10,
-        "points": 22.0,
-        "position": 9
-      },
-      {
-        "round": 11,
-        "points": 23.0,
-        "position": 9
-      },
-      {
-        "round": 12,
-        "points": 23.0,
-        "position": 10
-      },
-      {
-        "round": 13,
-        "points": 23.0,
-        "position": 10
-      },
-      {
-        "round": 14,
-        "points": 23.0,
-        "position": 11
-      },
-      {
-        "round": 15,
-        "points": 24.0,
-        "position": 13
-      },
-      {
-        "round": 16,
-        "points": 24.0,
-        "position": 13
-      },
-      {
-        "round": 17,
-        "points": 24.0,
-        "position": 15
-      },
-      {
-        "round": 18,
-        "points": 24.0,
-        "position": 15
-      },
-      {
-        "round": 19,
-        "points": 24.0,
-        "position": 15
-      },
-      {
-        "round": 20,
-        "points": 26.0,
-        "position": 16
-      },
-      {
         "round": 21,
-        "points": 26.0,
-        "position": 16
+        "points": "36",
+        "position": "14"
       },
       {
         "round": 22,
-        "points": 28.0,
-        "position": 15
+        "points": "36",
+        "position": "14"
       },
       {
         "round": 23,
-        "points": 28.0,
-        "position": 15
-      }
-    ]
-  },
-  {
-    "driver_id": "STR",
-    "code": "STR",
-    "name": "Lance Stroll",
-    "color": "#0A7968",
-    "progression": [
-      {
-        "round": 1,
-        "points": 8.0,
-        "position": 6
-      },
-      {
-        "round": 2,
-        "points": 10.0,
-        "position": 8
-      },
-      {
-        "round": 3,
-        "points": 10.0,
-        "position": 9
-      },
-      {
-        "round": 4,
-        "points": 10.0,
-        "position": 10
-      },
-      {
-        "round": 5,
-        "points": 10.0,
-        "position": 10
-      },
-      {
-        "round": 6,
-        "points": 10.0,
-        "position": 10
-      },
-      {
-        "round": 7,
-        "points": 10.0,
-        "position": 11
-      },
-      {
-        "round": 8,
-        "points": 10.0,
-        "position": 12
-      },
-      {
-        "round": 9,
-        "points": 10.0,
-        "position": 14
-      },
-      {
-        "round": 10,
-        "points": 10.0,
-        "position": 14
-      },
-      {
-        "round": 11,
-        "points": 10.0,
-        "position": 16
-      },
-      {
-        "round": 12,
-        "points": 16.0,
-        "position": 14
-      },
-      {
-        "round": 13,
-        "points": 16.0,
-        "position": 15
-      },
-      {
-        "round": 14,
-        "points": 22.0,
-        "position": 12
-      },
-      {
-        "round": 15,
-        "points": 28.0,
-        "position": 12
-      },
-      {
-        "round": 16,
-        "points": 28.0,
-        "position": 12
-      },
-      {
-        "round": 17,
-        "points": 28.0,
-        "position": 14
-      },
-      {
-        "round": 18,
-        "points": 28.0,
-        "position": 14
-      },
-      {
-        "round": 19,
-        "points": 28.0,
-        "position": 14
-      },
-      {
-        "round": 20,
-        "points": 28.0,
-        "position": 15
-      },
-      {
-        "round": 21,
-        "points": 28.0,
-        "position": 15
-      },
-      {
-        "round": 22,
-        "points": 28.0,
-        "position": 16
-      },
-      {
-        "round": 23,
-        "points": 28.0,
-        "position": 16
+        "points": "38",
+        "position": "14"
       }
     ]
   },
@@ -1979,9 +2063,19 @@
         "position": 14
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": "12"
+      },
+      {
         "round": 2,
         "points": 0.0,
         "position": 16
+      },
+      {
+        "round": 2,
+        "points": "3",
+        "position": "13"
       },
       {
         "round": 3,
@@ -1989,14 +2083,29 @@
         "position": 17
       },
       {
+        "round": 3,
+        "points": "3",
+        "position": "14"
+      },
+      {
         "round": 4,
         "points": 2.0,
         "position": 15
       },
       {
+        "round": 4,
+        "points": "5",
+        "position": "14"
+      },
+      {
         "round": 5,
         "points": 2.0,
         "position": 16
+      },
+      {
+        "round": 5,
+        "points": "5",
+        "position": "16"
       },
       {
         "round": 6,
@@ -2004,9 +2113,19 @@
         "position": 16
       },
       {
+        "round": 6,
+        "points": "9",
+        "position": "11"
+      },
+      {
         "round": 7,
         "points": 4.0,
         "position": 16
+      },
+      {
+        "round": 7,
+        "points": "10",
+        "position": "12"
       },
       {
         "round": 8,
@@ -2014,9 +2133,19 @@
         "position": 17
       },
       {
+        "round": 8,
+        "points": "10",
+        "position": "13"
+      },
+      {
         "round": 9,
         "points": 4.0,
         "position": 17
+      },
+      {
+        "round": 9,
+        "points": "10",
+        "position": "15"
       },
       {
         "round": 10,
@@ -2024,9 +2153,19 @@
         "position": 18
       },
       {
+        "round": 10,
+        "points": "10",
+        "position": "15"
+      },
+      {
         "round": 11,
         "points": 4.0,
         "position": 18
+      },
+      {
+        "round": 11,
+        "points": "10",
+        "position": "17"
       },
       {
         "round": 12,
@@ -2034,9 +2173,19 @@
         "position": 18
       },
       {
+        "round": 12,
+        "points": "10",
+        "position": "17"
+      },
+      {
         "round": 13,
         "points": 4.0,
         "position": 19
+      },
+      {
+        "round": 13,
+        "points": "10",
+        "position": "17"
       },
       {
         "round": 14,
@@ -2044,9 +2193,19 @@
         "position": 19
       },
       {
+        "round": 14,
+        "points": "10",
+        "position": "18"
+      },
+      {
         "round": 15,
         "points": 6.0,
         "position": 19
+      },
+      {
+        "round": 15,
+        "points": "12",
+        "position": "19"
       },
       {
         "round": 16,
@@ -2054,9 +2213,19 @@
         "position": 19
       },
       {
+        "round": 16,
+        "points": "12",
+        "position": "19"
+      },
+      {
         "round": 17,
         "points": 14.0,
         "position": 18
+      },
+      {
+        "round": 17,
+        "points": "20",
+        "position": "17"
       },
       {
         "round": 18,
@@ -2064,9 +2233,19 @@
         "position": 19
       },
       {
+        "round": 18,
+        "points": "20",
+        "position": "17"
+      },
+      {
         "round": 19,
         "points": 20.0,
         "position": 16
+      },
+      {
+        "round": 19,
+        "points": "28",
+        "position": "16"
       },
       {
         "round": 20,
@@ -2074,142 +2253,485 @@
         "position": 17
       },
       {
+        "round": 20,
+        "points": "28",
+        "position": "17"
+      },
+      {
         "round": 21,
         "points": 20.0,
         "position": 17
       },
       {
+        "round": 21,
+        "points": "28",
+        "position": "17"
+      },
+      {
         "round": 22,
-        "points": 20.0,
-        "position": 17
+        "points": "28",
+        "position": "17"
       },
       {
         "round": 23,
-        "points": 21.0,
-        "position": 17
+        "points": "33",
+        "position": "15"
       }
     ]
   },
   {
-    "driver_id": "GAS",
-    "code": "GAS",
-    "name": "Pierre Gasly",
-    "color": "#f743e8",
+    "driver_id": "ALB",
+    "code": "ALB",
+    "name": "Alexander Albon",
+    "color": "#46b1eb",
     "progression": [
       {
         "round": 1,
-        "points": 0.0,
-        "position": 18
+        "points": 10.0,
+        "position": 5
+      },
+      {
+        "round": 1,
+        "points": "10",
+        "position": "5"
       },
       {
         "round": 2,
-        "points": 0.0,
-        "position": 19
+        "points": 16.0,
+        "position": 6
+      },
+      {
+        "round": 2,
+        "points": "16",
+        "position": "6"
       },
       {
         "round": 3,
-        "points": 0.0,
-        "position": 20
+        "points": 18.0,
+        "position": 6
+      },
+      {
+        "round": 3,
+        "points": "18",
+        "position": "7"
       },
       {
         "round": 4,
-        "points": 6.0,
-        "position": 11
+        "points": 18.0,
+        "position": 7
+      },
+      {
+        "round": 4,
+        "points": "18",
+        "position": "8"
       },
       {
         "round": 5,
-        "points": 6.0,
-        "position": 11
+        "points": 20.0,
+        "position": 8
+      },
+      {
+        "round": 5,
+        "points": "20",
+        "position": "8"
       },
       {
         "round": 6,
-        "points": 6.0,
-        "position": 12
+        "points": 30.0,
+        "position": 7
+      },
+      {
+        "round": 6,
+        "points": "30",
+        "position": "8"
       },
       {
         "round": 7,
-        "points": 6.0,
-        "position": 13
+        "points": 40.0,
+        "position": 7
+      },
+      {
+        "round": 7,
+        "points": "40",
+        "position": "8"
       },
       {
         "round": 8,
-        "points": 6.0,
-        "position": 13
+        "points": 42.0,
+        "position": 8
+      },
+      {
+        "round": 8,
+        "points": "42",
+        "position": "8"
       },
       {
         "round": 9,
-        "points": 10.0,
-        "position": 13
+        "points": 42.0,
+        "position": 8
+      },
+      {
+        "round": 9,
+        "points": "42",
+        "position": "8"
       },
       {
         "round": 10,
-        "points": 10.0,
-        "position": 13
+        "points": 42.0,
+        "position": 8
+      },
+      {
+        "round": 10,
+        "points": "42",
+        "position": "8"
       },
       {
         "round": 11,
-        "points": 10.0,
-        "position": 15
+        "points": 42.0,
+        "position": 8
+      },
+      {
+        "round": 11,
+        "points": "42",
+        "position": "8"
       },
       {
         "round": 12,
-        "points": 18.0,
-        "position": 12
+        "points": 46.0,
+        "position": 8
+      },
+      {
+        "round": 12,
+        "points": "46",
+        "position": "8"
       },
       {
         "round": 13,
-        "points": 19.0,
-        "position": 12
+        "points": 54.0,
+        "position": 8
+      },
+      {
+        "round": 13,
+        "points": "54",
+        "position": "8"
       },
       {
         "round": 14,
-        "points": 19.0,
-        "position": 15
+        "points": 54.0,
+        "position": 8
+      },
+      {
+        "round": 14,
+        "points": "54",
+        "position": "8"
       },
       {
         "round": 15,
-        "points": 19.0,
-        "position": 15
+        "points": 64.0,
+        "position": 7
+      },
+      {
+        "round": 15,
+        "points": "64",
+        "position": "8"
       },
       {
         "round": 16,
-        "points": 19.0,
-        "position": 15
+        "points": 70.0,
+        "position": 7
+      },
+      {
+        "round": 16,
+        "points": "70",
+        "position": "7"
       },
       {
         "round": 17,
-        "points": 19.0,
-        "position": 16
+        "points": 70.0,
+        "position": 8
+      },
+      {
+        "round": 17,
+        "points": "70",
+        "position": "8"
       },
       {
         "round": 18,
-        "points": 19.0,
-        "position": 16
+        "points": 70.0,
+        "position": 8
+      },
+      {
+        "round": 18,
+        "points": "70",
+        "position": "8"
       },
       {
         "round": 19,
-        "points": 19.0,
-        "position": 17
+        "points": 70.0,
+        "position": 8
+      },
+      {
+        "round": 19,
+        "points": "73",
+        "position": "8"
       },
       {
         "round": 20,
-        "points": 19.0,
-        "position": 19
+        "points": 70.0,
+        "position": 8
+      },
+      {
+        "round": 20,
+        "points": "73",
+        "position": "8"
       },
       {
         "round": 21,
-        "points": 20.0,
-        "position": 18
+        "points": 70.0,
+        "position": 8
+      },
+      {
+        "round": 21,
+        "points": "73",
+        "position": "8"
       },
       {
         "round": 22,
-        "points": 20.0,
-        "position": 18
+        "points": "73",
+        "position": "8"
       },
       {
         "round": 23,
-        "points": 20.0,
-        "position": 18
+        "points": "73",
+        "position": "8"
+      }
+    ]
+  },
+  {
+    "driver_id": "HAM",
+    "code": "HAM",
+    "name": "Lewis Hamilton",
+    "color": "#DC0000",
+    "progression": [
+      {
+        "round": 1,
+        "points": 1.0,
+        "position": 10
+      },
+      {
+        "round": 1,
+        "points": "1",
+        "position": "10"
+      },
+      {
+        "round": 2,
+        "points": 1.0,
+        "position": 13
+      },
+      {
+        "round": 2,
+        "points": "9",
+        "position": "9"
+      },
+      {
+        "round": 3,
+        "points": 7.0,
+        "position": 10
+      },
+      {
+        "round": 3,
+        "points": "15",
+        "position": "8"
+      },
+      {
+        "round": 4,
+        "points": 17.0,
+        "position": 8
+      },
+      {
+        "round": 4,
+        "points": "25",
+        "position": "7"
+      },
+      {
+        "round": 5,
+        "points": 23.0,
+        "position": 7
+      },
+      {
+        "round": 5,
+        "points": "31",
+        "position": "7"
+      },
+      {
+        "round": 6,
+        "points": 27.0,
+        "position": 8
+      },
+      {
+        "round": 6,
+        "points": "41",
+        "position": "7"
+      },
+      {
+        "round": 7,
+        "points": 39.0,
+        "position": 8
+      },
+      {
+        "round": 7,
+        "points": "53",
+        "position": "6"
+      },
+      {
+        "round": 8,
+        "points": 49.0,
+        "position": 6
+      },
+      {
+        "round": 8,
+        "points": "63",
+        "position": "6"
+      },
+      {
+        "round": 9,
+        "points": 57.0,
+        "position": 6
+      },
+      {
+        "round": 9,
+        "points": "71",
+        "position": "6"
+      },
+      {
+        "round": 10,
+        "points": 65.0,
+        "position": 6
+      },
+      {
+        "round": 10,
+        "points": "79",
+        "position": "6"
+      },
+      {
+        "round": 11,
+        "points": 77.0,
+        "position": 6
+      },
+      {
+        "round": 11,
+        "points": "91",
+        "position": "6"
+      },
+      {
+        "round": 12,
+        "points": 89.0,
+        "position": 6
+      },
+      {
+        "round": 12,
+        "points": "103",
+        "position": "6"
+      },
+      {
+        "round": 13,
+        "points": 95.0,
+        "position": 6
+      },
+      {
+        "round": 13,
+        "points": "109",
+        "position": "6"
+      },
+      {
+        "round": 14,
+        "points": 95.0,
+        "position": 6
+      },
+      {
+        "round": 14,
+        "points": "109",
+        "position": "6"
+      },
+      {
+        "round": 15,
+        "points": 95.0,
+        "position": 6
+      },
+      {
+        "round": 15,
+        "points": "109",
+        "position": "6"
+      },
+      {
+        "round": 16,
+        "points": 103.0,
+        "position": 6
+      },
+      {
+        "round": 16,
+        "points": "117",
+        "position": "6"
+      },
+      {
+        "round": 17,
+        "points": 107.0,
+        "position": 6
+      },
+      {
+        "round": 17,
+        "points": "121",
+        "position": "6"
+      },
+      {
+        "round": 18,
+        "points": 111.0,
+        "position": 6
+      },
+      {
+        "round": 18,
+        "points": "125",
+        "position": "6"
+      },
+      {
+        "round": 19,
+        "points": 123.0,
+        "position": 6
+      },
+      {
+        "round": 19,
+        "points": "142",
+        "position": "6"
+      },
+      {
+        "round": 20,
+        "points": 127.0,
+        "position": 6
+      },
+      {
+        "round": 20,
+        "points": "146",
+        "position": "6"
+      },
+      {
+        "round": 21,
+        "points": 127.0,
+        "position": 6
+      },
+      {
+        "round": 21,
+        "points": "148",
+        "position": "6"
+      },
+      {
+        "round": 22,
+        "points": "152",
+        "position": "6"
+      },
+      {
+        "round": 23,
+        "points": "152",
+        "position": "6"
       }
     ]
   },
@@ -2225,9 +2747,19 @@
         "position": 15
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
         "round": 2,
         "points": 0.0,
         "position": 17
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "19"
       },
       {
         "round": 3,
@@ -2235,9 +2767,19 @@
         "position": 18
       },
       {
+        "round": 3,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 4,
         "points": 0.0,
         "position": 19
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 5,
@@ -2245,9 +2787,19 @@
         "position": 19
       },
       {
+        "round": 5,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 6,
         "points": 0.0,
         "position": 19
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 7,
@@ -2255,9 +2807,19 @@
         "position": 19
       },
       {
+        "round": 7,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 8,
         "points": 0.0,
         "position": 19
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 9,
@@ -2265,9 +2827,19 @@
         "position": 19
       },
       {
+        "round": 9,
+        "points": "0",
+        "position": "19"
+      },
+      {
         "round": 10,
         "points": 0.0,
         "position": 19
+      },
+      {
+        "round": 10,
+        "points": "0",
+        "position": "19"
       },
       {
         "round": 11,
@@ -2275,9 +2847,19 @@
         "position": 19
       },
       {
+        "round": 11,
+        "points": "4",
+        "position": "19"
+      },
+      {
         "round": 12,
         "points": 4.0,
         "position": 19
+      },
+      {
+        "round": 12,
+        "points": "4",
+        "position": "19"
       },
       {
         "round": 13,
@@ -2285,9 +2867,19 @@
         "position": 17
       },
       {
+        "round": 13,
+        "points": "6",
+        "position": "19"
+      },
+      {
         "round": 14,
         "points": 14.0,
         "position": 16
+      },
+      {
+        "round": 14,
+        "points": "14",
+        "position": "17"
       },
       {
         "round": 15,
@@ -2295,9 +2887,19 @@
         "position": 16
       },
       {
+        "round": 15,
+        "points": "14",
+        "position": "18"
+      },
+      {
         "round": 16,
         "points": 18.0,
         "position": 16
+      },
+      {
+        "round": 16,
+        "points": "18",
+        "position": "16"
       },
       {
         "round": 17,
@@ -2305,9 +2907,19 @@
         "position": 17
       },
       {
+        "round": 17,
+        "points": "18",
+        "position": "18"
+      },
+      {
         "round": 18,
         "points": 18.0,
         "position": 17
+      },
+      {
+        "round": 18,
+        "points": "18",
+        "position": "18"
       },
       {
         "round": 19,
@@ -2315,9 +2927,19 @@
         "position": 18
       },
       {
+        "round": 19,
+        "points": "18",
+        "position": "19"
+      },
+      {
         "round": 20,
         "points": 19.0,
         "position": 18
+      },
+      {
+        "round": 20,
+        "points": "19",
+        "position": "19"
       },
       {
         "round": 21,
@@ -2325,14 +2947,19 @@
         "position": 19
       },
       {
+        "round": 21,
+        "points": "19",
+        "position": "19"
+      },
+      {
         "round": 22,
-        "points": 19.0,
-        "position": 19
+        "points": "19",
+        "position": "19"
       },
       {
         "round": 23,
-        "points": 19.0,
-        "position": 19
+        "points": "19",
+        "position": "19"
       }
     ]
   },
@@ -2378,9 +3005,19 @@
         "position": 20
       },
       {
+        "round": 7,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 8,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 9,
@@ -2388,9 +3025,19 @@
         "position": 20
       },
       {
+        "round": 9,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 10,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 10,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 11,
@@ -2398,9 +3045,19 @@
         "position": 20
       },
       {
+        "round": 11,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 12,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 13,
@@ -2408,9 +3065,19 @@
         "position": 20
       },
       {
+        "round": 13,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 14,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 15,
@@ -2418,9 +3085,19 @@
         "position": 20
       },
       {
+        "round": 15,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 16,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 16,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 17,
@@ -2428,9 +3105,19 @@
         "position": 20
       },
       {
+        "round": 17,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 18,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 18,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 19,
@@ -2438,9 +3125,19 @@
         "position": 20
       },
       {
+        "round": 19,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 20,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 20,
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 21,
@@ -2448,14 +3145,1387 @@
         "position": 20
       },
       {
+        "round": 21,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 22,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 23,
+        "points": "0",
+        "position": "20"
+      }
+    ]
+  },
+  {
+    "driver_id": "OCO",
+    "code": "OCO",
+    "name": "Esteban Ocon",
+    "color": "#f04a4a",
+    "progression": [
+      {
+        "round": 1,
+        "points": 0.0,
+        "position": 17
+      },
+      {
+        "round": 1,
+        "points": "0",
+        "position": "13"
+      },
+      {
+        "round": 2,
+        "points": 10.0,
+        "position": 7
+      },
+      {
+        "round": 2,
+        "points": "10",
+        "position": "7"
+      },
+      {
+        "round": 3,
+        "points": 10.0,
+        "position": 8
+      },
+      {
+        "round": 3,
+        "points": "10",
+        "position": "9"
+      },
+      {
+        "round": 4,
+        "points": 14.0,
+        "position": 9
+      },
+      {
+        "round": 4,
+        "points": "14",
+        "position": "9"
+      },
+      {
+        "round": 5,
+        "points": 14.0,
+        "position": 9
+      },
+      {
+        "round": 5,
+        "points": "14",
+        "position": "9"
+      },
+      {
+        "round": 6,
+        "points": 14.0,
+        "position": 9
+      },
+      {
+        "round": 6,
+        "points": "14",
+        "position": "9"
+      },
+      {
+        "round": 7,
+        "points": 14.0,
+        "position": 9
+      },
+      {
+        "round": 7,
+        "points": "14",
+        "position": "9"
+      },
+      {
+        "round": 8,
+        "points": 20.0,
+        "position": 9
+      },
+      {
+        "round": 8,
+        "points": "20",
+        "position": "9"
+      },
+      {
+        "round": 9,
+        "points": 20.0,
+        "position": 10
+      },
+      {
+        "round": 9,
+        "points": "20",
+        "position": "10"
+      },
+      {
+        "round": 10,
+        "points": 22.0,
+        "position": 9
+      },
+      {
+        "round": 10,
+        "points": "22",
+        "position": "9"
+      },
+      {
+        "round": 11,
+        "points": 23.0,
+        "position": 9
+      },
+      {
+        "round": 11,
+        "points": "23",
+        "position": "9"
+      },
+      {
+        "round": 12,
+        "points": 23.0,
+        "position": 10
+      },
+      {
+        "round": 12,
+        "points": "23",
+        "position": "10"
+      },
+      {
+        "round": 13,
+        "points": 23.0,
+        "position": 10
+      },
+      {
+        "round": 13,
+        "points": "27",
+        "position": "10"
+      },
+      {
+        "round": 14,
+        "points": 23.0,
+        "position": 11
+      },
+      {
+        "round": 14,
+        "points": "27",
+        "position": "10"
+      },
+      {
+        "round": 15,
+        "points": 24.0,
+        "position": 13
+      },
+      {
+        "round": 15,
+        "points": "28",
+        "position": "13"
+      },
+      {
+        "round": 16,
+        "points": 24.0,
+        "position": 13
+      },
+      {
+        "round": 16,
+        "points": "28",
+        "position": "13"
+      },
+      {
+        "round": 17,
+        "points": 24.0,
+        "position": 15
+      },
+      {
+        "round": 17,
+        "points": "28",
+        "position": "15"
+      },
+      {
+        "round": 18,
+        "points": 24.0,
+        "position": 15
+      },
+      {
+        "round": 18,
+        "points": "28",
+        "position": "15"
+      },
+      {
+        "round": 19,
+        "points": 24.0,
+        "position": 15
+      },
+      {
+        "round": 19,
+        "points": "28",
+        "position": "15"
+      },
+      {
+        "round": 20,
+        "points": 26.0,
+        "position": 16
+      },
+      {
+        "round": 20,
+        "points": "30",
+        "position": "16"
+      },
+      {
+        "round": 21,
+        "points": 26.0,
+        "position": 16
+      },
+      {
+        "round": 21,
+        "points": "30",
+        "position": "16"
+      },
+      {
+        "round": 22,
+        "points": "32",
+        "position": "15"
+      },
+      {
+        "round": 23,
+        "points": "32",
+        "position": "16"
+      }
+    ]
+  },
+  {
+    "driver_id": "GAS",
+    "code": "GAS",
+    "name": "Pierre Gasly",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": 0.0,
+        "position": 18
+      },
+      {
+        "round": 1,
+        "points": "0",
+        "position": "11"
+      },
+      {
+        "round": 2,
+        "points": 0.0,
+        "position": 19
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "15"
+      },
+      {
+        "round": 3,
         "points": 0.0,
         "position": 20
       },
       {
+        "round": 3,
+        "points": "0",
+        "position": "16"
+      },
+      {
+        "round": 4,
+        "points": 6.0,
+        "position": 11
+      },
+      {
+        "round": 4,
+        "points": "6",
+        "position": "11"
+      },
+      {
+        "round": 5,
+        "points": 6.0,
+        "position": 11
+      },
+      {
+        "round": 5,
+        "points": "6",
+        "position": "11"
+      },
+      {
+        "round": 6,
+        "points": 6.0,
+        "position": 12
+      },
+      {
+        "round": 6,
+        "points": "7",
+        "position": "12"
+      },
+      {
+        "round": 7,
+        "points": 6.0,
+        "position": 13
+      },
+      {
+        "round": 7,
+        "points": "7",
+        "position": "13"
+      },
+      {
+        "round": 8,
+        "points": 6.0,
+        "position": 13
+      },
+      {
+        "round": 8,
+        "points": "7",
+        "position": "14"
+      },
+      {
+        "round": 9,
+        "points": 10.0,
+        "position": 13
+      },
+      {
+        "round": 9,
+        "points": "11",
+        "position": "14"
+      },
+      {
+        "round": 10,
+        "points": 10.0,
+        "position": 13
+      },
+      {
+        "round": 10,
+        "points": "11",
+        "position": "14"
+      },
+      {
+        "round": 11,
+        "points": 10.0,
+        "position": 15
+      },
+      {
+        "round": 11,
+        "points": "11",
+        "position": "16"
+      },
+      {
+        "round": 12,
+        "points": 18.0,
+        "position": 12
+      },
+      {
+        "round": 12,
+        "points": "19",
+        "position": "13"
+      },
+      {
+        "round": 13,
+        "points": 19.0,
+        "position": 12
+      },
+      {
+        "round": 13,
+        "points": "20",
+        "position": "12"
+      },
+      {
+        "round": 14,
+        "points": 19.0,
+        "position": 15
+      },
+      {
+        "round": 14,
+        "points": "20",
+        "position": "14"
+      },
+      {
+        "round": 15,
+        "points": 19.0,
+        "position": 15
+      },
+      {
+        "round": 15,
+        "points": "20",
+        "position": "14"
+      },
+      {
+        "round": 16,
+        "points": 19.0,
+        "position": 15
+      },
+      {
+        "round": 16,
+        "points": "20",
+        "position": "14"
+      },
+      {
+        "round": 17,
+        "points": 19.0,
+        "position": 16
+      },
+      {
+        "round": 17,
+        "points": "20",
+        "position": "16"
+      },
+      {
+        "round": 18,
+        "points": 19.0,
+        "position": 16
+      },
+      {
+        "round": 18,
+        "points": "20",
+        "position": "16"
+      },
+      {
+        "round": 19,
+        "points": 19.0,
+        "position": 17
+      },
+      {
+        "round": 19,
+        "points": "20",
+        "position": "17"
+      },
+      {
+        "round": 20,
+        "points": 19.0,
+        "position": 19
+      },
+      {
+        "round": 20,
+        "points": "20",
+        "position": "18"
+      },
+      {
+        "round": 21,
+        "points": 20.0,
+        "position": 18
+      },
+      {
+        "round": 21,
+        "points": "22",
+        "position": "18"
+      },
+      {
+        "round": 22,
+        "points": "22",
+        "position": "18"
+      },
+      {
         "round": 23,
+        "points": "22",
+        "position": "18"
+      }
+    ]
+  },
+  {
+    "driver_id": "STR",
+    "code": "STR",
+    "name": "Lance Stroll",
+    "color": "#0A7968",
+    "progression": [
+      {
+        "round": 1,
+        "points": 8.0,
+        "position": 6
+      },
+      {
+        "round": 1,
+        "points": "8",
+        "position": "6"
+      },
+      {
+        "round": 2,
+        "points": 10.0,
+        "position": 8
+      },
+      {
+        "round": 2,
+        "points": "10",
+        "position": "8"
+      },
+      {
+        "round": 3,
+        "points": 10.0,
+        "position": 9
+      },
+      {
+        "round": 3,
+        "points": "10",
+        "position": "10"
+      },
+      {
+        "round": 4,
+        "points": 10.0,
+        "position": 10
+      },
+      {
+        "round": 4,
+        "points": "10",
+        "position": "10"
+      },
+      {
+        "round": 5,
+        "points": 10.0,
+        "position": 10
+      },
+      {
+        "round": 5,
+        "points": "10",
+        "position": "10"
+      },
+      {
+        "round": 6,
+        "points": 10.0,
+        "position": 10
+      },
+      {
+        "round": 6,
+        "points": "14",
+        "position": "10"
+      },
+      {
+        "round": 7,
+        "points": 10.0,
+        "position": 11
+      },
+      {
+        "round": 7,
+        "points": "14",
+        "position": "10"
+      },
+      {
+        "round": 8,
+        "points": 10.0,
+        "position": 12
+      },
+      {
+        "round": 8,
+        "points": "14",
+        "position": "11"
+      },
+      {
+        "round": 9,
+        "points": 10.0,
+        "position": 14
+      },
+      {
+        "round": 9,
+        "points": "14",
+        "position": "12"
+      },
+      {
+        "round": 10,
+        "points": 10.0,
+        "position": 14
+      },
+      {
+        "round": 10,
+        "points": "14",
+        "position": "12"
+      },
+      {
+        "round": 11,
+        "points": 10.0,
+        "position": 16
+      },
+      {
+        "round": 11,
+        "points": "14",
+        "position": "12"
+      },
+      {
+        "round": 12,
+        "points": 16.0,
+        "position": 14
+      },
+      {
+        "round": 12,
+        "points": "20",
+        "position": "12"
+      },
+      {
+        "round": 13,
+        "points": 16.0,
+        "position": 15
+      },
+      {
+        "round": 13,
+        "points": "20",
+        "position": "13"
+      },
+      {
+        "round": 14,
+        "points": 22.0,
+        "position": 12
+      },
+      {
+        "round": 14,
+        "points": "26",
+        "position": "12"
+      },
+      {
+        "round": 15,
+        "points": 28.0,
+        "position": 12
+      },
+      {
+        "round": 15,
+        "points": "32",
+        "position": "11"
+      },
+      {
+        "round": 16,
+        "points": 28.0,
+        "position": 12
+      },
+      {
+        "round": 16,
+        "points": "32",
+        "position": "11"
+      },
+      {
+        "round": 17,
+        "points": 28.0,
+        "position": 14
+      },
+      {
+        "round": 17,
+        "points": "32",
+        "position": "11"
+      },
+      {
+        "round": 18,
+        "points": 28.0,
+        "position": 14
+      },
+      {
+        "round": 18,
+        "points": "32",
+        "position": "13"
+      },
+      {
+        "round": 19,
+        "points": 28.0,
+        "position": 14
+      },
+      {
+        "round": 19,
+        "points": "32",
+        "position": "13"
+      },
+      {
+        "round": 20,
+        "points": 28.0,
+        "position": 15
+      },
+      {
+        "round": 20,
+        "points": "32",
+        "position": "14"
+      },
+      {
+        "round": 21,
+        "points": 28.0,
+        "position": 15
+      },
+      {
+        "round": 21,
+        "points": "32",
+        "position": "15"
+      },
+      {
+        "round": 22,
+        "points": "32",
+        "position": "16"
+      },
+      {
+        "round": 23,
+        "points": "32",
+        "position": "17"
+      }
+    ]
+  },
+  {
+    "driver_id": "HAD",
+    "code": "HAD",
+    "name": "Isack Hadjar",
+    "color": "#8A8D8F",
+    "progression": [
+      {
+        "round": 1,
+        "points": 0.0,
+        "position": 19
+      },
+      {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
+        "round": 2,
         "points": 0.0,
         "position": 20
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "16"
+      },
+      {
+        "round": 3,
+        "points": 4.0,
+        "position": 13
+      },
+      {
+        "round": 3,
+        "points": "4",
+        "position": "13"
+      },
+      {
+        "round": 4,
+        "points": 4.0,
+        "position": 14
+      },
+      {
+        "round": 4,
+        "points": "4",
+        "position": "15"
+      },
+      {
+        "round": 5,
+        "points": 5.0,
+        "position": 15
+      },
+      {
+        "round": 5,
+        "points": "5",
+        "position": "14"
+      },
+      {
+        "round": 6,
+        "points": 5.0,
+        "position": 15
+      },
+      {
+        "round": 6,
+        "points": "5",
+        "position": "16"
+      },
+      {
+        "round": 7,
+        "points": 7.0,
+        "position": 12
+      },
+      {
+        "round": 7,
+        "points": "7",
+        "position": "14"
+      },
+      {
+        "round": 8,
+        "points": 15.0,
+        "position": 10
+      },
+      {
+        "round": 8,
+        "points": "15",
+        "position": "10"
+      },
+      {
+        "round": 9,
+        "points": 21.0,
+        "position": 9
+      },
+      {
+        "round": 9,
+        "points": "21",
+        "position": "9"
+      },
+      {
+        "round": 10,
+        "points": 21.0,
+        "position": 10
+      },
+      {
+        "round": 10,
+        "points": "21",
+        "position": "10"
+      },
+      {
+        "round": 11,
+        "points": 21.0,
+        "position": 11
+      },
+      {
+        "round": 11,
+        "points": "21",
+        "position": "11"
+      },
+      {
+        "round": 12,
+        "points": 21.0,
+        "position": 11
+      },
+      {
+        "round": 12,
+        "points": "21",
+        "position": "11"
+      },
+      {
+        "round": 13,
+        "points": 21.0,
+        "position": 11
+      },
+      {
+        "round": 13,
+        "points": "22",
+        "position": "11"
+      },
+      {
+        "round": 14,
+        "points": 21.0,
+        "position": 13
+      },
+      {
+        "round": 14,
+        "points": "22",
+        "position": "13"
+      },
+      {
+        "round": 15,
+        "points": 36.0,
+        "position": 10
+      },
+      {
+        "round": 15,
+        "points": "37",
+        "position": "10"
+      },
+      {
+        "round": 16,
+        "points": 37.0,
+        "position": 9
+      },
+      {
+        "round": 16,
+        "points": "38",
+        "position": "9"
+      },
+      {
+        "round": 17,
+        "points": 38.0,
+        "position": 9
+      },
+      {
+        "round": 17,
+        "points": "39",
+        "position": "9"
+      },
+      {
+        "round": 18,
+        "points": 38.0,
+        "position": 9
+      },
+      {
+        "round": 18,
+        "points": "39",
+        "position": "9"
+      },
+      {
+        "round": 19,
+        "points": 38.0,
+        "position": 10
+      },
+      {
+        "round": 19,
+        "points": "39",
+        "position": "10"
+      },
+      {
+        "round": 20,
+        "points": 38.0,
+        "position": 10
+      },
+      {
+        "round": 20,
+        "points": "39",
+        "position": "10"
+      },
+      {
+        "round": 21,
+        "points": 42.0,
+        "position": 10
+      },
+      {
+        "round": 21,
+        "points": "43",
+        "position": "10"
+      },
+      {
+        "round": 22,
+        "points": "51",
+        "position": "9"
+      },
+      {
+        "round": 23,
+        "points": "51",
+        "position": "10"
+      }
+    ]
+  },
+  {
+    "driver_id": "BEA",
+    "code": "BEA",
+    "name": "Oliver Bearman",
+    "color": "#f04a4a",
+    "progression": [
+      {
+        "round": 1,
+        "points": 0.0,
+        "position": 20
+      },
+      {
+        "round": 1,
+        "points": "0",
+        "position": "14"
+      },
+      {
+        "round": 2,
+        "points": 4.0,
+        "position": 11
+      },
+      {
+        "round": 2,
+        "points": "4",
+        "position": "12"
+      },
+      {
+        "round": 3,
+        "points": 5.0,
+        "position": 12
+      },
+      {
+        "round": 3,
+        "points": "5",
+        "position": "12"
+      },
+      {
+        "round": 4,
+        "points": 6.0,
+        "position": 12
+      },
+      {
+        "round": 4,
+        "points": "6",
+        "position": "13"
+      },
+      {
+        "round": 5,
+        "points": 6.0,
+        "position": 12
+      },
+      {
+        "round": 5,
+        "points": "6",
+        "position": "13"
+      },
+      {
+        "round": 6,
+        "points": 6.0,
+        "position": 13
+      },
+      {
+        "round": 6,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 7,
+        "points": 6.0,
+        "position": 14
+      },
+      {
+        "round": 7,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 8,
+        "points": 6.0,
+        "position": 14
+      },
+      {
+        "round": 8,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 9,
+        "points": 6.0,
+        "position": 15
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 10,
+        "points": 6.0,
+        "position": 16
+      },
+      {
+        "round": 10,
+        "points": "6",
+        "position": "17"
+      },
+      {
+        "round": 11,
+        "points": 6.0,
+        "position": 17
+      },
+      {
+        "round": 11,
+        "points": "6",
+        "position": "18"
+      },
+      {
+        "round": 12,
+        "points": 6.0,
+        "position": 17
+      },
+      {
+        "round": 12,
+        "points": "6",
+        "position": "18"
+      },
+      {
+        "round": 13,
+        "points": 6.0,
+        "position": 18
+      },
+      {
+        "round": 13,
+        "points": "8",
+        "position": "18"
+      },
+      {
+        "round": 14,
+        "points": 6.0,
+        "position": 18
+      },
+      {
+        "round": 14,
+        "points": "8",
+        "position": "19"
+      },
+      {
+        "round": 15,
+        "points": 14.0,
+        "position": 17
+      },
+      {
+        "round": 15,
+        "points": "16",
+        "position": "16"
+      },
+      {
+        "round": 16,
+        "points": 14.0,
+        "position": 17
+      },
+      {
+        "round": 16,
+        "points": "16",
+        "position": "17"
+      },
+      {
+        "round": 17,
+        "points": 14.0,
+        "position": 19
+      },
+      {
+        "round": 17,
+        "points": "16",
+        "position": "19"
+      },
+      {
+        "round": 18,
+        "points": 16.0,
+        "position": 18
+      },
+      {
+        "round": 18,
+        "points": "18",
+        "position": "19"
+      },
+      {
+        "round": 19,
+        "points": 18.0,
+        "position": 19
+      },
+      {
+        "round": 19,
+        "points": "20",
+        "position": "18"
+      },
+      {
+        "round": 20,
+        "points": 30.0,
+        "position": 13
+      },
+      {
+        "round": 20,
+        "points": "32",
+        "position": "13"
+      },
+      {
+        "round": 21,
+        "points": 38.0,
+        "position": 11
+      },
+      {
+        "round": 21,
+        "points": "40",
+        "position": "11"
+      },
+      {
+        "round": 22,
+        "points": "41",
+        "position": "12"
+      },
+      {
+        "round": 23,
+        "points": "41",
+        "position": "13"
+      }
+    ]
+  },
+  {
+    "driver_id": "HUL",
+    "code": "HUL",
+    "name": "Nico Hülkenberg",
+    "color": "#09eb24",
+    "progression": [
+      {
+        "round": 1,
+        "points": 6.0,
+        "position": 7
+      },
+      {
+        "round": 1,
+        "points": "6",
+        "position": "7"
+      },
+      {
+        "round": 2,
+        "points": 6.0,
+        "position": 9
+      },
+      {
+        "round": 2,
+        "points": "6",
+        "position": "11"
+      },
+      {
+        "round": 3,
+        "points": 6.0,
+        "position": 11
+      },
+      {
+        "round": 3,
+        "points": "6",
+        "position": "11"
+      },
+      {
+        "round": 4,
+        "points": 6.0,
+        "position": 13
+      },
+      {
+        "round": 4,
+        "points": "6",
+        "position": "12"
+      },
+      {
+        "round": 5,
+        "points": 6.0,
+        "position": 13
+      },
+      {
+        "round": 5,
+        "points": "6",
+        "position": "12"
+      },
+      {
+        "round": 6,
+        "points": 6.0,
+        "position": 14
+      },
+      {
+        "round": 6,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 7,
+        "points": 6.0,
+        "position": 15
+      },
+      {
+        "round": 7,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 8,
+        "points": 6.0,
+        "position": 15
+      },
+      {
+        "round": 8,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 9,
+        "points": 16.0,
+        "position": 11
+      },
+      {
+        "round": 9,
+        "points": "16",
+        "position": "11"
+      },
+      {
+        "round": 10,
+        "points": 20.0,
+        "position": 11
+      },
+      {
+        "round": 10,
+        "points": "20",
+        "position": "11"
+      },
+      {
+        "round": 11,
+        "points": 22.0,
+        "position": 10
+      },
+      {
+        "round": 11,
+        "points": "22",
+        "position": "10"
+      },
+      {
+        "round": 12,
+        "points": 37.0,
+        "position": 9
+      },
+      {
+        "round": 12,
+        "points": "37",
+        "position": "9"
+      },
+      {
+        "round": 13,
+        "points": 37.0,
+        "position": 9
+      },
+      {
+        "round": 13,
+        "points": "37",
+        "position": "9"
+      },
+      {
+        "round": 14,
+        "points": 37.0,
+        "position": 9
+      },
+      {
+        "round": 14,
+        "points": "37",
+        "position": "9"
+      },
+      {
+        "round": 15,
+        "points": 37.0,
+        "position": 9
+      },
+      {
+        "round": 15,
+        "points": "37",
+        "position": "9"
+      },
+      {
+        "round": 16,
+        "points": 37.0,
+        "position": 10
+      },
+      {
+        "round": 16,
+        "points": "37",
+        "position": "10"
+      },
+      {
+        "round": 17,
+        "points": 37.0,
+        "position": 10
+      },
+      {
+        "round": 17,
+        "points": "37",
+        "position": "10"
+      },
+      {
+        "round": 18,
+        "points": 37.0,
+        "position": 10
+      },
+      {
+        "round": 18,
+        "points": "37",
+        "position": "10"
+      },
+      {
+        "round": 19,
+        "points": 41.0,
+        "position": 9
+      },
+      {
+        "round": 19,
+        "points": "41",
+        "position": "9"
+      },
+      {
+        "round": 20,
+        "points": 41.0,
+        "position": 9
+      },
+      {
+        "round": 20,
+        "points": "41",
+        "position": "9"
+      },
+      {
+        "round": 21,
+        "points": 43.0,
+        "position": 9
+      },
+      {
+        "round": 21,
+        "points": "43",
+        "position": "9"
+      },
+      {
+        "round": 22,
+        "points": "49",
+        "position": "10"
+      },
+      {
+        "round": 23,
+        "points": "49",
+        "position": "11"
       }
     ]
   },
@@ -2471,9 +4541,19 @@
         "position": 21
       },
       {
+        "round": 1,
+        "points": "0",
+        "position": 0
+      },
+      {
         "round": 2,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "18"
       },
       {
         "round": 3,
@@ -2481,9 +4561,19 @@
         "position": 21
       },
       {
+        "round": 3,
+        "points": "0",
+        "position": "19"
+      },
+      {
         "round": 4,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "19"
       },
       {
         "round": 5,
@@ -2491,9 +4581,19 @@
         "position": 21
       },
       {
+        "round": 5,
+        "points": "0",
+        "position": "19"
+      },
+      {
         "round": 6,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "19"
       },
       {
         "round": 7,
@@ -2501,9 +4601,19 @@
         "position": 21
       },
       {
+        "round": 7,
+        "points": "0",
+        "position": "19"
+      },
+      {
         "round": 8,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "19"
       },
       {
         "round": 9,
@@ -2511,9 +4621,19 @@
         "position": 21
       },
       {
+        "round": 9,
+        "points": "0",
+        "position": "20"
+      },
+      {
         "round": 10,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 10,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 11,
@@ -2521,9 +4641,19 @@
         "position": 21
       },
       {
+        "round": 11,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 12,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 13,
@@ -2531,9 +4661,19 @@
         "position": 21
       },
       {
+        "round": 13,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 14,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 15,
@@ -2541,9 +4681,19 @@
         "position": 21
       },
       {
+        "round": 15,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 16,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 16,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 17,
@@ -2551,9 +4701,19 @@
         "position": 21
       },
       {
+        "round": 17,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 18,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 18,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 19,
@@ -2561,9 +4721,19 @@
         "position": 21
       },
       {
+        "round": 19,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 20,
         "points": 0.0,
         "position": 21
+      },
+      {
+        "round": 20,
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 21,
@@ -2571,14 +4741,19 @@
         "position": 21
       },
       {
+        "round": 21,
+        "points": "0",
+        "position": "21"
+      },
+      {
         "round": 22,
-        "points": 0.0,
-        "position": 21
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 23,
-        "points": 0.0,
-        "position": 21
+        "points": "0",
+        "position": "21"
       }
     ]
   }

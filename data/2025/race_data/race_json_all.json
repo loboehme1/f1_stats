@@ -374,6 +374,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "yas_marina",
+    "round": "24",
+    "race_name": "Abu Dhabi Grand Prix",
+    "circuit_name": "Yas Marina Circuit",
+    "country": "UAE",
+    "city": "Abu Dhabi",
+    "date": "2025-12-07",
+    "time": "13:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "zandvoort",
     "round": "15",
     "race_name": "Dutch Grand Prix",

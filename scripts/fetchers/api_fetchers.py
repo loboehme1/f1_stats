@@ -3,6 +3,7 @@
 import requests
 import json
 import os
+import time
 from collections import defaultdict
 from datetime import datetime
 
@@ -175,8 +176,13 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
         print(f"{YELLOW}Warning: Failed to fetch driver standings: {e}{RESET}")
         return {}, driver_info_old, constr_info_old
 
-    standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])[0]
-    standings_drivers = standings_info.get("DriverStandings", [])
+    standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
+
+    if not standings_info:
+        print(f"{YELLOW}Warning: No standings data found for season {SEASON}{RESET}")
+        return {}, driver_info_old, constr_info_old
+    
+    standings_drivers = standings_info[0].get("DriverStandings", [])
 
     highest_points = standings_drivers[0].get('points', 0)
     points_to_go = (races_to_go * 25) + (sprints_to_go * 8)
@@ -244,6 +250,61 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
     return driver_standings, driver_info_old, constr_info_old
 
 
+def fetch_driver_standings_progression(SEASON, last_completed_round):
+
+    print("Fetch driver standings progression")
+
+    driver_standings_progression = defaultdict(list)
+
+    if last_completed_round == 0:
+        print("No completed rounds yet, skipping results fetch")
+        return driver_standings_progression
+    
+    start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
+    print(f"Fetching results for rounds {start_round} to {last_completed_round}")
+
+    for race in range(start_round - 1, last_completed_round):
+
+        url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/driverStandings/"
+
+        try:
+            response = requests.get(url)
+            data = response.json()
+        except Exception as e:
+            print(f"{YELLOW}Warning: Failed to fetch driver standings: {e}{RESET}")
+            return driver_standings_progression
+
+        standings_info = data.get("MRData", {}).get("StandingsTable", {}).get("StandingsLists", [])
+
+        if not standings_info:
+            print(f"{YELLOW}Warning: No standings data found for round {race+1} in season {SEASON}{RESET}")
+            continue
+        
+        standings_drivers = standings_info[0].get("DriverStandings", [])
+
+
+        for driver in standings_drivers:
+
+            driver_info = driver.get('Driver', {})
+            constr_info = driver.get('Constructors', {})
+
+            driver_id = driver_info.get('code', '')
+            driver_name = driver_info.get('givenName', '') + ' ' + driver_info.get('familyName', '')
+            driver_color = driver_info.get('color', '')
+            round_no = race + 1
+            driver_position = driver.get('position', 0)
+            driver_points = driver.get('points', 0)
+
+            driver_standings_progression[driver_id].append({
+                "round": round_no,
+                "points": driver_points,
+                "position": driver_position
+            })
+
+        time.sleep(1)
+            
+    return driver_standings_progression
+
 
 def fetch_results(SEASON, ROUNDS, last_completed_round):
 
@@ -277,7 +338,7 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
     
     start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
     print(f"Fetching results for rounds {start_round} to {last_completed_round}")
-    start_round = 15
+
     # go through the last 3 races to get the results
     for race in range(start_round - 1, last_completed_round):
 
@@ -418,11 +479,11 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
 
             if fastest_lap_obj:
                 rank = fastest_lap_obj.get('rank')
-                time = fastest_lap_obj['Time'].get('time')
+                lap_time = fastest_lap_obj['Time'].get('time')
                 # save fastest lap in driver results
-                fastest_lap_data = {'rank': rank, 'time': time}
+                fastest_lap_data = {'rank': rank, 'time': lap_time}
                 # save all fastest laps per circuit
-                fastest_lap_drivers = {'driver_id': driver_id, 'rank': rank, 'time': time}
+                fastest_lap_drivers = {'driver_id': driver_id, 'rank': rank, 'time': lap_time}
                 fastest_laps.append(fastest_lap_drivers)
 
             entry_results = {
@@ -480,6 +541,8 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
         results_info[circuit_id] = results_race
         race_info[circuit_id] = entry_race_core
 
+        time.sleep(1)
+
     return driver_results, constr_results, podiums_driver, podiums_constr, dnf_driver, dnf_constr, disqualified_driver, disqualified_constr, race_info, results_info, fastest_lap_info, races_to_go
 
 
@@ -500,7 +563,7 @@ def fetch_quali(SEASON, ROUNDS, last_completed_round):
     
     start_round = max(1, last_completed_round - 2)  # Fetch last 3 rounds
     print(f"Fetching qualifying for rounds {start_round} to {last_completed_round}")
-    start_round = 15
+
     for race in range(start_round - 1, last_completed_round):
 
         url = f"https://api.jolpi.ca/ergast/f1/{SEASON}/{race+1}/qualifying/"
@@ -621,6 +684,8 @@ def fetch_quali(SEASON, ROUNDS, last_completed_round):
 
         quali_results[circuit_id] = result_per_race
 
+        time.sleep(1)
+
     return quali_results, quali_race_info
     
 
@@ -730,5 +795,7 @@ def fetch_sprint(SEASON, ROUNDS, sprint_rounds):
                     "SprintRresults": results,
                 }
             )
+
+        time.sleep(1)
 
     return sprint_dict, sprints_to_go
