@@ -20,7 +20,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 4,
       "disq_count": 0
     },
     " name": "Alexander Albon"
@@ -46,7 +46,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 5,
       "disq_count": 0
     },
     " name": "Fernando Alonso"
@@ -71,8 +71,8 @@
       "points": 150,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 0,
+      "podiums": 3,
+      "dnf_count": 4,
       "disq_count": 0
     },
     " name": "Kimi Antonelli"
@@ -98,7 +98,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 3,
       "disq_count": 0
     },
     " name": "Oliver Bearman"
@@ -124,7 +124,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 5,
       "disq_count": 0
     },
     " name": "Gabriel Bortoleto"
@@ -150,7 +150,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     },
     " name": "Franco Colapinto"
@@ -176,7 +176,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 2,
       "disq_count": 0
     },
     " name": "Jack Doohan"
@@ -202,8 +202,8 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
-      "disq_count": 0
+      "dnf_count": 2,
+      "disq_count": 1
     },
     " name": "Pierre Gasly"
   },
@@ -227,8 +227,8 @@
       "points": 51,
       "wins": 0,
       "contender": false,
-      "podiums": 0,
-      "dnf_count": 1,
+      "podiums": 1,
+      "dnf_count": 3,
       "disq_count": 0
     },
     " name": "Isack Hadjar"
@@ -254,8 +254,8 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
-      "disq_count": 0
+      "dnf_count": 2,
+      "disq_count": 1
     },
     " name": "Lewis Hamilton"
   },
@@ -279,9 +279,9 @@
       "points": 49,
       "wins": 0,
       "contender": false,
-      "podiums": 0,
-      "dnf_count": 1,
-      "disq_count": 0
+      "podiums": 1,
+      "dnf_count": 3,
+      "disq_count": 1
     },
     " name": "Nico Hülkenberg"
   },
@@ -306,7 +306,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 5,
       "disq_count": 0
     },
     " name": "Liam Lawson"
@@ -331,9 +331,9 @@
       "points": 230,
       "wins": 0,
       "contender": false,
-      "podiums": 0,
-      "dnf_count": 0,
-      "disq_count": 0
+      "podiums": 7,
+      "dnf_count": 2,
+      "disq_count": 1
     },
     " name": "Charles Leclerc"
   },
@@ -357,8 +357,8 @@
       "points": 408,
       "wins": 7,
       "contender": true,
-      "podiums": 0,
-      "dnf_count": 0,
+      "podiums": 17,
+      "dnf_count": 2,
       "disq_count": 1
     },
     " name": "Lando Norris"
@@ -384,7 +384,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     },
     " name": "Esteban Ocon"
@@ -409,8 +409,8 @@
       "points": 392,
       "wins": 7,
       "contender": true,
-      "podiums": 1,
-      "dnf_count": 0,
+      "podiums": 15,
+      "dnf_count": 1,
       "disq_count": 1
     },
     " name": "Oscar Piastri"
@@ -435,7 +435,7 @@
       "points": 309,
       "wins": 2,
       "contender": false,
-      "podiums": 1,
+      "podiums": 9,
       "dnf_count": 0,
       "disq_count": 0
     },
@@ -461,8 +461,8 @@
       "points": 64,
       "wins": 0,
       "contender": false,
-      "podiums": 1,
-      "dnf_count": 0,
+      "podiums": 2,
+      "dnf_count": 5,
       "disq_count": 0
     },
     " name": "Carlos Sainz"
@@ -514,7 +514,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 0,
+      "dnf_count": 1,
       "disq_count": 0
     },
     " name": "Yuki Tsunoda"
@@ -539,8 +539,8 @@
       "points": 396,
       "wins": 7,
       "contender": true,
-      "podiums": 2,
-      "dnf_count": 0,
+      "podiums": 14,
+      "dnf_count": 1,
       "disq_count": 0
     },
     " name": "Max Verstappen"

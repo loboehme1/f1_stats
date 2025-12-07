@@ -170,7 +170,7 @@ def build_and_write(OUT_DIR, SEASON, driver_info, driver_standings, driver_resul
     # NOTE: driver_results is now expected to be already merged by the caller (make_jsons.py)
     
     # Recalculate stats from merged data
-    if last_completed_round > 0 and last_completed_round < rounds:
+    if last_completed_round > 0:
         driver_podiums, driver_dnfs, driver_disq = recalculate_driver_stats(driver_results)
     
     # Build final data structures

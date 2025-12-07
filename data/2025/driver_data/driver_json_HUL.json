@@ -18,11 +18,200 @@
     "points": 49,
     "wins": 0,
     "contender": false,
-    "podiums": 0,
-    "dnf_count": 1,
-    "disq_count": 0
+    "podiums": 1,
+    "dnf_count": 3,
+    "disq_count": 1
   },
   "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2025-03-16",
+      "points": 6,
+      "endPos": 7,
+      "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2025-03-23",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 12,
+      "status": "Finished"
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2025-04-06",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 16,
+      "status": "Finished"
+    },
+    {
+      "round": "4",
+      "raceName": "Bahrain Grand Prix",
+      "date": "2025-04-13",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 16,
+      "status": "Disqualified"
+    },
+    {
+      "round": "5",
+      "raceName": "Saudi Arabian Grand Prix",
+      "date": "2025-04-20",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 18,
+      "status": "Finished"
+    },
+    {
+      "round": "6",
+      "raceName": "Miami Grand Prix",
+      "date": "2025-05-04",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 16,
+      "status": "Finished"
+    },
+    {
+      "round": "7",
+      "raceName": "Emilia Romagna Grand Prix",
+      "date": "2025-05-18",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "8",
+      "raceName": "Monaco Grand Prix",
+      "date": "2025-05-25",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 13,
+      "status": "Finished"
+    },
+    {
+      "round": "9",
+      "raceName": "Spanish Grand Prix",
+      "date": "2025-06-01",
+      "points": 10,
+      "endPos": 5,
+      "startPos": 15,
+      "status": "Finished"
+    },
+    {
+      "round": "10",
+      "raceName": "Canadian Grand Prix",
+      "date": "2025-06-15",
+      "points": 4,
+      "endPos": 8,
+      "startPos": 11,
+      "status": "Finished"
+    },
+    {
+      "round": "11",
+      "raceName": "Austrian Grand Prix",
+      "date": "2025-06-29",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 20,
+      "status": "Finished"
+    },
+    {
+      "round": "12",
+      "raceName": "British Grand Prix",
+      "date": "2025-07-06",
+      "points": 15,
+      "endPos": 3,
+      "startPos": 19,
+      "status": "Finished"
+    },
+    {
+      "round": "13",
+      "raceName": "Belgian Grand Prix",
+      "date": "2025-07-27",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 14,
+      "status": "Finished"
+    },
+    {
+      "round": "14",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2025-08-03",
+      "points": 0,
+      "endPos": 13,
+      "startPos": 18,
+      "status": "Finished"
+    },
+    {
+      "round": "15",
+      "raceName": "Dutch Grand Prix",
+      "date": "2025-08-31",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "16",
+      "raceName": "Italian Grand Prix",
+      "date": "2025-09-07",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 12,
+      "status": "Did not start"
+    },
+    {
+      "round": "17",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2025-09-21",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "18",
+      "raceName": "Singapore Grand Prix",
+      "date": "2025-10-05",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 11,
+      "status": "Finished"
+    },
+    {
+      "round": "19",
+      "raceName": "United States Grand Prix",
+      "date": "2025-10-19",
+      "points": 4,
+      "endPos": 8,
+      "startPos": 11,
+      "status": "Finished"
+    },
+    {
+      "round": "20",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2025-10-26",
+      "points": 0,
+      "endPos": 19,
+      "startPos": 13,
+      "status": "Retired"
+    },
+    {
+      "round": "21",
+      "raceName": "São Paulo Grand Prix",
+      "date": "2025-11-09",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 10,
+      "status": "Finished"
+    },
     {
       "round": "22",
       "raceName": "Las Vegas Grand Prix",

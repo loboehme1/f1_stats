@@ -43,7 +43,16 @@ def merge_standings_progression(driver_standings_progression, SEASON, last_compl
             # Sort by round
             combined.sort(key=lambda x: int(x.get('round', 0)))
             
-            driver_standings_progression[driver_id] = combined
+            # Deduplicate by round
+            seen_rounds = set()
+            unique_progression = []
+            for p in combined:
+                r = int(p.get('round', 0))
+                if r not in seen_rounds:
+                    seen_rounds.add(r)
+                    unique_progression.append(p)
+            
+            driver_standings_progression[driver_id] = unique_progression
         else:
             # If only in existing (driver left?) or only in new (new driver?)
             # If only in new, it's already in driver_standings_progression

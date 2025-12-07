@@ -172,7 +172,7 @@ def build_and_write(OUT_DIR, SEASON, race_info, quali_info, quali_race_info,
     
     # Recalculate constructor stats from merged race data
     constr_podiums, constr_dnfs, constr_disq = None, None, None
-    if last_completed_round > 0 and last_completed_round < rounds:
+    if last_completed_round > 0:
         constr_podiums, constr_dnfs, constr_disq = recalculate_constructor_stats(race_info, results_info)
     
     # Build final data structures
