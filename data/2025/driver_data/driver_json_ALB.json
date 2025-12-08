@@ -229,6 +229,15 @@
       "endPos": 11,
       "startPos": 14,
       "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 17,
+      "status": "Finished"
     }
   ],
   " name": "Alexander Albon"

@@ -229,6 +229,15 @@
       "endPos": 9,
       "startPos": 12,
       "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 0,
+      "endPos": 18,
+      "startPos": 13,
+      "status": "Finished"
     }
   ],
   " name": "Liam Lawson"

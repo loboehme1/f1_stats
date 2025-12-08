@@ -378,12 +378,16 @@
     "round": "24",
     "race_name": "Abu Dhabi Grand Prix",
     "circuit_name": "Yas Marina Circuit",
-    "laps": null,
+    "laps": "58",
     "country": "UAE",
     "city": "Abu Dhabi",
     "date": "2025-12-07",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:26.725"
+    },
     "sprint": false
   },
   {

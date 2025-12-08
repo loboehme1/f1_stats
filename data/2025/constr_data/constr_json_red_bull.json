@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "426",
-    "wins": "7",
-    "podiums": 14,
+    "points": "451",
+    "wins": "8",
+    "podiums": 15,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "1",
       "standings": {
         "position": 2,
-        "points": 396,
-        "wins": 7,
-        "contender": true,
-        "podiums": 2
+        "points": 421,
+        "wins": 8,
+        "contender": false,
+        "podiums": 3
       }
     },
     {
@@ -34,7 +34,7 @@
       "name": "Yuki Tsunoda",
       "number": "22",
       "standings": {
-        "position": 15,
+        "position": 17,
         "points": 33,
         "wins": 0,
         "contender": false,
@@ -180,6 +180,12 @@
       "raceName": "Qatar Grand Prix",
       "date": "2025-11-30",
       "points": 26
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 25
     }
   ]
 }

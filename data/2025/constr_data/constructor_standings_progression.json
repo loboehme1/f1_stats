@@ -118,6 +118,11 @@
         "round": 23,
         "points": "800",
         "position": "1"
+      },
+      {
+        "round": 24,
+        "points": "833",
+        "position": "1"
       }
     ]
   },
@@ -239,6 +244,11 @@
       {
         "round": 23,
         "points": "459",
+        "position": "2"
+      },
+      {
+        "round": 24,
+        "points": "469",
         "position": "2"
       }
     ]
@@ -362,6 +372,11 @@
         "round": 23,
         "points": "426",
         "position": "3"
+      },
+      {
+        "round": 24,
+        "points": "451",
+        "position": "3"
       }
     ]
   },
@@ -484,6 +499,11 @@
         "round": 23,
         "points": "382",
         "position": "4"
+      },
+      {
+        "round": 24,
+        "points": "398",
+        "position": "4"
       }
     ]
   },
@@ -604,6 +624,11 @@
       },
       {
         "round": 23,
+        "points": "137",
+        "position": "5"
+      },
+      {
+        "round": 24,
         "points": "137",
         "position": "5"
       }
@@ -728,6 +753,11 @@
         "round": 23,
         "points": "92",
         "position": "6"
+      },
+      {
+        "round": 24,
+        "points": "92",
+        "position": "6"
       }
     ]
   },
@@ -849,6 +879,11 @@
       {
         "round": 23,
         "points": "80",
+        "position": "7"
+      },
+      {
+        "round": 24,
+        "points": "89",
         "position": "7"
       }
     ]
@@ -972,6 +1007,11 @@
         "round": 23,
         "points": "73",
         "position": "8"
+      },
+      {
+        "round": 24,
+        "points": "79",
+        "position": "8"
       }
     ]
   },
@@ -1094,6 +1134,11 @@
         "round": 23,
         "points": "68",
         "position": "9"
+      },
+      {
+        "round": 24,
+        "points": "70",
+        "position": "9"
       }
     ]
   },
@@ -1214,6 +1259,11 @@
       },
       {
         "round": 23,
+        "points": "22",
+        "position": "10"
+      },
+      {
+        "round": 24,
         "points": "22",
         "position": "10"
       }

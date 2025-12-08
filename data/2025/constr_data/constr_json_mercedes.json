@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "2",
-    "points": "459",
+    "points": "469",
     "wins": "2",
     "podiums": 12,
     "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "RUS",
+      "name": "George Russell",
+      "number": "63",
+      "standings": {
+        "position": 4,
+        "points": 319,
+        "wins": 2,
+        "contender": false,
+        "podiums": 1
+      }
+    },
     {
       "driver_id": "ANT",
       "name": "Kimi Antonelli",
@@ -25,18 +37,6 @@
         "position": 7,
         "points": 150,
         "wins": 0,
-        "contender": false,
-        "podiums": 1
-      }
-    },
-    {
-      "driver_id": "RUS",
-      "name": "George Russell",
-      "number": "63",
-      "standings": {
-        "position": 4,
-        "points": 309,
-        "wins": 2,
         "contender": false,
         "podiums": 1
       }
@@ -180,6 +180,12 @@
       "raceName": "Qatar Grand Prix",
       "date": "2025-11-30",
       "points": 18
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 10
     }
   ]
 }

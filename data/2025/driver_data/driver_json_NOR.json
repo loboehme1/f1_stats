@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 1,
-    "points": 408,
+    "points": 423,
     "wins": 7,
     "contender": true,
-    "podiums": 17,
+    "podiums": 18,
     "dnf_count": 2,
     "disq_count": 1
   },
@@ -227,6 +227,15 @@
       "date": "2025-11-30",
       "points": 12,
       "endPos": 4,
+      "startPos": 2,
+      "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 15,
+      "endPos": 3,
       "startPos": 2,
       "status": "Finished"
     }

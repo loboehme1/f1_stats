@@ -14,7 +14,7 @@
     "secondary": "#4B4B4C"
   },
   "standings": {
-    "position": 10,
+    "position": 12,
     "points": 51,
     "wins": 0,
     "contender": false,
@@ -229,6 +229,15 @@
       "endPos": 18,
       "startPos": 6,
       "status": "Retired"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 0,
+      "endPos": 17,
+      "startPos": 9,
+      "status": "Finished"
     }
   ],
   " name": "Isack Hadjar"

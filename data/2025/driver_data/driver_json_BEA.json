@@ -229,6 +229,15 @@
       "endPos": 19,
       "startPos": 13,
       "status": "Retired"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 11,
+      "status": "Finished"
     }
   ],
   " name": "Oliver Bearman"

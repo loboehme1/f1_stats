@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "382",
+    "points": "398",
     "wins": "0",
     "podiums": 7,
     "dnf_count": 4,
@@ -23,7 +23,7 @@
       "number": "16",
       "standings": {
         "position": 5,
-        "points": 230,
+        "points": 242,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -35,7 +35,7 @@
       "number": "44",
       "standings": {
         "position": 6,
-        "points": 152,
+        "points": 156,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -180,6 +180,12 @@
       "raceName": "Qatar Grand Prix",
       "date": "2025-11-30",
       "points": 4
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 16
     }
   ]
 }

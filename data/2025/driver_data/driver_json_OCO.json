@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 16,
-    "points": 32,
+    "position": 15,
+    "points": 38,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -228,6 +228,15 @@
       "points": 0,
       "endPos": 15,
       "startPos": 16,
+      "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 6,
+      "endPos": 7,
+      "startPos": 8,
       "status": "Finished"
     }
   ],

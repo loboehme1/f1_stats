@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 11,
-    "points": 49,
+    "points": 51,
     "wins": 0,
     "contender": false,
     "podiums": 1,
@@ -229,6 +229,15 @@
       "endPos": 20,
       "startPos": 11,
       "status": "Retired"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 18,
+      "status": "Finished"
     }
   ],
   " name": "Nico Hülkenberg"

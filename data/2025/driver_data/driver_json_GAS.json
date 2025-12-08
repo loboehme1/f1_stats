@@ -229,6 +229,15 @@
       "endPos": 16,
       "startPos": 9,
       "status": "Finished"
+    },
+    {
+      "round": "24",
+      "raceName": "Abu Dhabi Grand Prix",
+      "date": "2025-12-07",
+      "points": 0,
+      "endPos": 19,
+      "startPos": 19,
+      "status": "Finished"
     }
   ],
   " name": "Pierre Gasly"
