@@ -5,7 +5,7 @@
   "circuit_name": "Losail International Circuit",
   "laps": "57",
   "country": "Qatar",
-  "city": "Al Daayen",
+  "city": "Lusail",
   "date": "2025-11-30",
   "time": "16:00:00Z",
   "fastest_lap": {
@@ -1002,7 +1002,7 @@
       "circuit_name": "Losail International Circuit",
       "laps": "19",
       "country": "Qatar",
-      "city": "Al Daayen",
+      "city": "Lusail",
       "date": "2025-11-30",
       "time": "16:00:00Z",
       "SprintRresults": [
