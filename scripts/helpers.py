@@ -113,6 +113,7 @@ def color_driver(drv_id, season):
 
 
 def color_constr(constr_id):
+    print(constr_id)
     constr_colors = {
         # McLaren
         "mclaren": "#FF8700",
