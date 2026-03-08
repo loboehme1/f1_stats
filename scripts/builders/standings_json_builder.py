@@ -4,6 +4,7 @@ from collections import defaultdict
 from config import OUTPUT_BASE_DIR
 
 from fetchers.utils import load_existing_json
+from helpers import normalize_driver_name
 
 def merge_standings_progression(driver_standings_progression, constr_standings_progression, SEASON, last_completed_round):
     """Merge newly fetched standings progression with existing data."""
@@ -120,7 +121,7 @@ def build_and_write(OUT_DIR, SEASON, driver_info, constr_info, driver_standings_
         drivers_data[driver_id] = {
             "driver_id": driver_id,
             "code": info.get("original_driver_id", driver_id).upper()[:3], 
-            "name": info.get("name"),
+            "name": normalize_driver_name(info.get("name")),
             "color": info.get("colors", {}).get("primary", "#000000"),
             "progression": driver_standings_progression.get(driver_id, [])
         }

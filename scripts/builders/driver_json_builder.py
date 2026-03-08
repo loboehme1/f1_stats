@@ -16,7 +16,8 @@ def normalize_driver(data):
     items = data.values() if isinstance(data, dict) else data
     keyed = {}
     for d in items:
-        dd = dict(d)
+        # Robustly strip whitespace from all keys to avoid issues like " name"
+        dd = {k.strip(): v for k, v in d.items()}
 
         # Normalize team name
         if dd.get("team"):
@@ -24,7 +25,7 @@ def normalize_driver(data):
 
         # Normalize driver name
         if dd.get("name"):
-            dd[" name"] = normalize_driver_name(dd["name"])
+            dd["name"] = normalize_driver_name(dd["name"])
 
         n = dd.get("number")
         try:

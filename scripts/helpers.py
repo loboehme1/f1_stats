@@ -207,7 +207,9 @@ def normalize_driver_name(name):
         "Andrea Kimi Antonelli": "Kimi Antonelli",
     }
     
-    return DRIVER_NAME_FIXES.get(name) or name
+    # Strip whitespace to be robust against formatting issues
+    clean_name = name.strip()
+    return DRIVER_NAME_FIXES.get(clean_name) or clean_name
 
 
 def normalize_constr_name(name):
@@ -223,7 +225,7 @@ def normalize_constr_name(name):
         "Ferrari": "Ferrari",
         "Sauber": "Sauber",
         "Audi": "Audi",
-        "Cadillac": "Cadillac",
+        "Cadillac F1 Team": "Cadillac",
     }
     
     return TEAM_FIX.get(name) or name

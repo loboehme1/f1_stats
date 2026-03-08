@@ -1,7 +1,7 @@
 {
   "driver_id": "ANT",
   "original_driver_id": "antonelli",
-  "name": "Andrea Kimi Antonelli",
+  "name": "Kimi Antonelli",
   "team": "Mercedes",
   "number": 12,
   "nationality": "Italian",
@@ -32,6 +32,5 @@
       "startPos": null,
       "status": "Finished"
     }
-  ],
-  " name": "Kimi Antonelli"
+  ]
 }

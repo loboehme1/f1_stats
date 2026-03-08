@@ -28,7 +28,8 @@ def normalize_constr(data):
     items = data.values() if isinstance(data, dict) else data
     keyed = {}
     for d in items:
-        dd = dict(d)
+        # Robustly strip whitespace from all keys
+        dd = {k.strip(): v for k, v in d.items()}
         if dd.get("name") in TEAM_FIX:
             dd["name"] = TEAM_FIX[dd["name"]]
 

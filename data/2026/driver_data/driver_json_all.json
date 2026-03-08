@@ -22,8 +22,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Alexander Albon"
+    }
   },
   {
     "driver_id": "ALO",
@@ -48,13 +47,12 @@
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
-    },
-    " name": "Fernando Alonso"
+    }
   },
   {
     "driver_id": "ANT",
     "original_driver_id": "antonelli",
-    "name": "Andrea Kimi Antonelli",
+    "name": "Kimi Antonelli",
     "team": "Mercedes",
     "number": 12,
     "nationality": "Italian",
@@ -74,8 +72,7 @@
       "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Kimi Antonelli"
+    }
   },
   {
     "driver_id": "BEA",
@@ -100,8 +97,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Oliver Bearman"
+    }
   },
   {
     "driver_id": "BOR",
@@ -126,8 +122,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Gabriel Bortoleto"
+    }
   },
   {
     "driver_id": "BOT",
@@ -152,8 +147,7 @@
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
-    },
-    " name": "Valtteri Bottas"
+    }
   },
   {
     "driver_id": "COL",
@@ -178,8 +172,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Franco Colapinto"
+    }
   },
   {
     "driver_id": "GAS",
@@ -204,8 +197,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Pierre Gasly"
+    }
   },
   {
     "driver_id": "HAD",
@@ -230,8 +222,7 @@
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
-    },
-    " name": "Isack Hadjar"
+    }
   },
   {
     "driver_id": "HAM",
@@ -256,8 +247,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Lewis Hamilton"
+    }
   },
   {
     "driver_id": "HUL",
@@ -282,8 +272,7 @@
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
-    },
-    " name": "Nico Hülkenberg"
+    }
   },
   {
     "driver_id": "LAW",
@@ -308,8 +297,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Liam Lawson"
+    }
   },
   {
     "driver_id": "LEC",
@@ -334,8 +322,7 @@
       "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Charles Leclerc"
+    }
   },
   {
     "driver_id": "LIN",
@@ -360,8 +347,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Arvid Lindblad"
+    }
   },
   {
     "driver_id": "NOR",
@@ -386,8 +372,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Lando Norris"
+    }
   },
   {
     "driver_id": "OCO",
@@ -412,8 +397,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Esteban Ocon"
+    }
   },
   {
     "driver_id": "PER",
@@ -438,8 +422,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Sergio Pérez"
+    }
   },
   {
     "driver_id": "PIA",
@@ -464,8 +447,7 @@
       "podiums": 0,
       "dnf_count": 1,
       "disq_count": 0
-    },
-    " name": "Oscar Piastri"
+    }
   },
   {
     "driver_id": "RUS",
@@ -490,8 +472,7 @@
       "podiums": 1,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "George Russell"
+    }
   },
   {
     "driver_id": "SAI",
@@ -516,8 +497,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Carlos Sainz"
+    }
   },
   {
     "driver_id": "STR",
@@ -542,8 +522,7 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Lance Stroll"
+    }
   },
   {
     "driver_id": "VER",
@@ -568,7 +547,6 @@
       "podiums": 0,
       "dnf_count": 0,
       "disq_count": 0
-    },
-    " name": "Max Verstappen"
+    }
   }
 ]

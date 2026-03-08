@@ -64,6 +64,7 @@ def fetch_driver_data(SEASON):
             code_to_id_map[code] = original_driver_id
 
         name = f"{driver.get('givenName', '')} {driver.get('familyName', '')}"
+        name = normalize_driver_name(name)
         nationality = driver.get('nationality', '')
         dob = driver.get('dateOfBirth', '')
         
@@ -198,6 +199,7 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
         if driver_info_old is not None and driver_id not in driver_info_old:
             original_driver_id = driver_info.get('driverId', '')
             name = driver_info.get('givenName', '') + ' ' + driver_info.get('familyName', '')
+            name = normalize_driver_name(name)
             team = constr_info[0].get('name', 'Unknown')
             number = driver_info.get('number', driver_info.get('permanentNumber', ''))
             nationality = driver_info.get('nationality', '')
