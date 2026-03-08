@@ -228,11 +228,11 @@ def fetch_driver_standings(SEASON, driver_info_old, constr_info_old, races_to_go
 
         # data to add for standings
         pos = driver.get("position")
-        print('pos', pos)
+        if pos is None:
+            pos = 22
         points = driver.get("points")
-        print('points', points)
         wins = driver.get("wins")
-        print('wins', wins)
+        
         # podiums -> fetched later
 
         # championship contender
