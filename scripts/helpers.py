@@ -132,7 +132,11 @@ def color_constr(constr_id):
         "haas": "#f04a4a", 
         # RB (Visa Cash App RB)
         "rb": "#8A8D8F", 
-        # Stake Sauber
+        # Audi
+        "audi": "#09eb24",
+        # Cadillac
+        "cadillac": "#78807f",
+        # Sauber
         "sauber": "#09eb24"
     }
 
@@ -217,6 +221,8 @@ def normalize_constr_name(name):
         "Mercedes": "Mercedes",
         "Ferrari": "Ferrari",
         "Sauber": "Sauber",
+        "Audi": "Audi",
+        "Cadillac": "Cadillac",
     }
     
     return TEAM_FIX.get(name) or name
