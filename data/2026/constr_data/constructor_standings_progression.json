@@ -74,7 +74,7 @@
   {
     "constructor_id": "audi",
     "name": "Audi",
-    "color": "#FFFFFF",
+    "color": "#09eb24",
     "progression": [
       {
         "round": 1,
@@ -110,7 +110,7 @@
   {
     "constructor_id": "cadillac",
     "name": "Cadillac F1 Team",
-    "color": "#FFFFFF",
+    "color": "#78807f",
     "progression": [
       {
         "round": 1,
