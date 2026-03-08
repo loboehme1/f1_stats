@@ -1,7 +1,7 @@
 # Configuration file for F1 data fetching scripts
 
 # Season settings
-SEASON = 2025
+SEASON = 2026
 ROUNDS = 24
 SPRINTS = 6
 

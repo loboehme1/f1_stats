@@ -6,7 +6,38 @@ def color_driver(drv_id, season):
     # Convert season to string for comparison
     season_str = str(season)
     
-    if season_str == "2025":
+    if season_str == "2026":
+        driver_colors_primary = {
+            # McLaren
+            "NOR": "#FF8700", "PIA": "#FF8700",
+            # Red Bull
+            "VER": "#00008b", "HAD": "#00008b",
+            # Ferrari
+            "LEC": "#DC0000", "HAM": "#DC0000",
+            # Mercedes
+            "RUS": "#00A19C", "ANT": "#00A19C",
+            # Aston Martin
+            "ALO": "#0A7968", "STR": "#0A7968",
+            # Williams
+            "ALB": "#46b1eb", "SAI": "#46b1eb",
+            # Alpine
+            "GAS": "#f743e8", "COL": "#f743e8",
+            # Haas
+            "OCO": "#f04a4a", "BEA": "#f04a4a",
+            # RB (Visa Cash App RB)
+            "LAW": "#8A8D8F", "LIN": "#8A8D8F",
+            # Stake Sauber/Audi
+            "BOR": "#09eb24", "HUL": "#09eb24",
+            # Cadillac
+            "PER": "#78807f", "BOT": "#78807f"
+
+        }
+
+        driver_colors_secondary = {
+            # RB (Visa Cash App RB)
+            "LAW": "#4B4B4C", "LIN": "#4B4B4C",
+        }
+    elif season_str == "2025":
         driver_colors_primary = {
             # McLaren
             "NOR": "#FF8700", "PIA": "#FF8700",
