@@ -1,0 +1,53 @@
+{
+  "constr_id": "rb",
+  "name": "Racing Bulls",
+  "nationality": "Italian",
+  "assets": {
+    "logo_photo": "logo_link"
+  },
+  "colors": {
+    "primary": "#8A8D8F"
+  },
+  "standings": {
+    "position": "6",
+    "points": "4",
+    "wins": "0",
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "drivers": [
+    {
+      "driver_id": "LIN",
+      "name": "Arvid Lindblad",
+      "number": "41",
+      "standings": {
+        "position": 8,
+        "points": 4,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "LAW",
+      "name": "Liam Lawson",
+      "number": "30",
+      "standings": {
+        "position": 13,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    }
+  ],
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 4
+    }
+  ]
+}

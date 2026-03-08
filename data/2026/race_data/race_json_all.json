@@ -1,0 +1,15 @@
+[
+  {
+    "circuit_id": "albert_park",
+    "round": "1",
+    "race_name": "Australian Grand Prix",
+    "circuit_name": "Albert Park Grand Prix Circuit",
+    "laps": "58",
+    "country": "Australia",
+    "city": "Melbourne",
+    "date": "2026-03-08",
+    "time": "04:00:00Z",
+    "fastest_lap": null,
+    "sprint": false
+  }
+]

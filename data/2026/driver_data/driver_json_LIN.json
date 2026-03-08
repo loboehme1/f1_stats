@@ -1,0 +1,37 @@
+{
+  "driver_id": "LIN",
+  "original_driver_id": "arvid_lindblad",
+  "name": "Arvid Lindblad",
+  "team": "Racing Bulls",
+  "number": 41,
+  "nationality": "British",
+  "date_of_birth": "2007-08-08",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#8A8D8F",
+    "secondary": "#4B4B4C"
+  },
+  "standings": {
+    "position": 8,
+    "points": 4,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 4,
+      "endPos": "8",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "Arvid Lindblad"
+}

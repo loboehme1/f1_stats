@@ -1,0 +1,53 @@
+{
+  "constr_id": "mclaren",
+  "name": "McLaren",
+  "nationality": "British",
+  "assets": {
+    "logo_photo": "logo_link"
+  },
+  "colors": {
+    "primary": "#FF8700"
+  },
+  "standings": {
+    "position": "3",
+    "points": "10",
+    "wins": "0",
+    "podiums": 0,
+    "dnf_count": 1,
+    "disq_count": 0
+  },
+  "drivers": [
+    {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "position": 5,
+        "points": 10,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "PIA",
+      "name": "Oscar Piastri",
+      "number": "81",
+      "standings": {
+        "position": 22,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    }
+  ],
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 10
+    }
+  ]
+}

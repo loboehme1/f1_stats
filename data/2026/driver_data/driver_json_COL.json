@@ -1,0 +1,37 @@
+{
+  "driver_id": "COL",
+  "original_driver_id": "colapinto",
+  "name": "Franco Colapinto",
+  "team": "Alpine",
+  "number": 43,
+  "nationality": "Argentine",
+  "date_of_birth": "2003-05-27",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#f743e8",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 14,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0,
+      "endPos": "14",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "Franco Colapinto"
+}

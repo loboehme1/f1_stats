@@ -1,0 +1,37 @@
+{
+  "driver_id": "BOR",
+  "original_driver_id": "bortoleto",
+  "name": "Gabriel Bortoleto",
+  "team": "Audi",
+  "number": 5,
+  "nationality": "Brazilian",
+  "date_of_birth": "2004-10-14",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#09eb24",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 9,
+    "points": 2,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 2,
+      "endPos": "9",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "Gabriel Bortoleto"
+}

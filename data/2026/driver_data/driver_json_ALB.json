@@ -1,0 +1,37 @@
+{
+  "driver_id": "ALB",
+  "original_driver_id": "albon",
+  "name": "Alexander Albon",
+  "team": "Williams",
+  "number": 23,
+  "nationality": "Thai",
+  "date_of_birth": "1996-03-23",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#46b1eb",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 12,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0,
+      "endPos": "12",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "Alexander Albon"
+}

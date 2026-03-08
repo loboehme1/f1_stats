@@ -1,0 +1,53 @@
+{
+  "constr_id": "cadillac",
+  "name": "Cadillac F1 Team",
+  "nationality": "American",
+  "assets": {
+    "logo_photo": "logo_link"
+  },
+  "colors": {
+    "primary": "#FFFFFF"
+  },
+  "standings": {
+    "position": "10",
+    "points": "0",
+    "wins": "0",
+    "podiums": 0,
+    "dnf_count": 1,
+    "disq_count": 0
+  },
+  "drivers": [
+    {
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
+      "standings": {
+        "position": 16,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "BOT",
+      "name": "Valtteri Bottas",
+      "number": "77",
+      "standings": {
+        "position": 22,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    }
+  ],
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0
+    }
+  ]
+}

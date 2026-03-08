@@ -1,0 +1,37 @@
+{
+  "driver_id": "PIA",
+  "original_driver_id": "piastri",
+  "name": "Oscar Piastri",
+  "team": "McLaren",
+  "number": 81,
+  "nationality": "Australian",
+  "date_of_birth": "2001-04-06",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#FF8700",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 22,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 1,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0,
+      "endPos": "21",
+      "startPos": null,
+      "status": "Did not start"
+    }
+  ],
+  " name": "Oscar Piastri"
+}

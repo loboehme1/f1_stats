@@ -1,0 +1,37 @@
+{
+  "driver_id": "HUL",
+  "original_driver_id": "hulkenberg",
+  "name": "Nico Hülkenberg",
+  "team": "Audi",
+  "number": 27,
+  "nationality": "German",
+  "date_of_birth": "1987-08-19",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#09eb24",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 22,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 1,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0,
+      "endPos": "22",
+      "startPos": null,
+      "status": "Did not start"
+    }
+  ],
+  " name": "Nico Hülkenberg"
+}

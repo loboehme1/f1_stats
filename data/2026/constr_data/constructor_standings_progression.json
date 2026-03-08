@@ -1,0 +1,134 @@
+[
+  {
+    "constructor_id": "mercedes",
+    "name": "Mercedes",
+    "color": "#00A19C",
+    "progression": [
+      {
+        "round": 1,
+        "points": "43",
+        "position": "1"
+      }
+    ]
+  },
+  {
+    "constructor_id": "ferrari",
+    "name": "Ferrari",
+    "color": "#DC0000",
+    "progression": [
+      {
+        "round": 1,
+        "points": "27",
+        "position": "2"
+      }
+    ]
+  },
+  {
+    "constructor_id": "mclaren",
+    "name": "McLaren",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "10",
+        "position": "3"
+      }
+    ]
+  },
+  {
+    "constructor_id": "red_bull",
+    "name": "Red Bull",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 1,
+        "points": "8",
+        "position": "4"
+      }
+    ]
+  },
+  {
+    "constructor_id": "haas",
+    "name": "Haas F1 Team",
+    "color": "#f04a4a",
+    "progression": [
+      {
+        "round": 1,
+        "points": "6",
+        "position": "5"
+      }
+    ]
+  },
+  {
+    "constructor_id": "rb",
+    "name": "RB F1 Team",
+    "color": "#8A8D8F",
+    "progression": [
+      {
+        "round": 1,
+        "points": "4",
+        "position": "6"
+      }
+    ]
+  },
+  {
+    "constructor_id": "audi",
+    "name": "Audi",
+    "color": "#FFFFFF",
+    "progression": [
+      {
+        "round": 1,
+        "points": "2",
+        "position": "7"
+      }
+    ]
+  },
+  {
+    "constructor_id": "alpine",
+    "name": "Alpine F1 Team",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "8"
+      }
+    ]
+  },
+  {
+    "constructor_id": "williams",
+    "name": "Williams",
+    "color": "#46b1eb",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "9"
+      }
+    ]
+  },
+  {
+    "constructor_id": "cadillac",
+    "name": "Cadillac F1 Team",
+    "color": "#FFFFFF",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "10"
+      }
+    ]
+  },
+  {
+    "constructor_id": "aston_martin",
+    "name": "Aston Martin",
+    "color": "#0A7968",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": 20
+      }
+    ]
+  }
+]

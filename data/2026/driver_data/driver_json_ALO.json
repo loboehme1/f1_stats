@@ -1,0 +1,37 @@
+{
+  "driver_id": "ALO",
+  "original_driver_id": "alonso",
+  "name": "Fernando Alonso",
+  "team": "Aston Martin",
+  "number": 14,
+  "nationality": "Spanish",
+  "date_of_birth": "1981-07-29",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#0A7968",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 22,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 1,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 0,
+      "endPos": "18",
+      "startPos": null,
+      "status": "Retired"
+    }
+  ],
+  " name": "Fernando Alonso"
+}

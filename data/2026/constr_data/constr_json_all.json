@@ -1,0 +1,497 @@
+[
+  {
+    "constr_id": "alpine",
+    "name": "Alpine",
+    "nationality": "French",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#f743e8"
+    },
+    "standings": {
+      "position": "8",
+      "points": "1",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly",
+        "number": "10",
+        "standings": {
+          "position": 10,
+          "points": 1,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "COL",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "standings": {
+          "position": 14,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "aston_martin",
+    "name": "Aston Martin",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#0A7968"
+    },
+    "standings": {
+      "position": null,
+      "points": "0",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 1,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "STR",
+        "name": "Lance Stroll",
+        "number": "18",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "ALO",
+        "name": "Fernando Alonso",
+        "number": "14",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "audi",
+    "name": "Audi",
+    "nationality": "German",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#FFFFFF"
+    },
+    "standings": {
+      "position": "7",
+      "points": "2",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 1,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "BOR",
+        "name": "Gabriel Bortoleto",
+        "number": "5",
+        "standings": {
+          "position": 9,
+          "points": 2,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "HUL",
+        "name": "Nico Hülkenberg",
+        "number": "27",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "cadillac",
+    "name": "Cadillac F1 Team",
+    "nationality": "American",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#FFFFFF"
+    },
+    "standings": {
+      "position": "10",
+      "points": "0",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 1,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "PER",
+        "name": "Sergio Pérez",
+        "number": "11",
+        "standings": {
+          "position": 16,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "BOT",
+        "name": "Valtteri Bottas",
+        "number": "77",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "ferrari",
+    "name": "Ferrari",
+    "nationality": "Italian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#DC0000"
+    },
+    "standings": {
+      "position": "2",
+      "points": "27",
+      "wins": "0",
+      "podiums": 1,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "LEC",
+        "name": "Charles Leclerc",
+        "number": "16",
+        "standings": {
+          "position": 3,
+          "points": 15,
+          "wins": 0,
+          "contender": true,
+          "podiums": 1
+        }
+      },
+      {
+        "driver_id": "HAM",
+        "name": "Lewis Hamilton",
+        "number": "44",
+        "standings": {
+          "position": 4,
+          "points": 12,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "haas",
+    "name": "Haas",
+    "nationality": "American",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#f04a4a"
+    },
+    "standings": {
+      "position": "5",
+      "points": "6",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "BEA",
+        "name": "Oliver Bearman",
+        "number": "87",
+        "standings": {
+          "position": 7,
+          "points": 6,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "OCO",
+        "name": "Esteban Ocon",
+        "number": "31",
+        "standings": {
+          "position": 11,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "mclaren",
+    "name": "McLaren",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#FF8700"
+    },
+    "standings": {
+      "position": "3",
+      "points": "10",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 1,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "NOR",
+        "name": "Lando Norris",
+        "number": "1",
+        "standings": {
+          "position": 5,
+          "points": 10,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri",
+        "number": "81",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "mercedes",
+    "name": "Mercedes",
+    "nationality": "German",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#00A19C"
+    },
+    "standings": {
+      "position": "1",
+      "points": "43",
+      "wins": "1",
+      "podiums": 2,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "RUS",
+        "name": "George Russell",
+        "number": "63",
+        "standings": {
+          "position": 1,
+          "points": 25,
+          "wins": 1,
+          "contender": true,
+          "podiums": 1
+        }
+      },
+      {
+        "driver_id": "ANT",
+        "name": "Kimi Antonelli",
+        "number": "12",
+        "standings": {
+          "position": 2,
+          "points": 18,
+          "wins": 0,
+          "contender": true,
+          "podiums": 1
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "rb",
+    "name": "Racing Bulls",
+    "nationality": "Italian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#8A8D8F"
+    },
+    "standings": {
+      "position": "6",
+      "points": "4",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "LIN",
+        "name": "Arvid Lindblad",
+        "number": "41",
+        "standings": {
+          "position": 8,
+          "points": 4,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "LAW",
+        "name": "Liam Lawson",
+        "number": "30",
+        "standings": {
+          "position": 13,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "red_bull",
+    "name": "Red Bull",
+    "nationality": "Austrian",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#00008b"
+    },
+    "standings": {
+      "position": "4",
+      "points": "8",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 1,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "VER",
+        "name": "Max Verstappen",
+        "number": "3",
+        "standings": {
+          "position": 6,
+          "points": 8,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "HAD",
+        "name": "Isack Hadjar",
+        "number": "6",
+        "standings": {
+          "position": 22,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  },
+  {
+    "constr_id": "williams",
+    "name": "Williams",
+    "nationality": "British",
+    "assets": {
+      "logo_photo": "logo_link"
+    },
+    "colors": {
+      "primary": "#46b1eb"
+    },
+    "standings": {
+      "position": "9",
+      "points": "0",
+      "wins": "0",
+      "podiums": 0,
+      "dnf_count": 0,
+      "disq_count": 0
+    },
+    "drivers": [
+      {
+        "driver_id": "ALB",
+        "name": "Alexander Albon",
+        "number": "23",
+        "standings": {
+          "position": 12,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "SAI",
+        "name": "Carlos Sainz",
+        "number": "55",
+        "standings": {
+          "position": 15,
+          "points": 0,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      }
+    ]
+  }
+]

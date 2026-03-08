@@ -1,0 +1,37 @@
+{
+  "driver_id": "NOR",
+  "original_driver_id": "norris",
+  "name": "Lando Norris",
+  "team": "McLaren",
+  "number": 1,
+  "nationality": "British",
+  "date_of_birth": "1999-11-13",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#FF8700",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 5,
+    "points": 10,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 10,
+      "endPos": "5",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "Lando Norris"
+}

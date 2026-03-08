@@ -1,0 +1,37 @@
+{
+  "driver_id": "RUS",
+  "original_driver_id": "russell",
+  "name": "George Russell",
+  "team": "Mercedes",
+  "number": 63,
+  "nationality": "British",
+  "date_of_birth": "1998-02-15",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#00A19C",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 1,
+    "points": 25,
+    "wins": 1,
+    "contender": true,
+    "podiums": 1,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 25,
+      "endPos": "1",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ],
+  " name": "George Russell"
+}

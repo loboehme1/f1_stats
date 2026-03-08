@@ -1,0 +1,53 @@
+{
+  "constr_id": "alpine",
+  "name": "Alpine",
+  "nationality": "French",
+  "assets": {
+    "logo_photo": "logo_link"
+  },
+  "colors": {
+    "primary": "#f743e8"
+  },
+  "standings": {
+    "position": "8",
+    "points": "1",
+    "wins": "0",
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "drivers": [
+    {
+      "driver_id": "GAS",
+      "name": "Pierre Gasly",
+      "number": "10",
+      "standings": {
+        "position": 10,
+        "points": 1,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "COL",
+      "name": "Franco Colapinto",
+      "number": "43",
+      "standings": {
+        "position": 14,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    }
+  ],
+  "results": [
+    {
+      "round": "1",
+      "raceName": "Australian Grand Prix",
+      "date": "2026-03-08",
+      "points": 1
+    }
+  ]
+}
