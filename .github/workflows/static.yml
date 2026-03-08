@@ -37,9 +37,10 @@ jobs:
       # Run your JSON generator
       - name: Generate JSON files
         run: |
-          python scripts/make_jsons.py
-          python scripts/make_laps_jsons.py
-          python scripts/make_countdown_json.py
+          cd scripts
+          python make_jsons.py
+          python make_laps_jsons.py
+          python make_countdown_json.py
 
       # Commit and push updated JSON files back to repository
       - name: Commit and push updated files
