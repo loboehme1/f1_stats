@@ -53,18 +53,21 @@ def fetch_lap_info(SEASON, ROUND):
             for timing in lap["Timings"]:
                 driver_id = timing.get("driverId")
                 position = timing.get("position")
-                print(position)
-                if position is None:
-                    print('position is None')
-                    position = 0
-                else:
-                    print('position is not None')
+                
                 # Use id_to_code which now handles all driver ID formats
                 driver_code = id_to_code(driver_id) if driver_id else ""
                 prim, sec = color_driver(SEASON, driver_code)
                 colors = {'primary': prim, 'secondary': sec}
-                # Convert position to number and use driver_code to match race results format
-                entry_timing = {"driver_id": driver_code, "position": int(position) if position else 0, "colors": colors}
+                
+                # Convert position to number (handle string 'None' and object None safely)
+                pos_val = 0
+                if position and position != 'None':
+                    try:
+                        pos_val = int(position)
+                    except ValueError:
+                        pass
+                
+                entry_timing = {"driver_id": driver_code, "position": pos_val, "colors": colors}
                 timing_race[lap_no].append(entry_timing)
 
         indiv_race_lap_info[circuit_id] = timing_race
