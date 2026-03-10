@@ -28,8 +28,8 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 25,
-      "endPos": "1",
-      "startPos": null,
+      "endPos": 1,
+      "startPos": 1,
       "status": "Finished"
     }
   ]

@@ -9,7 +9,11 @@
     "city": "Melbourne",
     "date": "2026-03-08",
     "time": "04:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "VER",
+      "rank": "1",
+      "time": "1:22.091"
+    },
     "sprint": false
   }
 ]
