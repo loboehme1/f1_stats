@@ -57,6 +57,8 @@ def fetch_lap_info(SEASON, ROUND):
                 if position is None:
                     print('position is None')
                     position = 0
+                else:
+                    print('position is not None')
                 # Use id_to_code which now handles all driver ID formats
                 driver_code = id_to_code(driver_id) if driver_id else ""
                 prim, sec = color_driver(SEASON, driver_code)
