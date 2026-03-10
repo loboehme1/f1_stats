@@ -55,6 +55,7 @@ def fetch_lap_info(SEASON, ROUND):
                 position = timing.get("position")
                 print(position)
                 if position is None:
+                    print('position is None')
                     position = 0
                 # Use id_to_code which now handles all driver ID formats
                 driver_code = id_to_code(driver_id) if driver_id else ""
