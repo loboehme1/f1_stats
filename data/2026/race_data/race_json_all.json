@@ -15,5 +15,16 @@
       "time": "1:22.091"
     },
     "sprint": false
+  },
+  {
+    "circuit_id": "shanghai",
+    "round": "2",
+    "race_name": "Chinese Grand Prix",
+    "circuit_name": "Shanghai International Circuit",
+    "country": "China",
+    "city": "Shanghai",
+    "date": "2026-03-15",
+    "time": "07:00:00Z",
+    "sprint": true
   }
 ]

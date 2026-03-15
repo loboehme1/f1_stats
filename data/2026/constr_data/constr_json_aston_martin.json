@@ -9,7 +9,7 @@
     "primary": "#0A7968"
   },
   "standings": {
-    "position": null,
+    "position": "11",
     "points": "0",
     "wins": "0",
     "podiums": 0,
@@ -34,7 +34,7 @@
       "name": "Fernando Alonso",
       "number": "14",
       "standings": {
-        "position": 22,
+        "position": 20,
         "points": 0,
         "wins": 0,
         "contender": true,

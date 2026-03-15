@@ -55,7 +55,7 @@
       "primary": "#0A7968"
     },
     "standings": {
-      "position": null,
+      "position": "11",
       "points": "0",
       "wins": "0",
       "podiums": 0,
@@ -80,7 +80,7 @@
         "name": "Fernando Alonso",
         "number": "14",
         "standings": {
-          "position": 22,
+          "position": 20,
           "points": 0,
           "wins": 0,
           "contender": true,
@@ -125,7 +125,7 @@
         "name": "Nico Hülkenberg",
         "number": "27",
         "standings": {
-          "position": 22,
+          "position": 19,
           "points": 0,
           "wins": 0,
           "contender": true,
@@ -170,7 +170,7 @@
         "name": "Valtteri Bottas",
         "number": "77",
         "standings": {
-          "position": 22,
+          "position": 21,
           "points": 0,
           "wins": 0,
           "contender": true,
@@ -305,7 +305,7 @@
         "name": "Oscar Piastri",
         "number": "81",
         "standings": {
-          "position": 22,
+          "position": 18,
           "points": 0,
           "wins": 0,
           "contender": true,
@@ -440,7 +440,7 @@
         "name": "Isack Hadjar",
         "number": "6",
         "standings": {
-          "position": 22,
+          "position": 17,
           "points": 0,
           "wins": 0,
           "contender": true,
