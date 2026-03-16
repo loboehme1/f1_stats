@@ -9,35 +9,35 @@
     "primary": "#00008b"
   },
   "standings": {
-    "position": "4",
-    "points": "8",
+    "position": "5",
+    "points": "12",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "VER",
-      "name": "Max Verstappen",
-      "number": "3",
-      "standings": {
-        "position": 6,
-        "points": 8,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "HAD",
       "name": "Isack Hadjar",
       "number": "6",
       "standings": {
-        "position": 17,
-        "points": 0,
+        "position": 11,
+        "points": 4,
         "wins": 0,
-        "contender": true,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "VER",
+      "name": "Max Verstappen",
+      "number": "3",
+      "standings": {
+        "position": 8,
+        "points": 8,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -48,6 +48,12 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 8
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 4
     }
   ]
 }

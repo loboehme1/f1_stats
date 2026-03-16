@@ -10,32 +10,32 @@
   },
   "standings": {
     "position": "3",
-    "points": "10",
+    "points": "18",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "standings": {
-        "position": 5,
-        "points": 10,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
-        "position": 18,
-        "points": 0,
+        "position": 12,
+        "points": 3,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "position": 6,
+        "points": 15,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -48,6 +48,12 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 10
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 0
     }
   ]
 }

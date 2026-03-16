@@ -11,7 +11,7 @@
       },
       {
         "round": 2,
-        "points": "55",
+        "points": "98",
         "position": "1"
       }
     ]
@@ -28,7 +28,7 @@
       },
       {
         "round": 2,
-        "points": "40",
+        "points": "67",
         "position": "2"
       }
     ]
@@ -51,23 +51,6 @@
     ]
   },
   {
-    "constructor_id": "red_bull",
-    "name": "Red Bull",
-    "color": "#00008b",
-    "progression": [
-      {
-        "round": 1,
-        "points": "8",
-        "position": "4"
-      },
-      {
-        "round": 2,
-        "points": "8",
-        "position": "4"
-      }
-    ]
-  },
-  {
     "constructor_id": "haas",
     "name": "Haas F1 Team",
     "color": "#f04a4a",
@@ -79,7 +62,24 @@
       },
       {
         "round": 2,
-        "points": "7",
+        "points": "17",
+        "position": "4"
+      }
+    ]
+  },
+  {
+    "constructor_id": "red_bull",
+    "name": "Red Bull",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 1,
+        "points": "8",
+        "position": "4"
+      },
+      {
+        "round": 2,
+        "points": "12",
         "position": "5"
       }
     ]
@@ -96,8 +96,25 @@
       },
       {
         "round": 2,
-        "points": "6",
+        "points": "12",
         "position": "6"
+      }
+    ]
+  },
+  {
+    "constructor_id": "alpine",
+    "name": "Alpine F1 Team",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "8"
+      },
+      {
+        "round": 2,
+        "points": "10",
+        "position": "7"
       }
     ]
   },
@@ -114,23 +131,6 @@
       {
         "round": 2,
         "points": "2",
-        "position": "7"
-      }
-    ]
-  },
-  {
-    "constructor_id": "alpine",
-    "name": "Alpine F1 Team",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "1",
-        "position": "8"
-      },
-      {
-        "round": 2,
-        "points": "1",
         "position": "8"
       }
     ]
@@ -147,7 +147,7 @@
       },
       {
         "round": 2,
-        "points": "0",
+        "points": "2",
         "position": "9"
       }
     ]

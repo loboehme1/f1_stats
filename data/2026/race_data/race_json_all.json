@@ -21,10 +21,16 @@
     "round": "2",
     "race_name": "Chinese Grand Prix",
     "circuit_name": "Shanghai International Circuit",
+    "laps": "56",
     "country": "China",
     "city": "Shanghai",
     "date": "2026-03-15",
     "time": "07:00:00Z",
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:35.275"
+    },
     "sprint": true
   }
 ]

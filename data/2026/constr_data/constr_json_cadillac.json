@@ -18,26 +18,26 @@
   },
   "drivers": [
     {
-      "driver_id": "PER",
-      "name": "Sergio Pérez",
-      "number": "11",
-      "standings": {
-        "position": 16,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "BOT",
       "name": "Valtteri Bottas",
       "number": "77",
       "standings": {
-        "position": 21,
+        "position": 19,
         "points": 0,
         "wins": 0,
-        "contender": true,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
+      "standings": {
+        "position": 20,
+        "points": 0,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -47,6 +47,12 @@
       "round": "1",
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
+      "points": 0
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
       "points": 0
     }
   ]

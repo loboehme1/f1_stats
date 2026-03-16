@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 3,
-    "points": 15,
+    "points": 34,
     "wins": 0,
     "contender": true,
     "podiums": 1,
@@ -29,6 +29,15 @@
       "date": "2026-03-08",
       "points": 15,
       "endPos": 3,
+      "startPos": 4,
+      "status": "Finished"
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 12,
+      "endPos": 4,
       "startPos": 4,
       "status": "Finished"
     }

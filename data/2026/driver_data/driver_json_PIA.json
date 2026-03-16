@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 18,
-    "points": 0,
+    "position": 12,
+    "points": 3,
     "wins": 0,
-    "contender": true,
+    "contender": false,
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "results": [
@@ -29,6 +29,15 @@
       "date": "2026-03-08",
       "points": 0,
       "endPos": 21,
+      "startPos": 5,
+      "status": "Did not start"
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 0,
+      "endPos": 19,
       "startPos": 5,
       "status": "Did not start"
     }

@@ -9,35 +9,35 @@
     "primary": "#09eb24"
   },
   "standings": {
-    "position": "7",
+    "position": "8",
     "points": "2",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "BOR",
-      "name": "Gabriel Bortoleto",
-      "number": "5",
-      "standings": {
-        "position": 9,
-        "points": 2,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "HUL",
       "name": "Nico Hülkenberg",
       "number": "27",
       "standings": {
-        "position": 19,
+        "position": 17,
         "points": 0,
         "wins": 0,
-        "contender": true,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "BOR",
+      "name": "Gabriel Bortoleto",
+      "number": "5",
+      "standings": {
+        "position": 14,
+        "points": 2,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -48,6 +48,12 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 2
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 0
     }
   ]
 }
