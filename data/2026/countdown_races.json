@@ -130,17 +130,5 @@
         "raceName": "Abu Dhabi Grand Prix",
         "date": "2026-12-06",
         "time": "13:00:00Z"
-    },
-    {
-        "round": null,
-        "raceName": "Bahrain Grand Prix",
-        "date": "2026-04-12",
-        "time": "15:00:00Z"
-    },
-    {
-        "round": null,
-        "raceName": "Saudi Arabian Grand Prix",
-        "date": "2026-04-19",
-        "time": "17:00:00Z"
     }
 ]
