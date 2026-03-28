@@ -26,7 +26,7 @@
           "position": 7,
           "points": 9,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -38,7 +38,7 @@
           "position": 15,
           "points": 1,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -71,7 +71,7 @@
           "position": 21,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -83,7 +83,7 @@
           "position": 22,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -116,7 +116,7 @@
           "position": 17,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -128,7 +128,7 @@
           "position": 14,
           "points": 2,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -161,7 +161,7 @@
           "position": 19,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -173,7 +173,7 @@
           "position": 20,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -263,7 +263,7 @@
           "position": 16,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -296,7 +296,7 @@
           "position": 12,
           "points": 3,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -386,7 +386,7 @@
           "position": 9,
           "points": 8,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -398,7 +398,7 @@
           "position": 10,
           "points": 4,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -431,7 +431,7 @@
           "position": 11,
           "points": 4,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -443,7 +443,7 @@
           "position": 8,
           "points": 8,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
@@ -476,7 +476,7 @@
           "position": 13,
           "points": 2,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       },
@@ -488,7 +488,7 @@
           "position": 18,
           "points": 0,
           "wins": 0,
-          "contender": false,
+          "contender": true,
           "podiums": 0
         }
       }
