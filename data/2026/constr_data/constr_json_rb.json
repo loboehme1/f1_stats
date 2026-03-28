@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "6",
-    "points": "4",
+    "points": "12",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 0,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "LIN",
-      "name": "Arvid Lindblad",
-      "number": "41",
+      "driver_id": "LAW",
+      "name": "Liam Lawson",
+      "number": "30",
       "standings": {
-        "position": 8,
-        "points": 4,
+        "position": 9,
+        "points": 8,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "LAW",
-      "name": "Liam Lawson",
-      "number": "30",
+      "driver_id": "LIN",
+      "name": "Arvid Lindblad",
+      "number": "41",
       "standings": {
-        "position": 13,
-        "points": 0,
+        "position": 10,
+        "points": 4,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -48,6 +48,12 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 4
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 6
     }
   ]
 }

@@ -10,35 +10,35 @@
   },
   "standings": {
     "position": "2",
-    "points": "27",
+    "points": "67",
     "wins": "0",
-    "podiums": 1,
+    "podiums": 2,
     "dnf_count": 0,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "LEC",
-      "name": "Charles Leclerc",
-      "number": "16",
-      "standings": {
-        "position": 3,
-        "points": 15,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
-      }
-    },
     {
       "driver_id": "HAM",
       "name": "Lewis Hamilton",
       "number": "44",
       "standings": {
         "position": 4,
-        "points": 12,
+        "points": 33,
         "wins": 0,
         "contender": true,
-        "podiums": 0
+        "podiums": 1
+      }
+    },
+    {
+      "driver_id": "LEC",
+      "name": "Charles Leclerc",
+      "number": "16",
+      "standings": {
+        "position": 3,
+        "points": 34,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
       }
     }
   ],
@@ -47,6 +47,12 @@
       "round": "1",
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
+      "points": 27
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
       "points": 27
     }
   ]

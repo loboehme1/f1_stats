@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 1,
-    "points": 25,
+    "points": 51,
     "wins": 1,
     "contender": true,
-    "podiums": 1,
+    "podiums": 2,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -28,8 +28,17 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 25,
-      "endPos": "1",
-      "startPos": null,
+      "endPos": 1,
+      "startPos": 1,
+      "status": "Finished"
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 18,
+      "endPos": 2,
+      "startPos": 2,
       "status": "Finished"
     }
   ]

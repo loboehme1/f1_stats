@@ -10,31 +10,31 @@
   },
   "standings": {
     "position": "9",
-    "points": "0",
+    "points": "2",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 0,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "ALB",
-      "name": "Alexander Albon",
-      "number": "23",
+      "driver_id": "SAI",
+      "name": "Carlos Sainz",
+      "number": "55",
       "standings": {
-        "position": 12,
-        "points": 0,
+        "position": 13,
+        "points": 2,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "SAI",
-      "name": "Carlos Sainz",
-      "number": "55",
+      "driver_id": "ALB",
+      "name": "Alexander Albon",
+      "number": "23",
       "standings": {
-        "position": 15,
+        "position": 18,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -48,6 +48,12 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 0
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 2
     }
   ]
 }

@@ -1,18 +1,5 @@
 [
   {
-    "driver_id": "RUS",
-    "code": "RUS",
-    "name": "George Russell",
-    "color": "#00A19C",
-    "progression": [
-      {
-        "round": 1,
-        "points": "25",
-        "position": "1"
-      }
-    ]
-  },
-  {
     "driver_id": "ANT",
     "code": "ANT",
     "name": "Kimi Antonelli",
@@ -22,19 +9,39 @@
         "round": 1,
         "points": "18",
         "position": "2"
+      },
+      {
+        "round": 2,
+        "points": "47",
+        "position": "2"
+      },
+      {
+        "round": 3,
+        "points": "47",
+        "position": "2"
       }
     ]
   },
   {
-    "driver_id": "LEC",
-    "code": "LEC",
-    "name": "Charles Leclerc",
-    "color": "#DC0000",
+    "driver_id": "RUS",
+    "code": "RUS",
+    "name": "George Russell",
+    "color": "#00A19C",
     "progression": [
       {
         "round": 1,
-        "points": "15",
-        "position": "3"
+        "points": "25",
+        "position": "1"
+      },
+      {
+        "round": 2,
+        "points": "51",
+        "position": "1"
+      },
+      {
+        "round": 3,
+        "points": "51",
+        "position": "1"
       }
     ]
   },
@@ -48,32 +55,39 @@
         "round": 1,
         "points": "12",
         "position": "4"
+      },
+      {
+        "round": 2,
+        "points": "33",
+        "position": "4"
+      },
+      {
+        "round": 3,
+        "points": "33",
+        "position": "4"
       }
     ]
   },
   {
-    "driver_id": "NOR",
-    "code": "NOR",
-    "name": "Lando Norris",
-    "color": "#FF8700",
+    "driver_id": "LEC",
+    "code": "LEC",
+    "name": "Charles Leclerc",
+    "color": "#DC0000",
     "progression": [
       {
         "round": 1,
-        "points": "10",
-        "position": "5"
-      }
-    ]
-  },
-  {
-    "driver_id": "VER",
-    "code": "MAX",
-    "name": "Max Verstappen",
-    "color": "#00008b",
-    "progression": [
+        "points": "15",
+        "position": "3"
+      },
       {
-        "round": 1,
-        "points": "8",
-        "position": "6"
+        "round": 2,
+        "points": "34",
+        "position": "3"
+      },
+      {
+        "round": 3,
+        "points": "34",
+        "position": "3"
       }
     ]
   },
@@ -87,32 +101,16 @@
         "round": 1,
         "points": "6",
         "position": "7"
-      }
-    ]
-  },
-  {
-    "driver_id": "LIN",
-    "code": "ARV",
-    "name": "Arvid Lindblad",
-    "color": "#8A8D8F",
-    "progression": [
+      },
       {
-        "round": 1,
-        "points": "4",
-        "position": "8"
-      }
-    ]
-  },
-  {
-    "driver_id": "BOR",
-    "code": "BOR",
-    "name": "Gabriel Bortoleto",
-    "color": "#09eb24",
-    "progression": [
+        "round": 2,
+        "points": "17",
+        "position": "5"
+      },
       {
-        "round": 1,
-        "points": "2",
-        "position": "9"
+        "round": 3,
+        "points": "17",
+        "position": "5"
       }
     ]
   },
@@ -126,32 +124,16 @@
         "round": 1,
         "points": "1",
         "position": "10"
-      }
-    ]
-  },
-  {
-    "driver_id": "OCO",
-    "code": "OCO",
-    "name": "Esteban Ocon",
-    "color": "#f04a4a",
-    "progression": [
+      },
       {
-        "round": 1,
-        "points": "0",
-        "position": "11"
-      }
-    ]
-  },
-  {
-    "driver_id": "ALB",
-    "code": "ALB",
-    "name": "Alexander Albon",
-    "color": "#46b1eb",
-    "progression": [
+        "round": 2,
+        "points": "9",
+        "position": "7"
+      },
       {
-        "round": 1,
-        "points": "0",
-        "position": "12"
+        "round": 3,
+        "points": "9",
+        "position": "7"
       }
     ]
   },
@@ -164,6 +146,62 @@
       {
         "round": 1,
         "points": "0",
+        "position": "13"
+      },
+      {
+        "round": 2,
+        "points": "8",
+        "position": "9"
+      },
+      {
+        "round": 3,
+        "points": "8",
+        "position": "9"
+      }
+    ]
+  },
+  {
+    "driver_id": "HAD",
+    "code": "HAD",
+    "name": "Isack Hadjar",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "17"
+      },
+      {
+        "round": 2,
+        "points": "4",
+        "position": "11"
+      },
+      {
+        "round": 3,
+        "points": "4",
+        "position": "11"
+      }
+    ]
+  },
+  {
+    "driver_id": "SAI",
+    "code": "SAI",
+    "name": "Carlos Sainz",
+    "color": "#46b1eb",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "15"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "13"
+      },
+      {
+        "round": 3,
+        "points": "2",
         "position": "13"
       }
     ]
@@ -178,19 +216,108 @@
         "round": 1,
         "points": "0",
         "position": "14"
+      },
+      {
+        "round": 2,
+        "points": "1",
+        "position": "15"
+      },
+      {
+        "round": 3,
+        "points": "1",
+        "position": "15"
       }
     ]
   },
   {
-    "driver_id": "SAI",
-    "code": "SAI",
-    "name": "Carlos Sainz",
-    "color": "#46b1eb",
+    "driver_id": "HUL",
+    "code": "HUL",
+    "name": "Nico Hülkenberg",
+    "color": "#09eb24",
     "progression": [
       {
         "round": 1,
         "points": "0",
-        "position": "15"
+        "position": "19"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "17"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "17"
+      }
+    ]
+  },
+  {
+    "driver_id": "LIN",
+    "code": "ARV",
+    "name": "Arvid Lindblad",
+    "color": "#8A8D8F",
+    "progression": [
+      {
+        "round": 1,
+        "points": "4",
+        "position": "8"
+      },
+      {
+        "round": 2,
+        "points": "4",
+        "position": "10"
+      },
+      {
+        "round": 3,
+        "points": "4",
+        "position": "10"
+      }
+    ]
+  },
+  {
+    "driver_id": "BOT",
+    "code": "BOT",
+    "name": "Valtteri Bottas",
+    "color": "#78807f",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "19"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "19"
+      }
+    ]
+  },
+  {
+    "driver_id": "OCO",
+    "code": "OCO",
+    "name": "Esteban Ocon",
+    "color": "#f04a4a",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "11"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "16"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "16"
       }
     ]
   },
@@ -204,6 +331,62 @@
         "round": 1,
         "points": "0",
         "position": "16"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "20"
+      }
+    ]
+  },
+  {
+    "driver_id": "VER",
+    "code": "MAX",
+    "name": "Max Verstappen",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 1,
+        "points": "8",
+        "position": "6"
+      },
+      {
+        "round": 2,
+        "points": "8",
+        "position": "8"
+      },
+      {
+        "round": 3,
+        "points": "8",
+        "position": "8"
+      }
+    ]
+  },
+  {
+    "driver_id": "ALO",
+    "code": "ALO",
+    "name": "Fernando Alonso",
+    "color": "#0A7968",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "21"
       }
     ]
   },
@@ -217,45 +400,16 @@
         "round": 1,
         "points": "0",
         "position": 20
-      }
-    ]
-  },
-  {
-    "driver_id": "ALO",
-    "code": "ALO",
-    "name": "Fernando Alonso",
-    "color": "#0A7968",
-    "progression": [
+      },
       {
-        "round": 1,
+        "round": 2,
         "points": "0",
-        "position": 20
-      }
-    ]
-  },
-  {
-    "driver_id": "BOT",
-    "code": "BOT",
-    "name": "Valtteri Bottas",
-    "color": "#78807f",
-    "progression": [
+        "position": "22"
+      },
       {
-        "round": 1,
+        "round": 3,
         "points": "0",
-        "position": 20
-      }
-    ]
-  },
-  {
-    "driver_id": "HAD",
-    "code": "HAD",
-    "name": "Isack Hadjar",
-    "color": "#00008b",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": 20
+        "position": "22"
       }
     ]
   },
@@ -268,20 +422,86 @@
       {
         "round": 1,
         "points": "0",
-        "position": 20
+        "position": "18"
+      },
+      {
+        "round": 2,
+        "points": "3",
+        "position": "12"
+      },
+      {
+        "round": 3,
+        "points": "3",
+        "position": "12"
       }
     ]
   },
   {
-    "driver_id": "HUL",
-    "code": "HUL",
-    "name": "Nico Hülkenberg",
+    "driver_id": "NOR",
+    "code": "NOR",
+    "name": "Lando Norris",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "10",
+        "position": "5"
+      },
+      {
+        "round": 2,
+        "points": "15",
+        "position": "6"
+      },
+      {
+        "round": 3,
+        "points": "15",
+        "position": "6"
+      }
+    ]
+  },
+  {
+    "driver_id": "BOR",
+    "code": "BOR",
+    "name": "Gabriel Bortoleto",
     "color": "#09eb24",
     "progression": [
       {
         "round": 1,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "14"
+      },
+      {
+        "round": 3,
+        "points": "2",
+        "position": "14"
+      }
+    ]
+  },
+  {
+    "driver_id": "ALB",
+    "code": "ALB",
+    "name": "Alexander Albon",
+    "color": "#46b1eb",
+    "progression": [
+      {
+        "round": 1,
         "points": "0",
-        "position": 20
+        "position": "12"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "18"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "18"
       }
     ]
   }

@@ -14,7 +14,7 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 22,
+    "position": 17,
     "points": 0,
     "wins": 0,
     "contender": true,
@@ -28,9 +28,18 @@
       "raceName": "Australian Grand Prix",
       "date": "2026-03-08",
       "points": 0,
-      "endPos": "22",
-      "startPos": null,
+      "endPos": 22,
+      "startPos": 11,
       "status": "Did not start"
+    },
+    {
+      "round": "2",
+      "raceName": "Chinese Grand Prix",
+      "date": "2026-03-15",
+      "points": 0,
+      "endPos": 11,
+      "startPos": 11,
+      "status": "Finished"
     }
   ]
 }

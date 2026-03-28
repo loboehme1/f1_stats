@@ -390,7 +390,8 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
     disqualified_driver = {}
     disqualified_constr = {}
 
-    races_to_go = 0
+    # Calculate races yet to happen in the season
+    races_to_go = ROUNDS - last_completed_round
 
     # Only fetch the last 3 completed rounds (or fewer if less than 3 races have happened)
     if last_completed_round == 0:
@@ -415,7 +416,6 @@ def fetch_results(SEASON, ROUNDS, last_completed_round):
         # check if race data has been published yet
         if not results:
             print(f'{YELLOW}Warning: No entry for round {race+1}.{RESET}')
-            races_to_go += 1
             continue
 
         results = results[0]
