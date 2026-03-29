@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
   # optional nightly rebuild
   schedule:
-    - cron: "0 5 * * *"   # runs every day at 03:00 UTC
+    - cron: "0 5 * * 1-5"   # runs at 05:00 UTC on weekdays
+    - cron: "0 * * * 0,6"   # runs every hour on Saturday and Sunday
 
 permissions:
   contents: write
