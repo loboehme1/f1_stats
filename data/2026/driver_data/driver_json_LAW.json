@@ -14,8 +14,8 @@
     "secondary": "#4B4B4C"
   },
   "standings": {
-    "position": 9,
-    "points": 8,
+    "position": 10,
+    "points": 10,
     "wins": 0,
     "contender": true,
     "podiums": 0,
@@ -38,6 +38,15 @@
       "date": "2026-03-15",
       "points": 6,
       "endPos": 7,
+      "startPos": 14,
+      "status": "Finished"
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 2,
+      "endPos": 9,
       "startPos": 14,
       "status": "Finished"
     }

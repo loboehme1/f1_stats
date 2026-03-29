@@ -40,6 +40,15 @@
       "endPos": 13,
       "startPos": 19,
       "status": "Finished"
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 0,
+      "endPos": 19,
+      "startPos": 20,
+      "status": "Finished"
     }
   ]
 }

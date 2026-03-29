@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 6,
-    "points": 15,
+    "position": 5,
+    "points": 25,
     "wins": 0,
     "contender": true,
     "podiums": 0,
@@ -40,6 +40,15 @@
       "endPos": 20,
       "startPos": 6,
       "status": "Did not start"
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 10,
+      "endPos": 5,
+      "startPos": 5,
+      "status": "Finished"
     }
   ]
 }

@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": true,
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "results": [
@@ -39,6 +39,15 @@
       "points": 0,
       "endPos": 18,
       "startPos": 20,
+      "status": "Retired"
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 0,
+      "endPos": 21,
+      "startPos": 22,
       "status": "Retired"
     }
   ]

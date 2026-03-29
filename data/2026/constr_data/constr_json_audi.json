@@ -34,7 +34,7 @@
       "name": "Gabriel Bortoleto",
       "number": "5",
       "standings": {
-        "position": 14,
+        "position": 13,
         "points": 2,
         "wins": 0,
         "contender": true,
@@ -53,6 +53,12 @@
       "round": "2",
       "raceName": "Chinese Grand Prix",
       "date": "2026-03-15",
+      "points": 0
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
       "points": 0
     }
   ]

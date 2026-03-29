@@ -18,11 +18,11 @@
   },
   "drivers": [
     {
-      "driver_id": "BOT",
-      "name": "Valtteri Bottas",
-      "number": "77",
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
       "standings": {
-        "position": 19,
+        "position": 20,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -30,11 +30,11 @@
       }
     },
     {
-      "driver_id": "PER",
-      "name": "Sergio Pérez",
-      "number": "11",
+      "driver_id": "BOT",
+      "name": "Valtteri Bottas",
+      "number": "77",
       "standings": {
-        "position": 20,
+        "position": 19,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -53,6 +53,12 @@
       "round": "2",
       "raceName": "Chinese Grand Prix",
       "date": "2026-03-15",
+      "points": 0
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
       "points": 0
     }
   ]

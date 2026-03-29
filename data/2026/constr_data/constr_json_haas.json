@@ -10,32 +10,32 @@
   },
   "standings": {
     "position": "4",
-    "points": "17",
+    "points": "18",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 0,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "BEA",
-      "name": "Oliver Bearman",
-      "number": "87",
+      "driver_id": "OCO",
+      "name": "Esteban Ocon",
+      "number": "31",
       "standings": {
-        "position": 5,
-        "points": 17,
+        "position": 15,
+        "points": 1,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "OCO",
-      "name": "Esteban Ocon",
-      "number": "31",
+      "driver_id": "BEA",
+      "name": "Oliver Bearman",
+      "number": "87",
       "standings": {
-        "position": 16,
-        "points": 0,
+        "position": 7,
+        "points": 17,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -54,6 +54,12 @@
       "raceName": "Chinese Grand Prix",
       "date": "2026-03-15",
       "points": 10
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 1
     }
   ]
 }

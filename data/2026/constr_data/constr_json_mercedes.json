@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "98",
-    "wins": "2",
-    "podiums": 4,
+    "points": "135",
+    "wins": "3",
+    "podiums": 5,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
-        "position": 2,
-        "points": 47,
-        "wins": 1,
+        "position": 1,
+        "points": 72,
+        "wins": 2,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -34,8 +34,8 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "position": 1,
-        "points": 51,
+        "position": 2,
+        "points": 63,
         "wins": 1,
         "contender": true,
         "podiums": 2
@@ -54,6 +54,12 @@
       "raceName": "Chinese Grand Prix",
       "date": "2026-03-15",
       "points": 43
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 37
     }
   ]
 }

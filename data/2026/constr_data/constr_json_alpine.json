@@ -9,8 +9,8 @@
     "primary": "#f743e8"
   },
   "standings": {
-    "position": "7",
-    "points": "10",
+    "position": "5",
+    "points": "16",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 0,
@@ -22,8 +22,8 @@
       "name": "Pierre Gasly",
       "number": "10",
       "standings": {
-        "position": 7,
-        "points": 9,
+        "position": 8,
+        "points": 15,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -34,7 +34,7 @@
       "name": "Franco Colapinto",
       "number": "43",
       "standings": {
-        "position": 15,
+        "position": 16,
         "points": 1,
         "wins": 0,
         "contender": true,
@@ -54,6 +54,12 @@
       "raceName": "Chinese Grand Prix",
       "date": "2026-03-15",
       "points": 9
+    },
+    {
+      "round": "3",
+      "raceName": "Japanese Grand Prix",
+      "date": "2026-03-29",
+      "points": 6
     }
   ]
 }
