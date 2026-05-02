@@ -17,6 +17,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "miami",
+    "round": "4",
+    "race_name": "Miami Grand Prix",
+    "circuit_name": "Miami International Autodrome",
+    "country": "USA",
+    "city": "Miami",
+    "date": "2026-05-03",
+    "time": "20:00:00Z",
+    "sprint": true
+  },
+  {
     "circuit_id": "shanghai",
     "round": "2",
     "race_name": "Chinese Grand Prix",
