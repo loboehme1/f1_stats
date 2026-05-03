@@ -49,6 +49,15 @@
       "endPos": 18,
       "startPos": 21,
       "status": "Finished"
+    },
+    {
+      "round": "4",
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 17,
+      "status": "Finished"
     }
   ]
 }

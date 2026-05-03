@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 2,
-    "points": 63,
+    "points": 80,
     "wins": 1,
     "contender": true,
     "podiums": 2,
@@ -48,6 +48,15 @@
       "points": 12,
       "endPos": 4,
       "startPos": 2,
+      "status": "Finished"
+    },
+    {
+      "round": "4",
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "points": 12,
+      "endPos": 4,
+      "startPos": 5,
       "status": "Finished"
     }
   ]

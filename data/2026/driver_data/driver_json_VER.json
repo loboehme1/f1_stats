@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 9,
-    "points": 12,
+    "position": 7,
+    "points": 26,
     "wins": 0,
     "contender": true,
     "podiums": 0,
@@ -48,6 +48,15 @@
       "points": 4,
       "endPos": 8,
       "startPos": 11,
+      "status": "Finished"
+    },
+    {
+      "round": "4",
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "points": 10,
+      "endPos": 5,
+      "startPos": 2,
       "status": "Finished"
     }
   ]

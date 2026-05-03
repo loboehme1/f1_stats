@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": true,
     "podiums": 0,
-    "dnf_count": 0,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "results": [
@@ -49,6 +49,15 @@
       "endPos": 9,
       "startPos": 14,
       "status": "Finished"
+    },
+    {
+      "round": "4",
+      "raceName": "Miami Grand Prix",
+      "date": "2026-05-03",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 11,
+      "status": "Retired"
     }
   ]
 }
