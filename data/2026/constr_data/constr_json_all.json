@@ -11,7 +11,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "21",
+      "points": "23",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 1,
@@ -24,7 +24,7 @@
         "number": "43",
         "standings": {
           "position": 11,
-          "points": 5,
+          "points": 7,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -191,7 +191,7 @@
     },
     "standings": {
       "position": "2",
-      "points": "112",
+      "points": "110",
       "wins": "0",
       "podiums": 3,
       "dnf_count": 0,
@@ -199,24 +199,24 @@
     },
     "drivers": [
       {
-        "driver_id": "LEC",
-        "name": "Charles Leclerc",
-        "number": "16",
+        "driver_id": "HAM",
+        "name": "Lewis Hamilton",
+        "number": "44",
         "standings": {
-          "position": 3,
-          "points": 63,
+          "position": 5,
+          "points": 51,
           "wins": 0,
           "contender": true,
           "podiums": 1
         }
       },
       {
-        "driver_id": "HAM",
-        "name": "Lewis Hamilton",
-        "number": "44",
+        "driver_id": "LEC",
+        "name": "Charles Leclerc",
+        "number": "16",
         "standings": {
-          "position": 5,
-          "points": 49,
+          "position": 3,
+          "points": 59,
           "wins": 0,
           "contender": true,
           "podiums": 1

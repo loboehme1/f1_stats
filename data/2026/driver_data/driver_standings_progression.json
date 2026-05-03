@@ -140,34 +140,6 @@
     ]
   },
   {
-    "driver_id": "LEC",
-    "code": "LEC",
-    "name": "Charles Leclerc",
-    "color": "#DC0000",
-    "progression": [
-      {
-        "round": 1,
-        "points": "15",
-        "position": "3"
-      },
-      {
-        "round": 2,
-        "points": "34",
-        "position": "3"
-      },
-      {
-        "round": 3,
-        "points": "49",
-        "position": "3"
-      },
-      {
-        "round": 4,
-        "points": "63",
-        "position": "3"
-      }
-    ]
-  },
-  {
     "driver_id": "HAM",
     "code": "HAM",
     "name": "Lewis Hamilton",
@@ -220,6 +192,34 @@
         "round": 4,
         "points": "5",
         "position": "11"
+      }
+    ]
+  },
+  {
+    "driver_id": "LEC",
+    "code": "LEC",
+    "name": "Charles Leclerc",
+    "color": "#DC0000",
+    "progression": [
+      {
+        "round": 1,
+        "points": "15",
+        "position": "3"
+      },
+      {
+        "round": 2,
+        "points": "34",
+        "position": "3"
+      },
+      {
+        "round": 3,
+        "points": "49",
+        "position": "3"
+      },
+      {
+        "round": 4,
+        "points": "63",
+        "position": "3"
       }
     ]
   },
