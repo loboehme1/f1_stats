@@ -21,10 +21,12 @@
     "round": "4",
     "race_name": "Miami Grand Prix",
     "circuit_name": "Miami International Autodrome",
+    "laps": null,
     "country": "USA",
     "city": "Miami",
     "date": "2026-05-03",
     "time": "20:00:00Z",
+    "fastest_lap": null,
     "sprint": true
   },
   {
