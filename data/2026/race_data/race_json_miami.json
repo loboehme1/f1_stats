@@ -41,11 +41,6 @@
       "time": "1:33.110"
     },
     {
-      "driver_id": "LEC",
-      "rank": "5",
-      "time": "1:32.515"
-    },
-    {
       "driver_id": "HAM",
       "rank": "6",
       "time": "1:32.676"
@@ -54,6 +49,11 @@
       "driver_id": "COL",
       "rank": "8",
       "time": "1:33.035"
+    },
+    {
+      "driver_id": "LEC",
+      "rank": "5",
+      "time": "1:32.515"
     },
     {
       "driver_id": "SAI",
@@ -245,29 +245,6 @@
     {
       "points": 8,
       "end_pos": "6",
-      "start_pos": "3",
-      "completed_laps": "57",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "5",
-        "time": "1:32.515"
-      },
-      "driver": {
-        "driver_id": "LEC",
-        "name": "Charles Leclerc",
-        "number": "16",
-        "dob": "1997-10-16",
-        "nationality": "Monegasque"
-      },
-      "constr": {
-        "constr_id": "ferrari",
-        "name": "Ferrari",
-        "nationality": "Italian"
-      }
-    },
-    {
-      "points": 6,
-      "end_pos": "7",
       "start_pos": "6",
       "completed_laps": "57",
       "status": "Finished",
@@ -289,8 +266,8 @@
       }
     },
     {
-      "points": 4,
-      "end_pos": "8",
+      "points": 6,
+      "end_pos": "7",
       "start_pos": "8",
       "completed_laps": "57",
       "status": "Finished",
@@ -309,6 +286,29 @@
         "constr_id": "alpine",
         "name": "Alpine F1 Team",
         "nationality": "French"
+      }
+    },
+    {
+      "points": 4,
+      "end_pos": "8",
+      "start_pos": "3",
+      "completed_laps": "57",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "5",
+        "time": "1:32.515"
+      },
+      "driver": {
+        "driver_id": "LEC",
+        "name": "Charles Leclerc",
+        "number": "16",
+        "dob": "1997-10-16",
+        "nationality": "Monegasque"
+      },
+      "constr": {
+        "constr_id": "ferrari",
+        "name": "Ferrari",
+        "nationality": "Italian"
       }
     },
     {
@@ -798,26 +798,6 @@
     {
       "quali_pos": "9",
       "sectors": {
-        "q1": "",
-        "q2": "1:28.941",
-        "q3": "1:28.789"
-      },
-      "driver": {
-        "driver_id": "HAD",
-        "name": "Isack Hadjar",
-        "number": "6",
-        "dob": "2004-09-28",
-        "nationality": "French"
-      },
-      "constr": {
-        "constr_id": "red_bull",
-        "name": "Red Bull",
-        "nationality": "Austrian"
-      }
-    },
-    {
-      "quali_pos": "9",
-      "sectors": {
         "q1": "1:29.914",
         "q2": "1:29.070",
         "q3": "1:28.810"
@@ -1073,6 +1053,26 @@
         "constr_id": "audi",
         "name": "Audi",
         "nationality": "German"
+      }
+    },
+    {
+      "quali_pos": "22",
+      "sectors": {
+        "q1": "",
+        "q2": "1:28.941",
+        "q3": "1:28.789"
+      },
+      "driver": {
+        "driver_id": "HAD",
+        "name": "Isack Hadjar",
+        "number": "6",
+        "dob": "2004-09-28",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "red_bull",
+        "name": "Red Bull",
+        "nationality": "Austrian"
       }
     },
     {
