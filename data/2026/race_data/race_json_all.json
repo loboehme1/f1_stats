@@ -66,5 +66,16 @@
       "time": "1:32.432"
     },
     "sprint": false
+  },
+  {
+    "circuit_id": "villeneuve",
+    "round": "5",
+    "race_name": "Canadian Grand Prix",
+    "circuit_name": "Circuit Gilles Villeneuve",
+    "country": "Canada",
+    "city": "Montreal",
+    "date": "2026-05-24",
+    "time": "20:00:00Z",
+    "sprint": true
   }
 ]
