@@ -66,6 +66,12 @@
       "raceName": "Miami Grand Prix",
       "date": "2026-05-03",
       "points": 0
+    },
+    {
+      "round": "5",
+      "raceName": "Canadian Grand Prix",
+      "date": "2026-05-24",
+      "points": 0
     }
   ]
 }

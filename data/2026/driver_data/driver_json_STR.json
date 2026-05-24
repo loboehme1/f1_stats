@@ -58,6 +58,15 @@
       "endPos": 17,
       "startPos": 18,
       "status": "Finished"
+    },
+    {
+      "round": "5",
+      "raceName": "Canadian Grand Prix",
+      "date": "2026-05-24",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 22,
+      "status": "Finished"
     }
   ]
 }

@@ -12,8 +12,8 @@
     "position": "1",
     "points": "219",
     "wins": "5",
-    "podiums": 6,
-    "dnf_count": 0,
+    "podiums": 7,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "drivers": [
@@ -26,7 +26,7 @@
         "points": 131,
         "wins": 4,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -66,6 +66,12 @@
       "raceName": "Miami Grand Prix",
       "date": "2026-05-03",
       "points": 37
+    },
+    {
+      "round": "5",
+      "raceName": "Canadian Grand Prix",
+      "date": "2026-05-24",
+      "points": 25
     }
   ]
 }

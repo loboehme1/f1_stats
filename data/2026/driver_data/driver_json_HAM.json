@@ -18,7 +18,7 @@
     "points": 72,
     "wins": 0,
     "contender": true,
-    "podiums": 1,
+    "podiums": 2,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -57,6 +57,15 @@
       "points": 8,
       "endPos": 6,
       "startPos": 6,
+      "status": "Finished"
+    },
+    {
+      "round": "5",
+      "raceName": "Canadian Grand Prix",
+      "date": "2026-05-24",
+      "points": 18,
+      "endPos": 2,
+      "startPos": 5,
       "status": "Finished"
     }
   ]

@@ -72,12 +72,16 @@
     "round": "5",
     "race_name": "Canadian Grand Prix",
     "circuit_name": "Circuit Gilles Villeneuve",
-    "laps": null,
+    "laps": "68",
     "country": "Canada",
     "city": "Montreal",
     "date": "2026-05-24",
     "time": "20:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:14.210"
+    },
     "sprint": true
   }
 ]
