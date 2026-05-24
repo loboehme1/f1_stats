@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "23",
+    "points": "35",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 1,
@@ -23,7 +23,7 @@
       "number": "43",
       "standings": {
         "position": 11,
-        "points": 7,
+        "points": 15,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -34,8 +34,8 @@
       "name": "Pierre Gasly",
       "number": "10",
       "standings": {
-        "position": 9,
-        "points": 16,
+        "position": 8,
+        "points": 20,
         "wins": 0,
         "contender": true,
         "podiums": 0

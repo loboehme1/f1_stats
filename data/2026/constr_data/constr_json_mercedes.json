@@ -10,8 +10,8 @@
   },
   "standings": {
     "position": "1",
-    "points": "180",
-    "wins": "4",
+    "points": "219",
+    "wins": "5",
     "podiums": 6,
     "dnf_count": 0,
     "disq_count": 0
@@ -23,8 +23,8 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 100,
-        "wins": 3,
+        "points": 131,
+        "wins": 4,
         "contender": true,
         "podiums": 2
       }
@@ -35,7 +35,7 @@
       "number": "63",
       "standings": {
         "position": 2,
-        "points": 80,
+        "points": 88,
         "wins": 1,
         "contender": true,
         "podiums": 0

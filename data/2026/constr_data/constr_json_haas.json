@@ -9,8 +9,8 @@
     "primary": "#f04a4a"
   },
   "standings": {
-    "position": "6",
-    "points": "18",
+    "position": "7",
+    "points": "19",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 1,
@@ -22,8 +22,8 @@
       "name": "Oliver Bearman",
       "number": "87",
       "standings": {
-        "position": 8,
-        "points": 17,
+        "position": 9,
+        "points": 18,
         "wins": 0,
         "contender": true,
         "podiums": 0

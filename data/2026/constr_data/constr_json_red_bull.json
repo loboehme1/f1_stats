@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "30",
+    "points": "57",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 3,
@@ -23,7 +23,7 @@
       "number": "3",
       "standings": {
         "position": 7,
-        "points": 26,
+        "points": 43,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -34,8 +34,8 @@
       "name": "Isack Hadjar",
       "number": "6",
       "standings": {
-        "position": 13,
-        "points": 4,
+        "position": 12,
+        "points": 14,
         "wins": 0,
         "contender": true,
         "podiums": 0

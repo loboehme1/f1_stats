@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "3",
-    "points": "94",
+    "points": "106",
     "wins": "0",
     "podiums": 3,
     "dnf_count": 3,
@@ -18,27 +18,27 @@
   },
   "drivers": [
     {
-      "driver_id": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "standings": {
-        "position": 4,
-        "points": 51,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
-      }
-    },
-    {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
         "position": 6,
-        "points": 43,
+        "points": 48,
         "wins": 0,
         "contender": true,
         "podiums": 2
+      }
+    },
+    {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "position": 5,
+        "points": 58,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
       }
     }
   ],
