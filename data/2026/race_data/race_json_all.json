@@ -34,6 +34,17 @@
     "sprint": true
   },
   {
+    "circuit_id": "monaco",
+    "round": "6",
+    "race_name": "Monaco Grand Prix",
+    "circuit_name": "Circuit de Monaco",
+    "country": "Monaco",
+    "city": "Monte Carlo",
+    "date": "2026-06-07",
+    "time": "13:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "shanghai",
     "round": "2",
     "race_name": "Chinese Grand Prix",
