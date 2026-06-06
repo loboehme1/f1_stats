@@ -38,10 +38,12 @@
     "round": "6",
     "race_name": "Monaco Grand Prix",
     "circuit_name": "Circuit de Monaco",
+    "laps": null,
     "country": "Monaco",
     "city": "Monte Carlo",
     "date": "2026-06-07",
     "time": "13:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
