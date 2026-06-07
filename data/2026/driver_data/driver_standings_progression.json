@@ -342,44 +342,6 @@
     ]
   },
   {
-    "driver_id": "PER",
-    "code": "PER",
-    "name": "Sergio Pérez",
-    "color": "#78807f",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "16"
-      },
-      {
-        "round": 2,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 3,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 4,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 5,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 6,
-        "points": "1",
-        "position": "18"
-      }
-    ]
-  },
-  {
     "driver_id": "ALO",
     "code": "ALO",
     "name": "Fernando Alonso",
@@ -412,8 +374,8 @@
       },
       {
         "round": 6,
-        "points": "0",
-        "position": "20"
+        "points": "1",
+        "position": "18"
       }
     ]
   },
@@ -566,6 +528,44 @@
         "round": 6,
         "points": "15",
         "position": "12"
+      }
+    ]
+  },
+  {
+    "driver_id": "PER",
+    "code": "PER",
+    "name": "Sergio Pérez",
+    "color": "#78807f",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "16"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 5,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "21"
       }
     ]
   },
@@ -793,7 +793,7 @@
       {
         "round": 6,
         "points": "0",
-        "position": "21"
+        "position": "20"
       }
     ]
   },

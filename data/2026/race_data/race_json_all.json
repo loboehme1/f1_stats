@@ -43,7 +43,11 @@
     "city": "Monte Carlo",
     "date": "2026-06-07",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:13.481"
+    },
     "sprint": false
   },
   {

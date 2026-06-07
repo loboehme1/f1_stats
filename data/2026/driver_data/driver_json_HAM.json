@@ -73,8 +73,8 @@
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
       "points": 18,
-      "endPos": "2",
-      "startPos": null,
+      "endPos": 2,
+      "startPos": 3,
       "status": "Finished"
     }
   ]

@@ -55,8 +55,8 @@
       "primary": "#0A7968"
     },
     "standings": {
-      "position": "11",
-      "points": "0",
+      "position": "10",
+      "points": "1",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 6,
@@ -68,8 +68,8 @@
         "name": "Fernando Alonso",
         "number": "14",
         "standings": {
-          "position": 20,
-          "points": 0,
+          "position": 18,
+          "points": 1,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -145,8 +145,8 @@
       "primary": "#78807f"
     },
     "standings": {
-      "position": "10",
-      "points": "1",
+      "position": "11",
+      "points": "0",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 3,
@@ -158,8 +158,8 @@
         "name": "Sergio Pérez",
         "number": "11",
         "standings": {
-          "position": 18,
-          "points": 1,
+          "position": 21,
+          "points": 0,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -170,7 +170,7 @@
         "name": "Valtteri Bottas",
         "number": "77",
         "standings": {
-          "position": 21,
+          "position": 20,
           "points": 0,
           "wins": 0,
           "contender": true,
