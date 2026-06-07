@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "35",
+    "points": "41",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 1,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "COL",
-      "name": "Franco Colapinto",
-      "number": "43",
+      "driver_id": "GAS",
+      "name": "Pierre Gasly",
+      "number": "10",
       "standings": {
-        "position": 11,
-        "points": 15,
+        "position": 10,
+        "points": 26,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "GAS",
-      "name": "Pierre Gasly",
-      "number": "10",
+      "driver_id": "COL",
+      "name": "Franco Colapinto",
+      "number": "43",
       "standings": {
-        "position": 8,
-        "points": 20,
+        "position": 12,
+        "points": 15,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -72,6 +72,12 @@
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
       "points": 12
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 6
     }
   ]
 }

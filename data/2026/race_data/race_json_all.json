@@ -38,7 +38,7 @@
     "round": "6",
     "race_name": "Monaco Grand Prix",
     "circuit_name": "Circuit de Monaco",
-    "laps": null,
+    "laps": "78",
     "country": "Monaco",
     "city": "Monte Carlo",
     "date": "2026-06-07",

@@ -10,10 +10,10 @@
   },
   "standings": {
     "position": "2",
-    "points": "147",
+    "points": "165",
     "wins": "0",
-    "podiums": 4,
-    "dnf_count": 0,
+    "podiums": 5,
+    "dnf_count": 1,
     "disq_count": 0
   },
   "drivers": [
@@ -22,11 +22,11 @@
       "name": "Lewis Hamilton",
       "number": "44",
       "standings": {
-        "position": 4,
-        "points": 72,
+        "position": 2,
+        "points": 90,
         "wins": 0,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -34,7 +34,7 @@
       "name": "Charles Leclerc",
       "number": "16",
       "standings": {
-        "position": 3,
+        "position": 4,
         "points": 75,
         "wins": 0,
         "contender": true,
@@ -72,6 +72,12 @@
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
       "points": 30
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 18
     }
   ]
 }

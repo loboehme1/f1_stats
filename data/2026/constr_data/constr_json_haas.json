@@ -10,32 +10,32 @@
   },
   "standings": {
     "position": "7",
-    "points": "19",
+    "points": "21",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 1,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "BEA",
-      "name": "Oliver Bearman",
-      "number": "87",
-      "standings": {
-        "position": 9,
-        "points": 18,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "OCO",
       "name": "Esteban Ocon",
       "number": "31",
       "standings": {
         "position": 16,
-        "points": 1,
+        "points": 3,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "BEA",
+      "name": "Oliver Bearman",
+      "number": "87",
+      "standings": {
+        "position": 11,
+        "points": 18,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -72,6 +72,12 @@
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
       "points": 1
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 2
     }
   ]
 }

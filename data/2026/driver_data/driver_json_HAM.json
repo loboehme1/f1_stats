@@ -14,11 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 4,
-    "points": 72,
+    "position": 2,
+    "points": 90,
     "wins": 0,
     "contender": true,
-    "podiums": 2,
+    "podiums": 3,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -66,6 +66,15 @@
       "points": 18,
       "endPos": 2,
       "startPos": 5,
+      "status": "Finished"
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 18,
+      "endPos": "2",
+      "startPos": null,
       "status": "Finished"
     }
   ]

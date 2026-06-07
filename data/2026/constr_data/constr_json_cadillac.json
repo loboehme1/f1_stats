@@ -10,31 +10,31 @@
   },
   "standings": {
     "position": "10",
-    "points": "0",
+    "points": "1",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "BOT",
-      "name": "Valtteri Bottas",
-      "number": "77",
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
       "standings": {
-        "position": 19,
-        "points": 0,
+        "position": 18,
+        "points": 1,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "PER",
-      "name": "Sergio Pérez",
-      "number": "11",
+      "driver_id": "BOT",
+      "name": "Valtteri Bottas",
+      "number": "77",
       "standings": {
-        "position": 20,
+        "position": 21,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -72,6 +72,12 @@
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
       "points": 0
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 1
     }
   ]
 }

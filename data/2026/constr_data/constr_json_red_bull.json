@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "4",
-    "points": "57",
+    "points": "72",
     "wins": "0",
-    "podiums": 1,
-    "dnf_count": 3,
+    "podiums": 2,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 8,
+        "points": 29,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
+      }
+    },
     {
       "driver_id": "VER",
       "name": "Max Verstappen",
@@ -27,18 +39,6 @@
         "wins": 0,
         "contender": true,
         "podiums": 1
-      }
-    },
-    {
-      "driver_id": "HAD",
-      "name": "Isack Hadjar",
-      "number": "6",
-      "standings": {
-        "position": 12,
-        "points": 14,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
       }
     }
   ],
@@ -72,6 +72,12 @@
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
       "points": 25
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 15
     }
   ]
 }

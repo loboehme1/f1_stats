@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 16,
-    "points": 1,
+    "points": 3,
     "wins": 0,
     "contender": true,
     "podiums": 0,
@@ -66,6 +66,15 @@
       "points": 0,
       "endPos": 14,
       "startPos": 17,
+      "status": "Finished"
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
+      "points": 2,
+      "endPos": "9",
+      "startPos": null,
       "status": "Finished"
     }
   ]

@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "219",
-    "wins": "5",
-    "podiums": 7,
+    "points": "244",
+    "wins": "6",
+    "podiums": 8,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 131,
-        "wins": 4,
+        "points": 156,
+        "wins": 5,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -34,7 +34,7 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "position": 2,
+        "position": 3,
         "points": 88,
         "wins": 1,
         "contender": true,
@@ -71,6 +71,12 @@
       "round": "5",
       "raceName": "Canadian Grand Prix",
       "date": "2026-05-24",
+      "points": 25
+    },
+    {
+      "round": "6",
+      "raceName": "Monaco Grand Prix",
+      "date": "2026-06-07",
       "points": 25
     }
   ]
