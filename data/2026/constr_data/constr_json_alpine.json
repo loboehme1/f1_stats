@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "5",
-    "points": "41",
+    "points": "50",
     "wins": "0",
-    "podiums": 0,
+    "podiums": 1,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Pierre Gasly",
       "number": "10",
       "standings": {
-        "position": 10,
-        "points": 26,
+        "position": 8,
+        "points": 35,
         "wins": 0,
         "contender": true,
-        "podiums": 0
+        "podiums": 1
       }
     },
     {
@@ -77,7 +77,7 @@
       "round": "6",
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
-      "points": 6
+      "points": 15
     }
   ]
 }

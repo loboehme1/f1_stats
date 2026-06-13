@@ -76,6 +76,44 @@
     ]
   },
   {
+    "driver_id": "GAS",
+    "code": "GAS",
+    "name": "Pierre Gasly",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "10"
+      },
+      {
+        "round": 2,
+        "points": "9",
+        "position": "7"
+      },
+      {
+        "round": 3,
+        "points": "15",
+        "position": "8"
+      },
+      {
+        "round": 4,
+        "points": "16",
+        "position": "9"
+      },
+      {
+        "round": 5,
+        "points": "20",
+        "position": "8"
+      },
+      {
+        "round": 6,
+        "points": "35",
+        "position": "8"
+      }
+    ]
+  },
+  {
     "driver_id": "HAD",
     "code": "HAD",
     "name": "Isack Hadjar",
@@ -108,8 +146,8 @@
       },
       {
         "round": 6,
-        "points": "29",
-        "position": "8"
+        "points": "26",
+        "position": "9"
       }
     ]
   },
@@ -146,7 +184,7 @@
       },
       {
         "round": 6,
-        "points": "60",
+        "points": "58",
         "position": "5"
       }
     ]
@@ -184,8 +222,8 @@
       },
       {
         "round": 6,
-        "points": "26",
-        "position": "9"
+        "points": "24",
+        "position": "10"
       }
     ]
   },
@@ -222,46 +260,8 @@
       },
       {
         "round": 6,
-        "points": "13",
+        "points": "11",
         "position": "13"
-      }
-    ]
-  },
-  {
-    "driver_id": "GAS",
-    "code": "GAS",
-    "name": "Pierre Gasly",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "1",
-        "position": "10"
-      },
-      {
-        "round": 2,
-        "points": "9",
-        "position": "7"
-      },
-      {
-        "round": 3,
-        "points": "15",
-        "position": "8"
-      },
-      {
-        "round": 4,
-        "points": "16",
-        "position": "9"
-      },
-      {
-        "round": 5,
-        "points": "20",
-        "position": "8"
-      },
-      {
-        "round": 6,
-        "points": "26",
-        "position": "10"
       }
     ]
   },

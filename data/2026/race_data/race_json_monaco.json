@@ -26,6 +26,11 @@
       "time": "1:14.643"
     },
     {
+      "driver_id": "GAS",
+      "rank": "3",
+      "time": "1:15.497"
+    },
+    {
       "driver_id": "HAD",
       "rank": "4",
       "time": "1:15.669"
@@ -44,11 +49,6 @@
       "driver_id": "LIN",
       "rank": "8",
       "time": "1:15.908"
-    },
-    {
-      "driver_id": "GAS",
-      "rank": "3",
-      "time": "1:15.497"
     },
     {
       "driver_id": "ALB",
@@ -171,6 +171,29 @@
     {
       "points": 15,
       "end_pos": "3",
+      "start_pos": "9",
+      "completed_laps": "78",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "3",
+        "time": "1:15.497"
+      },
+      "driver": {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly",
+        "number": "10",
+        "dob": "1996-02-07",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "points": 12,
+      "end_pos": "4",
       "start_pos": "5",
       "completed_laps": "78",
       "status": "Finished",
@@ -192,8 +215,8 @@
       }
     },
     {
-      "points": 12,
-      "end_pos": "4",
+      "points": 10,
+      "end_pos": "5",
       "start_pos": "7",
       "completed_laps": "78",
       "status": "Finished",
@@ -215,8 +238,8 @@
       }
     },
     {
-      "points": 10,
-      "end_pos": "5",
+      "points": 8,
+      "end_pos": "6",
       "start_pos": "10",
       "completed_laps": "78",
       "status": "Finished",
@@ -238,8 +261,8 @@
       }
     },
     {
-      "points": 8,
-      "end_pos": "6",
+      "points": 6,
+      "end_pos": "7",
       "start_pos": "15",
       "completed_laps": "78",
       "status": "Finished",
@@ -258,29 +281,6 @@
         "constr_id": "rb",
         "name": "RB F1 Team",
         "nationality": "Italian"
-      }
-    },
-    {
-      "points": 6,
-      "end_pos": "7",
-      "start_pos": "9",
-      "completed_laps": "78",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "3",
-        "time": "1:15.497"
-      },
-      "driver": {
-        "driver_id": "GAS",
-        "name": "Pierre Gasly",
-        "number": "10",
-        "dob": "1996-02-07",
-        "nationality": "French"
-      },
-      "constr": {
-        "constr_id": "alpine",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
       }
     },
     {
