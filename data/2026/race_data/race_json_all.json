@@ -17,6 +17,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "catalunya",
+    "round": "7",
+    "race_name": "Barcelona Grand Prix",
+    "circuit_name": "Circuit de Barcelona-Catalunya",
+    "country": "Spain",
+    "city": "Barcelona",
+    "date": "2026-06-14",
+    "time": "13:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "miami",
     "round": "4",
     "race_name": "Miami Grand Prix",
