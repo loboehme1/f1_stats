@@ -11,7 +11,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "60",
+      "points": "57",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 1,
@@ -35,8 +35,8 @@
         "name": "Franco Colapinto",
         "number": "43",
         "standings": {
-          "position": 11,
-          "points": 19,
+          "position": 12,
+          "points": 16,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -260,7 +260,7 @@
         "name": "Oliver Bearman",
         "number": "87",
         "standings": {
-          "position": 12,
+          "position": 11,
           "points": 18,
           "wins": 0,
           "contender": true,
@@ -371,7 +371,7 @@
     },
     "standings": {
       "position": "6",
-      "points": "38",
+      "points": "41",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 2,
@@ -384,7 +384,7 @@
         "number": "30",
         "standings": {
           "position": 10,
-          "points": 26,
+          "points": 28,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -396,7 +396,7 @@
         "number": "41",
         "standings": {
           "position": 13,
-          "points": 12,
+          "points": 13,
           "wins": 0,
           "contender": true,
           "podiums": 0

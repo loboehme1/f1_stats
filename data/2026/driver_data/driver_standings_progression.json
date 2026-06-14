@@ -301,49 +301,6 @@
     ]
   },
   {
-    "driver_id": "COL",
-    "code": "COL",
-    "name": "Franco Colapinto",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "14"
-      },
-      {
-        "round": 2,
-        "points": "1",
-        "position": "15"
-      },
-      {
-        "round": 3,
-        "points": "1",
-        "position": "16"
-      },
-      {
-        "round": 4,
-        "points": "7",
-        "position": "11"
-      },
-      {
-        "round": 5,
-        "points": "15",
-        "position": "11"
-      },
-      {
-        "round": 6,
-        "points": "15",
-        "position": "12"
-      },
-      {
-        "round": 7,
-        "points": "19",
-        "position": "11"
-      }
-    ]
-  },
-  {
     "driver_id": "LAW",
     "code": "LAW",
     "name": "Liam Lawson",
@@ -381,7 +338,7 @@
       },
       {
         "round": 7,
-        "points": "26",
+        "points": "28",
         "position": "10"
       }
     ]
@@ -424,8 +381,51 @@
       },
       {
         "round": 7,
-        "points": "12",
+        "points": "13",
         "position": "13"
+      }
+    ]
+  },
+  {
+    "driver_id": "COL",
+    "code": "COL",
+    "name": "Franco Colapinto",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "14"
+      },
+      {
+        "round": 2,
+        "points": "1",
+        "position": "15"
+      },
+      {
+        "round": 3,
+        "points": "1",
+        "position": "16"
+      },
+      {
+        "round": 4,
+        "points": "7",
+        "position": "11"
+      },
+      {
+        "round": 5,
+        "points": "15",
+        "position": "11"
+      },
+      {
+        "round": 6,
+        "points": "15",
+        "position": "12"
+      },
+      {
+        "round": 7,
+        "points": "16",
+        "position": "12"
       }
     ]
   },
@@ -726,7 +726,7 @@
       {
         "round": 7,
         "points": "18",
-        "position": "12"
+        "position": "11"
       }
     ]
   },

@@ -51,11 +51,6 @@
       "time": "1:21.960"
     },
     {
-      "driver_id": "COL",
-      "rank": "16",
-      "time": "1:22.449"
-    },
-    {
       "driver_id": "LAW",
       "rank": "17",
       "time": "1:22.691"
@@ -64,6 +59,11 @@
       "driver_id": "LIN",
       "rank": "12",
       "time": "1:21.914"
+    },
+    {
+      "driver_id": "COL",
+      "rank": "16",
+      "time": "1:22.449"
     },
     {
       "driver_id": "BOR",
@@ -291,29 +291,6 @@
     {
       "points": 4,
       "end_pos": "8",
-      "start_pos": "13",
-      "completed_laps": "65",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "16",
-        "time": "1:22.449"
-      },
-      "driver": {
-        "driver_id": "COL",
-        "name": "Franco Colapinto",
-        "number": "43",
-        "dob": "2003-05-27",
-        "nationality": "Argentine"
-      },
-      "constr": {
-        "constr_id": "alpine",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      }
-    },
-    {
-      "points": 2,
-      "end_pos": "9",
       "start_pos": "8",
       "completed_laps": "65",
       "status": "Finished",
@@ -335,8 +312,8 @@
       }
     },
     {
-      "points": 1,
-      "end_pos": "10",
+      "points": 2,
+      "end_pos": "9",
       "start_pos": "11",
       "completed_laps": "65",
       "status": "Finished",
@@ -355,6 +332,29 @@
         "constr_id": "rb",
         "name": "RB F1 Team",
         "nationality": "Italian"
+      }
+    },
+    {
+      "points": 1,
+      "end_pos": "10",
+      "start_pos": "13",
+      "completed_laps": "65",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "16",
+        "time": "1:22.449"
+      },
+      "driver": {
+        "driver_id": "COL",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "dob": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
       }
     },
     {
