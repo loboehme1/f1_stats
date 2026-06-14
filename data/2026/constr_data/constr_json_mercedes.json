@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "1",
-    "points": "244",
+    "points": "262",
     "wins": "6",
-    "podiums": 8,
-    "dnf_count": 1,
+    "podiums": 9,
+    "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "RUS",
+      "name": "George Russell",
+      "number": "63",
+      "standings": {
+        "position": 3,
+        "points": 106,
+        "wins": 1,
+        "contender": true,
+        "podiums": 1
+      }
+    },
     {
       "driver_id": "ANT",
       "name": "Kimi Antonelli",
@@ -27,18 +39,6 @@
         "wins": 5,
         "contender": true,
         "podiums": 2
-      }
-    },
-    {
-      "driver_id": "RUS",
-      "name": "George Russell",
-      "number": "63",
-      "standings": {
-        "position": 3,
-        "points": 88,
-        "wins": 1,
-        "contender": true,
-        "podiums": 0
       }
     }
   ],
@@ -78,6 +78,12 @@
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
       "points": 25
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 18
     }
   ]
 }

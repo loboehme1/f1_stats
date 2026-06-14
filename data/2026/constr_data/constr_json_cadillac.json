@@ -13,7 +13,7 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 3,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
@@ -77,6 +77,12 @@
       "round": "6",
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
+      "points": 0
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
       "points": 0
     }
   ]

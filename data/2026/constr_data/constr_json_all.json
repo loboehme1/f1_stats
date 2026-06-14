@@ -11,7 +11,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "50",
+      "points": "60",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 1,
@@ -24,7 +24,7 @@
         "number": "10",
         "standings": {
           "position": 8,
-          "points": 35,
+          "points": 41,
           "wins": 0,
           "contender": true,
           "podiums": 1
@@ -35,8 +35,8 @@
         "name": "Franco Colapinto",
         "number": "43",
         "standings": {
-          "position": 12,
-          "points": 15,
+          "position": 11,
+          "points": 19,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -59,7 +59,7 @@
       "points": "1",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 6,
+      "dnf_count": 8,
       "disq_count": 0
     },
     "drivers": [
@@ -104,7 +104,7 @@
       "points": "2",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 4,
       "disq_count": 0
     },
     "drivers": [
@@ -149,7 +149,7 @@
       "points": "0",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 3,
+      "dnf_count": 4,
       "disq_count": 0
     },
     "drivers": [
@@ -191,10 +191,10 @@
     },
     "standings": {
       "position": "2",
-      "points": "165",
-      "wins": "0",
-      "podiums": 5,
-      "dnf_count": 1,
+      "points": "190",
+      "wins": "1",
+      "podiums": 6,
+      "dnf_count": 2,
       "disq_count": 0
     },
     "drivers": [
@@ -204,10 +204,10 @@
         "number": "44",
         "standings": {
           "position": 2,
-          "points": 90,
-          "wins": 0,
+          "points": 115,
+          "wins": 1,
           "contender": true,
-          "podiums": 2
+          "podiums": 3
         }
       },
       {
@@ -239,7 +239,7 @@
       "points": "21",
       "wins": "0",
       "podiums": 0,
-      "dnf_count": 2,
+      "dnf_count": 3,
       "disq_count": 0
     },
     "drivers": [
@@ -260,7 +260,7 @@
         "name": "Oliver Bearman",
         "number": "87",
         "standings": {
-          "position": 11,
+          "position": 12,
           "points": 18,
           "wins": 0,
           "contender": true,
@@ -281,32 +281,32 @@
     },
     "standings": {
       "position": "3",
-      "points": "116",
+      "points": "141",
       "wins": "0",
-      "podiums": 3,
+      "podiums": 4,
       "dnf_count": 5,
       "disq_count": 0
     },
     "drivers": [
       {
-        "driver_id": "PIA",
-        "name": "Oscar Piastri",
-        "number": "81",
-        "standings": {
-          "position": 5,
-          "points": 58,
-          "wins": 0,
-          "contender": true,
-          "podiums": 0
-        }
-      },
-      {
         "driver_id": "NOR",
         "name": "Lando Norris",
         "number": "1",
         "standings": {
+          "position": 5,
+          "points": 73,
+          "wins": 0,
+          "contender": true,
+          "podiums": 1
+        }
+      },
+      {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri",
+        "number": "81",
+        "standings": {
           "position": 6,
-          "points": 58,
+          "points": 68,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -326,13 +326,25 @@
     },
     "standings": {
       "position": "1",
-      "points": "244",
+      "points": "262",
       "wins": "6",
-      "podiums": 8,
-      "dnf_count": 1,
+      "podiums": 9,
+      "dnf_count": 2,
       "disq_count": 0
     },
     "drivers": [
+      {
+        "driver_id": "RUS",
+        "name": "George Russell",
+        "number": "63",
+        "standings": {
+          "position": 3,
+          "points": 106,
+          "wins": 1,
+          "contender": true,
+          "podiums": 1
+        }
+      },
       {
         "driver_id": "ANT",
         "name": "Kimi Antonelli",
@@ -343,18 +355,6 @@
           "wins": 5,
           "contender": true,
           "podiums": 2
-        }
-      },
-      {
-        "driver_id": "RUS",
-        "name": "George Russell",
-        "number": "63",
-        "standings": {
-          "position": 3,
-          "points": 88,
-          "wins": 1,
-          "contender": true,
-          "podiums": 0
         }
       }
     ]
@@ -371,7 +371,7 @@
     },
     "standings": {
       "position": "6",
-      "points": "35",
+      "points": "38",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 2,
@@ -384,7 +384,7 @@
         "number": "30",
         "standings": {
           "position": 10,
-          "points": 24,
+          "points": 26,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -396,7 +396,7 @@
         "number": "41",
         "standings": {
           "position": 13,
-          "points": 11,
+          "points": 12,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -416,7 +416,7 @@
     },
     "standings": {
       "position": "4",
-      "points": "69",
+      "points": "89",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 4,
@@ -424,27 +424,27 @@
     },
     "drivers": [
       {
-        "driver_id": "HAD",
-        "name": "Isack Hadjar",
-        "number": "6",
-        "standings": {
-          "position": 9,
-          "points": 26,
-          "wins": 0,
-          "contender": true,
-          "podiums": 0
-        }
-      },
-      {
         "driver_id": "VER",
         "name": "Max Verstappen",
         "number": "3",
         "standings": {
           "position": 7,
-          "points": 43,
+          "points": 55,
           "wins": 0,
           "contender": true,
           "podiums": 1
+        }
+      },
+      {
+        "driver_id": "HAD",
+        "name": "Isack Hadjar",
+        "number": "6",
+        "standings": {
+          "position": 9,
+          "points": 34,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
         }
       }
     ]
@@ -469,24 +469,24 @@
     },
     "drivers": [
       {
-        "driver_id": "ALB",
-        "name": "Alexander Albon",
-        "number": "23",
-        "standings": {
-          "position": 15,
-          "points": 5,
-          "wins": 0,
-          "contender": true,
-          "podiums": 0
-        }
-      },
-      {
         "driver_id": "SAI",
         "name": "Carlos Sainz",
         "number": "55",
         "standings": {
           "position": 14,
           "points": 6,
+          "wins": 0,
+          "contender": true,
+          "podiums": 0
+        }
+      },
+      {
+        "driver_id": "ALB",
+        "name": "Alexander Albon",
+        "number": "23",
+        "standings": {
+          "position": 15,
+          "points": 5,
           "wins": 0,
           "contender": true,
           "podiums": 0

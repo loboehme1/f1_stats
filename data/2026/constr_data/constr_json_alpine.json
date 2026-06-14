@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "50",
+    "points": "60",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 1,
@@ -23,7 +23,7 @@
       "number": "10",
       "standings": {
         "position": 8,
-        "points": 35,
+        "points": 41,
         "wins": 0,
         "contender": true,
         "podiums": 1
@@ -34,8 +34,8 @@
       "name": "Franco Colapinto",
       "number": "43",
       "standings": {
-        "position": 12,
-        "points": 15,
+        "position": 11,
+        "points": 19,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -78,6 +78,12 @@
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
       "points": 15
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 10
     }
   ]
 }

@@ -21,12 +21,16 @@
     "round": "7",
     "race_name": "Barcelona Grand Prix",
     "circuit_name": "Circuit de Barcelona-Catalunya",
-    "laps": null,
+    "laps": "66",
     "country": "Spain",
     "city": "Barcelona",
     "date": "2026-06-14",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "HAM",
+      "rank": "1",
+      "time": "1:20.122"
+    },
     "sprint": false
   },
   {

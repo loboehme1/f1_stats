@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 2,
-    "points": 90,
-    "wins": 0,
+    "points": 115,
+    "wins": 1,
     "contender": true,
-    "podiums": 3,
+    "podiums": 4,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -75,6 +75,15 @@
       "points": 18,
       "endPos": 2,
       "startPos": 3,
+      "status": "Finished"
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 25,
+      "endPos": 1,
+      "startPos": 2,
       "status": "Finished"
     }
   ]

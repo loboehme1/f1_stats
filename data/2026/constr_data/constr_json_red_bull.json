@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "69",
+    "points": "89",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 4,
@@ -18,27 +18,27 @@
   },
   "drivers": [
     {
-      "driver_id": "HAD",
-      "name": "Isack Hadjar",
-      "number": "6",
-      "standings": {
-        "position": 9,
-        "points": 26,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "VER",
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
         "position": 7,
-        "points": 43,
+        "points": 55,
         "wins": 0,
         "contender": true,
         "podiums": 1
+      }
+    },
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 9,
+        "points": 34,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
       }
     }
   ],
@@ -78,6 +78,12 @@
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
       "points": 12
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 20
     }
   ]
 }

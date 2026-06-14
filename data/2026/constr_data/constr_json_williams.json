@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "ALB",
-      "name": "Alexander Albon",
-      "number": "23",
-      "standings": {
-        "position": 15,
-        "points": 5,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "SAI",
       "name": "Carlos Sainz",
       "number": "55",
       "standings": {
         "position": 14,
         "points": 6,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "ALB",
+      "name": "Alexander Albon",
+      "number": "23",
+      "standings": {
+        "position": 15,
+        "points": 5,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -78,6 +78,12 @@
       "raceName": "Monaco Grand Prix",
       "date": "2026-06-07",
       "points": 4
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 0
     }
   ]
 }

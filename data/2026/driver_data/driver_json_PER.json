@@ -76,6 +76,15 @@
       "endPos": 15,
       "startPos": 18,
       "status": "Finished"
+    },
+    {
+      "round": "7",
+      "raceName": "Barcelona Grand Prix",
+      "date": "2026-06-14",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 19,
+      "status": "Finished"
     }
   ]
 }
