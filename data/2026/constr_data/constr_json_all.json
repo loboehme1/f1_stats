@@ -23,10 +23,6 @@
         "name": "Pierre Gasly",
         "number": "10",
         "standings": {
-          "position": 8,
-          "points": 41,
-          "wins": 0,
-          "contender": true,
           "podiums": 1
         }
       },
@@ -35,10 +31,6 @@
         "name": "Franco Colapinto",
         "number": "43",
         "standings": {
-          "position": 12,
-          "points": 16,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -68,10 +60,6 @@
         "name": "Fernando Alonso",
         "number": "14",
         "standings": {
-          "position": 18,
-          "points": 1,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -80,10 +68,6 @@
         "name": "Lance Stroll",
         "number": "18",
         "standings": {
-          "position": 22,
-          "points": 0,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -113,10 +97,6 @@
         "name": "Gabriel Bortoleto",
         "number": "5",
         "standings": {
-          "position": 17,
-          "points": 2,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -125,10 +105,6 @@
         "name": "Nico Hülkenberg",
         "number": "27",
         "standings": {
-          "position": 19,
-          "points": 0,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -158,10 +134,6 @@
         "name": "Sergio Pérez",
         "number": "11",
         "standings": {
-          "position": 21,
-          "points": 0,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -170,10 +142,6 @@
         "name": "Valtteri Bottas",
         "number": "77",
         "standings": {
-          "position": 20,
-          "points": 0,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -203,10 +171,6 @@
         "name": "Lewis Hamilton",
         "number": "44",
         "standings": {
-          "position": 2,
-          "points": 115,
-          "wins": 1,
-          "contender": true,
           "podiums": 3
         }
       },
@@ -215,10 +179,6 @@
         "name": "Charles Leclerc",
         "number": "16",
         "standings": {
-          "position": 4,
-          "points": 75,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -248,10 +208,6 @@
         "name": "Esteban Ocon",
         "number": "31",
         "standings": {
-          "position": 16,
-          "points": 3,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -260,10 +216,6 @@
         "name": "Oliver Bearman",
         "number": "87",
         "standings": {
-          "position": 11,
-          "points": 18,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -293,10 +245,6 @@
         "name": "Lando Norris",
         "number": "1",
         "standings": {
-          "position": 5,
-          "points": 73,
-          "wins": 0,
-          "contender": true,
           "podiums": 1
         }
       },
@@ -305,10 +253,6 @@
         "name": "Oscar Piastri",
         "number": "81",
         "standings": {
-          "position": 6,
-          "points": 68,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -338,10 +282,6 @@
         "name": "George Russell",
         "number": "63",
         "standings": {
-          "position": 3,
-          "points": 106,
-          "wins": 1,
-          "contender": true,
           "podiums": 1
         }
       },
@@ -350,10 +290,6 @@
         "name": "Kimi Antonelli",
         "number": "12",
         "standings": {
-          "position": 1,
-          "points": 156,
-          "wins": 5,
-          "contender": true,
           "podiums": 2
         }
       }
@@ -383,10 +319,6 @@
         "name": "Liam Lawson",
         "number": "30",
         "standings": {
-          "position": 10,
-          "points": 28,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -395,10 +327,6 @@
         "name": "Arvid Lindblad",
         "number": "41",
         "standings": {
-          "position": 13,
-          "points": 13,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -428,10 +356,6 @@
         "name": "Max Verstappen",
         "number": "3",
         "standings": {
-          "position": 7,
-          "points": 55,
-          "wins": 0,
-          "contender": true,
           "podiums": 1
         }
       },
@@ -440,10 +364,6 @@
         "name": "Isack Hadjar",
         "number": "6",
         "standings": {
-          "position": 9,
-          "points": 34,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
@@ -473,10 +393,6 @@
         "name": "Carlos Sainz",
         "number": "55",
         "standings": {
-          "position": 14,
-          "points": 6,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       },
@@ -485,10 +401,6 @@
         "name": "Alexander Albon",
         "number": "23",
         "standings": {
-          "position": 15,
-          "points": 5,
-          "wins": 0,
-          "contender": true,
           "podiums": 0
         }
       }
