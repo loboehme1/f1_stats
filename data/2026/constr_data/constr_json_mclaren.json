@@ -22,6 +22,10 @@
       "name": "Lando Norris",
       "number": "1",
       "standings": {
+        "position": 5,
+        "points": 73,
+        "wins": 0,
+        "contender": true,
         "podiums": 1
       }
     },
@@ -30,6 +34,10 @@
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
+        "position": 6,
+        "points": 68,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
