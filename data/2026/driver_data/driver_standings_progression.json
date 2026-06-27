@@ -39,6 +39,11 @@
         "round": 7,
         "points": "115",
         "position": "2"
+      },
+      {
+        "round": 8,
+        "points": "115",
+        "position": "2"
       }
     ]
   },
@@ -80,6 +85,11 @@
       },
       {
         "round": 7,
+        "points": "106",
+        "position": "3"
+      },
+      {
+        "round": 8,
         "points": "106",
         "position": "3"
       }
@@ -125,6 +135,11 @@
         "round": 7,
         "points": "73",
         "position": "5"
+      },
+      {
+        "round": 8,
+        "points": "73",
+        "position": "5"
       }
     ]
   },
@@ -166,6 +181,11 @@
       },
       {
         "round": 7,
+        "points": "55",
+        "position": "7"
+      },
+      {
+        "round": 8,
         "points": "55",
         "position": "7"
       }
@@ -211,6 +231,11 @@
         "round": 7,
         "points": "68",
         "position": "6"
+      },
+      {
+        "round": 8,
+        "points": "68",
+        "position": "6"
       }
     ]
   },
@@ -252,6 +277,11 @@
       },
       {
         "round": 7,
+        "points": "34",
+        "position": "9"
+      },
+      {
+        "round": 8,
         "points": "34",
         "position": "9"
       }
@@ -297,6 +327,11 @@
         "round": 7,
         "points": "41",
         "position": "8"
+      },
+      {
+        "round": 8,
+        "points": "41",
+        "position": "8"
       }
     ]
   },
@@ -338,6 +373,11 @@
       },
       {
         "round": 7,
+        "points": "28",
+        "position": "10"
+      },
+      {
+        "round": 8,
         "points": "28",
         "position": "10"
       }
@@ -383,6 +423,11 @@
         "round": 7,
         "points": "13",
         "position": "13"
+      },
+      {
+        "round": 8,
+        "points": "13",
+        "position": "13"
       }
     ]
   },
@@ -424,6 +469,11 @@
       },
       {
         "round": 7,
+        "points": "16",
+        "position": "12"
+      },
+      {
+        "round": 8,
         "points": "16",
         "position": "12"
       }
@@ -469,6 +519,11 @@
         "round": 7,
         "points": "2",
         "position": "17"
+      },
+      {
+        "round": 8,
+        "points": "2",
+        "position": "17"
       }
     ]
   },
@@ -510,6 +565,11 @@
       },
       {
         "round": 7,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 8,
         "points": "6",
         "position": "14"
       }
@@ -555,6 +615,11 @@
         "round": 7,
         "points": "3",
         "position": "16"
+      },
+      {
+        "round": 8,
+        "points": "3",
+        "position": "16"
       }
     ]
   },
@@ -596,6 +661,11 @@
       },
       {
         "round": 7,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 8,
         "points": "0",
         "position": "21"
       }
@@ -641,6 +711,11 @@
         "round": 7,
         "points": "75",
         "position": "4"
+      },
+      {
+        "round": 8,
+        "points": "75",
+        "position": "4"
       }
     ]
   },
@@ -682,6 +757,11 @@
       },
       {
         "round": 7,
+        "points": "156",
+        "position": "1"
+      },
+      {
+        "round": 8,
         "points": "156",
         "position": "1"
       }
@@ -727,6 +807,11 @@
         "round": 7,
         "points": "18",
         "position": "11"
+      },
+      {
+        "round": 8,
+        "points": "18",
+        "position": "11"
       }
     ]
   },
@@ -768,6 +853,11 @@
       },
       {
         "round": 7,
+        "points": "5",
+        "position": "15"
+      },
+      {
+        "round": 8,
         "points": "5",
         "position": "15"
       }
@@ -813,6 +903,11 @@
         "round": 7,
         "points": "1",
         "position": "18"
+      },
+      {
+        "round": 8,
+        "points": "1",
+        "position": "18"
       }
     ]
   },
@@ -854,6 +949,11 @@
       },
       {
         "round": 7,
+        "points": "0",
+        "position": "19"
+      },
+      {
+        "round": 8,
         "points": "0",
         "position": "19"
       }
@@ -899,6 +999,11 @@
         "round": 7,
         "points": "0",
         "position": "20"
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "20"
       }
     ]
   },
@@ -940,6 +1045,11 @@
       },
       {
         "round": 7,
+        "points": "0",
+        "position": "22"
+      },
+      {
+        "round": 8,
         "points": "0",
         "position": "22"
       }
