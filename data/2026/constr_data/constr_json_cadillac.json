@@ -13,7 +13,7 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 4,
+    "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
@@ -22,10 +22,6 @@
       "name": "Sergio Pérez",
       "number": "11",
       "standings": {
-        "position": 21,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     },
@@ -34,10 +30,6 @@
       "name": "Valtteri Bottas",
       "number": "77",
       "standings": {
-        "position": 20,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
@@ -83,6 +75,12 @@
       "round": "7",
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
+      "points": 0
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
       "points": 0
     }
   ]

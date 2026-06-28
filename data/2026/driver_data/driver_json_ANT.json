@@ -14,11 +14,7 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 1,
-    "points": 156,
-    "wins": 5,
-    "contender": true,
-    "podiums": 6,
+    "podiums": 7,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -85,6 +81,15 @@
       "endPos": 16,
       "startPos": 3,
       "status": "Retired"
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 15,
+      "endPos": 3,
+      "startPos": 4,
+      "status": "Finished"
     }
   ]
 }

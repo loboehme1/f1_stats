@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "2",
-    "points": "190",
+    "points": "204",
     "wins": "1",
     "podiums": 6,
     "dnf_count": 2,
@@ -22,10 +22,6 @@
       "name": "Lewis Hamilton",
       "number": "44",
       "standings": {
-        "position": 2,
-        "points": 115,
-        "wins": 1,
-        "contender": true,
         "podiums": 2
       }
     },
@@ -34,10 +30,6 @@
       "name": "Charles Leclerc",
       "number": "16",
       "standings": {
-        "position": 4,
-        "points": 75,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
@@ -84,6 +76,12 @@
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
       "points": 25
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 14
     }
   ]
 }

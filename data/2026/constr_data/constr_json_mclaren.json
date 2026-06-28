@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "3",
-    "points": "141",
+    "points": "159",
     "wins": "0",
     "podiums": 4,
     "dnf_count": 5,
@@ -18,27 +18,19 @@
   },
   "drivers": [
     {
-      "driver_id": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "standings": {
-        "position": 5,
-        "points": 73,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
-      }
-    },
-    {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
-        "position": 6,
-        "points": 68,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
+      }
+    },
+    {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "podiums": 1
       }
     }
   ],
@@ -84,6 +76,12 @@
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
       "points": 25
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 18
     }
   ]
 }

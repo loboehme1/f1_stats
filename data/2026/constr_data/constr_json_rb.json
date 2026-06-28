@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "6",
-    "points": "41",
+    "points": "44",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 2,
@@ -22,10 +22,6 @@
       "name": "Liam Lawson",
       "number": "30",
       "standings": {
-        "position": 10,
-        "points": 28,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     },
@@ -34,10 +30,6 @@
       "name": "Arvid Lindblad",
       "number": "41",
       "standings": {
-        "position": 13,
-        "points": 13,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
@@ -84,6 +76,12 @@
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
       "points": 6
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 3
     }
   ]
 }

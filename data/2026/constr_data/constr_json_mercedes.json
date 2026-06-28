@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "262",
-    "wins": "6",
-    "podiums": 9,
+    "points": "302",
+    "wins": "7",
+    "podiums": 11,
     "dnf_count": 2,
     "disq_count": 0
   },
@@ -22,11 +22,7 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "position": 3,
-        "points": 106,
-        "wins": 1,
-        "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -34,11 +30,7 @@
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
-        "position": 1,
-        "points": 156,
-        "wins": 5,
-        "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     }
   ],
@@ -84,6 +76,12 @@
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
       "points": 18
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 40
     }
   ]
 }

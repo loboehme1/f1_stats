@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "89",
+    "points": "115",
     "wins": "0",
-    "podiums": 1,
+    "podiums": 2,
     "dnf_count": 4,
     "disq_count": 0
   },
@@ -22,11 +22,7 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
-        "position": 7,
-        "points": 55,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
+        "podiums": 1
       }
     },
     {
@@ -34,10 +30,6 @@
       "name": "Isack Hadjar",
       "number": "6",
       "standings": {
-        "position": 9,
-        "points": 34,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
@@ -84,6 +76,12 @@
       "raceName": "Barcelona Grand Prix",
       "date": "2026-06-14",
       "points": 20
+    },
+    {
+      "round": "8",
+      "raceName": "Austrian Grand Prix",
+      "date": "2026-06-28",
+      "points": 26
     }
   ]
 }

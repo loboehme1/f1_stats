@@ -72,12 +72,16 @@
     "round": "8",
     "race_name": "Austrian Grand Prix",
     "circuit_name": "Red Bull Ring",
-    "laps": null,
+    "laps": "71",
     "country": "Austria",
     "city": "Spielberg",
     "date": "2026-06-28",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:10.374"
+    },
     "sprint": false
   },
   {
