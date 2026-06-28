@@ -22,6 +22,10 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
+        "position": 2,
+        "points": 131,
+        "wins": 2,
+        "contender": true,
         "podiums": 2
       }
     },
@@ -30,6 +34,10 @@
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
+        "position": 1,
+        "points": 171,
+        "wins": 5,
+        "contender": true,
         "podiums": 2
       }
     }
