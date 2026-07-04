@@ -22,10 +22,6 @@
       "name": "Oliver Bearman",
       "number": "87",
       "standings": {
-        "position": 11,
-        "points": 18,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     },
@@ -34,10 +30,6 @@
       "name": "Esteban Ocon",
       "number": "31",
       "standings": {
-        "position": 16,
-        "points": 3,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
