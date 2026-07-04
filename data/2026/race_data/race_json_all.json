@@ -102,6 +102,17 @@
     "sprint": true
   },
   {
+    "circuit_id": "silverstone",
+    "round": "9",
+    "race_name": "British Grand Prix",
+    "circuit_name": "Silverstone Circuit",
+    "country": "UK",
+    "city": "Silverstone",
+    "date": "2026-07-05",
+    "time": "14:00:00Z",
+    "sprint": true
+  },
+  {
     "circuit_id": "suzuka",
     "round": "3",
     "race_name": "Japanese Grand Prix",
