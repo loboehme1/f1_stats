@@ -27,7 +27,7 @@
           "points": 41,
           "wins": 0,
           "contender": true,
-          "podiums": 1
+          "podiums": 0
         }
       },
       {
@@ -207,7 +207,7 @@
           "points": 125,
           "wins": 1,
           "contender": true,
-          "podiums": 2
+          "podiums": 1
         }
       },
       {
@@ -354,7 +354,7 @@
           "points": 171,
           "wins": 5,
           "contender": true,
-          "podiums": 2
+          "podiums": 1
         }
       }
     ]
