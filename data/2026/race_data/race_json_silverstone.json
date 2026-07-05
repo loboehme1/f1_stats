@@ -71,11 +71,6 @@
       "time": "1:32.917"
     },
     {
-      "driver_id": "SAI",
-      "rank": "7",
-      "time": "1:32.734"
-    },
-    {
       "driver_id": "BEA",
       "rank": "17",
       "time": "1:34.455"
@@ -99,6 +94,11 @@
       "driver_id": "BOT",
       "rank": "21",
       "time": "1:35.893"
+    },
+    {
+      "driver_id": "SAI",
+      "rank": "7",
+      "time": "1:32.734"
     },
     {
       "driver_id": "ALO",
@@ -383,29 +383,6 @@
     {
       "points": 0,
       "end_pos": "12",
-      "start_pos": "14",
-      "completed_laps": "52",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "7",
-        "time": "1:32.734"
-      },
-      "driver": {
-        "driver_id": "SAI",
-        "name": "Carlos Sainz",
-        "number": "55",
-        "dob": "1994-09-01",
-        "nationality": "Spanish"
-      },
-      "constr": {
-        "constr_id": "williams",
-        "name": "Williams",
-        "nationality": "British"
-      }
-    },
-    {
-      "points": 0,
-      "end_pos": "13",
       "start_pos": "13",
       "completed_laps": "52",
       "status": "Finished",
@@ -428,7 +405,7 @@
     },
     {
       "points": 0,
-      "end_pos": "14",
+      "end_pos": "13",
       "start_pos": "17",
       "completed_laps": "52",
       "status": "Finished",
@@ -451,7 +428,7 @@
     },
     {
       "points": 0,
-      "end_pos": "15",
+      "end_pos": "14",
       "start_pos": "20",
       "completed_laps": "52",
       "status": "Finished",
@@ -474,7 +451,7 @@
     },
     {
       "points": 0,
-      "end_pos": "16",
+      "end_pos": "15",
       "start_pos": "1",
       "completed_laps": "52",
       "status": "Finished",
@@ -497,7 +474,7 @@
     },
     {
       "points": 0,
-      "end_pos": "17",
+      "end_pos": "16",
       "start_pos": "18",
       "completed_laps": "52",
       "status": "Finished",
@@ -516,6 +493,29 @@
         "constr_id": "cadillac",
         "name": "Cadillac F1 Team",
         "nationality": "American"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "17",
+      "start_pos": "14",
+      "completed_laps": "51",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "7",
+        "time": "1:32.734"
+      },
+      "driver": {
+        "driver_id": "SAI",
+        "name": "Carlos Sainz",
+        "number": "55",
+        "dob": "1994-09-01",
+        "nationality": "Spanish"
+      },
+      "constr": {
+        "constr_id": "williams",
+        "name": "Williams",
+        "nationality": "British"
       }
     },
     {
