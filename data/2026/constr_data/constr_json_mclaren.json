@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "3",
-    "points": "159",
+    "points": "179",
     "wins": "0",
     "podiums": 4,
     "dnf_count": 5,
@@ -22,8 +22,8 @@
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
-        "position": 4,
-        "points": 80,
+        "position": 6,
+        "points": 82,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -35,7 +35,7 @@
       "number": "1",
       "standings": {
         "position": 5,
-        "points": 79,
+        "points": 97,
         "wins": 0,
         "contender": true,
         "podiums": 1

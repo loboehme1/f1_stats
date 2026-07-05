@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "1",
-    "points": "302",
+    "points": "333",
     "wins": "7",
     "podiums": 11,
     "dnf_count": 2,
@@ -23,7 +23,7 @@
       "number": "63",
       "standings": {
         "position": 2,
-        "points": 131,
+        "points": 154,
         "wins": 2,
         "contender": true,
         "podiums": 2
@@ -35,7 +35,7 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 171,
+        "points": 179,
         "wins": 5,
         "contender": true,
         "podiums": 1

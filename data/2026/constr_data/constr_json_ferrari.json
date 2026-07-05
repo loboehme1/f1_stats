@@ -10,8 +10,8 @@
   },
   "standings": {
     "position": "2",
-    "points": "204",
-    "wins": "1",
+    "points": "255",
+    "wins": "2",
     "podiums": 6,
     "dnf_count": 2,
     "disq_count": 0
@@ -23,7 +23,7 @@
       "number": "44",
       "standings": {
         "position": 3,
-        "points": 125,
+        "points": 147,
         "wins": 1,
         "contender": true,
         "podiums": 1
@@ -34,9 +34,9 @@
       "name": "Charles Leclerc",
       "number": "16",
       "standings": {
-        "position": 6,
-        "points": 79,
-        "wins": 0,
+        "position": 4,
+        "points": 108,
+        "wins": 1,
         "contender": true,
         "podiums": 0
       }

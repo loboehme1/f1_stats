@@ -11,7 +11,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "57",
+      "points": "60",
       "wins": "0",
       "podiums": 1,
       "dnf_count": 1,
@@ -24,7 +24,7 @@
         "number": "10",
         "standings": {
           "position": 9,
-          "points": 41,
+          "points": 42,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -35,8 +35,8 @@
         "name": "Franco Colapinto",
         "number": "43",
         "standings": {
-          "position": 12,
-          "points": 16,
+          "position": 13,
+          "points": 18,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -101,7 +101,7 @@
     },
     "standings": {
       "position": "9",
-      "points": "2",
+      "points": "6",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 4,
@@ -113,8 +113,8 @@
         "name": "Gabriel Bortoleto",
         "number": "5",
         "standings": {
-          "position": 17,
-          "points": 2,
+          "position": 14,
+          "points": 6,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -191,8 +191,8 @@
     },
     "standings": {
       "position": "2",
-      "points": "204",
-      "wins": "1",
+      "points": "255",
+      "wins": "2",
       "podiums": 6,
       "dnf_count": 2,
       "disq_count": 0
@@ -204,7 +204,7 @@
         "number": "44",
         "standings": {
           "position": 3,
-          "points": 125,
+          "points": 147,
           "wins": 1,
           "contender": true,
           "podiums": 1
@@ -215,9 +215,9 @@
         "name": "Charles Leclerc",
         "number": "16",
         "standings": {
-          "position": 6,
-          "points": 79,
-          "wins": 0,
+          "position": 4,
+          "points": 108,
+          "wins": 1,
           "contender": true,
           "podiums": 0
         }
@@ -248,7 +248,7 @@
         "name": "Oliver Bearman",
         "number": "87",
         "standings": {
-          "position": 11,
+          "position": 12,
           "points": 18,
           "wins": 0,
           "contender": true,
@@ -260,7 +260,7 @@
         "name": "Esteban Ocon",
         "number": "31",
         "standings": {
-          "position": 16,
+          "position": 17,
           "points": 3,
           "wins": 0,
           "contender": true,
@@ -281,7 +281,7 @@
     },
     "standings": {
       "position": "3",
-      "points": "159",
+      "points": "179",
       "wins": "0",
       "podiums": 4,
       "dnf_count": 5,
@@ -293,8 +293,8 @@
         "name": "Oscar Piastri",
         "number": "81",
         "standings": {
-          "position": 4,
-          "points": 80,
+          "position": 6,
+          "points": 82,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -306,7 +306,7 @@
         "number": "1",
         "standings": {
           "position": 5,
-          "points": 79,
+          "points": 97,
           "wins": 0,
           "contender": true,
           "podiums": 1
@@ -326,7 +326,7 @@
     },
     "standings": {
       "position": "1",
-      "points": "302",
+      "points": "333",
       "wins": "7",
       "podiums": 11,
       "dnf_count": 2,
@@ -339,7 +339,7 @@
         "number": "63",
         "standings": {
           "position": 2,
-          "points": 131,
+          "points": 154,
           "wins": 2,
           "contender": true,
           "podiums": 2
@@ -351,7 +351,7 @@
         "number": "12",
         "standings": {
           "position": 1,
-          "points": 171,
+          "points": 179,
           "wins": 5,
           "contender": true,
           "podiums": 1
@@ -371,7 +371,7 @@
     },
     "standings": {
       "position": "6",
-      "points": "44",
+      "points": "59",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 2,
@@ -384,7 +384,7 @@
         "number": "30",
         "standings": {
           "position": 10,
-          "points": 30,
+          "points": 39,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -395,8 +395,8 @@
         "name": "Arvid Lindblad",
         "number": "41",
         "standings": {
-          "position": 13,
-          "points": 14,
+          "position": 11,
+          "points": 20,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -416,7 +416,7 @@
     },
     "standings": {
       "position": "4",
-      "points": "115",
+      "points": "128",
       "wins": "0",
       "podiums": 2,
       "dnf_count": 4,
@@ -429,7 +429,7 @@
         "number": "3",
         "standings": {
           "position": 7,
-          "points": 73,
+          "points": 76,
           "wins": 0,
           "contender": true,
           "podiums": 1
@@ -441,7 +441,7 @@
         "number": "6",
         "standings": {
           "position": 8,
-          "points": 42,
+          "points": 52,
           "wins": 0,
           "contender": true,
           "podiums": 0
@@ -473,7 +473,7 @@
         "name": "Alexander Albon",
         "number": "23",
         "standings": {
-          "position": 15,
+          "position": 16,
           "points": 5,
           "wins": 0,
           "contender": true,
@@ -485,7 +485,7 @@
         "name": "Carlos Sainz",
         "number": "55",
         "standings": {
-          "position": 14,
+          "position": 15,
           "points": 6,
           "wins": 0,
           "contender": true,

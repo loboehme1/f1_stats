@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "57",
+    "points": "60",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 1,
@@ -23,7 +23,7 @@
       "number": "10",
       "standings": {
         "position": 9,
-        "points": 41,
+        "points": 42,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -34,8 +34,8 @@
       "name": "Franco Colapinto",
       "number": "43",
       "standings": {
-        "position": 12,
-        "points": 16,
+        "position": 13,
+        "points": 18,
         "wins": 0,
         "contender": true,
         "podiums": 0
