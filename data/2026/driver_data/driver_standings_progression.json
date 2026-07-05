@@ -583,59 +583,6 @@
     ]
   },
   {
-    "driver_id": "SAI",
-    "code": "SAI",
-    "name": "Carlos Sainz",
-    "color": "#46b1eb",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "15"
-      },
-      {
-        "round": 2,
-        "points": "2",
-        "position": "13"
-      },
-      {
-        "round": 3,
-        "points": "2",
-        "position": "14"
-      },
-      {
-        "round": 4,
-        "points": "4",
-        "position": "14"
-      },
-      {
-        "round": 5,
-        "points": "6",
-        "position": "13"
-      },
-      {
-        "round": 6,
-        "points": "6",
-        "position": "14"
-      },
-      {
-        "round": 7,
-        "points": "6",
-        "position": "14"
-      },
-      {
-        "round": 8,
-        "points": "6",
-        "position": "14"
-      },
-      {
-        "round": 9,
-        "points": "6",
-        "position": "15"
-      }
-    ]
-  },
-  {
     "driver_id": "BEA",
     "code": "BEA",
     "name": "Oliver Bearman",
@@ -897,6 +844,59 @@
         "round": 9,
         "points": "0",
         "position": "20"
+      }
+    ]
+  },
+  {
+    "driver_id": "SAI",
+    "code": "SAI",
+    "name": "Carlos Sainz",
+    "color": "#46b1eb",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "15"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "13"
+      },
+      {
+        "round": 3,
+        "points": "2",
+        "position": "14"
+      },
+      {
+        "round": 4,
+        "points": "4",
+        "position": "14"
+      },
+      {
+        "round": 5,
+        "points": "6",
+        "position": "13"
+      },
+      {
+        "round": 6,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 7,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 8,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "15"
       }
     ]
   },
