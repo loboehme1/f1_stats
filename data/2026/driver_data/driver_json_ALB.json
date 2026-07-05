@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": true,
     "podiums": 0,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "results": [
@@ -94,6 +94,15 @@
       "endPos": 17,
       "startPos": 18,
       "status": "Finished"
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 0,
+      "endPos": 21,
+      "startPos": 16,
+      "status": "Retired"
     }
   ]
 }

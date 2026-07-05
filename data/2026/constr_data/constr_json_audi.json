@@ -13,7 +13,7 @@
     "points": "6",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 4,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "drivers": [
@@ -90,6 +90,12 @@
       "raceName": "Austrian Grand Prix",
       "date": "2026-06-28",
       "points": 0
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 4
     }
   ]
 }

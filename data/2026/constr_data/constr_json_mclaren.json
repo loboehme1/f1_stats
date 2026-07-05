@@ -18,18 +18,6 @@
   },
   "drivers": [
     {
-      "driver_id": "PIA",
-      "name": "Oscar Piastri",
-      "number": "81",
-      "standings": {
-        "position": 6,
-        "points": 82,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "NOR",
       "name": "Lando Norris",
       "number": "1",
@@ -39,6 +27,18 @@
         "wins": 0,
         "contender": true,
         "podiums": 1
+      }
+    },
+    {
+      "driver_id": "PIA",
+      "name": "Oscar Piastri",
+      "number": "81",
+      "standings": {
+        "position": 6,
+        "points": 82,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
       }
     }
   ],
@@ -90,6 +90,12 @@
       "raceName": "Austrian Grand Prix",
       "date": "2026-06-28",
       "points": 18
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 12
     }
   ]
 }

@@ -12,23 +12,11 @@
     "position": "2",
     "points": "255",
     "wins": "2",
-    "podiums": 6,
+    "podiums": 8,
     "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "HAM",
-      "name": "Lewis Hamilton",
-      "number": "44",
-      "standings": {
-        "position": 3,
-        "points": 147,
-        "wins": 1,
-        "contender": true,
-        "podiums": 1
-      }
-    },
     {
       "driver_id": "LEC",
       "name": "Charles Leclerc",
@@ -38,7 +26,19 @@
         "points": 108,
         "wins": 1,
         "contender": true,
-        "podiums": 0
+        "podiums": 1
+      }
+    },
+    {
+      "driver_id": "HAM",
+      "name": "Lewis Hamilton",
+      "number": "44",
+      "standings": {
+        "position": 3,
+        "points": 147,
+        "wins": 1,
+        "contender": true,
+        "podiums": 2
       }
     }
   ],
@@ -90,6 +90,12 @@
       "raceName": "Austrian Grand Prix",
       "date": "2026-06-28",
       "points": 14
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 40
     }
   ]
 }

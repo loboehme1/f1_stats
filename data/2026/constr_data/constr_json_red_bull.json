@@ -13,22 +13,10 @@
     "points": "128",
     "wins": "0",
     "podiums": 2,
-    "dnf_count": 4,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "VER",
-      "name": "Max Verstappen",
-      "number": "3",
-      "standings": {
-        "position": 7,
-        "points": 76,
-        "wins": 0,
-        "contender": true,
-        "podiums": 1
-      }
-    },
     {
       "driver_id": "HAD",
       "name": "Isack Hadjar",
@@ -39,6 +27,18 @@
         "wins": 0,
         "contender": true,
         "podiums": 0
+      }
+    },
+    {
+      "driver_id": "VER",
+      "name": "Max Verstappen",
+      "number": "3",
+      "standings": {
+        "position": 7,
+        "points": 76,
+        "wins": 0,
+        "contender": true,
+        "podiums": 1
       }
     }
   ],
@@ -90,6 +90,12 @@
       "raceName": "Austrian Grand Prix",
       "date": "2026-06-28",
       "points": 26
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 10
     }
   ]
 }

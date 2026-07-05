@@ -18,7 +18,7 @@
     "points": 147,
     "wins": 1,
     "contender": true,
-    "podiums": 4,
+    "podiums": 5,
     "dnf_count": 0,
     "disq_count": 0
   },
@@ -92,6 +92,15 @@
       "date": "2026-06-28",
       "points": 10,
       "endPos": 5,
+      "startPos": 3,
+      "status": "Finished"
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 15,
+      "endPos": 3,
       "startPos": 3,
       "status": "Finished"
     }

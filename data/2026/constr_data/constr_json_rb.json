@@ -90,6 +90,12 @@
       "raceName": "Austrian Grand Prix",
       "date": "2026-06-28",
       "points": 3
+    },
+    {
+      "round": "9",
+      "raceName": "British Grand Prix",
+      "date": "2026-07-05",
+      "points": 14
     }
   ]
 }

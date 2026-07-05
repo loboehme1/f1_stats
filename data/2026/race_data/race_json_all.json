@@ -106,12 +106,16 @@
     "round": "9",
     "race_name": "British Grand Prix",
     "circuit_name": "Silverstone Circuit",
-    "laps": null,
+    "laps": "52",
     "country": "UK",
     "city": "Silverstone",
     "date": "2026-07-05",
     "time": "14:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:31.777"
+    },
     "sprint": true
   },
   {
