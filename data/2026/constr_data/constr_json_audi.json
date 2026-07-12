@@ -22,6 +22,10 @@
       "name": "Gabriel Bortoleto",
       "number": "5",
       "standings": {
+        "position": 14,
+        "points": 6,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     },
@@ -30,6 +34,10 @@
       "name": "Nico Hülkenberg",
       "number": "27",
       "standings": {
+        "position": 19,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
