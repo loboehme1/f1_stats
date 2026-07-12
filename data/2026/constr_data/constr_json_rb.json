@@ -22,6 +22,10 @@
       "name": "Liam Lawson",
       "number": "30",
       "standings": {
+        "position": 10,
+        "points": 39,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     },
@@ -30,6 +34,10 @@
       "name": "Arvid Lindblad",
       "number": "41",
       "standings": {
+        "position": 11,
+        "points": 20,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
