@@ -119,6 +119,17 @@
     "sprint": true
   },
   {
+    "circuit_id": "spa",
+    "round": "10",
+    "race_name": "Belgian Grand Prix",
+    "circuit_name": "Circuit de Spa-Francorchamps",
+    "country": "Belgium",
+    "city": "Spa",
+    "date": "2026-07-19",
+    "time": "13:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "suzuka",
     "round": "3",
     "race_name": "Japanese Grand Prix",
