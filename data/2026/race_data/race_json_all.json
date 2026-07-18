@@ -123,10 +123,12 @@
     "round": "10",
     "race_name": "Belgian Grand Prix",
     "circuit_name": "Circuit de Spa-Francorchamps",
+    "laps": null,
     "country": "Belgium",
     "city": "Spa",
     "date": "2026-07-19",
     "time": "13:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
