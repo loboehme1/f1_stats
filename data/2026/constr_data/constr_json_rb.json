@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "6",
-    "points": "59",
+    "points": "61",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 2,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "LAW",
-      "name": "Liam Lawson",
-      "number": "30",
+      "driver_id": "LIN",
+      "name": "Arvid Lindblad",
+      "number": "41",
       "standings": {
-        "position": 10,
-        "points": 39,
+        "position": 11,
+        "points": 22,
         "wins": 0,
         "contender": true,
         "podiums": 0
       }
     },
     {
-      "driver_id": "LIN",
-      "name": "Arvid Lindblad",
-      "number": "41",
+      "driver_id": "LAW",
+      "name": "Liam Lawson",
+      "number": "30",
       "standings": {
-        "position": 11,
-        "points": 20,
+        "position": 10,
+        "points": 39,
         "wins": 0,
         "contender": true,
         "podiums": 0

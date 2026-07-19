@@ -10,35 +10,35 @@
   },
   "standings": {
     "position": "1",
-    "points": "333",
-    "wins": "7",
+    "points": "358",
+    "wins": "8",
     "podiums": 12,
     "dnf_count": 2,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "RUS",
-      "name": "George Russell",
-      "number": "63",
-      "standings": {
-        "position": 2,
-        "points": 154,
-        "wins": 2,
-        "contender": true,
-        "podiums": 2
-      }
-    },
-    {
       "driver_id": "ANT",
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 179,
-        "wins": 5,
+        "points": 204,
+        "wins": 6,
         "contender": true,
         "podiums": 1
+      }
+    },
+    {
+      "driver_id": "RUS",
+      "name": "George Russell",
+      "number": "63",
+      "standings": {
+        "position": 3,
+        "points": 154,
+        "wins": 2,
+        "contender": true,
+        "podiums": 2
       }
     }
   ],

@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "4",
-    "points": "128",
+    "points": "151",
     "wins": "0",
     "podiums": 2,
     "dnf_count": 5,
@@ -18,27 +18,27 @@
   },
   "drivers": [
     {
-      "driver_id": "HAD",
-      "name": "Isack Hadjar",
-      "number": "6",
-      "standings": {
-        "position": 8,
-        "points": 52,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "VER",
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
         "position": 7,
-        "points": 76,
+        "points": 91,
         "wins": 0,
         "contender": true,
         "podiums": 1
+      }
+    },
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 8,
+        "points": 60,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
       }
     }
   ],
