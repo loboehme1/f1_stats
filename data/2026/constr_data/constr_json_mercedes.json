@@ -12,8 +12,8 @@
     "position": "1",
     "points": "358",
     "wins": "8",
-    "podiums": 12,
-    "dnf_count": 2,
+    "podiums": 13,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "drivers": [
@@ -26,7 +26,7 @@
         "points": 204,
         "wins": 6,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -96,6 +96,12 @@
       "raceName": "British Grand Prix",
       "date": "2026-07-05",
       "points": 18
+    },
+    {
+      "round": "10",
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
+      "points": 25
     }
   ]
 }

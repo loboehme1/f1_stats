@@ -18,7 +18,7 @@
     "points": 126,
     "wins": 1,
     "contender": true,
-    "podiums": 3,
+    "podiums": 4,
     "dnf_count": 2,
     "disq_count": 0
   },
@@ -102,6 +102,15 @@
       "points": 25,
       "endPos": 1,
       "startPos": 2,
+      "status": "Finished"
+    },
+    {
+      "round": "10",
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
+      "points": 18,
+      "endPos": 2,
+      "startPos": 4,
       "status": "Finished"
     }
   ]

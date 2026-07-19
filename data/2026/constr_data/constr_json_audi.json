@@ -96,6 +96,12 @@
       "raceName": "British Grand Prix",
       "date": "2026-07-05",
       "points": 4
+    },
+    {
+      "round": "10",
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
+      "points": 4
     }
   ]
 }

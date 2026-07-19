@@ -52,7 +52,7 @@
       },
       {
         "round": 10,
-        "points": "179",
+        "points": "204",
         "position": "1"
       }
     ]
@@ -110,7 +110,7 @@
       },
       {
         "round": 10,
-        "points": "108",
+        "points": "126",
         "position": "4"
       }
     ]
@@ -168,7 +168,7 @@
       },
       {
         "round": 10,
-        "points": "76",
+        "points": "91",
         "position": "7"
       }
     ]
@@ -226,8 +226,8 @@
       },
       {
         "round": 10,
-        "points": "147",
-        "position": "3"
+        "points": "159",
+        "position": "2"
       }
     ]
   },
@@ -284,7 +284,7 @@
       },
       {
         "round": 10,
-        "points": "82",
+        "points": "92",
         "position": "6"
       }
     ]
@@ -342,7 +342,7 @@
       },
       {
         "round": 10,
-        "points": "52",
+        "points": "60",
         "position": "8"
       }
     ]
@@ -400,7 +400,7 @@
       },
       {
         "round": 10,
-        "points": "97",
+        "points": "103",
         "position": "5"
       }
     ]
@@ -458,7 +458,7 @@
       },
       {
         "round": 10,
-        "points": "6",
+        "points": "10",
         "position": "14"
       }
     ]
@@ -516,7 +516,7 @@
       },
       {
         "round": 10,
-        "points": "20",
+        "points": "22",
         "position": "11"
       }
     ]
@@ -574,8 +574,8 @@
       },
       {
         "round": 10,
-        "points": "18",
-        "position": "13"
+        "points": "19",
+        "position": "12"
       }
     ]
   },
@@ -807,7 +807,7 @@
       {
         "round": 10,
         "points": "18",
-        "position": "12"
+        "position": "13"
       }
     ]
   },
@@ -1271,7 +1271,7 @@
       {
         "round": 10,
         "points": "154",
-        "position": "2"
+        "position": "3"
       }
     ]
   }

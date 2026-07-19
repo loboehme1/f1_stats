@@ -13,7 +13,7 @@
     "points": "1",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 9,
+    "dnf_count": 10,
     "disq_count": 0
   },
   "drivers": [
@@ -95,6 +95,12 @@
       "round": "9",
       "raceName": "British Grand Prix",
       "date": "2026-07-05",
+      "points": 0
+    },
+    {
+      "round": "10",
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
       "points": 0
     }
   ]

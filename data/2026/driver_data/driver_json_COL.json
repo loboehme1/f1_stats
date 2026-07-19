@@ -103,6 +103,15 @@
       "endPos": 9,
       "startPos": 19,
       "status": "Finished"
+    },
+    {
+      "round": "10",
+      "raceName": "Belgian Grand Prix",
+      "date": "2026-07-19",
+      "points": 1,
+      "endPos": 10,
+      "startPos": 11,
+      "status": "Finished"
     }
   ]
 }
