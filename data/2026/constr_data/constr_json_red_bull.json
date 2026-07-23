@@ -22,6 +22,10 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
+        "position": 7,
+        "points": 91,
+        "wins": 0,
+        "contender": true,
         "podiums": 2
       }
     },
@@ -30,6 +34,10 @@
       "name": "Isack Hadjar",
       "number": "6",
       "standings": {
+        "position": 8,
+        "points": 60,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }

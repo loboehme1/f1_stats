@@ -22,6 +22,10 @@
       "name": "Fernando Alonso",
       "number": "14",
       "standings": {
+        "position": 18,
+        "points": 1,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     },
@@ -30,6 +34,10 @@
       "name": "Lance Stroll",
       "number": "18",
       "standings": {
+        "position": 22,
+        "points": 0,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
