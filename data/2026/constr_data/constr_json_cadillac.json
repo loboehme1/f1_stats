@@ -22,10 +22,6 @@
       "name": "Valtteri Bottas",
       "number": "77",
       "standings": {
-        "position": 20,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     },
@@ -34,10 +30,6 @@
       "name": "Sergio Pérez",
       "number": "11",
       "standings": {
-        "position": 21,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
