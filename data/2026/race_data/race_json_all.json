@@ -38,10 +38,12 @@
     "round": "11",
     "race_name": "Hungarian Grand Prix",
     "circuit_name": "Hungaroring",
+    "laps": null,
     "country": "Hungary",
     "city": "Budapest",
     "date": "2026-07-26",
     "time": "13:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
