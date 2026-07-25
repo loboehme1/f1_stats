@@ -22,6 +22,10 @@
       "name": "Franco Colapinto",
       "number": "43",
       "standings": {
+        "position": 12,
+        "points": 19,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     },
@@ -30,6 +34,10 @@
       "name": "Pierre Gasly",
       "number": "10",
       "standings": {
+        "position": 9,
+        "points": 42,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
