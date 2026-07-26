@@ -56,7 +56,7 @@
       },
       {
         "round": 11,
-        "points": "358",
+        "points": "379",
         "position": "1"
       }
     ]
@@ -118,7 +118,7 @@
       },
       {
         "round": 11,
-        "points": "285",
+        "points": "307",
         "position": "2"
       }
     ]
@@ -180,7 +180,7 @@
       },
       {
         "round": 11,
-        "points": "195",
+        "points": "220",
         "position": "3"
       }
     ]
@@ -242,70 +242,8 @@
       },
       {
         "round": 11,
-        "points": "151",
+        "points": "177",
         "position": "4"
-      }
-    ]
-  },
-  {
-    "constructor_id": "alpine",
-    "name": "Alpine F1 Team",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "1",
-        "position": "8"
-      },
-      {
-        "round": 2,
-        "points": "10",
-        "position": "7"
-      },
-      {
-        "round": 3,
-        "points": "16",
-        "position": "5"
-      },
-      {
-        "round": 4,
-        "points": "23",
-        "position": "5"
-      },
-      {
-        "round": 5,
-        "points": "35",
-        "position": "5"
-      },
-      {
-        "round": 6,
-        "points": "50",
-        "position": "5"
-      },
-      {
-        "round": 7,
-        "points": "57",
-        "position": "5"
-      },
-      {
-        "round": 8,
-        "points": "57",
-        "position": "5"
-      },
-      {
-        "round": 9,
-        "points": "60",
-        "position": "5"
-      },
-      {
-        "round": 10,
-        "points": "61",
-        "position": "5"
-      },
-      {
-        "round": 11,
-        "points": "61",
-        "position": "5"
       }
     ]
   },
@@ -363,6 +301,68 @@
         "round": 10,
         "points": "61",
         "position": "6"
+      },
+      {
+        "round": 11,
+        "points": "66",
+        "position": "5"
+      }
+    ]
+  },
+  {
+    "constructor_id": "alpine",
+    "name": "Alpine F1 Team",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "8"
+      },
+      {
+        "round": 2,
+        "points": "10",
+        "position": "7"
+      },
+      {
+        "round": 3,
+        "points": "16",
+        "position": "5"
+      },
+      {
+        "round": 4,
+        "points": "23",
+        "position": "5"
+      },
+      {
+        "round": 5,
+        "points": "35",
+        "position": "5"
+      },
+      {
+        "round": 6,
+        "points": "50",
+        "position": "5"
+      },
+      {
+        "round": 7,
+        "points": "57",
+        "position": "5"
+      },
+      {
+        "round": 8,
+        "points": "57",
+        "position": "5"
+      },
+      {
+        "round": 9,
+        "points": "60",
+        "position": "5"
+      },
+      {
+        "round": 10,
+        "points": "61",
+        "position": "5"
       },
       {
         "round": 11,
@@ -434,6 +434,68 @@
     ]
   },
   {
+    "constructor_id": "audi",
+    "name": "Audi",
+    "color": "#09eb24",
+    "progression": [
+      {
+        "round": 1,
+        "points": "2",
+        "position": "7"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "8"
+      },
+      {
+        "round": 3,
+        "points": "2",
+        "position": "8"
+      },
+      {
+        "round": 4,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 5,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 6,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 7,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 8,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "9"
+      },
+      {
+        "round": 10,
+        "points": "10",
+        "position": "9"
+      },
+      {
+        "round": 11,
+        "points": "12",
+        "position": "8"
+      }
+    ]
+  },
+  {
     "constructor_id": "williams",
     "name": "Williams",
     "color": "#46b1eb",
@@ -491,68 +553,6 @@
       {
         "round": 11,
         "points": "11",
-        "position": "8"
-      }
-    ]
-  },
-  {
-    "constructor_id": "audi",
-    "name": "Audi",
-    "color": "#09eb24",
-    "progression": [
-      {
-        "round": 1,
-        "points": "2",
-        "position": "7"
-      },
-      {
-        "round": 2,
-        "points": "2",
-        "position": "8"
-      },
-      {
-        "round": 3,
-        "points": "2",
-        "position": "8"
-      },
-      {
-        "round": 4,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 5,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 6,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 7,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 8,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 9,
-        "points": "6",
-        "position": "9"
-      },
-      {
-        "round": 10,
-        "points": "10",
-        "position": "9"
-      },
-      {
-        "round": 11,
-        "points": "10",
         "position": "9"
       }
     ]

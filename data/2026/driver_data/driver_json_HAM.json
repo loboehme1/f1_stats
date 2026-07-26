@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 2,
-    "points": 159,
+    "points": 169,
     "wins": 1,
     "contender": true,
     "podiums": 5,
@@ -110,6 +110,15 @@
       "date": "2026-07-19",
       "points": 12,
       "endPos": 4,
+      "startPos": 5,
+      "status": "Finished"
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 10,
+      "endPos": 5,
       "startPos": 5,
       "status": "Finished"
     }

@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "151",
+    "points": "177",
     "wins": "0",
-    "podiums": 3,
+    "podiums": 4,
     "dnf_count": 5,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
-        "position": 7,
-        "points": 91,
+        "position": 6,
+        "points": 109,
         "wins": 0,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -35,7 +35,7 @@
       "number": "6",
       "standings": {
         "position": 8,
-        "points": 60,
+        "points": 68,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -102,6 +102,12 @@
       "raceName": "Belgian Grand Prix",
       "date": "2026-07-19",
       "points": 23
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 26
     }
   ]
 }

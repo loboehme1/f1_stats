@@ -14,7 +14,7 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 18,
+    "position": 19,
     "points": 1,
     "wins": 0,
     "contender": true,
@@ -111,6 +111,15 @@
       "points": 0,
       "endPos": 19,
       "startPos": 22,
+      "status": "Finished"
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 0,
+      "endPos": 14,
+      "startPos": 16,
       "status": "Finished"
     }
   ]

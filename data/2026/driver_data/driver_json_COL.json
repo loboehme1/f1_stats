@@ -112,6 +112,15 @@
       "endPos": 10,
       "startPos": 11,
       "status": "Finished"
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 0,
+      "endPos": 15,
+      "startPos": 13,
+      "status": "Finished"
     }
   ]
 }

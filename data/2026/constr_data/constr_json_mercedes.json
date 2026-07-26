@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "358",
+    "points": "379",
     "wins": "8",
-    "podiums": 13,
+    "podiums": 14,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 204,
+        "points": 219,
         "wins": 6,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -35,7 +35,7 @@
       "number": "63",
       "standings": {
         "position": 3,
-        "points": 154,
+        "points": 160,
         "wins": 2,
         "contender": true,
         "podiums": 1
@@ -102,6 +102,12 @@
       "raceName": "Belgian Grand Prix",
       "date": "2026-07-19",
       "points": 25
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 21
     }
   ]
 }

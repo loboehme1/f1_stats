@@ -10,32 +10,32 @@
   },
   "standings": {
     "position": "3",
-    "points": "195",
-    "wins": "0",
-    "podiums": 4,
-    "dnf_count": 5,
+    "points": "220",
+    "wins": "1",
+    "podiums": 5,
+    "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "PIA",
-      "name": "Oscar Piastri",
-      "number": "81",
-      "standings": {
-        "position": 6,
-        "points": 92,
-        "wins": 0,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "NOR",
       "name": "Lando Norris",
       "number": "1",
       "standings": {
         "position": 5,
-        "points": 103,
+        "points": 128,
+        "wins": 1,
+        "contender": true,
+        "podiums": 1
+      }
+    },
+    {
+      "driver_id": "PIA",
+      "name": "Oscar Piastri",
+      "number": "81",
+      "standings": {
+        "position": 7,
+        "points": 92,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -102,6 +102,12 @@
       "raceName": "Belgian Grand Prix",
       "date": "2026-07-19",
       "points": 16
+    },
+    {
+      "round": "11",
+      "raceName": "Hungarian Grand Prix",
+      "date": "2026-07-26",
+      "points": 25
     }
   ]
 }
