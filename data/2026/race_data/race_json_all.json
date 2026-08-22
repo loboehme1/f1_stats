@@ -185,5 +185,16 @@
       "time": "1:14.210"
     },
     "sprint": true
+  },
+  {
+    "circuit_id": "zandvoort",
+    "round": "12",
+    "race_name": "Dutch Grand Prix",
+    "circuit_name": "Circuit Park Zandvoort",
+    "country": "Netherlands",
+    "city": "Zandvoort",
+    "date": "2026-08-23",
+    "time": "13:00:00Z",
+    "sprint": true
   }
 ]
