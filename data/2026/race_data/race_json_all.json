@@ -191,10 +191,12 @@
     "round": "12",
     "race_name": "Dutch Grand Prix",
     "circuit_name": "Circuit Park Zandvoort",
+    "laps": null,
     "country": "Netherlands",
     "city": "Zandvoort",
     "date": "2026-08-23",
     "time": "13:00:00Z",
+    "fastest_lap": null,
     "sprint": true
   }
 ]
