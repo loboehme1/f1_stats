@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "220",
-    "wins": "1",
-    "podiums": 5,
+    "points": "263",
+    "wins": "2",
+    "podiums": 6,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Lando Norris",
       "number": "1",
       "standings": {
-        "position": 5,
-        "points": 128,
-        "wins": 1,
+        "position": 4,
+        "points": 159,
+        "wins": 2,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -35,7 +35,7 @@
       "number": "81",
       "standings": {
         "position": 7,
-        "points": 92,
+        "points": 104,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -108,6 +108,12 @@
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
       "points": 25
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 33
     }
   ]
 }

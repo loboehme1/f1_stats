@@ -2,7 +2,7 @@
   "driver_id": "LAW",
   "original_driver_id": "lawson",
   "name": "Liam Lawson",
-  "team": "Racing Bulls",
+  "team": "Red Bull",
   "number": 30,
   "nationality": "New Zealander",
   "date_of_birth": "2002-02-11",
@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 9,
-    "points": 43,
+    "points": 49,
     "wins": 0,
     "contender": true,
     "podiums": 0,
@@ -120,6 +120,15 @@
       "points": 4,
       "endPos": 8,
       "startPos": 11,
+      "status": "Finished"
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 6,
+      "endPos": "7",
+      "startPos": null,
       "status": "Finished"
     }
   ]

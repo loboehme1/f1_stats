@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 1,
-    "points": 219,
+    "points": 242,
     "wins": 6,
     "contender": true,
-    "podiums": 9,
+    "podiums": 10,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -120,6 +120,15 @@
       "points": 15,
       "endPos": 3,
       "startPos": 7,
+      "status": "Finished"
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 18,
+      "endPos": "2",
+      "startPos": null,
       "status": "Finished"
     }
   ]

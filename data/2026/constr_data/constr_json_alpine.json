@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "6",
-    "points": "61",
+    "points": "63",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 1,
@@ -23,7 +23,7 @@
       "number": "10",
       "standings": {
         "position": 10,
-        "points": 42,
+        "points": 44,
         "wins": 0,
         "contender": true,
         "podiums": 0
@@ -108,6 +108,12 @@
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
       "points": 0
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 1
     }
   ]
 }

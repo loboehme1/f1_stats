@@ -13,7 +13,7 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 9,
+    "dnf_count": 10,
     "disq_count": 0
   },
   "drivers": [
@@ -22,7 +22,7 @@
       "name": "Sergio Pérez",
       "number": "11",
       "standings": {
-        "position": 22,
+        "position": 23,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -34,7 +34,7 @@
       "name": "Valtteri Bottas",
       "number": "77",
       "standings": {
-        "position": 21,
+        "position": 22,
         "points": 0,
         "wins": 0,
         "contender": true,
@@ -107,6 +107,12 @@
       "round": "11",
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
+      "points": 0
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
       "points": 0
     }
   ]

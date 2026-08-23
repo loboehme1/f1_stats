@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": true,
     "podiums": 0,
-    "dnf_count": 3,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "results": [
@@ -121,6 +121,15 @@
       "endPos": 19,
       "startPos": 17,
       "status": "Finished"
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 0,
+      "endPos": "21",
+      "startPos": null,
+      "status": "Retired"
     }
   ]
 }

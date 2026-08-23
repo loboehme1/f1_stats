@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 20,
+    "position": 21,
     "points": 0,
     "wins": 0,
     "contender": true,
     "podiums": 0,
-    "dnf_count": 6,
+    "dnf_count": 7,
     "disq_count": 0
   },
   "results": [
@@ -121,6 +121,15 @@
       "endPos": 13,
       "startPos": 20,
       "status": "Finished"
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 0,
+      "endPos": "20",
+      "startPos": null,
+      "status": "Retired"
     }
   ]
 }

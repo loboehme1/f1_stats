@@ -10,20 +10,32 @@
   },
   "standings": {
     "position": "4",
-    "points": "177",
+    "points": "186",
     "wins": "0",
     "podiums": 4,
-    "dnf_count": 5,
+    "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "LAW",
+      "name": "Liam Lawson",
+      "number": "30",
+      "standings": {
+        "position": 9,
+        "points": 49,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
     {
       "driver_id": "VER",
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
         "position": 6,
-        "points": 109,
+        "points": 112,
         "wins": 0,
         "contender": true,
         "podiums": 2
@@ -108,6 +120,12 @@
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
       "points": 26
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 6
     }
   ]
 }

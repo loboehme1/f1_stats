@@ -13,7 +13,7 @@
     "points": "21",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 3,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "drivers": [
@@ -22,7 +22,7 @@
       "name": "Esteban Ocon",
       "number": "31",
       "standings": {
-        "position": 17,
+        "position": 18,
         "points": 3,
         "wins": 0,
         "contender": true,
@@ -107,6 +107,12 @@
       "round": "11",
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
+      "points": 0
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
       "points": 0
     }
   ]

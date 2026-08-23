@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "379",
+    "points": "425",
     "wins": "8",
-    "podiums": 14,
+    "podiums": 16,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 219,
+        "points": 242,
         "wins": 6,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -34,11 +34,11 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "position": 3,
-        "points": 160,
+        "position": 2,
+        "points": 183,
         "wins": 2,
         "contender": true,
-        "podiums": 0
+        "podiums": 1
       }
     }
   ],
@@ -108,6 +108,12 @@
       "raceName": "Hungarian Grand Prix",
       "date": "2026-07-26",
       "points": 21
+    },
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 33
     }
   ]
 }

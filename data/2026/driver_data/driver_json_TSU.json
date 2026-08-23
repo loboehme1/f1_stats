@@ -1,0 +1,36 @@
+{
+  "driver_id": "TSU",
+  "original_driver_id": "tsunoda",
+  "name": "Yuki Tsunoda",
+  "team": "Racing Bulls",
+  "number": 22,
+  "nationality": "Japanese",
+  "date_of_birth": "2000-05-11",
+  "assets": {
+    "profile_photo": "link1"
+  },
+  "colors": {
+    "primary": "#FFFFFF",
+    "secondary": "#B6BABD"
+  },
+  "standings": {
+    "position": 20,
+    "points": 0,
+    "wins": 0,
+    "contender": true,
+    "podiums": 0,
+    "dnf_count": 0,
+    "disq_count": 0
+  },
+  "results": [
+    {
+      "round": "12",
+      "raceName": "Dutch Grand Prix",
+      "date": "2026-08-23",
+      "points": 0,
+      "endPos": "11",
+      "startPos": null,
+      "status": "Finished"
+    }
+  ]
+}
