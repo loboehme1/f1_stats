@@ -196,7 +196,11 @@
     "city": "Zandvoort",
     "date": "2026-08-23",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:14.230"
+    },
     "sprint": true
   }
 ]

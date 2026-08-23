@@ -127,8 +127,8 @@
       "raceName": "Dutch Grand Prix",
       "date": "2026-08-23",
       "points": 8,
-      "endPos": "6",
-      "startPos": null,
+      "endPos": 6,
+      "startPos": 4,
       "status": "Finished"
     }
   ]
