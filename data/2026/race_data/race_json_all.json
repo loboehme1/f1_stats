@@ -89,10 +89,12 @@
     "round": "13",
     "race_name": "Italian Grand Prix",
     "circuit_name": "Autodromo Nazionale di Monza",
+    "laps": null,
     "country": "Italy",
     "city": "Monza",
     "date": "2026-09-06",
     "time": "13:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
