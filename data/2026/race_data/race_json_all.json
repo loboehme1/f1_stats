@@ -85,6 +85,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "monza",
+    "round": "13",
+    "race_name": "Italian Grand Prix",
+    "circuit_name": "Autodromo Nazionale di Monza",
+    "country": "Italy",
+    "city": "Monza",
+    "date": "2026-09-06",
+    "time": "13:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "red_bull_ring",
     "round": "8",
     "race_name": "Austrian Grand Prix",
