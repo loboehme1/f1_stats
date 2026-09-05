@@ -22,6 +22,10 @@
       "name": "Lewis Hamilton",
       "number": "44",
       "standings": {
+        "position": 3,
+        "points": 183,
+        "wins": 1,
+        "contender": true,
         "podiums": 0
       }
     },
@@ -30,7 +34,11 @@
       "name": "Charles Leclerc",
       "number": "16",
       "standings": {
-        "podiums": 1
+        "position": 5,
+        "points": 155,
+        "wins": 1,
+        "contender": true,
+        "podiums": 0
       }
     }
   ],
