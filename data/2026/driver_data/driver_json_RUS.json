@@ -136,8 +136,8 @@
       "raceName": "Italian Grand Prix",
       "date": "2026-09-06",
       "points": 18,
-      "endPos": "2",
-      "startPos": null,
+      "endPos": 2,
+      "startPos": 2,
       "status": "Finished"
     }
   ]

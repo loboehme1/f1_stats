@@ -94,7 +94,11 @@
     "city": "Monza",
     "date": "2026-09-06",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:23.504"
+    },
     "sprint": false
   },
   {
