@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "425",
-    "wins": "8",
-    "podiums": 16,
+    "points": "468",
+    "wins": "9",
+    "podiums": 18,
     "dnf_count": 3,
     "disq_count": 0
   },
@@ -22,7 +22,11 @@
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
-        "podiums": 2
+        "position": 1,
+        "points": 267,
+        "wins": 7,
+        "contender": true,
+        "podiums": 3
       }
     },
     {
@@ -30,7 +34,11 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "podiums": 1
+        "position": 2,
+        "points": 201,
+        "wins": 2,
+        "contender": true,
+        "podiums": 2
       }
     }
   ],
@@ -106,6 +114,12 @@
       "raceName": "Dutch Grand Prix",
       "date": "2026-08-23",
       "points": 33
+    },
+    {
+      "round": "13",
+      "raceName": "Italian Grand Prix",
+      "date": "2026-09-06",
+      "points": 43
     }
   ]
 }

@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "66",
+    "points": "75",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 2,
@@ -18,18 +18,26 @@
   },
   "drivers": [
     {
-      "driver_id": "TSU",
-      "name": "Yuki Tsunoda",
-      "number": "22",
-      "standings": {
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "LIN",
       "name": "Arvid Lindblad",
       "number": "41",
       "standings": {
+        "position": 11,
+        "points": 29,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "TSU",
+      "name": "Yuki Tsunoda",
+      "number": "22",
+      "standings": {
+        "position": 20,
+        "points": 1,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -106,6 +114,12 @@
       "raceName": "Dutch Grand Prix",
       "date": "2026-08-23",
       "points": 0
+    },
+    {
+      "round": "13",
+      "raceName": "Italian Grand Prix",
+      "date": "2026-09-06",
+      "points": 5
     }
   ]
 }

@@ -18,18 +18,26 @@
   },
   "drivers": [
     {
-      "driver_id": "HUL",
-      "name": "Nico Hülkenberg",
-      "number": "27",
-      "standings": {
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "BOR",
       "name": "Gabriel Bortoleto",
       "number": "5",
       "standings": {
+        "position": 14,
+        "points": 10,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "HUL",
+      "name": "Nico Hülkenberg",
+      "number": "27",
+      "standings": {
+        "position": 15,
+        "points": 6,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -106,6 +114,12 @@
       "raceName": "Dutch Grand Prix",
       "date": "2026-08-23",
       "points": 4
+    },
+    {
+      "round": "13",
+      "raceName": "Italian Grand Prix",
+      "date": "2026-09-06",
+      "points": 0
     }
   ]
 }

@@ -14,6 +14,10 @@
     "secondary": "#B6BABD"
   },
   "standings": {
+    "position": 17,
+    "points": 5,
+    "wins": 0,
+    "contender": false,
     "podiums": 0,
     "dnf_count": 4,
     "disq_count": 0
@@ -126,6 +130,15 @@
       "endPos": 17,
       "startPos": 16,
       "status": "Retired"
+    },
+    {
+      "round": "13",
+      "raceName": "Italian Grand Prix",
+      "date": "2026-09-06",
+      "points": 0,
+      "endPos": "17",
+      "startPos": null,
+      "status": "Finished"
     }
   ]
 }
