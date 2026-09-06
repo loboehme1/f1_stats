@@ -22,10 +22,6 @@
       "name": "Yuki Tsunoda",
       "number": "22",
       "standings": {
-        "position": 20,
-        "points": 0,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     },
@@ -34,10 +30,6 @@
       "name": "Arvid Lindblad",
       "number": "41",
       "standings": {
-        "position": 11,
-        "points": 23,
-        "wins": 0,
-        "contender": true,
         "podiums": 0
       }
     }
