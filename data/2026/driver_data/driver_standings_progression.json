@@ -54,6 +54,21 @@
         "round": 11,
         "points": "219",
         "position": "1"
+      },
+      {
+        "round": 12,
+        "points": "242",
+        "position": "1"
+      },
+      {
+        "round": 13,
+        "points": "267",
+        "position": "1"
+      },
+      {
+        "round": 14,
+        "points": "267",
+        "position": "1"
       }
     ]
   },
@@ -112,6 +127,21 @@
         "round": 11,
         "points": "160",
         "position": "3"
+      },
+      {
+        "round": 12,
+        "points": "183",
+        "position": "2"
+      },
+      {
+        "round": 13,
+        "points": "201",
+        "position": "2"
+      },
+      {
+        "round": 14,
+        "points": "201",
+        "position": "2"
       }
     ]
   },
@@ -169,6 +199,21 @@
       {
         "round": 11,
         "points": "109",
+        "position": "6"
+      },
+      {
+        "round": 12,
+        "points": "112",
+        "position": "6"
+      },
+      {
+        "round": 13,
+        "points": "127",
+        "position": "6"
+      },
+      {
+        "round": 14,
+        "points": "127",
         "position": "6"
       }
     ]
@@ -228,6 +273,21 @@
         "round": 11,
         "points": "128",
         "position": "5"
+      },
+      {
+        "round": 12,
+        "points": "159",
+        "position": "4"
+      },
+      {
+        "round": 13,
+        "points": "171",
+        "position": "4"
+      },
+      {
+        "round": 14,
+        "points": "171",
+        "position": "4"
       }
     ]
   },
@@ -285,6 +345,21 @@
       {
         "round": 11,
         "points": "94",
+        "position": "7"
+      },
+      {
+        "round": 12,
+        "points": "106",
+        "position": "7"
+      },
+      {
+        "round": 13,
+        "points": "116",
+        "position": "7"
+      },
+      {
+        "round": 14,
+        "points": "116",
         "position": "7"
       }
     ]
@@ -344,6 +419,21 @@
         "round": 11,
         "points": "169",
         "position": "2"
+      },
+      {
+        "round": 12,
+        "points": "183",
+        "position": "3"
+      },
+      {
+        "round": 13,
+        "points": "191",
+        "position": "3"
+      },
+      {
+        "round": 14,
+        "points": "191",
+        "position": "3"
       }
     ]
   },
@@ -401,6 +491,21 @@
       {
         "round": 11,
         "points": "33",
+        "position": "10"
+      },
+      {
+        "round": 12,
+        "points": "35",
+        "position": "10"
+      },
+      {
+        "round": 13,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 14,
+        "points": "41",
         "position": "10"
       }
     ]
@@ -460,6 +565,21 @@
         "round": 11,
         "points": "25",
         "position": "11"
+      },
+      {
+        "round": 12,
+        "points": "25",
+        "position": "11"
+      },
+      {
+        "round": 13,
+        "points": "29",
+        "position": "11"
+      },
+      {
+        "round": 14,
+        "points": "29",
+        "position": "11"
       }
     ]
   },
@@ -518,6 +638,21 @@
         "round": 11,
         "points": "19",
         "position": "12"
+      },
+      {
+        "round": 12,
+        "points": "19",
+        "position": "12"
+      },
+      {
+        "round": 13,
+        "points": "21",
+        "position": "12"
+      },
+      {
+        "round": 14,
+        "points": "21",
+        "position": "12"
       }
     ]
   },
@@ -526,7 +661,23 @@
     "code": "TSU",
     "name": "Yuki Tsunoda",
     "color": "#FFFFFF",
-    "progression": []
+    "progression": [
+      {
+        "round": 12,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 13,
+        "points": "1",
+        "position": "20"
+      },
+      {
+        "round": 14,
+        "points": "1",
+        "position": "20"
+      }
+    ]
   },
   {
     "driver_id": "BOR",
@@ -581,6 +732,21 @@
       },
       {
         "round": 11,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 12,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 13,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 14,
         "points": "10",
         "position": "14"
       }
@@ -641,6 +807,21 @@
         "round": 11,
         "points": "2",
         "position": "18"
+      },
+      {
+        "round": 12,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 13,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 14,
+        "points": "6",
+        "position": "15"
       }
     ]
   },
@@ -699,6 +880,21 @@
         "round": 11,
         "points": "6",
         "position": "15"
+      },
+      {
+        "round": 12,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 13,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 14,
+        "points": "6",
+        "position": "16"
       }
     ]
   },
@@ -757,6 +953,21 @@
         "round": 11,
         "points": "45",
         "position": "9"
+      },
+      {
+        "round": 12,
+        "points": "51",
+        "position": "9"
+      },
+      {
+        "round": 13,
+        "points": "51",
+        "position": "9"
+      },
+      {
+        "round": 14,
+        "points": "51",
+        "position": "9"
       }
     ]
   },
@@ -813,6 +1024,21 @@
       },
       {
         "round": 11,
+        "points": "18",
+        "position": "13"
+      },
+      {
+        "round": 12,
+        "points": "18",
+        "position": "13"
+      },
+      {
+        "round": 13,
+        "points": "18",
+        "position": "13"
+      },
+      {
+        "round": 14,
         "points": "18",
         "position": "13"
       }
@@ -873,6 +1099,21 @@
         "round": 11,
         "points": "3",
         "position": "17"
+      },
+      {
+        "round": 12,
+        "points": "3",
+        "position": "18"
+      },
+      {
+        "round": 13,
+        "points": "3",
+        "position": "18"
+      },
+      {
+        "round": 14,
+        "points": "3",
+        "position": "18"
       }
     ]
   },
@@ -931,6 +1172,21 @@
         "round": 11,
         "points": "5",
         "position": "16"
+      },
+      {
+        "round": 12,
+        "points": "5",
+        "position": "17"
+      },
+      {
+        "round": 13,
+        "points": "5",
+        "position": "17"
+      },
+      {
+        "round": 14,
+        "points": "5",
+        "position": "17"
       }
     ]
   },
@@ -989,6 +1245,21 @@
         "round": 11,
         "points": "0",
         "position": "22"
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 13,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "23"
       }
     ]
   },
@@ -1047,6 +1318,21 @@
         "round": 11,
         "points": "0",
         "position": "21"
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "22"
+      },
+      {
+        "round": 13,
+        "points": "0",
+        "position": "22"
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "22"
       }
     ]
   },
@@ -1105,6 +1391,21 @@
         "round": 11,
         "points": "0",
         "position": "20"
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 13,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "21"
       }
     ]
   },
@@ -1162,6 +1463,21 @@
       {
         "round": 11,
         "points": "1",
+        "position": "19"
+      },
+      {
+        "round": 12,
+        "points": "3",
+        "position": "19"
+      },
+      {
+        "round": 13,
+        "points": "3",
+        "position": "19"
+      },
+      {
+        "round": 14,
+        "points": "3",
         "position": "19"
       }
     ]
@@ -1221,6 +1537,44 @@
         "round": 11,
         "points": "138",
         "position": "4"
+      },
+      {
+        "round": 12,
+        "points": "155",
+        "position": "5"
+      },
+      {
+        "round": 13,
+        "points": "155",
+        "position": "5"
+      },
+      {
+        "round": 14,
+        "points": "155",
+        "position": "5"
+      }
+    ]
+  },
+  {
+    "driver_id": "HAD",
+    "code": "HAD",
+    "name": "Isack Hadjar",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 12,
+        "points": "71",
+        "position": "8"
+      },
+      {
+        "round": 13,
+        "points": "71",
+        "position": "8"
+      },
+      {
+        "round": 14,
+        "points": "71",
+        "position": "8"
       }
     ]
   }
