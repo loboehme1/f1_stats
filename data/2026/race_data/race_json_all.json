@@ -55,12 +55,16 @@
     "round": "14",
     "race_name": "Spanish Grand Prix",
     "circuit_name": "Madring",
-    "laps": null,
+    "laps": "57",
     "country": "Spain",
     "city": "Madrid",
     "date": "2026-09-13",
     "time": "13:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "RUS",
+      "rank": "1",
+      "time": "1:35.587"
+    },
     "sprint": false
   },
   {

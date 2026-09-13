@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "8",
-    "points": "16",
+    "points": "17",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 5,
@@ -18,18 +18,26 @@
   },
   "drivers": [
     {
-      "driver_id": "BOR",
-      "name": "Gabriel Bortoleto",
-      "number": "5",
-      "standings": {
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "HUL",
       "name": "Nico Hülkenberg",
       "number": "27",
       "standings": {
+        "position": 15,
+        "points": 7,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "BOR",
+      "name": "Gabriel Bortoleto",
+      "number": "5",
+      "standings": {
+        "position": 14,
+        "points": 10,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -112,6 +120,12 @@
       "raceName": "Italian Grand Prix",
       "date": "2026-09-06",
       "points": 0
+    },
+    {
+      "round": "14",
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
+      "points": 1
     }
   ]
 }

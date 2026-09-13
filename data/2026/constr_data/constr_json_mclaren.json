@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "287",
+    "points": "306",
     "wins": "2",
-    "podiums": 6,
+    "podiums": 7,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -22,7 +22,11 @@
       "name": "Lando Norris",
       "number": "1",
       "standings": {
-        "podiums": 1
+        "position": 4,
+        "points": 186,
+        "wins": 2,
+        "contender": true,
+        "podiums": 2
       }
     },
     {
@@ -30,6 +34,10 @@
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
+        "position": 7,
+        "points": 120,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
@@ -112,6 +120,12 @@
       "raceName": "Italian Grand Prix",
       "date": "2026-09-06",
       "points": 22
+    },
+    {
+      "round": "14",
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
+      "points": 19
     }
   ]
 }

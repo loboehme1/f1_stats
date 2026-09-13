@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "204",
+    "points": "230",
     "wins": "0",
-    "podiums": 5,
+    "podiums": 6,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -22,7 +22,11 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
-        "podiums": 1
+        "position": 6,
+        "points": 145,
+        "wins": 0,
+        "contender": true,
+        "podiums": 2
       }
     },
     {
@@ -30,6 +34,22 @@
       "name": "Liam Lawson",
       "number": "30",
       "standings": {
+        "position": 9,
+        "points": 59,
+        "wins": 0,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "HAD",
+      "name": "Isack Hadjar",
+      "number": "6",
+      "standings": {
+        "position": 8,
+        "points": 71,
+        "wins": 0,
+        "contender": true,
         "podiums": 0
       }
     }
@@ -112,6 +132,12 @@
       "raceName": "Italian Grand Prix",
       "date": "2026-09-06",
       "points": 15
+    },
+    {
+      "round": "14",
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
+      "points": 26
     }
   ]
 }

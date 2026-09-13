@@ -13,23 +13,31 @@
     "points": "3",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 13,
+    "dnf_count": 14,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "STR",
-      "name": "Lance Stroll",
-      "number": "18",
-      "standings": {
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "ALO",
       "name": "Fernando Alonso",
       "number": "14",
       "standings": {
+        "position": 19,
+        "points": 3,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "STR",
+      "name": "Lance Stroll",
+      "number": "18",
+      "standings": {
+        "position": 21,
+        "points": 0,
+        "wins": 0,
+        "contender": false,
         "podiums": 0
       }
     }
@@ -111,6 +119,12 @@
       "round": "13",
       "raceName": "Italian Grand Prix",
       "date": "2026-09-06",
+      "points": 0
+    },
+    {
+      "round": "14",
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
       "points": 0
     }
   ]

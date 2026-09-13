@@ -14,7 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "podiums": 5,
+    "position": 6,
+    "points": 145,
+    "wins": 0,
+    "contender": true,
+    "podiums": 6,
     "dnf_count": 4,
     "disq_count": 0
   },
@@ -134,6 +138,15 @@
       "points": 15,
       "endPos": 3,
       "startPos": 5,
+      "status": "Finished"
+    },
+    {
+      "round": "14",
+      "raceName": "Spanish Grand Prix",
+      "date": "2026-09-13",
+      "points": 18,
+      "endPos": 2,
+      "startPos": 3,
       "status": "Finished"
     }
   ]
