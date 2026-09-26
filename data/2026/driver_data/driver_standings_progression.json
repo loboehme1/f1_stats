@@ -1334,5 +1334,12 @@
         "position": "3"
       }
     ]
+  },
+  {
+    "driver_id": "HAD",
+    "code": "HAD",
+    "name": "Isack Hadjar",
+    "color": "#00008b",
+    "progression": []
   }
 ]
