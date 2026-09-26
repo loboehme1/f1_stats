@@ -881,84 +881,6 @@
     ]
   },
   {
-    "driver_id": "BOR",
-    "code": "BOR",
-    "name": "Gabriel Bortoleto",
-    "color": "#09eb24",
-    "progression": [
-      {
-        "round": 1,
-        "points": "2",
-        "position": "9"
-      },
-      {
-        "round": 2,
-        "points": "2",
-        "position": "14"
-      },
-      {
-        "round": 3,
-        "points": "2",
-        "position": "13"
-      },
-      {
-        "round": 4,
-        "points": "2",
-        "position": "15"
-      },
-      {
-        "round": 5,
-        "points": "2",
-        "position": "15"
-      },
-      {
-        "round": 6,
-        "points": "2",
-        "position": "17"
-      },
-      {
-        "round": 7,
-        "points": "2",
-        "position": "17"
-      },
-      {
-        "round": 8,
-        "points": "2",
-        "position": "17"
-      },
-      {
-        "round": 9,
-        "points": "6",
-        "position": "14"
-      },
-      {
-        "round": 11,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 12,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 13,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 14,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 15,
-        "points": "10",
-        "position": "14"
-      }
-    ]
-  },
-  {
     "driver_id": "PIA",
     "code": "PIA",
     "name": "Oscar Piastri",
@@ -1111,6 +1033,84 @@
         "round": 15,
         "points": "0",
         "position": "23"
+      }
+    ]
+  },
+  {
+    "driver_id": "BOR",
+    "code": "BOR",
+    "name": "Gabriel Bortoleto",
+    "color": "#09eb24",
+    "progression": [
+      {
+        "round": 1,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "14"
+      },
+      {
+        "round": 3,
+        "points": "2",
+        "position": "13"
+      },
+      {
+        "round": 4,
+        "points": "2",
+        "position": "15"
+      },
+      {
+        "round": 5,
+        "points": "2",
+        "position": "15"
+      },
+      {
+        "round": 6,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 7,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 8,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 11,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 12,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 13,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 14,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 15,
+        "points": "10",
+        "position": "14"
       }
     ]
   },

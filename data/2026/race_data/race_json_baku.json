@@ -8,17 +8,135 @@
   "city": "Baku",
   "date": "2026-09-26",
   "time": "11:00:00Z",
-  "fastest_lap": null,
+  "fastest_lap": {
+    "driver_id": "RUS",
+    "rank": "1",
+    "time": "1:44.916"
+  },
   "sprint": false,
-  "fastest_laps": [],
+  "fastest_laps": [
+    {
+      "driver_id": "RUS",
+      "rank": "1",
+      "time": "1:44.916"
+    },
+    {
+      "driver_id": "VER",
+      "rank": "2",
+      "time": "1:44.993"
+    },
+    {
+      "driver_id": "HAD",
+      "rank": "4",
+      "time": "1:45.618"
+    },
+    {
+      "driver_id": "LEC",
+      "rank": "5",
+      "time": "1:45.784"
+    },
+    {
+      "driver_id": "ANT",
+      "rank": "3",
+      "time": "1:45.413"
+    },
+    {
+      "driver_id": "HAM",
+      "rank": "6",
+      "time": "1:46.170"
+    },
+    {
+      "driver_id": "LIN",
+      "rank": "10",
+      "time": "1:46.849"
+    },
+    {
+      "driver_id": "OCO",
+      "rank": "14",
+      "time": "1:47.068"
+    },
+    {
+      "driver_id": "BEA",
+      "rank": "13",
+      "time": "1:46.978"
+    },
+    {
+      "driver_id": "SAI",
+      "rank": "9",
+      "time": "1:46.737"
+    },
+    {
+      "driver_id": "HUL",
+      "rank": "11",
+      "time": "1:46.850"
+    },
+    {
+      "driver_id": "LAW",
+      "rank": "12",
+      "time": "1:46.906"
+    },
+    {
+      "driver_id": "PIA",
+      "rank": "8",
+      "time": "1:46.602"
+    },
+    {
+      "driver_id": "PER",
+      "rank": "15",
+      "time": "1:47.363"
+    },
+    {
+      "driver_id": "BOR",
+      "rank": "7",
+      "time": "1:46.336"
+    },
+    {
+      "driver_id": "BOT",
+      "rank": "20",
+      "time": "1:48.852"
+    },
+    {
+      "driver_id": "COL",
+      "rank": "19",
+      "time": "1:48.484"
+    },
+    {
+      "driver_id": "GAS",
+      "rank": "17",
+      "time": "1:47.822"
+    },
+    {
+      "driver_id": "NOR",
+      "rank": "16",
+      "time": "1:47.761"
+    },
+    {
+      "driver_id": "ALB",
+      "rank": "18",
+      "time": "1:48.443"
+    },
+    {
+      "driver_id": "ALO",
+      "rank": "21",
+      "time": "1:50.968"
+    },
+    {
+      "driver_id": "STR",
+      "rank": "22",
+      "time": "1:51.723"
+    }
+  ],
   "race_results": [
     {
       "points": 25,
       "end_pos": "1",
-      "start_pos": null,
+      "start_pos": "1",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "1",
+        "time": "1:44.916"
+      },
       "driver": {
         "driver_id": "RUS",
         "name": "George Russell",
@@ -35,10 +153,13 @@
     {
       "points": 18,
       "end_pos": "2",
-      "start_pos": null,
+      "start_pos": "8",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "2",
+        "time": "1:44.993"
+      },
       "driver": {
         "driver_id": "VER",
         "name": "Max Verstappen",
@@ -55,10 +176,13 @@
     {
       "points": 15,
       "end_pos": "3",
-      "start_pos": null,
+      "start_pos": "4",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "4",
+        "time": "1:45.618"
+      },
       "driver": {
         "driver_id": "HAD",
         "name": "Isack Hadjar",
@@ -75,10 +199,13 @@
     {
       "points": 12,
       "end_pos": "4",
-      "start_pos": null,
+      "start_pos": "2",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "5",
+        "time": "1:45.784"
+      },
       "driver": {
         "driver_id": "LEC",
         "name": "Charles Leclerc",
@@ -95,10 +222,13 @@
     {
       "points": 10,
       "end_pos": "5",
-      "start_pos": null,
+      "start_pos": "16",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "3",
+        "time": "1:45.413"
+      },
       "driver": {
         "driver_id": "ANT",
         "name": "Kimi Antonelli",
@@ -115,10 +245,13 @@
     {
       "points": 8,
       "end_pos": "6",
-      "start_pos": null,
+      "start_pos": "6",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "6",
+        "time": "1:46.170"
+      },
       "driver": {
         "driver_id": "HAM",
         "name": "Lewis Hamilton",
@@ -135,10 +268,13 @@
     {
       "points": 6,
       "end_pos": "7",
-      "start_pos": null,
+      "start_pos": "15",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "10",
+        "time": "1:46.849"
+      },
       "driver": {
         "driver_id": "LIN",
         "name": "Arvid Lindblad",
@@ -155,10 +291,13 @@
     {
       "points": 4,
       "end_pos": "8",
-      "start_pos": null,
+      "start_pos": "13",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "14",
+        "time": "1:47.068"
+      },
       "driver": {
         "driver_id": "OCO",
         "name": "Esteban Ocon",
@@ -175,10 +314,13 @@
     {
       "points": 2,
       "end_pos": "9",
-      "start_pos": null,
+      "start_pos": "10",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "13",
+        "time": "1:46.978"
+      },
       "driver": {
         "driver_id": "BEA",
         "name": "Oliver Bearman",
@@ -195,10 +337,13 @@
     {
       "points": 1,
       "end_pos": "10",
-      "start_pos": null,
+      "start_pos": "14",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "9",
+        "time": "1:46.737"
+      },
       "driver": {
         "driver_id": "SAI",
         "name": "Carlos Sainz",
@@ -215,10 +360,13 @@
     {
       "points": 0,
       "end_pos": "11",
-      "start_pos": null,
+      "start_pos": "18",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "11",
+        "time": "1:46.850"
+      },
       "driver": {
         "driver_id": "HUL",
         "name": "Nico Hülkenberg",
@@ -235,10 +383,13 @@
     {
       "points": 0,
       "end_pos": "12",
-      "start_pos": null,
+      "start_pos": "11",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "12",
+        "time": "1:46.906"
+      },
       "driver": {
         "driver_id": "LAW",
         "name": "Liam Lawson",
@@ -255,30 +406,13 @@
     {
       "points": 0,
       "end_pos": "13",
-      "start_pos": null,
+      "start_pos": "3",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
-      "driver": {
-        "driver_id": "BOR",
-        "name": "Gabriel Bortoleto",
-        "number": "5",
-        "dob": "2004-10-14",
-        "nationality": "Brazilian"
+      "fastest_lap": {
+        "rank": "8",
+        "time": "1:46.602"
       },
-      "constr": {
-        "constr_id": "audi",
-        "name": "Audi",
-        "nationality": "German"
-      }
-    },
-    {
-      "points": 0,
-      "end_pos": "14",
-      "start_pos": null,
-      "completed_laps": "51",
-      "status": "Finished",
-      "fastest_lap": null,
       "driver": {
         "driver_id": "PIA",
         "name": "Oscar Piastri",
@@ -294,11 +428,14 @@
     },
     {
       "points": 0,
-      "end_pos": "15",
-      "start_pos": null,
+      "end_pos": "14",
+      "start_pos": "20",
       "completed_laps": "51",
       "status": "Finished",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "15",
+        "time": "1:47.363"
+      },
       "driver": {
         "driver_id": "PER",
         "name": "Sergio Pérez",
@@ -314,11 +451,37 @@
     },
     {
       "points": 0,
+      "end_pos": "15",
+      "start_pos": "17",
+      "completed_laps": "51",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "7",
+        "time": "1:46.336"
+      },
+      "driver": {
+        "driver_id": "BOR",
+        "name": "Gabriel Bortoleto",
+        "number": "5",
+        "dob": "2004-10-14",
+        "nationality": "Brazilian"
+      },
+      "constr": {
+        "constr_id": "audi",
+        "name": "Audi",
+        "nationality": "German"
+      }
+    },
+    {
+      "points": 0,
       "end_pos": "16",
-      "start_pos": null,
+      "start_pos": "19",
       "completed_laps": "49",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "20",
+        "time": "1:48.852"
+      },
       "driver": {
         "driver_id": "BOT",
         "name": "Valtteri Bottas",
@@ -335,10 +498,13 @@
     {
       "points": 0,
       "end_pos": "17",
-      "start_pos": null,
+      "start_pos": "9",
       "completed_laps": "36",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "19",
+        "time": "1:48.484"
+      },
       "driver": {
         "driver_id": "COL",
         "name": "Franco Colapinto",
@@ -355,10 +521,13 @@
     {
       "points": 0,
       "end_pos": "18",
-      "start_pos": null,
+      "start_pos": "7",
       "completed_laps": "35",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "17",
+        "time": "1:47.822"
+      },
       "driver": {
         "driver_id": "GAS",
         "name": "Pierre Gasly",
@@ -375,10 +544,13 @@
     {
       "points": 0,
       "end_pos": "19",
-      "start_pos": null,
+      "start_pos": "5",
       "completed_laps": "35",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "16",
+        "time": "1:47.761"
+      },
       "driver": {
         "driver_id": "NOR",
         "name": "Lando Norris",
@@ -395,10 +567,13 @@
     {
       "points": 0,
       "end_pos": "20",
-      "start_pos": null,
+      "start_pos": "12",
       "completed_laps": "29",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "18",
+        "time": "1:48.443"
+      },
       "driver": {
         "driver_id": "ALB",
         "name": "Alexander Albon",
@@ -415,10 +590,13 @@
     {
       "points": 0,
       "end_pos": "21",
-      "start_pos": null,
+      "start_pos": "21",
       "completed_laps": "20",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "21",
+        "time": "1:50.968"
+      },
       "driver": {
         "driver_id": "ALO",
         "name": "Fernando Alonso",
@@ -435,10 +613,13 @@
     {
       "points": 0,
       "end_pos": "22",
-      "start_pos": null,
+      "start_pos": "22",
       "completed_laps": "7",
       "status": "Retired",
-      "fastest_lap": null,
+      "fastest_lap": {
+        "rank": "22",
+        "time": "1:51.723"
+      },
       "driver": {
         "driver_id": "STR",
         "name": "Lance Stroll",

@@ -154,8 +154,8 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 0,
-      "endPos": "11",
-      "startPos": null,
+      "endPos": 11,
+      "startPos": 18,
       "status": "Finished"
     }
   ]
