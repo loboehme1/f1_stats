@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "230",
+    "points": "263",
     "wins": "0",
-    "podiums": 6,
+    "podiums": 8,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -23,22 +23,10 @@
       "number": "3",
       "standings": {
         "position": 6,
-        "points": 145,
+        "points": 163,
         "wins": 0,
         "contender": true,
-        "podiums": 2
-      }
-    },
-    {
-      "driver_id": "LAW",
-      "name": "Liam Lawson",
-      "number": "30",
-      "standings": {
-        "position": 9,
-        "points": 59,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
+        "podiums": 3
       }
     },
     {
@@ -47,10 +35,10 @@
       "number": "6",
       "standings": {
         "position": 8,
-        "points": 71,
+        "points": 86,
         "wins": 0,
         "contender": false,
-        "podiums": 0
+        "podiums": 1
       }
     }
   ],
@@ -138,6 +126,12 @@
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
       "points": 26
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 33
     }
   ]
 }

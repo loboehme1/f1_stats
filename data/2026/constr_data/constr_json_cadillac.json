@@ -13,16 +13,16 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 11,
+    "dnf_count": 12,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "BOT",
-      "name": "Valtteri Bottas",
-      "number": "77",
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
       "standings": {
-        "position": 22,
+        "position": 23,
         "points": 0,
         "wins": 0,
         "contender": false,
@@ -30,11 +30,11 @@
       }
     },
     {
-      "driver_id": "PER",
-      "name": "Sergio Pérez",
-      "number": "11",
+      "driver_id": "BOT",
+      "name": "Valtteri Bottas",
+      "number": "77",
       "standings": {
-        "position": 23,
+        "position": 22,
         "points": 0,
         "wins": 0,
         "contender": false,
@@ -125,6 +125,12 @@
       "round": "14",
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
+      "points": 0
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
       "points": 0
     }
   ]

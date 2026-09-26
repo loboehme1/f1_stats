@@ -17,6 +17,19 @@
     "sprint": false
   },
   {
+    "circuit_id": "baku",
+    "round": "15",
+    "race_name": "Azerbaijan Grand Prix",
+    "circuit_name": "Baku City Circuit",
+    "laps": "51",
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "date": "2026-09-26",
+    "time": "11:00:00Z",
+    "fastest_lap": null,
+    "sprint": false
+  },
+  {
     "circuit_id": "catalunya",
     "round": "7",
     "race_name": "Barcelona Grand Prix",

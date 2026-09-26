@@ -2,7 +2,7 @@
   "driver_id": "LAW",
   "original_driver_id": "lawson",
   "name": "Liam Lawson",
-  "team": "Red Bull",
+  "team": "Racing Bulls",
   "number": 30,
   "nationality": "New Zealander",
   "date_of_birth": "2002-02-11",
@@ -147,6 +147,15 @@
       "points": 8,
       "endPos": 6,
       "startPos": 8,
+      "status": "Finished"
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0,
+      "endPos": "12",
+      "startPos": null,
       "status": "Finished"
     }
   ]

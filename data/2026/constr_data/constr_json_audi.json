@@ -126,6 +126,12 @@
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
       "points": 1
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0
     }
   ]
 }

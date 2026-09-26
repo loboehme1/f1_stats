@@ -19,7 +19,7 @@
     "wins": 2,
     "contender": true,
     "podiums": 5,
-    "dnf_count": 3,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "results": [
@@ -148,6 +148,15 @@
       "endPos": 3,
       "startPos": 1,
       "status": "Finished"
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0,
+      "endPos": "19",
+      "startPos": null,
+      "status": "Retired"
     }
   ]
 }

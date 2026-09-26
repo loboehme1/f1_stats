@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 6,
-    "points": 145,
+    "points": 163,
     "wins": 0,
     "contender": true,
-    "podiums": 6,
+    "podiums": 7,
     "dnf_count": 4,
     "disq_count": 0
   },
@@ -147,6 +147,15 @@
       "points": 18,
       "endPos": 2,
       "startPos": 3,
+      "status": "Finished"
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 18,
+      "endPos": "2",
+      "startPos": null,
       "status": "Finished"
     }
   ]

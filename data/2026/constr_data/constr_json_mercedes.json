@@ -10,35 +10,35 @@
   },
   "standings": {
     "position": "1",
-    "points": "503",
-    "wins": "10",
-    "podiums": 19,
+    "points": "538",
+    "wins": "11",
+    "podiums": 20,
     "dnf_count": 3,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "ANT",
-      "name": "Kimi Antonelli",
-      "number": "12",
-      "standings": {
-        "position": 1,
-        "points": 292,
-        "wins": 8,
-        "contender": true,
-        "podiums": 2
-      }
-    },
     {
       "driver_id": "RUS",
       "name": "George Russell",
       "number": "63",
       "standings": {
         "position": 2,
-        "points": 211,
-        "wins": 2,
+        "points": 236,
+        "wins": 3,
         "contender": true,
-        "podiums": 1
+        "podiums": 2
+      }
+    },
+    {
+      "driver_id": "ANT",
+      "name": "Kimi Antonelli",
+      "number": "12",
+      "standings": {
+        "position": 1,
+        "points": 302,
+        "wins": 8,
+        "contender": true,
+        "podiums": 2
       }
     }
   ],
@@ -125,6 +125,12 @@
       "round": "14",
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
+      "points": 35
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
       "points": 35
     }
   ]

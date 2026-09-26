@@ -14,12 +14,12 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 17,
+    "position": 18,
     "points": 5,
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 4,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "results": [
@@ -148,6 +148,15 @@
       "endPos": 15,
       "startPos": 16,
       "status": "Finished"
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0,
+      "endPos": "20",
+      "startPos": null,
+      "status": "Retired"
     }
   ]
 }

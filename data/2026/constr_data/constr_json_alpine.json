@@ -13,7 +13,7 @@
     "points": "68",
     "wins": "0",
     "podiums": 1,
-    "dnf_count": 1,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "drivers": [
@@ -126,6 +126,12 @@
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
       "points": 6
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0
     }
   ]
 }

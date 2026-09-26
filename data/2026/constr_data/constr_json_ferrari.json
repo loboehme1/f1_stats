@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "2",
-    "points": "358",
+    "points": "378",
     "wins": "2",
     "podiums": 9,
     "dnf_count": 4,
@@ -23,7 +23,7 @@
       "number": "16",
       "standings": {
         "position": 5,
-        "points": 167,
+        "points": 179,
         "wins": 1,
         "contender": true,
         "podiums": 0
@@ -35,7 +35,7 @@
       "number": "44",
       "standings": {
         "position": 3,
-        "points": 191,
+        "points": 199,
         "wins": 1,
         "contender": true,
         "podiums": 0
@@ -126,6 +126,12 @@
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
       "points": 12
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 20
     }
   ]
 }

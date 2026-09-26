@@ -13,22 +13,10 @@
     "points": "306",
     "wins": "2",
     "podiums": 7,
-    "dnf_count": 6,
+    "dnf_count": 7,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "standings": {
-        "position": 4,
-        "points": 186,
-        "wins": 2,
-        "contender": true,
-        "podiums": 1
-      }
-    },
     {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
@@ -39,6 +27,18 @@
         "wins": 0,
         "contender": true,
         "podiums": 0
+      }
+    },
+    {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "position": 4,
+        "points": 186,
+        "wins": 2,
+        "contender": true,
+        "podiums": 1
       }
     }
   ],
@@ -126,6 +126,12 @@
       "raceName": "Spanish Grand Prix",
       "date": "2026-09-13",
       "points": 19
+    },
+    {
+      "round": "15",
+      "raceName": "Azerbaijan Grand Prix",
+      "date": "2026-09-26",
+      "points": 0
     }
   ]
 }
