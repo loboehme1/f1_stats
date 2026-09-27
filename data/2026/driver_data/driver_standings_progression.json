@@ -59,21 +59,6 @@
         "round": 12,
         "points": "183",
         "position": "2"
-      },
-      {
-        "round": 13,
-        "points": "201",
-        "position": "2"
-      },
-      {
-        "round": 14,
-        "points": "211",
-        "position": "2"
-      },
-      {
-        "round": 15,
-        "points": "236",
-        "position": "2"
       }
     ]
   },
@@ -137,21 +122,6 @@
         "round": 12,
         "points": "112",
         "position": "6"
-      },
-      {
-        "round": 13,
-        "points": "127",
-        "position": "6"
-      },
-      {
-        "round": 14,
-        "points": "145",
-        "position": "6"
-      },
-      {
-        "round": 15,
-        "points": "163",
-        "position": "6"
       }
     ]
   },
@@ -160,23 +130,7 @@
     "code": "HAD",
     "name": "Isack Hadjar",
     "color": "#00008b",
-    "progression": [
-      {
-        "round": 13,
-        "points": "71",
-        "position": "8"
-      },
-      {
-        "round": 14,
-        "points": "71",
-        "position": "8"
-      },
-      {
-        "round": 15,
-        "points": "86",
-        "position": "8"
-      }
-    ]
+    "progression": []
   },
   {
     "driver_id": "LEC",
@@ -237,21 +191,6 @@
       {
         "round": 12,
         "points": "155",
-        "position": "5"
-      },
-      {
-        "round": 13,
-        "points": "155",
-        "position": "5"
-      },
-      {
-        "round": 14,
-        "points": "167",
-        "position": "5"
-      },
-      {
-        "round": 15,
-        "points": "179",
         "position": "5"
       }
     ]
@@ -316,21 +255,6 @@
         "round": 12,
         "points": "242",
         "position": "1"
-      },
-      {
-        "round": 13,
-        "points": "267",
-        "position": "1"
-      },
-      {
-        "round": 14,
-        "points": "292",
-        "position": "1"
-      },
-      {
-        "round": 15,
-        "points": "302",
-        "position": "1"
       }
     ]
   },
@@ -393,21 +317,6 @@
       {
         "round": 12,
         "points": "183",
-        "position": "3"
-      },
-      {
-        "round": 13,
-        "points": "191",
-        "position": "3"
-      },
-      {
-        "round": 14,
-        "points": "191",
-        "position": "3"
-      },
-      {
-        "round": 15,
-        "points": "199",
         "position": "3"
       }
     ]
@@ -472,21 +381,6 @@
         "round": 12,
         "points": "25",
         "position": "11"
-      },
-      {
-        "round": 13,
-        "points": "29",
-        "position": "11"
-      },
-      {
-        "round": 14,
-        "points": "31",
-        "position": "11"
-      },
-      {
-        "round": 15,
-        "points": "37",
-        "position": "11"
       }
     ]
   },
@@ -550,21 +444,6 @@
         "round": 12,
         "points": "3",
         "position": "18"
-      },
-      {
-        "round": 13,
-        "points": "3",
-        "position": "18"
-      },
-      {
-        "round": 14,
-        "points": "3",
-        "position": "18"
-      },
-      {
-        "round": 15,
-        "points": "7",
-        "position": "16"
       }
     ]
   },
@@ -627,21 +506,6 @@
       {
         "round": 12,
         "points": "18",
-        "position": "13"
-      },
-      {
-        "round": 13,
-        "points": "18",
-        "position": "13"
-      },
-      {
-        "round": 14,
-        "points": "18",
-        "position": "13"
-      },
-      {
-        "round": 15,
-        "points": "20",
         "position": "13"
       }
     ]
@@ -706,21 +570,6 @@
         "round": 12,
         "points": "6",
         "position": "16"
-      },
-      {
-        "round": 13,
-        "points": "6",
-        "position": "16"
-      },
-      {
-        "round": 14,
-        "points": "6",
-        "position": "16"
-      },
-      {
-        "round": 15,
-        "points": "7",
-        "position": "17"
       }
     ]
   },
@@ -783,21 +632,6 @@
       {
         "round": 12,
         "points": "6",
-        "position": "15"
-      },
-      {
-        "round": 13,
-        "points": "6",
-        "position": "15"
-      },
-      {
-        "round": 14,
-        "points": "7",
-        "position": "15"
-      },
-      {
-        "round": 15,
-        "points": "7",
         "position": "15"
       }
     ]
@@ -862,21 +696,6 @@
         "round": 12,
         "points": "51",
         "position": "9"
-      },
-      {
-        "round": 13,
-        "points": "51",
-        "position": "9"
-      },
-      {
-        "round": 14,
-        "points": "59",
-        "position": "9"
-      },
-      {
-        "round": 15,
-        "points": "59",
-        "position": "9"
       }
     ]
   },
@@ -940,21 +759,6 @@
         "round": 12,
         "points": "106",
         "position": "7"
-      },
-      {
-        "round": 13,
-        "points": "116",
-        "position": "7"
-      },
-      {
-        "round": 14,
-        "points": "120",
-        "position": "7"
-      },
-      {
-        "round": 15,
-        "points": "120",
-        "position": "7"
       }
     ]
   },
@@ -1016,21 +820,6 @@
       },
       {
         "round": 12,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 13,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 14,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 15,
         "points": "0",
         "position": "23"
       }
@@ -1096,21 +885,6 @@
         "round": 12,
         "points": "10",
         "position": "14"
-      },
-      {
-        "round": 13,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 14,
-        "points": "10",
-        "position": "14"
-      },
-      {
-        "round": 15,
-        "points": "10",
-        "position": "14"
       }
     ]
   },
@@ -1172,21 +946,6 @@
       },
       {
         "round": 12,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 13,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 14,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 15,
         "points": "0",
         "position": "22"
       }
@@ -1252,21 +1011,6 @@
         "round": 12,
         "points": "19",
         "position": "12"
-      },
-      {
-        "round": 13,
-        "points": "21",
-        "position": "12"
-      },
-      {
-        "round": 14,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 15,
-        "points": "27",
-        "position": "12"
       }
     ]
   },
@@ -1329,21 +1073,6 @@
       {
         "round": 12,
         "points": "35",
-        "position": "10"
-      },
-      {
-        "round": 13,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 14,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 15,
-        "points": "41",
         "position": "10"
       }
     ]
@@ -1408,21 +1137,6 @@
         "round": 12,
         "points": "159",
         "position": "4"
-      },
-      {
-        "round": 13,
-        "points": "171",
-        "position": "4"
-      },
-      {
-        "round": 14,
-        "points": "186",
-        "position": "4"
-      },
-      {
-        "round": 15,
-        "points": "186",
-        "position": "4"
       }
     ]
   },
@@ -1486,21 +1200,6 @@
         "round": 12,
         "points": "5",
         "position": "17"
-      },
-      {
-        "round": 13,
-        "points": "5",
-        "position": "17"
-      },
-      {
-        "round": 14,
-        "points": "5",
-        "position": "17"
-      },
-      {
-        "round": 15,
-        "points": "5",
-        "position": "18"
       }
     ]
   },
@@ -1562,21 +1261,6 @@
       },
       {
         "round": 12,
-        "points": "3",
-        "position": "19"
-      },
-      {
-        "round": 13,
-        "points": "3",
-        "position": "19"
-      },
-      {
-        "round": 14,
-        "points": "3",
-        "position": "19"
-      },
-      {
-        "round": 15,
         "points": "3",
         "position": "19"
       }
@@ -1642,21 +1326,6 @@
         "round": 12,
         "points": "0",
         "position": "21"
-      },
-      {
-        "round": 13,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 14,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 15,
-        "points": "0",
-        "position": "21"
       }
     ]
   },
@@ -1669,21 +1338,6 @@
       {
         "round": 12,
         "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 13,
-        "points": "1",
-        "position": "20"
-      },
-      {
-        "round": 14,
-        "points": "1",
-        "position": "20"
-      },
-      {
-        "round": 15,
-        "points": "1",
         "position": "20"
       }
     ]
