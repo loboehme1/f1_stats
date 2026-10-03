@@ -157,10 +157,12 @@
     "round": "16",
     "race_name": "Bahrain Grand Prix in Malaysia",
     "circuit_name": "Sepang International Circuit",
+    "laps": null,
     "country": "Malaysia",
     "city": "Kuala Lumpur",
     "date": "2026-10-04",
     "time": "07:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
