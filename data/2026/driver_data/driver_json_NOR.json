@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 4,
-    "points": 186,
+    "position": 5,
+    "points": 188,
     "wins": 2,
     "contender": true,
     "podiums": 5,
@@ -157,6 +157,15 @@
       "endPos": 19,
       "startPos": 5,
       "status": "Retired"
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 5,
+      "status": "Finished"
     }
   ]
 }

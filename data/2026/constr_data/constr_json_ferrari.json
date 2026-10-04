@@ -10,32 +10,32 @@
   },
   "standings": {
     "position": "2",
-    "points": "378",
+    "points": "405",
     "wins": "2",
-    "podiums": 9,
+    "podiums": 10,
     "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "LEC",
-      "name": "Charles Leclerc",
-      "number": "16",
-      "standings": {
-        "position": 5,
-        "points": 179,
-        "wins": 1,
-        "contender": true,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "HAM",
       "name": "Lewis Hamilton",
       "number": "44",
       "standings": {
         "position": 3,
-        "points": 199,
+        "points": 214,
+        "wins": 1,
+        "contender": true,
+        "podiums": 1
+      }
+    },
+    {
+      "driver_id": "LEC",
+      "name": "Charles Leclerc",
+      "number": "16",
+      "standings": {
+        "position": 4,
+        "points": 191,
         "wins": 1,
         "contender": true,
         "podiums": 0
@@ -132,6 +132,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 20
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 27
     }
   ]
 }

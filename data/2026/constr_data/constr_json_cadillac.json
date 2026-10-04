@@ -13,7 +13,7 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 12,
+    "dnf_count": 13,
     "disq_count": 0
   },
   "drivers": [
@@ -131,6 +131,12 @@
       "round": "15",
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
+      "points": 0
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
       "points": 0
     }
   ]

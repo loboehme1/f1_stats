@@ -10,13 +10,25 @@
   },
   "standings": {
     "position": "1",
-    "points": "538",
+    "points": "556",
     "wins": "11",
-    "podiums": 20,
-    "dnf_count": 3,
+    "podiums": 21,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
+    {
+      "driver_id": "ANT",
+      "name": "Kimi Antonelli",
+      "number": "12",
+      "standings": {
+        "position": 1,
+        "points": 320,
+        "wins": 8,
+        "contender": true,
+        "podiums": 2
+      }
+    },
     {
       "driver_id": "RUS",
       "name": "George Russell",
@@ -25,18 +37,6 @@
         "position": 2,
         "points": 236,
         "wins": 3,
-        "contender": true,
-        "podiums": 1
-      }
-    },
-    {
-      "driver_id": "ANT",
-      "name": "Kimi Antonelli",
-      "number": "12",
-      "standings": {
-        "position": 1,
-        "points": 302,
-        "wins": 8,
         "contender": true,
         "podiums": 1
       }
@@ -132,6 +132,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 35
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 18
     }
   ]
 }

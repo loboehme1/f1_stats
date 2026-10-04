@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "83",
+    "points": "90",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 2,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "LIN",
-      "name": "Arvid Lindblad",
-      "number": "41",
+      "driver_id": "LAW",
+      "name": "Liam Lawson",
+      "number": "30",
       "standings": {
-        "position": 11,
-        "points": 37,
+        "position": 9,
+        "points": 65,
         "wins": 0,
         "contender": false,
         "podiums": 0
       }
     },
     {
-      "driver_id": "LAW",
-      "name": "Liam Lawson",
-      "number": "30",
+      "driver_id": "LIN",
+      "name": "Arvid Lindblad",
+      "number": "41",
       "standings": {
-        "position": 9,
-        "points": 59,
+        "position": 11,
+        "points": 38,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -144,6 +144,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 6
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 7
     }
   ]
 }

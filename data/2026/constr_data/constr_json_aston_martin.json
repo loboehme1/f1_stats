@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "10",
-    "points": "3",
+    "points": "7",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 16,
@@ -22,8 +22,8 @@
       "name": "Fernando Alonso",
       "number": "14",
       "standings": {
-        "position": 19,
-        "points": 3,
+        "position": 17,
+        "points": 7,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -132,6 +132,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 0
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 4
     }
   ]
 }

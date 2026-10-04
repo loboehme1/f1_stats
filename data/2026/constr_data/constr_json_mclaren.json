@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "3",
-    "points": "306",
+    "points": "316",
     "wins": "2",
     "podiums": 7,
     "dnf_count": 7,
@@ -23,9 +23,9 @@
       "number": "81",
       "standings": {
         "position": 7,
-        "points": 120,
+        "points": 128,
         "wins": 0,
-        "contender": true,
+        "contender": false,
         "podiums": 0
       }
     },
@@ -34,8 +34,8 @@
       "name": "Lando Norris",
       "number": "1",
       "standings": {
-        "position": 4,
-        "points": 186,
+        "position": 5,
+        "points": 188,
         "wins": 2,
         "contender": true,
         "podiums": 1
@@ -132,6 +132,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 0
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 10
     }
   ]
 }

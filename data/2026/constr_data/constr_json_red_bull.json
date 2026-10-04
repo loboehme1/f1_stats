@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "263",
-    "wins": "0",
-    "podiums": 8,
+    "points": "298",
+    "wins": "1",
+    "podiums": 9,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "3",
       "standings": {
         "position": 6,
-        "points": 163,
-        "wins": 0,
+        "points": 188,
+        "wins": 1,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -35,7 +35,7 @@
       "number": "6",
       "standings": {
         "position": 8,
-        "points": 86,
+        "points": 96,
         "wins": 0,
         "contender": false,
         "podiums": 1
@@ -132,6 +132,12 @@
       "raceName": "Azerbaijan Grand Prix",
       "date": "2026-09-26",
       "points": 33
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 35
     }
   ]
 }

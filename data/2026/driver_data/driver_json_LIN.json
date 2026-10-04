@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 11,
-    "points": 37,
+    "points": 38,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -156,6 +156,15 @@
       "points": 6,
       "endPos": 7,
       "startPos": 15,
+      "status": "Finished"
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 1,
+      "endPos": 10,
+      "startPos": 22,
       "status": "Finished"
     }
   ]

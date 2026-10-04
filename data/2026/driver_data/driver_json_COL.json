@@ -157,6 +157,15 @@
       "endPos": 17,
       "startPos": 9,
       "status": "Retired"
+    },
+    {
+      "round": "16",
+      "raceName": "Bahrain Grand Prix in Malaysia",
+      "date": "2026-10-04",
+      "points": 0,
+      "endPos": 13,
+      "startPos": 21,
+      "status": "Finished"
     }
   ]
 }
