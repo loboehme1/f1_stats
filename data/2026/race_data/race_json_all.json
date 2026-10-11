@@ -85,6 +85,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "marina_bay",
+    "round": "17",
+    "race_name": "Singapore Grand Prix",
+    "circuit_name": "Marina Bay Street Circuit",
+    "country": "Singapore",
+    "city": "Marina Bay",
+    "date": "2026-10-11",
+    "time": "12:00:00Z",
+    "sprint": true
+  },
+  {
     "circuit_id": "miami",
     "round": "4",
     "race_name": "Miami Grand Prix",
