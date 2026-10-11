@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "5",
-    "points": "90",
+    "points": "100",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 2,
@@ -23,7 +23,7 @@
       "number": "30",
       "standings": {
         "position": 9,
-        "points": 65,
+        "points": 75,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -150,6 +150,12 @@
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
       "points": 7
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 6
     }
   ]
 }

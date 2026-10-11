@@ -89,12 +89,16 @@
     "round": "17",
     "race_name": "Singapore Grand Prix",
     "circuit_name": "Marina Bay Street Circuit",
-    "laps": null,
+    "laps": "62",
     "country": "Singapore",
     "city": "Marina Bay",
     "date": "2026-10-11",
     "time": "12:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:35.202"
+    },
     "sprint": true
   },
   {

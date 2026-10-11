@@ -13,22 +13,10 @@
     "points": "68",
     "wins": "0",
     "podiums": 1,
-    "dnf_count": 3,
+    "dnf_count": 4,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "COL",
-      "name": "Franco Colapinto",
-      "number": "43",
-      "standings": {
-        "position": 12,
-        "points": 27,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "GAS",
       "name": "Pierre Gasly",
@@ -36,6 +24,18 @@
       "standings": {
         "position": 10,
         "points": 41,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "COL",
+      "name": "Franco Colapinto",
+      "number": "43",
+      "standings": {
+        "position": 12,
+        "points": 27,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -137,6 +137,12 @@
       "round": "16",
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
+      "points": 0
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
       "points": 0
     }
   ]

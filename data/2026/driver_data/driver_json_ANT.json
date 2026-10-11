@@ -15,10 +15,10 @@
   },
   "standings": {
     "position": 1,
-    "points": 320,
+    "points": 340,
     "wins": 8,
     "contender": true,
-    "podiums": 13,
+    "podiums": 14,
     "dnf_count": 1,
     "disq_count": 0
   },
@@ -165,6 +165,15 @@
       "points": 18,
       "endPos": 2,
       "startPos": 3,
+      "status": "Finished"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 15,
+      "endPos": 3,
+      "startPos": 4,
       "status": "Finished"
     }
   ]

@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "298",
-    "wins": "1",
-    "podiums": 9,
+    "points": "332",
+    "wins": "2",
+    "podiums": 10,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
-        "position": 6,
-        "points": 188,
-        "wins": 1,
+        "position": 4,
+        "points": 221,
+        "wins": 2,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -35,7 +35,7 @@
       "number": "6",
       "standings": {
         "position": 8,
-        "points": 96,
+        "points": 97,
         "wins": 0,
         "contender": false,
         "podiums": 1
@@ -138,6 +138,12 @@
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
       "points": 35
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 26
     }
   ]
 }

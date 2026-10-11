@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "3",
-    "points": "316",
+    "points": "339",
     "wins": "2",
     "podiums": 7,
     "dnf_count": 7,
@@ -18,26 +18,26 @@
   },
   "drivers": [
     {
+      "driver_id": "NOR",
+      "name": "Lando Norris",
+      "number": "1",
+      "standings": {
+        "position": 6,
+        "points": 201,
+        "wins": 2,
+        "contender": true,
+        "podiums": 0
+      }
+    },
+    {
       "driver_id": "PIA",
       "name": "Oscar Piastri",
       "number": "81",
       "standings": {
         "position": 7,
-        "points": 128,
+        "points": 138,
         "wins": 0,
         "contender": false,
-        "podiums": 0
-      }
-    },
-    {
-      "driver_id": "NOR",
-      "name": "Lando Norris",
-      "number": "1",
-      "standings": {
-        "position": 5,
-        "points": 188,
-        "wins": 2,
-        "contender": true,
         "podiums": 0
       }
     }
@@ -138,6 +138,12 @@
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
       "points": 10
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 22
     }
   ]
 }

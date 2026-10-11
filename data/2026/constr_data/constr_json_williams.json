@@ -13,7 +13,7 @@
     "points": "12",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 9,
+    "dnf_count": 10,
     "disq_count": 0
   },
   "drivers": [
@@ -137,6 +137,12 @@
       "round": "16",
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
+      "points": 0
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
       "points": 0
     }
   ]

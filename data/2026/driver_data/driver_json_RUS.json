@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 2,
-    "points": 236,
+    "points": 238,
     "wins": 3,
     "contender": true,
     "podiums": 8,
@@ -166,6 +166,15 @@
       "endPos": 20,
       "startPos": 7,
       "status": "Retired"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 2,
+      "endPos": 9,
+      "startPos": 19,
+      "status": "Finished"
     }
   ]
 }

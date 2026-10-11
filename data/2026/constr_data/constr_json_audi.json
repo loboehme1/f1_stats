@@ -10,10 +10,10 @@
   },
   "standings": {
     "position": "8",
-    "points": "17",
+    "points": "23",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 5,
+    "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
@@ -22,8 +22,8 @@
       "name": "Nico Hülkenberg",
       "number": "27",
       "standings": {
-        "position": 15,
-        "points": 7,
+        "position": 14,
+        "points": 13,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -34,7 +34,7 @@
       "name": "Gabriel Bortoleto",
       "number": "5",
       "standings": {
-        "position": 14,
+        "position": 15,
         "points": 10,
         "wins": 0,
         "contender": false,
@@ -138,6 +138,12 @@
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
       "points": 0
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 4
     }
   ]
 }

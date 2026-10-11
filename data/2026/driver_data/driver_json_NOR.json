@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 5,
-    "points": 188,
+    "position": 6,
+    "points": 201,
     "wins": 2,
     "contender": true,
     "podiums": 5,
@@ -164,6 +164,15 @@
       "date": "2026-10-04",
       "points": 2,
       "endPos": 9,
+      "startPos": 5,
+      "status": "Finished"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 12,
+      "endPos": 4,
       "startPos": 5,
       "status": "Finished"
     }

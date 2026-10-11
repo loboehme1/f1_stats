@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 10,
+    "dnf_count": 11,
     "disq_count": 0
   },
   "results": [
@@ -166,6 +166,15 @@
       "endPos": 12,
       "startPos": 14,
       "status": "Finished"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 21,
+      "status": "Retired"
     }
   ]
 }

@@ -166,6 +166,15 @@
       "endPos": 16,
       "startPos": 9,
       "status": "Finished"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
+      "points": 0,
+      "endPos": 11,
+      "startPos": 7,
+      "status": "Finished"
     }
   ]
 }

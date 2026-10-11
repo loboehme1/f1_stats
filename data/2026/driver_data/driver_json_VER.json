@@ -14,11 +14,11 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 6,
-    "points": 188,
-    "wins": 1,
+    "position": 4,
+    "points": 221,
+    "wins": 2,
     "contender": true,
-    "podiums": 8,
+    "podiums": 9,
     "dnf_count": 4,
     "disq_count": 0
   },
@@ -162,6 +162,15 @@
       "round": "16",
       "raceName": "Bahrain Grand Prix in Malaysia",
       "date": "2026-10-04",
+      "points": 25,
+      "endPos": 1,
+      "startPos": 1,
+      "status": "Finished"
+    },
+    {
+      "round": "17",
+      "raceName": "Singapore Grand Prix",
+      "date": "2026-10-11",
       "points": 25,
       "endPos": 1,
       "startPos": 1,
