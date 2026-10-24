@@ -296,7 +296,7 @@
           "position": 6,
           "points": 201,
           "wins": 2,
-          "contender": true,
+          "contender": false,
           "podiums": 0
         }
       },
@@ -354,7 +354,7 @@
           "points": 238,
           "wins": 3,
           "contender": true,
-          "podiums": 1
+          "podiums": 0
         }
       }
     ]
@@ -444,7 +444,7 @@
           "points": 221,
           "wins": 2,
           "contender": true,
-          "podiums": 3
+          "podiums": 2
         }
       },
       {
@@ -456,7 +456,7 @@
           "points": 97,
           "wins": 0,
           "contender": false,
-          "podiums": 1
+          "podiums": 0
         }
       }
     ]
