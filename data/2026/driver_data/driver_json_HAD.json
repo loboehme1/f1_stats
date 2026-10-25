@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 8,
-    "points": 97,
+    "points": 105,
     "wins": 0,
     "contender": false,
     "podiums": 1,
@@ -147,6 +147,15 @@
       "points": 1,
       "endPos": 10,
       "startPos": 22,
+      "status": "Finished"
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 8,
+      "endPos": 6,
+      "startPos": 3,
       "status": "Finished"
     }
   ]

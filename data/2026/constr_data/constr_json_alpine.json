@@ -10,10 +10,10 @@
   },
   "standings": {
     "position": "6",
-    "points": "68",
+    "points": "69",
     "wins": "0",
     "podiums": 1,
-    "dnf_count": 4,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "drivers": [
@@ -23,7 +23,7 @@
       "number": "10",
       "standings": {
         "position": 10,
-        "points": 41,
+        "points": 42,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -144,6 +144,12 @@
       "raceName": "Singapore Grand Prix",
       "date": "2026-10-11",
       "points": 0
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 1
     }
   ]
 }

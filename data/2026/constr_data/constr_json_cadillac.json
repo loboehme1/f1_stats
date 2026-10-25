@@ -13,7 +13,7 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 13,
+    "dnf_count": 14,
     "disq_count": 0
   },
   "drivers": [
@@ -143,6 +143,12 @@
       "round": "17",
       "raceName": "Singapore Grand Prix",
       "date": "2026-10-11",
+      "points": 0
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
       "points": 0
     }
   ]

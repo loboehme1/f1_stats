@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "SAI",
-      "name": "Carlos Sainz",
-      "number": "55",
-      "standings": {
-        "position": 18,
-        "points": 7,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "ALB",
       "name": "Alexander Albon",
       "number": "23",
       "standings": {
         "position": 19,
         "points": 5,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "SAI",
+      "name": "Carlos Sainz",
+      "number": "55",
+      "standings": {
+        "position": 18,
+        "points": 7,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -143,6 +143,12 @@
       "round": "17",
       "raceName": "Singapore Grand Prix",
       "date": "2026-10-11",
+      "points": 0
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
       "points": 0
     }
   ]

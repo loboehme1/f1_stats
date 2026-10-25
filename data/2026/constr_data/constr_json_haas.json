@@ -13,22 +13,10 @@
     "points": "30",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 5,
+    "dnf_count": 6,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "BEA",
-      "name": "Oliver Bearman",
-      "number": "87",
-      "standings": {
-        "position": 13,
-        "points": 23,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "OCO",
       "name": "Esteban Ocon",
@@ -36,6 +24,18 @@
       "standings": {
         "position": 16,
         "points": 7,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "BEA",
+      "name": "Oliver Bearman",
+      "number": "87",
+      "standings": {
+        "position": 13,
+        "points": 23,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -143,6 +143,12 @@
       "round": "17",
       "raceName": "Singapore Grand Prix",
       "date": "2026-10-11",
+      "points": 0
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
       "points": 0
     }
   ]

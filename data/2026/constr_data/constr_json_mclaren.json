@@ -9,8 +9,8 @@
     "primary": "#FF8700"
   },
   "standings": {
-    "position": "3",
-    "points": "339",
+    "position": "4",
+    "points": "355",
     "wins": "2",
     "podiums": 7,
     "dnf_count": 7,
@@ -23,7 +23,7 @@
       "number": "1",
       "standings": {
         "position": 6,
-        "points": 201,
+        "points": 211,
         "wins": 2,
         "contender": false,
         "podiums": 0
@@ -35,7 +35,7 @@
       "number": "81",
       "standings": {
         "position": 7,
-        "points": 138,
+        "points": 144,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -144,6 +144,12 @@
       "raceName": "Singapore Grand Prix",
       "date": "2026-10-11",
       "points": 22
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 16
     }
   ]
 }

@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 4,
+    "dnf_count": 5,
     "disq_count": 0
   },
   "results": [
@@ -175,6 +175,15 @@
       "endPos": 12,
       "startPos": 11,
       "status": "Finished"
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 0,
+      "endPos": 22,
+      "startPos": 13,
+      "status": "Retired"
     }
   ]
 }

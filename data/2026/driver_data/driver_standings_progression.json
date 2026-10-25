@@ -1,94 +1,94 @@
 [
   {
-    "driver_id": "VER",
-    "code": "MAX",
-    "name": "Max Verstappen",
-    "color": "#00008b",
+    "driver_id": "ANT",
+    "code": "ANT",
+    "name": "Kimi Antonelli",
+    "color": "#00A19C",
     "progression": [
       {
         "round": 1,
-        "points": "8",
-        "position": "6"
+        "points": "18",
+        "position": "2"
       },
       {
         "round": 2,
-        "points": "8",
-        "position": "8"
+        "points": "47",
+        "position": "2"
       },
       {
         "round": 3,
-        "points": "12",
-        "position": "9"
+        "points": "72",
+        "position": "1"
       },
       {
         "round": 4,
-        "points": "26",
-        "position": "7"
+        "points": "100",
+        "position": "1"
       },
       {
         "round": 5,
-        "points": "43",
-        "position": "7"
+        "points": "131",
+        "position": "1"
       },
       {
         "round": 6,
-        "points": "43",
-        "position": "7"
+        "points": "156",
+        "position": "1"
       },
       {
         "round": 7,
-        "points": "55",
-        "position": "7"
+        "points": "156",
+        "position": "1"
       },
       {
         "round": 8,
-        "points": "73",
-        "position": "7"
+        "points": "171",
+        "position": "1"
       },
       {
         "round": 9,
-        "points": "76",
-        "position": "7"
+        "points": "179",
+        "position": "1"
       },
       {
         "round": 11,
-        "points": "109",
-        "position": "6"
+        "points": "219",
+        "position": "1"
       },
       {
         "round": 12,
-        "points": "112",
-        "position": "6"
+        "points": "242",
+        "position": "1"
       },
       {
         "round": 13,
-        "points": "127",
-        "position": "6"
+        "points": "267",
+        "position": "1"
       },
       {
         "round": 14,
-        "points": "145",
-        "position": "6"
+        "points": "292",
+        "position": "1"
       },
       {
         "round": 15,
-        "points": "163",
-        "position": "6"
+        "points": "302",
+        "position": "1"
       },
       {
         "round": 16,
-        "points": "188",
-        "position": "6"
+        "points": "320",
+        "position": "1"
       },
       {
         "round": 17,
-        "points": "221",
-        "position": "4"
+        "points": "340",
+        "position": "1"
       },
       {
         "round": 18,
-        "points": "221",
-        "position": "4"
+        "points": "365",
+        "position": "1"
       }
     ]
   },
@@ -180,287 +180,101 @@
       },
       {
         "round": 18,
-        "points": "215",
+        "points": "233",
         "position": "5"
       }
     ]
   },
   {
-    "driver_id": "ANT",
-    "code": "ANT",
-    "name": "Kimi Antonelli",
-    "color": "#00A19C",
+    "driver_id": "VER",
+    "code": "MAX",
+    "name": "Max Verstappen",
+    "color": "#00008b",
     "progression": [
       {
         "round": 1,
-        "points": "18",
-        "position": "2"
+        "points": "8",
+        "position": "6"
       },
       {
         "round": 2,
-        "points": "47",
-        "position": "2"
+        "points": "8",
+        "position": "8"
       },
       {
         "round": 3,
-        "points": "72",
-        "position": "1"
+        "points": "12",
+        "position": "9"
       },
       {
         "round": 4,
-        "points": "100",
-        "position": "1"
+        "points": "26",
+        "position": "7"
       },
       {
         "round": 5,
-        "points": "131",
-        "position": "1"
+        "points": "43",
+        "position": "7"
       },
       {
         "round": 6,
-        "points": "156",
-        "position": "1"
+        "points": "43",
+        "position": "7"
       },
       {
         "round": 7,
-        "points": "156",
-        "position": "1"
+        "points": "55",
+        "position": "7"
       },
       {
         "round": 8,
-        "points": "171",
-        "position": "1"
-      },
-      {
-        "round": 9,
-        "points": "179",
-        "position": "1"
-      },
-      {
-        "round": 11,
-        "points": "219",
-        "position": "1"
-      },
-      {
-        "round": 12,
-        "points": "242",
-        "position": "1"
-      },
-      {
-        "round": 13,
-        "points": "267",
-        "position": "1"
-      },
-      {
-        "round": 14,
-        "points": "292",
-        "position": "1"
-      },
-      {
-        "round": 15,
-        "points": "302",
-        "position": "1"
-      },
-      {
-        "round": 16,
-        "points": "320",
-        "position": "1"
-      },
-      {
-        "round": 17,
-        "points": "340",
-        "position": "1"
-      },
-      {
-        "round": 18,
-        "points": "340",
-        "position": "1"
-      }
-    ]
-  },
-  {
-    "driver_id": "NOR",
-    "code": "NOR",
-    "name": "Lando Norris",
-    "color": "#FF8700",
-    "progression": [
-      {
-        "round": 1,
-        "points": "10",
-        "position": "5"
-      },
-      {
-        "round": 2,
-        "points": "15",
-        "position": "6"
-      },
-      {
-        "round": 3,
-        "points": "25",
-        "position": "5"
-      },
-      {
-        "round": 4,
-        "points": "51",
-        "position": "4"
-      },
-      {
-        "round": 5,
-        "points": "58",
-        "position": "5"
-      },
-      {
-        "round": 6,
-        "points": "58",
-        "position": "6"
-      },
-      {
-        "round": 7,
         "points": "73",
-        "position": "5"
-      },
-      {
-        "round": 8,
-        "points": "79",
-        "position": "5"
+        "position": "7"
       },
       {
         "round": 9,
-        "points": "97",
-        "position": "5"
+        "points": "76",
+        "position": "7"
       },
       {
         "round": 11,
-        "points": "128",
-        "position": "5"
+        "points": "109",
+        "position": "6"
       },
       {
         "round": 12,
-        "points": "159",
-        "position": "4"
+        "points": "112",
+        "position": "6"
       },
       {
         "round": 13,
-        "points": "171",
-        "position": "4"
+        "points": "127",
+        "position": "6"
       },
       {
         "round": 14,
-        "points": "186",
-        "position": "4"
+        "points": "145",
+        "position": "6"
       },
       {
         "round": 15,
-        "points": "186",
-        "position": "4"
+        "points": "163",
+        "position": "6"
       },
       {
         "round": 16,
         "points": "188",
-        "position": "5"
+        "position": "6"
       },
       {
         "round": 17,
-        "points": "201",
-        "position": "6"
-      },
-      {
-        "round": 18,
-        "points": "201",
-        "position": "6"
-      }
-    ]
-  },
-  {
-    "driver_id": "PIA",
-    "code": "PIA",
-    "name": "Oscar Piastri",
-    "color": "#FF8700",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "18"
-      },
-      {
-        "round": 2,
-        "points": "3",
-        "position": "12"
-      },
-      {
-        "round": 3,
-        "points": "21",
-        "position": "6"
-      },
-      {
-        "round": 4,
-        "points": "43",
-        "position": "6"
-      },
-      {
-        "round": 5,
-        "points": "48",
-        "position": "6"
-      },
-      {
-        "round": 6,
-        "points": "58",
-        "position": "5"
-      },
-      {
-        "round": 7,
-        "points": "68",
-        "position": "6"
-      },
-      {
-        "round": 8,
-        "points": "80",
+        "points": "221",
         "position": "4"
       },
       {
-        "round": 9,
-        "points": "82",
-        "position": "6"
-      },
-      {
-        "round": 11,
-        "points": "94",
-        "position": "7"
-      },
-      {
-        "round": 12,
-        "points": "106",
-        "position": "7"
-      },
-      {
-        "round": 13,
-        "points": "116",
-        "position": "7"
-      },
-      {
-        "round": 14,
-        "points": "120",
-        "position": "7"
-      },
-      {
-        "round": 15,
-        "points": "120",
-        "position": "7"
-      },
-      {
-        "round": 16,
-        "points": "128",
-        "position": "7"
-      },
-      {
-        "round": 17,
-        "points": "138",
-        "position": "7"
-      },
-      {
         "round": 18,
-        "points": "138",
-        "position": "7"
+        "points": "236",
+        "position": "4"
       }
     ]
   },
@@ -552,8 +366,325 @@
       },
       {
         "round": 18,
-        "points": "229",
+        "points": "241",
         "position": "3"
+      }
+    ]
+  },
+  {
+    "driver_id": "NOR",
+    "code": "NOR",
+    "name": "Lando Norris",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "10",
+        "position": "5"
+      },
+      {
+        "round": 2,
+        "points": "15",
+        "position": "6"
+      },
+      {
+        "round": 3,
+        "points": "25",
+        "position": "5"
+      },
+      {
+        "round": 4,
+        "points": "51",
+        "position": "4"
+      },
+      {
+        "round": 5,
+        "points": "58",
+        "position": "5"
+      },
+      {
+        "round": 6,
+        "points": "58",
+        "position": "6"
+      },
+      {
+        "round": 7,
+        "points": "73",
+        "position": "5"
+      },
+      {
+        "round": 8,
+        "points": "79",
+        "position": "5"
+      },
+      {
+        "round": 9,
+        "points": "97",
+        "position": "5"
+      },
+      {
+        "round": 11,
+        "points": "128",
+        "position": "5"
+      },
+      {
+        "round": 12,
+        "points": "159",
+        "position": "4"
+      },
+      {
+        "round": 13,
+        "points": "171",
+        "position": "4"
+      },
+      {
+        "round": 14,
+        "points": "186",
+        "position": "4"
+      },
+      {
+        "round": 15,
+        "points": "186",
+        "position": "4"
+      },
+      {
+        "round": 16,
+        "points": "188",
+        "position": "5"
+      },
+      {
+        "round": 17,
+        "points": "201",
+        "position": "6"
+      },
+      {
+        "round": 18,
+        "points": "211",
+        "position": "6"
+      }
+    ]
+  },
+  {
+    "driver_id": "HAD",
+    "code": "HAD",
+    "name": "Isack Hadjar",
+    "color": "#00008b",
+    "progression": [
+      {
+        "round": 13,
+        "points": "71",
+        "position": "8"
+      },
+      {
+        "round": 14,
+        "points": "71",
+        "position": "8"
+      },
+      {
+        "round": 15,
+        "points": "86",
+        "position": "8"
+      },
+      {
+        "round": 16,
+        "points": "96",
+        "position": "8"
+      },
+      {
+        "round": 17,
+        "points": "97",
+        "position": "8"
+      },
+      {
+        "round": 18,
+        "points": "105",
+        "position": "8"
+      }
+    ]
+  },
+  {
+    "driver_id": "PIA",
+    "code": "PIA",
+    "name": "Oscar Piastri",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "18"
+      },
+      {
+        "round": 2,
+        "points": "3",
+        "position": "12"
+      },
+      {
+        "round": 3,
+        "points": "21",
+        "position": "6"
+      },
+      {
+        "round": 4,
+        "points": "43",
+        "position": "6"
+      },
+      {
+        "round": 5,
+        "points": "48",
+        "position": "6"
+      },
+      {
+        "round": 6,
+        "points": "58",
+        "position": "5"
+      },
+      {
+        "round": 7,
+        "points": "68",
+        "position": "6"
+      },
+      {
+        "round": 8,
+        "points": "80",
+        "position": "4"
+      },
+      {
+        "round": 9,
+        "points": "82",
+        "position": "6"
+      },
+      {
+        "round": 11,
+        "points": "94",
+        "position": "7"
+      },
+      {
+        "round": 12,
+        "points": "106",
+        "position": "7"
+      },
+      {
+        "round": 13,
+        "points": "116",
+        "position": "7"
+      },
+      {
+        "round": 14,
+        "points": "120",
+        "position": "7"
+      },
+      {
+        "round": 15,
+        "points": "120",
+        "position": "7"
+      },
+      {
+        "round": 16,
+        "points": "128",
+        "position": "7"
+      },
+      {
+        "round": 17,
+        "points": "138",
+        "position": "7"
+      },
+      {
+        "round": 18,
+        "points": "144",
+        "position": "7"
+      }
+    ]
+  },
+  {
+    "driver_id": "RUS",
+    "code": "RUS",
+    "name": "George Russell",
+    "color": "#00A19C",
+    "progression": [
+      {
+        "round": 1,
+        "points": "25",
+        "position": "1"
+      },
+      {
+        "round": 2,
+        "points": "51",
+        "position": "1"
+      },
+      {
+        "round": 3,
+        "points": "63",
+        "position": "2"
+      },
+      {
+        "round": 4,
+        "points": "80",
+        "position": "2"
+      },
+      {
+        "round": 5,
+        "points": "88",
+        "position": "2"
+      },
+      {
+        "round": 6,
+        "points": "88",
+        "position": "3"
+      },
+      {
+        "round": 7,
+        "points": "106",
+        "position": "3"
+      },
+      {
+        "round": 8,
+        "points": "131",
+        "position": "2"
+      },
+      {
+        "round": 9,
+        "points": "154",
+        "position": "2"
+      },
+      {
+        "round": 11,
+        "points": "160",
+        "position": "3"
+      },
+      {
+        "round": 12,
+        "points": "183",
+        "position": "2"
+      },
+      {
+        "round": 13,
+        "points": "201",
+        "position": "2"
+      },
+      {
+        "round": 14,
+        "points": "211",
+        "position": "2"
+      },
+      {
+        "round": 15,
+        "points": "236",
+        "position": "2"
+      },
+      {
+        "round": 16,
+        "points": "236",
+        "position": "2"
+      },
+      {
+        "round": 17,
+        "points": "238",
+        "position": "2"
+      },
+      {
+        "round": 18,
+        "points": "242",
+        "position": "2"
       }
     ]
   },
@@ -645,8 +776,101 @@
       },
       {
         "round": 18,
-        "points": "75",
+        "points": "77",
         "position": "9"
+      }
+    ]
+  },
+  {
+    "driver_id": "GAS",
+    "code": "GAS",
+    "name": "Pierre Gasly",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "10"
+      },
+      {
+        "round": 2,
+        "points": "9",
+        "position": "7"
+      },
+      {
+        "round": 3,
+        "points": "15",
+        "position": "8"
+      },
+      {
+        "round": 4,
+        "points": "16",
+        "position": "9"
+      },
+      {
+        "round": 5,
+        "points": "20",
+        "position": "8"
+      },
+      {
+        "round": 6,
+        "points": "35",
+        "position": "8"
+      },
+      {
+        "round": 7,
+        "points": "41",
+        "position": "8"
+      },
+      {
+        "round": 8,
+        "points": "41",
+        "position": "9"
+      },
+      {
+        "round": 9,
+        "points": "42",
+        "position": "9"
+      },
+      {
+        "round": 11,
+        "points": "33",
+        "position": "10"
+      },
+      {
+        "round": 12,
+        "points": "35",
+        "position": "10"
+      },
+      {
+        "round": 13,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 14,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 15,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 16,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 17,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 18,
+        "points": "42",
+        "position": "10"
       }
     ]
   },
@@ -744,319 +968,188 @@
     ]
   },
   {
-    "driver_id": "RUS",
-    "code": "RUS",
-    "name": "George Russell",
-    "color": "#00A19C",
+    "driver_id": "LIN",
+    "code": "ARV",
+    "name": "Arvid Lindblad",
+    "color": "#8A8D8F",
     "progression": [
       {
         "round": 1,
-        "points": "25",
-        "position": "1"
+        "points": "4",
+        "position": "8"
       },
       {
         "round": 2,
-        "points": "51",
-        "position": "1"
+        "points": "4",
+        "position": "10"
       },
       {
         "round": 3,
-        "points": "63",
-        "position": "2"
-      },
-      {
-        "round": 4,
-        "points": "80",
-        "position": "2"
-      },
-      {
-        "round": 5,
-        "points": "88",
-        "position": "2"
-      },
-      {
-        "round": 6,
-        "points": "88",
-        "position": "3"
-      },
-      {
-        "round": 7,
-        "points": "106",
-        "position": "3"
-      },
-      {
-        "round": 8,
-        "points": "131",
-        "position": "2"
-      },
-      {
-        "round": 9,
-        "points": "154",
-        "position": "2"
-      },
-      {
-        "round": 11,
-        "points": "160",
-        "position": "3"
-      },
-      {
-        "round": 12,
-        "points": "183",
-        "position": "2"
-      },
-      {
-        "round": 13,
-        "points": "201",
-        "position": "2"
-      },
-      {
-        "round": 14,
-        "points": "211",
-        "position": "2"
-      },
-      {
-        "round": 15,
-        "points": "236",
-        "position": "2"
-      },
-      {
-        "round": 16,
-        "points": "236",
-        "position": "2"
-      },
-      {
-        "round": 17,
-        "points": "238",
-        "position": "2"
-      },
-      {
-        "round": 18,
-        "points": "238",
-        "position": "2"
-      }
-    ]
-  },
-  {
-    "driver_id": "HAD",
-    "code": "HAD",
-    "name": "Isack Hadjar",
-    "color": "#00008b",
-    "progression": [
-      {
-        "round": 13,
-        "points": "71",
-        "position": "8"
-      },
-      {
-        "round": 14,
-        "points": "71",
-        "position": "8"
-      },
-      {
-        "round": 15,
-        "points": "86",
-        "position": "8"
-      },
-      {
-        "round": 16,
-        "points": "96",
-        "position": "8"
-      },
-      {
-        "round": 17,
-        "points": "97",
-        "position": "8"
-      },
-      {
-        "round": 18,
-        "points": "97",
-        "position": "8"
-      }
-    ]
-  },
-  {
-    "driver_id": "GAS",
-    "code": "GAS",
-    "name": "Pierre Gasly",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "1",
-        "position": "10"
-      },
-      {
-        "round": 2,
-        "points": "9",
-        "position": "7"
-      },
-      {
-        "round": 3,
-        "points": "15",
-        "position": "8"
-      },
-      {
-        "round": 4,
-        "points": "16",
-        "position": "9"
-      },
-      {
-        "round": 5,
-        "points": "20",
-        "position": "8"
-      },
-      {
-        "round": 6,
-        "points": "35",
-        "position": "8"
-      },
-      {
-        "round": 7,
-        "points": "41",
-        "position": "8"
-      },
-      {
-        "round": 8,
-        "points": "41",
-        "position": "9"
-      },
-      {
-        "round": 9,
-        "points": "42",
-        "position": "9"
-      },
-      {
-        "round": 11,
-        "points": "33",
-        "position": "10"
-      },
-      {
-        "round": 12,
-        "points": "35",
-        "position": "10"
-      },
-      {
-        "round": 13,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 14,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 15,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 16,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 17,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 18,
-        "points": "41",
-        "position": "10"
-      }
-    ]
-  },
-  {
-    "driver_id": "BEA",
-    "code": "BEA",
-    "name": "Oliver Bearman",
-    "color": "#f04a4a",
-    "progression": [
-      {
-        "round": 1,
-        "points": "6",
-        "position": "7"
-      },
-      {
-        "round": 2,
-        "points": "17",
-        "position": "5"
-      },
-      {
-        "round": 3,
-        "points": "17",
-        "position": "7"
-      },
-      {
-        "round": 4,
-        "points": "17",
-        "position": "8"
-      },
-      {
-        "round": 5,
-        "points": "18",
-        "position": "9"
-      },
-      {
-        "round": 6,
-        "points": "18",
+        "points": "4",
         "position": "11"
       },
       {
-        "round": 7,
-        "points": "18",
-        "position": "11"
-      },
-      {
-        "round": 8,
-        "points": "18",
-        "position": "11"
-      },
-      {
-        "round": 9,
-        "points": "18",
+        "round": 4,
+        "points": "4",
         "position": "12"
       },
       {
-        "round": 11,
-        "points": "18",
+        "round": 5,
+        "points": "5",
+        "position": "14"
+      },
+      {
+        "round": 6,
+        "points": "11",
         "position": "13"
+      },
+      {
+        "round": 7,
+        "points": "13",
+        "position": "13"
+      },
+      {
+        "round": 8,
+        "points": "14",
+        "position": "13"
+      },
+      {
+        "round": 9,
+        "points": "20",
+        "position": "11"
+      },
+      {
+        "round": 11,
+        "points": "25",
+        "position": "11"
       },
       {
         "round": 12,
-        "points": "18",
-        "position": "13"
+        "points": "25",
+        "position": "11"
       },
       {
         "round": 13,
-        "points": "18",
-        "position": "13"
+        "points": "29",
+        "position": "11"
       },
       {
         "round": 14,
-        "points": "18",
-        "position": "13"
+        "points": "31",
+        "position": "11"
       },
       {
         "round": 15,
-        "points": "20",
-        "position": "13"
+        "points": "37",
+        "position": "11"
       },
       {
         "round": 16,
-        "points": "20",
-        "position": "13"
+        "points": "38",
+        "position": "11"
       },
       {
         "round": 17,
-        "points": "23",
-        "position": "13"
+        "points": "38",
+        "position": "11"
       },
       {
         "round": 18,
-        "points": "23",
+        "points": "38",
+        "position": "11"
+      }
+    ]
+  },
+  {
+    "driver_id": "BOR",
+    "code": "BOR",
+    "name": "Gabriel Bortoleto",
+    "color": "#09eb24",
+    "progression": [
+      {
+        "round": 1,
+        "points": "2",
+        "position": "9"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "14"
+      },
+      {
+        "round": 3,
+        "points": "2",
         "position": "13"
+      },
+      {
+        "round": 4,
+        "points": "2",
+        "position": "15"
+      },
+      {
+        "round": 5,
+        "points": "2",
+        "position": "15"
+      },
+      {
+        "round": 6,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 7,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 8,
+        "points": "2",
+        "position": "17"
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 11,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 12,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 13,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 14,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 15,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 16,
+        "points": "10",
+        "position": "14"
+      },
+      {
+        "round": 17,
+        "points": "10",
+        "position": "15"
+      },
+      {
+        "round": 18,
+        "points": "10",
+        "position": "15"
       }
     ]
   },
@@ -1154,188 +1247,95 @@
     ]
   },
   {
-    "driver_id": "SAI",
-    "code": "SAI",
-    "name": "Carlos Sainz",
-    "color": "#46b1eb",
+    "driver_id": "STR",
+    "code": "STR",
+    "name": "Lance Stroll",
+    "color": "#0A7968",
     "progression": [
       {
         "round": 1,
         "points": "0",
-        "position": "15"
+        "position": 20
       },
       {
         "round": 2,
-        "points": "2",
-        "position": "13"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 3,
-        "points": "2",
-        "position": "14"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 4,
-        "points": "4",
-        "position": "14"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 5,
-        "points": "6",
-        "position": "13"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 6,
-        "points": "6",
-        "position": "14"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 7,
-        "points": "6",
-        "position": "14"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 8,
-        "points": "6",
-        "position": "14"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 9,
-        "points": "6",
-        "position": "15"
+        "points": "0",
+        "position": "22"
       },
       {
         "round": 11,
-        "points": "6",
-        "position": "15"
+        "points": "0",
+        "position": "20"
       },
       {
         "round": 12,
-        "points": "6",
-        "position": "16"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 13,
-        "points": "6",
-        "position": "16"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 14,
-        "points": "6",
-        "position": "16"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 15,
-        "points": "7",
-        "position": "17"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 16,
-        "points": "7",
-        "position": "18"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 17,
-        "points": "7",
-        "position": "18"
+        "points": "0",
+        "position": "21"
       },
       {
         "round": 18,
-        "points": "7",
-        "position": "18"
-      }
-    ]
-  },
-  {
-    "driver_id": "LIN",
-    "code": "ARV",
-    "name": "Arvid Lindblad",
-    "color": "#8A8D8F",
-    "progression": [
-      {
-        "round": 1,
-        "points": "4",
-        "position": "8"
-      },
-      {
-        "round": 2,
-        "points": "4",
-        "position": "10"
-      },
-      {
-        "round": 3,
-        "points": "4",
-        "position": "11"
-      },
-      {
-        "round": 4,
-        "points": "4",
-        "position": "12"
-      },
-      {
-        "round": 5,
-        "points": "5",
-        "position": "14"
-      },
-      {
-        "round": 6,
-        "points": "11",
-        "position": "13"
-      },
-      {
-        "round": 7,
-        "points": "13",
-        "position": "13"
-      },
-      {
-        "round": 8,
-        "points": "14",
-        "position": "13"
-      },
-      {
-        "round": 9,
-        "points": "20",
-        "position": "11"
-      },
-      {
-        "round": 11,
-        "points": "25",
-        "position": "11"
-      },
-      {
-        "round": 12,
-        "points": "25",
-        "position": "11"
-      },
-      {
-        "round": 13,
-        "points": "29",
-        "position": "11"
-      },
-      {
-        "round": 14,
-        "points": "31",
-        "position": "11"
-      },
-      {
-        "round": 15,
-        "points": "37",
-        "position": "11"
-      },
-      {
-        "round": 16,
-        "points": "38",
-        "position": "11"
-      },
-      {
-        "round": 17,
-        "points": "38",
-        "position": "11"
-      },
-      {
-        "round": 18,
-        "points": "38",
-        "position": "11"
+        "points": "0",
+        "position": "21"
       }
     ]
   },
@@ -1433,99 +1433,6 @@
     ]
   },
   {
-    "driver_id": "PER",
-    "code": "PER",
-    "name": "Sergio Pérez",
-    "color": "#78807f",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "16"
-      },
-      {
-        "round": 2,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 3,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 4,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 5,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 6,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 7,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 8,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 9,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 11,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 12,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 13,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 14,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 15,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 16,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 17,
-        "points": "0",
-        "position": "23"
-      },
-      {
-        "round": 18,
-        "points": "0",
-        "position": "23"
-      }
-    ]
-  },
-  {
     "driver_id": "ALB",
     "code": "ALB",
     "name": "Alexander Albon",
@@ -1615,6 +1522,192 @@
         "round": 18,
         "points": "5",
         "position": "19"
+      }
+    ]
+  },
+  {
+    "driver_id": "SAI",
+    "code": "SAI",
+    "name": "Carlos Sainz",
+    "color": "#46b1eb",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "15"
+      },
+      {
+        "round": 2,
+        "points": "2",
+        "position": "13"
+      },
+      {
+        "round": 3,
+        "points": "2",
+        "position": "14"
+      },
+      {
+        "round": 4,
+        "points": "4",
+        "position": "14"
+      },
+      {
+        "round": 5,
+        "points": "6",
+        "position": "13"
+      },
+      {
+        "round": 6,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 7,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 8,
+        "points": "6",
+        "position": "14"
+      },
+      {
+        "round": 9,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 11,
+        "points": "6",
+        "position": "15"
+      },
+      {
+        "round": 12,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 13,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 14,
+        "points": "6",
+        "position": "16"
+      },
+      {
+        "round": 15,
+        "points": "7",
+        "position": "17"
+      },
+      {
+        "round": 16,
+        "points": "7",
+        "position": "18"
+      },
+      {
+        "round": 17,
+        "points": "7",
+        "position": "18"
+      },
+      {
+        "round": 18,
+        "points": "7",
+        "position": "18"
+      }
+    ]
+  },
+  {
+    "driver_id": "PER",
+    "code": "PER",
+    "name": "Sergio Pérez",
+    "color": "#78807f",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "16"
+      },
+      {
+        "round": 2,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 3,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 4,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 5,
+        "points": "0",
+        "position": "20"
+      },
+      {
+        "round": 6,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 7,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 8,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 9,
+        "points": "0",
+        "position": "21"
+      },
+      {
+        "round": 11,
+        "points": "0",
+        "position": "22"
+      },
+      {
+        "round": 12,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 13,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 14,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 15,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 16,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 17,
+        "points": "0",
+        "position": "23"
+      },
+      {
+        "round": 18,
+        "points": "0",
+        "position": "23"
       }
     ]
   },
@@ -1712,99 +1805,6 @@
     ]
   },
   {
-    "driver_id": "STR",
-    "code": "STR",
-    "name": "Lance Stroll",
-    "color": "#0A7968",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": 20
-      },
-      {
-        "round": 2,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 3,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 4,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 5,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 6,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 7,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 8,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 9,
-        "points": "0",
-        "position": "22"
-      },
-      {
-        "round": 11,
-        "points": "0",
-        "position": "20"
-      },
-      {
-        "round": 12,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 13,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 14,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 15,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 16,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 17,
-        "points": "0",
-        "position": "21"
-      },
-      {
-        "round": 18,
-        "points": "0",
-        "position": "21"
-      }
-    ]
-  },
-  {
     "driver_id": "COL",
     "code": "COL",
     "name": "Franco Colapinto",
@@ -1898,95 +1898,95 @@
     ]
   },
   {
-    "driver_id": "BOR",
-    "code": "BOR",
-    "name": "Gabriel Bortoleto",
-    "color": "#09eb24",
+    "driver_id": "BEA",
+    "code": "BEA",
+    "name": "Oliver Bearman",
+    "color": "#f04a4a",
     "progression": [
       {
         "round": 1,
-        "points": "2",
-        "position": "9"
+        "points": "6",
+        "position": "7"
       },
       {
         "round": 2,
-        "points": "2",
-        "position": "14"
+        "points": "17",
+        "position": "5"
       },
       {
         "round": 3,
-        "points": "2",
-        "position": "13"
+        "points": "17",
+        "position": "7"
       },
       {
         "round": 4,
-        "points": "2",
-        "position": "15"
+        "points": "17",
+        "position": "8"
       },
       {
         "round": 5,
-        "points": "2",
-        "position": "15"
+        "points": "18",
+        "position": "9"
       },
       {
         "round": 6,
-        "points": "2",
-        "position": "17"
+        "points": "18",
+        "position": "11"
       },
       {
         "round": 7,
-        "points": "2",
-        "position": "17"
+        "points": "18",
+        "position": "11"
       },
       {
         "round": 8,
-        "points": "2",
-        "position": "17"
+        "points": "18",
+        "position": "11"
       },
       {
         "round": 9,
-        "points": "6",
-        "position": "14"
+        "points": "18",
+        "position": "12"
       },
       {
         "round": 11,
-        "points": "10",
-        "position": "14"
+        "points": "18",
+        "position": "13"
       },
       {
         "round": 12,
-        "points": "10",
-        "position": "14"
+        "points": "18",
+        "position": "13"
       },
       {
         "round": 13,
-        "points": "10",
-        "position": "14"
+        "points": "18",
+        "position": "13"
       },
       {
         "round": 14,
-        "points": "10",
-        "position": "14"
+        "points": "18",
+        "position": "13"
       },
       {
         "round": 15,
-        "points": "10",
-        "position": "14"
+        "points": "20",
+        "position": "13"
       },
       {
         "round": 16,
-        "points": "10",
-        "position": "14"
+        "points": "20",
+        "position": "13"
       },
       {
         "round": 17,
-        "points": "10",
-        "position": "15"
+        "points": "23",
+        "position": "13"
       },
       {
         "round": 18,
-        "points": "10",
-        "position": "15"
+        "points": "23",
+        "position": "13"
       }
     ]
   },

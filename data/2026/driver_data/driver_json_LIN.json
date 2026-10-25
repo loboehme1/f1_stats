@@ -175,6 +175,15 @@
       "endPos": 15,
       "startPos": 9,
       "status": "Finished"
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 14,
+      "status": "Finished"
     }
   ]
 }

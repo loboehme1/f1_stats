@@ -175,6 +175,15 @@
       "endPos": 18,
       "startPos": 16,
       "status": "Retired"
+    },
+    {
+      "round": "18",
+      "raceName": "United States Grand Prix",
+      "date": "2026-10-25",
+      "points": 0,
+      "endPos": 17,
+      "startPos": 17,
+      "status": "Finished"
     }
   ]
 }

@@ -21,12 +21,16 @@
     "round": "18",
     "race_name": "United States Grand Prix",
     "circuit_name": "Circuit of the Americas",
-    "laps": null,
+    "laps": "56",
     "country": "USA",
     "city": "Austin",
     "date": "2026-10-25",
     "time": "20:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "LEC",
+      "rank": "1",
+      "time": "1:37.976"
+    },
     "sprint": false
   },
   {

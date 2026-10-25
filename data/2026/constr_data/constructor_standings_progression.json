@@ -91,7 +91,7 @@
       },
       {
         "round": 18,
-        "points": "578",
+        "points": "607",
         "position": "1"
       }
     ]
@@ -188,105 +188,8 @@
       },
       {
         "round": 18,
-        "points": "444",
+        "points": "474",
         "position": "2"
-      }
-    ]
-  },
-  {
-    "constructor_id": "mclaren",
-    "name": "McLaren",
-    "color": "#FF8700",
-    "progression": [
-      {
-        "round": 1,
-        "points": "10",
-        "position": "3"
-      },
-      {
-        "round": 2,
-        "points": "18",
-        "position": "3"
-      },
-      {
-        "round": 3,
-        "points": "46",
-        "position": "3"
-      },
-      {
-        "round": 4,
-        "points": "94",
-        "position": "3"
-      },
-      {
-        "round": 5,
-        "points": "106",
-        "position": "3"
-      },
-      {
-        "round": 6,
-        "points": "118",
-        "position": "3"
-      },
-      {
-        "round": 7,
-        "points": "143",
-        "position": "3"
-      },
-      {
-        "round": 8,
-        "points": "161",
-        "position": "3"
-      },
-      {
-        "round": 9,
-        "points": "181",
-        "position": "3"
-      },
-      {
-        "round": 10,
-        "points": "197",
-        "position": "3"
-      },
-      {
-        "round": 11,
-        "points": "222",
-        "position": "3"
-      },
-      {
-        "round": 12,
-        "points": "265",
-        "position": "3"
-      },
-      {
-        "round": 13,
-        "points": "287",
-        "position": "3"
-      },
-      {
-        "round": 14,
-        "points": "306",
-        "position": "3"
-      },
-      {
-        "round": 15,
-        "points": "306",
-        "position": "3"
-      },
-      {
-        "round": 16,
-        "points": "316",
-        "position": "3"
-      },
-      {
-        "round": 17,
-        "points": "339",
-        "position": "3"
-      },
-      {
-        "round": 18,
-        "points": "339",
-        "position": "3"
       }
     ]
   },
@@ -382,7 +285,104 @@
       },
       {
         "round": 18,
-        "points": "332",
+        "points": "355",
+        "position": "3"
+      }
+    ]
+  },
+  {
+    "constructor_id": "mclaren",
+    "name": "McLaren",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "10",
+        "position": "3"
+      },
+      {
+        "round": 2,
+        "points": "18",
+        "position": "3"
+      },
+      {
+        "round": 3,
+        "points": "46",
+        "position": "3"
+      },
+      {
+        "round": 4,
+        "points": "94",
+        "position": "3"
+      },
+      {
+        "round": 5,
+        "points": "106",
+        "position": "3"
+      },
+      {
+        "round": 6,
+        "points": "118",
+        "position": "3"
+      },
+      {
+        "round": 7,
+        "points": "143",
+        "position": "3"
+      },
+      {
+        "round": 8,
+        "points": "161",
+        "position": "3"
+      },
+      {
+        "round": 9,
+        "points": "181",
+        "position": "3"
+      },
+      {
+        "round": 10,
+        "points": "197",
+        "position": "3"
+      },
+      {
+        "round": 11,
+        "points": "222",
+        "position": "3"
+      },
+      {
+        "round": 12,
+        "points": "265",
+        "position": "3"
+      },
+      {
+        "round": 13,
+        "points": "287",
+        "position": "3"
+      },
+      {
+        "round": 14,
+        "points": "306",
+        "position": "3"
+      },
+      {
+        "round": 15,
+        "points": "306",
+        "position": "3"
+      },
+      {
+        "round": 16,
+        "points": "316",
+        "position": "3"
+      },
+      {
+        "round": 17,
+        "points": "339",
+        "position": "3"
+      },
+      {
+        "round": 18,
+        "points": "355",
         "position": "4"
       }
     ]
@@ -479,7 +479,7 @@
       },
       {
         "round": 18,
-        "points": "100",
+        "points": "102",
         "position": "5"
       }
     ]
@@ -576,7 +576,7 @@
       },
       {
         "round": 18,
-        "points": "68",
+        "points": "69",
         "position": "6"
       }
     ]
