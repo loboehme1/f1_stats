@@ -17,6 +17,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "americas",
+    "round": "18",
+    "race_name": "United States Grand Prix",
+    "circuit_name": "Circuit of the Americas",
+    "country": "USA",
+    "city": "Austin",
+    "date": "2026-10-25",
+    "time": "20:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "baku",
     "round": "15",
     "race_name": "Azerbaijan Grand Prix",
