@@ -187,6 +187,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "rodriguez",
+    "round": "19",
+    "race_name": "Mexico City Grand Prix",
+    "circuit_name": "Autódromo Hermanos Rodríguez",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "date": "2026-11-01",
+    "time": "20:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "sepang",
     "round": "16",
     "race_name": "Bahrain Grand Prix in Malaysia",
