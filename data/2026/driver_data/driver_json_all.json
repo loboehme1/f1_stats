@@ -243,7 +243,7 @@
       "position": 3,
       "points": 241,
       "wins": 1,
-      "contender": true,
+      "contender": false,
       "podiums": 6,
       "dnf_count": 1,
       "disq_count": 0
@@ -468,7 +468,7 @@
       "position": 2,
       "points": 242,
       "wins": 3,
-      "contender": true,
+      "contender": false,
       "podiums": 8,
       "dnf_count": 3,
       "disq_count": 0

@@ -37,8 +37,8 @@
         "position": 3,
         "points": 241,
         "wins": 1,
-        "contender": true,
-        "podiums": 1
+        "contender": false,
+        "podiums": 0
       }
     }
   ],
