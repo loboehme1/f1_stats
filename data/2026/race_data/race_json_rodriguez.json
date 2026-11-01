@@ -156,7 +156,27 @@
     {
       "quali_pos": "8",
       "sectors": {
-        "q1": "1:18.097",
+        "q1": "1:18.210",
+        "q2": "1:17.135",
+        "q3": "1:17.117"
+      },
+      "driver": {
+        "driver_id": "LIN",
+        "name": "Arvid Lindblad",
+        "number": "41",
+        "dob": "2007-08-08",
+        "nationality": "British"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
+      }
+    },
+    {
+      "quali_pos": "8",
+      "sectors": {
+        "q1": "",
         "q2": "1:17.207",
         "q3": "1:17.029"
       },
@@ -176,26 +196,6 @@
     {
       "quali_pos": "9",
       "sectors": {
-        "q1": "1:18.210",
-        "q2": "1:17.135",
-        "q3": "1:17.117"
-      },
-      "driver": {
-        "driver_id": "LIN",
-        "name": "Arvid Lindblad",
-        "number": "41",
-        "dob": "2007-08-08",
-        "nationality": "British"
-      },
-      "constr": {
-        "constr_id": "rb",
-        "name": "RB F1 Team",
-        "nationality": "Italian"
-      }
-    },
-    {
-      "quali_pos": "10",
-      "sectors": {
         "q1": "1:18.194",
         "q2": "1:17.278",
         "q3": "1:17.153"
@@ -214,11 +214,11 @@
       }
     },
     {
-      "quali_pos": "11",
+      "quali_pos": "10",
       "sectors": {
         "q1": "1:17.868",
         "q2": "1:17.306",
-        "q3": null
+        "q3": ""
       },
       "driver": {
         "driver_id": "HUL",
@@ -234,7 +234,7 @@
       }
     },
     {
-      "quali_pos": "12",
+      "quali_pos": "11",
       "sectors": {
         "q1": "1:18.517",
         "q2": "1:17.640",
@@ -254,7 +254,7 @@
       }
     },
     {
-      "quali_pos": "13",
+      "quali_pos": "12",
       "sectors": {
         "q1": "1:17.659",
         "q2": "1:17.646",
@@ -274,7 +274,7 @@
       }
     },
     {
-      "quali_pos": "14",
+      "quali_pos": "13",
       "sectors": {
         "q1": "1:17.727",
         "q2": "1:17.680",
@@ -294,7 +294,7 @@
       }
     },
     {
-      "quali_pos": "15",
+      "quali_pos": "14",
       "sectors": {
         "q1": "1:18.083",
         "q2": "1:18.083",
@@ -314,7 +314,7 @@
       }
     },
     {
-      "quali_pos": "16",
+      "quali_pos": "15",
       "sectors": {
         "q1": "1:18.521",
         "q2": "1:18.885",
@@ -334,10 +334,10 @@
       }
     },
     {
-      "quali_pos": "17",
+      "quali_pos": "16",
       "sectors": {
         "q1": "1:18.630",
-        "q2": null,
+        "q2": "",
         "q3": null
       },
       "driver": {
@@ -354,7 +354,7 @@
       }
     },
     {
-      "quali_pos": "18",
+      "quali_pos": "17",
       "sectors": {
         "q1": "1:18.908",
         "q2": null,
@@ -374,7 +374,7 @@
       }
     },
     {
-      "quali_pos": "19",
+      "quali_pos": "18",
       "sectors": {
         "q1": "1:18.958",
         "q2": null,
@@ -394,7 +394,7 @@
       }
     },
     {
-      "quali_pos": "20",
+      "quali_pos": "19",
       "sectors": {
         "q1": "1:19.072",
         "q2": null,
@@ -414,7 +414,7 @@
       }
     },
     {
-      "quali_pos": "21",
+      "quali_pos": "20",
       "sectors": {
         "q1": "1:19.105",
         "q2": null,
@@ -434,7 +434,7 @@
       }
     },
     {
-      "quali_pos": "22",
+      "quali_pos": "21",
       "sectors": {
         "q1": "1:19.852",
         "q2": null,
