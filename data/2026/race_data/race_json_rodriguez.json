@@ -381,11 +381,11 @@
         "q3": null
       },
       "driver": {
-        "driver_id": null,
+        "driver_id": "HIR",
         "name": "Ryo Hirakawa",
         "number": "50",
-        "dob": null,
-        "nationality": null
+        "dob": "1994-03-07",
+        "nationality": "Japanese"
       },
       "constr": {
         "constr_id": "haas",
