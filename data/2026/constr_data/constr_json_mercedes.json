@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "1",
-    "points": "607",
+    "points": "630",
     "wins": "12",
-    "podiums": 23,
+    "podiums": 24,
     "dnf_count": 4,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 365,
+        "points": 380,
         "wins": 9,
         "contender": true,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -34,8 +34,8 @@
       "name": "George Russell",
       "number": "63",
       "standings": {
-        "position": 2,
-        "points": 242,
+        "position": 4,
+        "points": 250,
         "wins": 3,
         "contender": false,
         "podiums": 0
@@ -150,6 +150,12 @@
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
       "points": 29
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 23
     }
   ]
 }

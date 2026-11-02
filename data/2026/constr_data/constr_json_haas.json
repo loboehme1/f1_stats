@@ -13,17 +13,17 @@
     "points": "30",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 6,
+    "dnf_count": 7,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "OCO",
-      "name": "Esteban Ocon",
-      "number": "31",
+      "driver_id": "HIR",
+      "name": "Ryo Hirakawa",
+      "number": "50",
       "standings": {
-        "position": 16,
-        "points": 7,
+        "position": 23,
+        "points": 0,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -36,6 +36,18 @@
       "standings": {
         "position": 13,
         "points": 23,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "OCO",
+      "name": "Esteban Ocon",
+      "number": "31",
+      "standings": {
+        "position": 16,
+        "points": 7,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -149,6 +161,12 @@
       "round": "18",
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
+      "points": 0
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
       "points": 0
     }
   ]

@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "355",
-    "wins": "2",
-    "podiums": 11,
+    "points": "380",
+    "wins": "3",
+    "podiums": 12,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Max Verstappen",
       "number": "3",
       "standings": {
-        "position": 4,
-        "points": 236,
-        "wins": 2,
+        "position": 2,
+        "points": 261,
+        "wins": 3,
         "contender": false,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -150,6 +150,12 @@
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
       "points": 23
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 25
     }
   ]
 }

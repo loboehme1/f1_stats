@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "6",
-    "points": "69",
+    "points": "74",
     "wins": "0",
     "podiums": 1,
     "dnf_count": 5,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "GAS",
-      "name": "Pierre Gasly",
-      "number": "10",
+      "driver_id": "COL",
+      "name": "Franco Colapinto",
+      "number": "43",
       "standings": {
-        "position": 10,
-        "points": 42,
+        "position": 12,
+        "points": 31,
         "wins": 0,
         "contender": false,
         "podiums": 0
       }
     },
     {
-      "driver_id": "COL",
-      "name": "Franco Colapinto",
-      "number": "43",
+      "driver_id": "GAS",
+      "name": "Pierre Gasly",
+      "number": "10",
       "standings": {
-        "position": 12,
-        "points": 27,
+        "position": 10,
+        "points": 43,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -150,6 +150,12 @@
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
       "points": 1
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 5
     }
   ]
 }

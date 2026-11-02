@@ -157,6 +157,15 @@
       "endPos": 6,
       "startPos": 3,
       "status": "Finished"
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 0,
+      "endPos": 12,
+      "startPos": 7,
+      "status": "Finished"
     }
   ]
 }

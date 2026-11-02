@@ -191,12 +191,16 @@
     "round": "19",
     "race_name": "Mexico City Grand Prix",
     "circuit_name": "Autódromo Hermanos Rodríguez",
-    "laps": null,
+    "laps": "71",
     "country": "Mexico",
     "city": "Mexico City",
     "date": "2026-11-01",
     "time": "20:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "HAM",
+      "rank": "1",
+      "time": "1:19.268"
+    },
     "sprint": false
   },
   {

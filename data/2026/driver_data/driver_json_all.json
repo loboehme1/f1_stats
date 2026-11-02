@@ -45,7 +45,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 6,
+      "dnf_count": 7,
       "disq_count": 0
     }
   },
@@ -66,10 +66,10 @@
     },
     "standings": {
       "position": 1,
-      "points": 365,
+      "points": 380,
       "wins": 9,
       "contender": true,
-      "podiums": 15,
+      "podiums": 16,
       "dnf_count": 1,
       "disq_count": 0
     }
@@ -95,7 +95,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 5,
+      "dnf_count": 6,
       "disq_count": 0
     }
   },
@@ -145,7 +145,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 9,
+      "dnf_count": 10,
       "disq_count": 0
     }
   },
@@ -166,7 +166,7 @@
     },
     "standings": {
       "position": 12,
-      "points": 27,
+      "points": 31,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -191,7 +191,7 @@
     },
     "standings": {
       "position": 10,
-      "points": 42,
+      "points": 43,
       "wins": 0,
       "contender": false,
       "podiums": 1,
@@ -241,11 +241,36 @@
     },
     "standings": {
       "position": 3,
-      "points": 241,
+      "points": 259,
       "wins": 1,
       "contender": false,
-      "podiums": 6,
+      "podiums": 7,
       "dnf_count": 1,
+      "disq_count": 0
+    }
+  },
+  {
+    "driver_id": "HIR",
+    "original_driver_id": "ryo_hirakawa",
+    "name": "Ryo Hirakawa",
+    "team": "Haas",
+    "number": 50,
+    "nationality": "Japanese",
+    "date_of_birth": "1994-03-07",
+    "assets": {
+      "profile_photo": "link1"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#B6BABD"
+    },
+    "standings": {
+      "position": 23,
+      "points": 0,
+      "wins": 0,
+      "contender": false,
+      "podiums": 0,
+      "dnf_count": 0,
       "disq_count": 0
     }
   },
@@ -291,7 +316,7 @@
     },
     "standings": {
       "position": 9,
-      "points": 77,
+      "points": 79,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -316,7 +341,7 @@
     },
     "standings": {
       "position": 5,
-      "points": 233,
+      "points": 245,
       "wins": 1,
       "contender": false,
       "podiums": 6,
@@ -345,7 +370,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 1,
+      "dnf_count": 2,
       "disq_count": 0
     }
   },
@@ -366,7 +391,7 @@
     },
     "standings": {
       "position": 6,
-      "points": 211,
+      "points": 221,
       "wins": 2,
       "contender": false,
       "podiums": 5,
@@ -415,7 +440,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 23,
+      "position": 24,
       "points": 0,
       "wins": 0,
       "contender": false,
@@ -441,7 +466,7 @@
     },
     "standings": {
       "position": 7,
-      "points": 144,
+      "points": 150,
       "wins": 0,
       "contender": false,
       "podiums": 2,
@@ -465,8 +490,8 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 2,
-      "points": 242,
+      "position": 4,
+      "points": 250,
       "wins": 3,
       "contender": false,
       "podiums": 8,
@@ -520,7 +545,7 @@
       "wins": 0,
       "contender": false,
       "podiums": 0,
-      "dnf_count": 11,
+      "dnf_count": 12,
       "disq_count": 0
     }
   },
@@ -565,11 +590,11 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 4,
-      "points": 236,
-      "wins": 2,
+      "position": 2,
+      "points": 261,
+      "wins": 3,
       "contender": false,
-      "podiums": 10,
+      "podiums": 11,
       "dnf_count": 4,
       "disq_count": 0
     }

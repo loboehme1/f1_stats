@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 7,
-    "points": 144,
+    "points": 150,
     "wins": 0,
     "contender": false,
     "podiums": 2,
@@ -183,6 +183,15 @@
       "points": 6,
       "endPos": 7,
       "startPos": 7,
+      "status": "Finished"
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 6,
+      "endPos": 7,
+      "startPos": 12,
       "status": "Finished"
     }
   ]

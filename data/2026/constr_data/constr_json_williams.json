@@ -150,6 +150,12 @@
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
       "points": 0
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 0
     }
   ]
 }

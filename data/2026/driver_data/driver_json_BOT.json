@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 9,
+    "dnf_count": 10,
     "disq_count": 0
   },
   "results": [
@@ -183,6 +183,15 @@
       "points": 0,
       "endPos": 20,
       "startPos": 19,
+      "status": "Retired"
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 21,
       "status": "Retired"
     }
   ]

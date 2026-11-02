@@ -13,7 +13,7 @@
     "points": "7",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 17,
+    "dnf_count": 19,
     "disq_count": 0
   },
   "drivers": [
@@ -149,6 +149,12 @@
       "round": "18",
       "raceName": "United States Grand Prix",
       "date": "2026-10-25",
+      "points": 0
+    },
+    {
+      "round": "19",
+      "raceName": "Mexico City Grand Prix",
+      "date": "2026-11-01",
       "points": 0
     }
   ]
