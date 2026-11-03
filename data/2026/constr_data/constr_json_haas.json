@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "7",
-    "points": "30",
+    "points": "31",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 7,
@@ -22,8 +22,8 @@
       "name": "Ryo Hirakawa",
       "number": "50",
       "standings": {
-        "position": 23,
-        "points": 0,
+        "position": 21,
+        "points": 1,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -167,7 +167,7 @@
       "round": "19",
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
-      "points": 0
+      "points": 1
     }
   ]
 }

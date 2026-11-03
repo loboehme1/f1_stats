@@ -46,24 +46,9 @@
       "time": "1:20.147"
     },
     {
-      "driver_id": "PIA",
-      "rank": "9",
-      "time": "1:20.690"
-    },
-    {
-      "driver_id": "COL",
-      "rank": "12",
-      "time": "1:20.750"
-    },
-    {
       "driver_id": "LAW",
       "rank": "10",
       "time": "1:20.713"
-    },
-    {
-      "driver_id": "GAS",
-      "rank": "13",
-      "time": "1:20.754"
     },
     {
       "driver_id": "BOR",
@@ -91,14 +76,29 @@
       "time": "1:21.339"
     },
     {
+      "driver_id": "PIA",
+      "rank": "9",
+      "time": "1:20.690"
+    },
+    {
       "driver_id": "HUL",
       "rank": "11",
       "time": "1:20.732"
     },
     {
+      "driver_id": "COL",
+      "rank": "12",
+      "time": "1:20.750"
+    },
+    {
       "driver_id": "PER",
       "rank": "18",
       "time": "1:21.256"
+    },
+    {
+      "driver_id": "GAS",
+      "rank": "13",
+      "time": "1:20.754"
     },
     {
       "driver_id": "LIN",
@@ -268,52 +268,6 @@
     {
       "points": 6,
       "end_pos": "7",
-      "start_pos": "12",
-      "completed_laps": "71",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "9",
-        "time": "1:20.690"
-      },
-      "driver": {
-        "driver_id": "PIA",
-        "name": "Oscar Piastri",
-        "number": "81",
-        "dob": "2001-04-06",
-        "nationality": "Australian"
-      },
-      "constr": {
-        "constr_id": "mclaren",
-        "name": "McLaren",
-        "nationality": "British"
-      }
-    },
-    {
-      "points": 4,
-      "end_pos": "8",
-      "start_pos": "11",
-      "completed_laps": "71",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "12",
-        "time": "1:20.750"
-      },
-      "driver": {
-        "driver_id": "COL",
-        "name": "Franco Colapinto",
-        "number": "43",
-        "dob": "2003-05-27",
-        "nationality": "Argentine"
-      },
-      "constr": {
-        "constr_id": "alpine",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      }
-    },
-    {
-      "points": 2,
-      "end_pos": "9",
       "start_pos": "22",
       "completed_laps": "71",
       "status": "Finished",
@@ -335,31 +289,8 @@
       }
     },
     {
-      "points": 1,
-      "end_pos": "10",
-      "start_pos": "9",
-      "completed_laps": "71",
-      "status": "Finished",
-      "fastest_lap": {
-        "rank": "13",
-        "time": "1:20.754"
-      },
-      "driver": {
-        "driver_id": "GAS",
-        "name": "Pierre Gasly",
-        "number": "10",
-        "dob": "1996-02-07",
-        "nationality": "French"
-      },
-      "constr": {
-        "constr_id": "alpine",
-        "name": "Alpine F1 Team",
-        "nationality": "French"
-      }
-    },
-    {
-      "points": 0,
-      "end_pos": "11",
+      "points": 4,
+      "end_pos": "8",
       "start_pos": "13",
       "completed_laps": "71",
       "status": "Finished",
@@ -381,8 +312,8 @@
       }
     },
     {
-      "points": 0,
-      "end_pos": "12",
+      "points": 2,
+      "end_pos": "9",
       "start_pos": "7",
       "completed_laps": "71",
       "status": "Finished",
@@ -404,8 +335,8 @@
       }
     },
     {
-      "points": 0,
-      "end_pos": "13",
+      "points": 1,
+      "end_pos": "10",
       "start_pos": "18",
       "completed_laps": "71",
       "status": "Finished",
@@ -428,7 +359,7 @@
     },
     {
       "points": 0,
-      "end_pos": "14",
+      "end_pos": "11",
       "start_pos": "16",
       "completed_laps": "71",
       "status": "Finished",
@@ -451,7 +382,7 @@
     },
     {
       "points": 0,
-      "end_pos": "15",
+      "end_pos": "12",
       "start_pos": "15",
       "completed_laps": "71",
       "status": "Finished",
@@ -474,7 +405,30 @@
     },
     {
       "points": 0,
-      "end_pos": "16",
+      "end_pos": "13",
+      "start_pos": "12",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "9",
+        "time": "1:20.690"
+      },
+      "driver": {
+        "driver_id": "PIA",
+        "name": "Oscar Piastri",
+        "number": "81",
+        "dob": "2001-04-06",
+        "nationality": "Australian"
+      },
+      "constr": {
+        "constr_id": "mclaren",
+        "name": "McLaren",
+        "nationality": "British"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "14",
       "start_pos": "10",
       "completed_laps": "71",
       "status": "Finished",
@@ -497,7 +451,30 @@
     },
     {
       "points": 0,
-      "end_pos": "17",
+      "end_pos": "15",
+      "start_pos": "11",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "12",
+        "time": "1:20.750"
+      },
+      "driver": {
+        "driver_id": "COL",
+        "name": "Franco Colapinto",
+        "number": "43",
+        "dob": "2003-05-27",
+        "nationality": "Argentine"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "16",
       "start_pos": "20",
       "completed_laps": "71",
       "status": "Finished",
@@ -516,6 +493,29 @@
         "constr_id": "cadillac",
         "name": "Cadillac F1 Team",
         "nationality": "American"
+      }
+    },
+    {
+      "points": 0,
+      "end_pos": "17",
+      "start_pos": "9",
+      "completed_laps": "71",
+      "status": "Finished",
+      "fastest_lap": {
+        "rank": "13",
+        "time": "1:20.754"
+      },
+      "driver": {
+        "driver_id": "GAS",
+        "name": "Pierre Gasly",
+        "number": "10",
+        "dob": "1996-02-07",
+        "nationality": "French"
+      },
+      "constr": {
+        "constr_id": "alpine",
+        "name": "Alpine F1 Team",
+        "nationality": "French"
       }
     },
     {

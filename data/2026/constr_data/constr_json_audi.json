@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "8",
-    "points": "23",
+    "points": "27",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 6,
@@ -22,8 +22,8 @@
       "name": "Gabriel Bortoleto",
       "number": "5",
       "standings": {
-        "position": 15,
-        "points": 10,
+        "position": 14,
+        "points": 14,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -34,7 +34,7 @@
       "name": "Nico Hülkenberg",
       "number": "27",
       "standings": {
-        "position": 14,
+        "position": 15,
         "points": 13,
         "wins": 0,
         "contender": false,
@@ -155,7 +155,7 @@
       "round": "19",
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
-      "points": 0
+      "points": 4
     }
   ]
 }

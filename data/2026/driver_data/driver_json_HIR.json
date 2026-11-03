@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 23,
-    "points": 0,
+    "position": 21,
+    "points": 1,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -27,8 +27,8 @@
       "round": "19",
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
-      "points": 0,
-      "endPos": 13,
+      "points": 1,
+      "endPos": 10,
       "startPos": 18,
       "status": "Finished"
     }

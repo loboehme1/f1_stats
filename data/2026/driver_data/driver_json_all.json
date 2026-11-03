@@ -115,8 +115,8 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 15,
-      "points": 10,
+      "position": 14,
+      "points": 14,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -140,7 +140,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 22,
+      "position": 23,
       "points": 0,
       "wins": 0,
       "contender": false,
@@ -166,7 +166,7 @@
     },
     "standings": {
       "position": 12,
-      "points": 31,
+      "points": 27,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -191,7 +191,7 @@
     },
     "standings": {
       "position": 10,
-      "points": 43,
+      "points": 42,
       "wins": 0,
       "contender": false,
       "podiums": 1,
@@ -216,7 +216,7 @@
     },
     "standings": {
       "position": 8,
-      "points": 105,
+      "points": 107,
       "wins": 0,
       "contender": false,
       "podiums": 1,
@@ -265,8 +265,8 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 23,
-      "points": 0,
+      "position": 21,
+      "points": 1,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -290,7 +290,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 14,
+      "position": 15,
       "points": 13,
       "wins": 0,
       "contender": false,
@@ -316,7 +316,7 @@
     },
     "standings": {
       "position": 9,
-      "points": 79,
+      "points": 83,
       "wins": 0,
       "contender": false,
       "podiums": 0,
@@ -466,7 +466,7 @@
     },
     "standings": {
       "position": 7,
-      "points": 150,
+      "points": 144,
       "wins": 0,
       "contender": false,
       "podiums": 2,
@@ -540,7 +540,7 @@
       "secondary": "#B6BABD"
     },
     "standings": {
-      "position": 21,
+      "position": 22,
       "points": 0,
       "wins": 0,
       "contender": false,

@@ -588,202 +588,6 @@
     ]
   },
   {
-    "driver_id": "PIA",
-    "code": "PIA",
-    "name": "Oscar Piastri",
-    "color": "#FF8700",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "18"
-      },
-      {
-        "round": 2,
-        "points": "3",
-        "position": "12"
-      },
-      {
-        "round": 3,
-        "points": "21",
-        "position": "6"
-      },
-      {
-        "round": 4,
-        "points": "43",
-        "position": "6"
-      },
-      {
-        "round": 5,
-        "points": "48",
-        "position": "6"
-      },
-      {
-        "round": 6,
-        "points": "58",
-        "position": "5"
-      },
-      {
-        "round": 7,
-        "points": "68",
-        "position": "6"
-      },
-      {
-        "round": 8,
-        "points": "80",
-        "position": "4"
-      },
-      {
-        "round": 9,
-        "points": "82",
-        "position": "6"
-      },
-      {
-        "round": 11,
-        "points": "94",
-        "position": "7"
-      },
-      {
-        "round": 12,
-        "points": "106",
-        "position": "7"
-      },
-      {
-        "round": 13,
-        "points": "116",
-        "position": "7"
-      },
-      {
-        "round": 14,
-        "points": "120",
-        "position": "7"
-      },
-      {
-        "round": 15,
-        "points": "120",
-        "position": "7"
-      },
-      {
-        "round": 16,
-        "points": "128",
-        "position": "7"
-      },
-      {
-        "round": 17,
-        "points": "138",
-        "position": "7"
-      },
-      {
-        "round": 18,
-        "points": "144",
-        "position": "7"
-      },
-      {
-        "round": 19,
-        "points": "150",
-        "position": "7"
-      }
-    ]
-  },
-  {
-    "driver_id": "COL",
-    "code": "COL",
-    "name": "Franco Colapinto",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "0",
-        "position": "14"
-      },
-      {
-        "round": 2,
-        "points": "1",
-        "position": "15"
-      },
-      {
-        "round": 3,
-        "points": "1",
-        "position": "16"
-      },
-      {
-        "round": 4,
-        "points": "7",
-        "position": "11"
-      },
-      {
-        "round": 5,
-        "points": "15",
-        "position": "11"
-      },
-      {
-        "round": 6,
-        "points": "15",
-        "position": "12"
-      },
-      {
-        "round": 7,
-        "points": "16",
-        "position": "12"
-      },
-      {
-        "round": 8,
-        "points": "16",
-        "position": "12"
-      },
-      {
-        "round": 9,
-        "points": "18",
-        "position": "13"
-      },
-      {
-        "round": 11,
-        "points": "19",
-        "position": "12"
-      },
-      {
-        "round": 12,
-        "points": "19",
-        "position": "12"
-      },
-      {
-        "round": 13,
-        "points": "21",
-        "position": "12"
-      },
-      {
-        "round": 14,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 15,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 16,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 17,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 18,
-        "points": "27",
-        "position": "12"
-      },
-      {
-        "round": 19,
-        "points": "31",
-        "position": "12"
-      }
-    ]
-  },
-  {
     "driver_id": "LAW",
     "code": "LAW",
     "name": "Liam Lawson",
@@ -876,106 +680,8 @@
       },
       {
         "round": 19,
-        "points": "79",
+        "points": "83",
         "position": "9"
-      }
-    ]
-  },
-  {
-    "driver_id": "GAS",
-    "code": "GAS",
-    "name": "Pierre Gasly",
-    "color": "#f743e8",
-    "progression": [
-      {
-        "round": 1,
-        "points": "1",
-        "position": "10"
-      },
-      {
-        "round": 2,
-        "points": "9",
-        "position": "7"
-      },
-      {
-        "round": 3,
-        "points": "15",
-        "position": "8"
-      },
-      {
-        "round": 4,
-        "points": "16",
-        "position": "9"
-      },
-      {
-        "round": 5,
-        "points": "20",
-        "position": "8"
-      },
-      {
-        "round": 6,
-        "points": "35",
-        "position": "8"
-      },
-      {
-        "round": 7,
-        "points": "41",
-        "position": "8"
-      },
-      {
-        "round": 8,
-        "points": "41",
-        "position": "9"
-      },
-      {
-        "round": 9,
-        "points": "42",
-        "position": "9"
-      },
-      {
-        "round": 11,
-        "points": "33",
-        "position": "10"
-      },
-      {
-        "round": 12,
-        "points": "35",
-        "position": "10"
-      },
-      {
-        "round": 13,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 14,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 15,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 16,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 17,
-        "points": "41",
-        "position": "10"
-      },
-      {
-        "round": 18,
-        "points": "42",
-        "position": "10"
-      },
-      {
-        "round": 19,
-        "points": "43",
-        "position": "10"
       }
     ]
   },
@@ -1072,8 +778,8 @@
       },
       {
         "round": 19,
-        "points": "10",
-        "position": "15"
+        "points": "14",
+        "position": "14"
       }
     ]
   },
@@ -1115,7 +821,7 @@
       },
       {
         "round": 19,
-        "points": "105",
+        "points": "107",
         "position": "8"
       }
     ]
@@ -1128,8 +834,8 @@
     "progression": [
       {
         "round": 19,
-        "points": "0",
-        "position": "23"
+        "points": "1",
+        "position": "21"
       }
     ]
   },
@@ -1330,6 +1036,104 @@
     ]
   },
   {
+    "driver_id": "PIA",
+    "code": "PIA",
+    "name": "Oscar Piastri",
+    "color": "#FF8700",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
+        "position": "18"
+      },
+      {
+        "round": 2,
+        "points": "3",
+        "position": "12"
+      },
+      {
+        "round": 3,
+        "points": "21",
+        "position": "6"
+      },
+      {
+        "round": 4,
+        "points": "43",
+        "position": "6"
+      },
+      {
+        "round": 5,
+        "points": "48",
+        "position": "6"
+      },
+      {
+        "round": 6,
+        "points": "58",
+        "position": "5"
+      },
+      {
+        "round": 7,
+        "points": "68",
+        "position": "6"
+      },
+      {
+        "round": 8,
+        "points": "80",
+        "position": "4"
+      },
+      {
+        "round": 9,
+        "points": "82",
+        "position": "6"
+      },
+      {
+        "round": 11,
+        "points": "94",
+        "position": "7"
+      },
+      {
+        "round": 12,
+        "points": "106",
+        "position": "7"
+      },
+      {
+        "round": 13,
+        "points": "116",
+        "position": "7"
+      },
+      {
+        "round": 14,
+        "points": "120",
+        "position": "7"
+      },
+      {
+        "round": 15,
+        "points": "120",
+        "position": "7"
+      },
+      {
+        "round": 16,
+        "points": "128",
+        "position": "7"
+      },
+      {
+        "round": 17,
+        "points": "138",
+        "position": "7"
+      },
+      {
+        "round": 18,
+        "points": "144",
+        "position": "7"
+      },
+      {
+        "round": 19,
+        "points": "144",
+        "position": "7"
+      }
+    ]
+  },
+  {
     "driver_id": "HUL",
     "code": "HUL",
     "name": "Nico Hülkenberg",
@@ -1423,7 +1227,105 @@
       {
         "round": 19,
         "points": "13",
+        "position": "15"
+      }
+    ]
+  },
+  {
+    "driver_id": "COL",
+    "code": "COL",
+    "name": "Franco Colapinto",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "0",
         "position": "14"
+      },
+      {
+        "round": 2,
+        "points": "1",
+        "position": "15"
+      },
+      {
+        "round": 3,
+        "points": "1",
+        "position": "16"
+      },
+      {
+        "round": 4,
+        "points": "7",
+        "position": "11"
+      },
+      {
+        "round": 5,
+        "points": "15",
+        "position": "11"
+      },
+      {
+        "round": 6,
+        "points": "15",
+        "position": "12"
+      },
+      {
+        "round": 7,
+        "points": "16",
+        "position": "12"
+      },
+      {
+        "round": 8,
+        "points": "16",
+        "position": "12"
+      },
+      {
+        "round": 9,
+        "points": "18",
+        "position": "13"
+      },
+      {
+        "round": 11,
+        "points": "19",
+        "position": "12"
+      },
+      {
+        "round": 12,
+        "points": "19",
+        "position": "12"
+      },
+      {
+        "round": 13,
+        "points": "21",
+        "position": "12"
+      },
+      {
+        "round": 14,
+        "points": "27",
+        "position": "12"
+      },
+      {
+        "round": 15,
+        "points": "27",
+        "position": "12"
+      },
+      {
+        "round": 16,
+        "points": "27",
+        "position": "12"
+      },
+      {
+        "round": 17,
+        "points": "27",
+        "position": "12"
+      },
+      {
+        "round": 18,
+        "points": "27",
+        "position": "12"
+      },
+      {
+        "round": 19,
+        "points": "27",
+        "position": "12"
       }
     ]
   },
@@ -1522,6 +1424,104 @@
         "round": 19,
         "points": "0",
         "position": "24"
+      }
+    ]
+  },
+  {
+    "driver_id": "GAS",
+    "code": "GAS",
+    "name": "Pierre Gasly",
+    "color": "#f743e8",
+    "progression": [
+      {
+        "round": 1,
+        "points": "1",
+        "position": "10"
+      },
+      {
+        "round": 2,
+        "points": "9",
+        "position": "7"
+      },
+      {
+        "round": 3,
+        "points": "15",
+        "position": "8"
+      },
+      {
+        "round": 4,
+        "points": "16",
+        "position": "9"
+      },
+      {
+        "round": 5,
+        "points": "20",
+        "position": "8"
+      },
+      {
+        "round": 6,
+        "points": "35",
+        "position": "8"
+      },
+      {
+        "round": 7,
+        "points": "41",
+        "position": "8"
+      },
+      {
+        "round": 8,
+        "points": "41",
+        "position": "9"
+      },
+      {
+        "round": 9,
+        "points": "42",
+        "position": "9"
+      },
+      {
+        "round": 11,
+        "points": "33",
+        "position": "10"
+      },
+      {
+        "round": 12,
+        "points": "35",
+        "position": "10"
+      },
+      {
+        "round": 13,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 14,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 15,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 16,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 17,
+        "points": "41",
+        "position": "10"
+      },
+      {
+        "round": 18,
+        "points": "42",
+        "position": "10"
+      },
+      {
+        "round": 19,
+        "points": "42",
+        "position": "10"
       }
     ]
   },
@@ -1815,7 +1815,7 @@
       {
         "round": 19,
         "points": "0",
-        "position": "22"
+        "position": "23"
       }
     ]
   },
@@ -1913,7 +1913,7 @@
       {
         "round": 19,
         "points": "0",
-        "position": "21"
+        "position": "22"
       }
     ]
   },
