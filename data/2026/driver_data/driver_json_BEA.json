@@ -193,6 +193,15 @@
       "endPos": 19,
       "startPos": 14,
       "status": "Retired"
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 0,
+      "endPos": "17",
+      "startPos": null,
+      "status": "Finished"
     }
   ]
 }

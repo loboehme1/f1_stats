@@ -18,18 +18,6 @@
   },
   "drivers": [
     {
-      "driver_id": "HIR",
-      "name": "Ryo Hirakawa",
-      "number": "50",
-      "standings": {
-        "position": 21,
-        "points": 1,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
-    {
       "driver_id": "BEA",
       "name": "Oliver Bearman",
       "number": "87",
@@ -42,12 +30,44 @@
       }
     },
     {
+      "driver_id": "RAF",
+      "name": "Rafael Camara",
+      "number": "51",
+      "standings": {
+        "podiums": 0
+      }
+    },
+    {
       "driver_id": "OCO",
       "name": "Esteban Ocon",
       "number": "31",
       "standings": {
         "position": 16,
         "points": 7,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "HIR",
+      "name": "Ryo Hirakawa",
+      "number": "50",
+      "standings": {
+        "position": 21,
+        "points": 1,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "",
+      "name": "Rafael Camara",
+      "number": "",
+      "standings": {
+        "position": 25,
+        "points": 0,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -168,6 +188,12 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
       "points": 1
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 0
     }
   ]
 }

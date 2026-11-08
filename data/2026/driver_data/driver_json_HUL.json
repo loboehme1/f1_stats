@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 15,
-    "points": 13,
+    "points": 14,
     "wins": 0,
     "contender": false,
     "podiums": 0,
@@ -192,6 +192,15 @@
       "points": 0,
       "endPos": 14,
       "startPos": 10,
+      "status": "Finished"
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 1,
+      "endPos": "10",
+      "startPos": null,
       "status": "Finished"
     }
   ]

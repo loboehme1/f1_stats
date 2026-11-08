@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 12,
+    "dnf_count": 13,
     "disq_count": 0
   },
   "results": [
@@ -192,6 +192,15 @@
       "points": 0,
       "endPos": 21,
       "startPos": 19,
+      "status": "Retired"
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 0,
+      "endPos": "21",
+      "startPos": null,
       "status": "Retired"
     }
   ]

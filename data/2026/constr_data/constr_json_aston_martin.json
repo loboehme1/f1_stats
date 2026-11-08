@@ -13,22 +13,10 @@
     "points": "7",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 19,
+    "dnf_count": 20,
     "disq_count": 0
   },
   "drivers": [
-    {
-      "driver_id": "STR",
-      "name": "Lance Stroll",
-      "number": "18",
-      "standings": {
-        "position": 22,
-        "points": 0,
-        "wins": 0,
-        "contender": false,
-        "podiums": 0
-      }
-    },
     {
       "driver_id": "ALO",
       "name": "Fernando Alonso",
@@ -36,6 +24,18 @@
       "standings": {
         "position": 17,
         "points": 7,
+        "wins": 0,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
+      "driver_id": "STR",
+      "name": "Lance Stroll",
+      "number": "18",
+      "standings": {
+        "position": 22,
+        "points": 0,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -155,6 +155,12 @@
       "round": "19",
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
+      "points": 0
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
       "points": 0
     }
   ]

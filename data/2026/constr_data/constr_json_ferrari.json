@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "2",
-    "points": "504",
+    "points": "512",
     "wins": "2",
     "podiums": 13,
     "dnf_count": 4,
@@ -18,24 +18,24 @@
   },
   "drivers": [
     {
-      "driver_id": "HAM",
-      "name": "Lewis Hamilton",
-      "number": "44",
+      "driver_id": "LEC",
+      "name": "Charles Leclerc",
+      "number": "16",
       "standings": {
-        "position": 3,
-        "points": 259,
+        "position": 5,
+        "points": 251,
         "wins": 1,
         "contender": false,
         "podiums": 1
       }
     },
     {
-      "driver_id": "LEC",
-      "name": "Charles Leclerc",
-      "number": "16",
+      "driver_id": "HAM",
+      "name": "Lewis Hamilton",
+      "number": "44",
       "standings": {
-        "position": 5,
-        "points": 245,
+        "position": 4,
+        "points": 261,
         "wins": 1,
         "contender": false,
         "podiums": 1
@@ -156,6 +156,12 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
       "points": 30
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 8
     }
   ]
 }

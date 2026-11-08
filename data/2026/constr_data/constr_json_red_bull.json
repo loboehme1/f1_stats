@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "3",
-    "points": "382",
+    "points": "415",
     "wins": "3",
-    "podiums": 12,
+    "podiums": 14,
     "dnf_count": 6,
     "disq_count": 0
   },
@@ -23,10 +23,10 @@
       "number": "3",
       "standings": {
         "position": 2,
-        "points": 261,
+        "points": 279,
         "wins": 3,
         "contender": false,
-        "podiums": 2
+        "podiums": 3
       }
     },
     {
@@ -35,10 +35,10 @@
       "number": "6",
       "standings": {
         "position": 8,
-        "points": 107,
+        "points": 122,
         "wins": 0,
         "contender": false,
-        "podiums": 0
+        "podiums": 1
       }
     }
   ],
@@ -156,6 +156,12 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
       "points": 27
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 33
     }
   ]
 }

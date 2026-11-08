@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "8",
-    "points": "27",
+    "points": "28",
     "wins": "0",
     "podiums": 0,
     "dnf_count": 6,
@@ -18,11 +18,11 @@
   },
   "drivers": [
     {
-      "driver_id": "BOR",
-      "name": "Gabriel Bortoleto",
-      "number": "5",
+      "driver_id": "HUL",
+      "name": "Nico Hülkenberg",
+      "number": "27",
       "standings": {
-        "position": 14,
+        "position": 15,
         "points": 14,
         "wins": 0,
         "contender": false,
@@ -30,12 +30,12 @@
       }
     },
     {
-      "driver_id": "HUL",
-      "name": "Nico Hülkenberg",
-      "number": "27",
+      "driver_id": "BOR",
+      "name": "Gabriel Bortoleto",
+      "number": "5",
       "standings": {
-        "position": 15,
-        "points": 13,
+        "position": 14,
+        "points": 14,
         "wins": 0,
         "contender": false,
         "podiums": 0
@@ -156,6 +156,12 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
       "points": 4
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 1
     }
   ]
 }

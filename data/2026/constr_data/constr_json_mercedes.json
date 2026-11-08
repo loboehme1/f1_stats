@@ -10,7 +10,7 @@
   },
   "standings": {
     "position": "1",
-    "points": "630",
+    "points": "652",
     "wins": "12",
     "podiums": 24,
     "dnf_count": 4,
@@ -18,27 +18,27 @@
   },
   "drivers": [
     {
+      "driver_id": "RUS",
+      "name": "George Russell",
+      "number": "63",
+      "standings": {
+        "position": 3,
+        "points": 262,
+        "wins": 3,
+        "contender": false,
+        "podiums": 0
+      }
+    },
+    {
       "driver_id": "ANT",
       "name": "Kimi Antonelli",
       "number": "12",
       "standings": {
         "position": 1,
-        "points": 380,
+        "points": 390,
         "wins": 9,
         "contender": true,
         "podiums": 2
-      }
-    },
-    {
-      "driver_id": "RUS",
-      "name": "George Russell",
-      "number": "63",
-      "standings": {
-        "position": 4,
-        "points": 250,
-        "wins": 3,
-        "contender": false,
-        "podiums": 0
       }
     }
   ],
@@ -156,6 +156,12 @@
       "raceName": "Mexico City Grand Prix",
       "date": "2026-11-01",
       "points": 23
+    },
+    {
+      "round": "20",
+      "raceName": "Brazilian Grand Prix",
+      "date": "2026-11-08",
+      "points": 22
     }
   ]
 }
