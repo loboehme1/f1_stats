@@ -94,7 +94,11 @@
     "city": "São Paulo",
     "date": "2026-11-08",
     "time": "17:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "ANT",
+      "rank": "1",
+      "time": "1:12.689"
+    },
     "sprint": false
   },
   {

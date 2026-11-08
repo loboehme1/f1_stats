@@ -199,8 +199,8 @@
       "raceName": "Brazilian Grand Prix",
       "date": "2026-11-08",
       "points": 1,
-      "endPos": "10",
-      "startPos": null,
+      "endPos": 10,
+      "startPos": 4,
       "status": "Finished"
     }
   ]

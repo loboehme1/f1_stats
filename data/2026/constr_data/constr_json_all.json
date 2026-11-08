@@ -191,7 +191,7 @@
     },
     "standings": {
       "position": "2",
-      "points": "512",
+      "points": "510",
       "wins": "2",
       "podiums": 13,
       "dnf_count": 4,
@@ -204,7 +204,7 @@
         "number": "16",
         "standings": {
           "position": 5,
-          "points": 251,
+          "points": 249,
           "wins": 1,
           "contender": false,
           "podiums": 1
@@ -403,7 +403,7 @@
     },
     "standings": {
       "position": "5",
-      "points": "112",
+      "points": "114",
       "wins": "0",
       "podiums": 0,
       "dnf_count": 3,
@@ -416,7 +416,7 @@
         "number": "30",
         "standings": {
           "position": 9,
-          "points": 87,
+          "points": 89,
           "wins": 0,
           "contender": false,
           "podiums": 0

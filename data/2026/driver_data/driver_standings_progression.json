@@ -563,109 +563,6 @@
     ]
   },
   {
-    "driver_id": "LEC",
-    "code": "LEC",
-    "name": "Charles Leclerc",
-    "color": "#DC0000",
-    "progression": [
-      {
-        "round": 1,
-        "points": "15",
-        "position": "3"
-      },
-      {
-        "round": 2,
-        "points": "34",
-        "position": "3"
-      },
-      {
-        "round": 3,
-        "points": "49",
-        "position": "3"
-      },
-      {
-        "round": 4,
-        "points": "59",
-        "position": "3"
-      },
-      {
-        "round": 5,
-        "points": "75",
-        "position": "3"
-      },
-      {
-        "round": 6,
-        "points": "75",
-        "position": "4"
-      },
-      {
-        "round": 7,
-        "points": "75",
-        "position": "4"
-      },
-      {
-        "round": 8,
-        "points": "79",
-        "position": "6"
-      },
-      {
-        "round": 9,
-        "points": "108",
-        "position": "4"
-      },
-      {
-        "round": 11,
-        "points": "138",
-        "position": "4"
-      },
-      {
-        "round": 12,
-        "points": "155",
-        "position": "5"
-      },
-      {
-        "round": 13,
-        "points": "155",
-        "position": "5"
-      },
-      {
-        "round": 14,
-        "points": "167",
-        "position": "5"
-      },
-      {
-        "round": 15,
-        "points": "179",
-        "position": "5"
-      },
-      {
-        "round": 16,
-        "points": "191",
-        "position": "4"
-      },
-      {
-        "round": 17,
-        "points": "215",
-        "position": "5"
-      },
-      {
-        "round": 18,
-        "points": "233",
-        "position": "5"
-      },
-      {
-        "round": 19,
-        "points": "245",
-        "position": "5"
-      },
-      {
-        "round": 20,
-        "points": "251",
-        "position": "5"
-      }
-    ]
-  },
-  {
     "driver_id": "LAW",
     "code": "LAW",
     "name": "Liam Lawson",
@@ -763,8 +660,111 @@
       },
       {
         "round": 20,
-        "points": "87",
+        "points": "89",
         "position": "9"
+      }
+    ]
+  },
+  {
+    "driver_id": "LEC",
+    "code": "LEC",
+    "name": "Charles Leclerc",
+    "color": "#DC0000",
+    "progression": [
+      {
+        "round": 1,
+        "points": "15",
+        "position": "3"
+      },
+      {
+        "round": 2,
+        "points": "34",
+        "position": "3"
+      },
+      {
+        "round": 3,
+        "points": "49",
+        "position": "3"
+      },
+      {
+        "round": 4,
+        "points": "59",
+        "position": "3"
+      },
+      {
+        "round": 5,
+        "points": "75",
+        "position": "3"
+      },
+      {
+        "round": 6,
+        "points": "75",
+        "position": "4"
+      },
+      {
+        "round": 7,
+        "points": "75",
+        "position": "4"
+      },
+      {
+        "round": 8,
+        "points": "79",
+        "position": "6"
+      },
+      {
+        "round": 9,
+        "points": "108",
+        "position": "4"
+      },
+      {
+        "round": 11,
+        "points": "138",
+        "position": "4"
+      },
+      {
+        "round": 12,
+        "points": "155",
+        "position": "5"
+      },
+      {
+        "round": 13,
+        "points": "155",
+        "position": "5"
+      },
+      {
+        "round": 14,
+        "points": "167",
+        "position": "5"
+      },
+      {
+        "round": 15,
+        "points": "179",
+        "position": "5"
+      },
+      {
+        "round": 16,
+        "points": "191",
+        "position": "4"
+      },
+      {
+        "round": 17,
+        "points": "215",
+        "position": "5"
+      },
+      {
+        "round": 18,
+        "points": "233",
+        "position": "5"
+      },
+      {
+        "round": 19,
+        "points": "245",
+        "position": "5"
+      },
+      {
+        "round": 20,
+        "points": "249",
+        "position": "5"
       }
     ]
   },
