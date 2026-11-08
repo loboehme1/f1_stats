@@ -89,10 +89,12 @@
     "round": "20",
     "race_name": "Brazilian Grand Prix",
     "circuit_name": "Autódromo José Carlos Pace",
+    "laps": null,
     "country": "Brazil",
     "city": "São Paulo",
     "date": "2026-11-08",
     "time": "17:00:00Z",
+    "fastest_lap": null,
     "sprint": false
   },
   {
