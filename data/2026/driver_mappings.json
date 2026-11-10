@@ -19,7 +19,7 @@
     "bearman": "BEA",
     "perez": "PER",
     "sainz": "SAI",
-    "rafael_camara": "RAF",
+    "rafael_camara": "CAM",
     "stroll": "STR",
     "bottas": "BOT"
   },
@@ -43,7 +43,7 @@
     "BEA": "bearman",
     "PER": "perez",
     "SAI": "sainz",
-    "RAF": "rafael_camara",
+    "CAM": "rafael_camara",
     "STR": "stroll",
     "BOT": "bottas"
   }

@@ -1902,11 +1902,17 @@
     ]
   },
   {
-    "driver_id": "RAF",
+    "driver_id": "CAM",
     "code": "RAF",
     "name": "Rafael Camara",
     "color": "#FFFFFF",
-    "progression": []
+    "progression": [
+      {
+        "round": 20,
+        "points": "0",
+        "position": "25"
+      }
+    ]
   },
   {
     "driver_id": "STR",
@@ -2270,19 +2276,6 @@
         "round": 20,
         "points": "1",
         "position": "21"
-      }
-    ]
-  },
-  {
-    "driver_id": "",
-    "code": "RAF",
-    "name": "Rafael Camara",
-    "color": "#FFFFFF",
-    "progression": [
-      {
-        "round": 20,
-        "points": "0",
-        "position": "25"
       }
     ]
   }

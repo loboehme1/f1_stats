@@ -150,6 +150,31 @@
     }
   },
   {
+    "driver_id": "CAM",
+    "original_driver_id": "rafael_camara",
+    "name": "Rafael Camara",
+    "team": "Haas",
+    "number": 51,
+    "nationality": "Brazilian",
+    "date_of_birth": "2005-05-05",
+    "assets": {
+      "profile_photo": "link1"
+    },
+    "colors": {
+      "primary": "#FFFFFF",
+      "secondary": "#B6BABD"
+    },
+    "standings": {
+      "position": 25,
+      "points": 0,
+      "wins": 0,
+      "contender": false,
+      "podiums": 0,
+      "dnf_count": 0,
+      "disq_count": 0
+    }
+  },
+  {
     "driver_id": "COL",
     "original_driver_id": "colapinto",
     "name": "Franco Colapinto",
@@ -471,27 +496,6 @@
       "contender": false,
       "podiums": 2,
       "dnf_count": 3,
-      "disq_count": 0
-    }
-  },
-  {
-    "driver_id": "RAF",
-    "original_driver_id": "rafael_camara",
-    "name": "Rafael Camara",
-    "team": "Haas",
-    "number": 51,
-    "nationality": "",
-    "date_of_birth": "",
-    "assets": {
-      "profile_photo": "link1"
-    },
-    "colors": {
-      "primary": "#FFFFFF",
-      "secondary": "#B6BABD"
-    },
-    "standings": {
-      "podiums": 0,
-      "dnf_count": 0,
       "disq_count": 0
     }
   },
