@@ -796,26 +796,6 @@
       }
     },
     {
-      "quali_pos": "8",
-      "sectors": {
-        "q1": "",
-        "q2": "1:17.207",
-        "q3": "1:17.029"
-      },
-      "driver": {
-        "driver_id": "LAW",
-        "name": "Liam Lawson",
-        "number": "30",
-        "dob": "2002-02-11",
-        "nationality": "New Zealander"
-      },
-      "constr": {
-        "constr_id": "rb",
-        "name": "RB F1 Team",
-        "nationality": "Italian"
-      }
-    },
-    {
       "quali_pos": "9",
       "sectors": {
         "q1": "1:18.194",
@@ -1073,6 +1053,26 @@
         "constr_id": "cadillac",
         "name": "Cadillac F1 Team",
         "nationality": "American"
+      }
+    },
+    {
+      "quali_pos": "22",
+      "sectors": {
+        "q1": "",
+        "q2": null,
+        "q3": null
+      },
+      "driver": {
+        "driver_id": "LAW",
+        "name": "Liam Lawson",
+        "number": "30",
+        "dob": "2002-02-11",
+        "nationality": "New Zealander"
+      },
+      "constr": {
+        "constr_id": "rb",
+        "name": "RB F1 Team",
+        "nationality": "Italian"
       }
     },
     {
