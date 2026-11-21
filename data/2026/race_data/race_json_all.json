@@ -306,6 +306,17 @@
     "sprint": false
   },
   {
+    "circuit_id": "vegas",
+    "round": "21",
+    "race_name": "Las Vegas Grand Prix",
+    "circuit_name": "Las Vegas Strip Street Circuit",
+    "country": "USA",
+    "city": "Las Vegas",
+    "date": "2026-11-22",
+    "time": "04:00:00Z",
+    "sprint": false
+  },
+  {
     "circuit_id": "villeneuve",
     "round": "5",
     "race_name": "Canadian Grand Prix",
