@@ -207,7 +207,7 @@
           "points": 249,
           "wins": 1,
           "contender": false,
-          "podiums": 1
+          "podiums": 0
         }
       },
       {
@@ -378,7 +378,7 @@
           "points": 390,
           "wins": 9,
           "contender": true,
-          "podiums": 2
+          "podiums": 1
         }
       }
     ]
@@ -468,7 +468,7 @@
           "points": 279,
           "wins": 3,
           "contender": false,
-          "podiums": 3
+          "podiums": 2
         }
       },
       {
