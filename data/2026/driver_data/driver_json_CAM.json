@@ -31,6 +31,15 @@
       "endPos": 20,
       "startPos": 11,
       "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "points": 0,
+      "endPos": 16,
+      "startPos": 15,
+      "status": "Finished"
     }
   ]
 }

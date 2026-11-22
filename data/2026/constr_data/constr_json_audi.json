@@ -162,6 +162,12 @@
       "raceName": "Brazilian Grand Prix",
       "date": "2026-11-08",
       "points": 1
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "points": 0
     }
   ]
 }

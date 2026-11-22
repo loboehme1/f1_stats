@@ -19,7 +19,7 @@
     "wins": 0,
     "contender": false,
     "podiums": 0,
-    "dnf_count": 2,
+    "dnf_count": 3,
     "disq_count": 0
   },
   "results": [
@@ -202,6 +202,15 @@
       "endPos": 11,
       "startPos": 18,
       "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "points": 0,
+      "endPos": 20,
+      "startPos": 5,
+      "status": "Retired"
     }
   ]
 }

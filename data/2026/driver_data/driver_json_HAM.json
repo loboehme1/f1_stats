@@ -14,8 +14,8 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 4,
-    "points": 261,
+    "position": 3,
+    "points": 267,
     "wins": 1,
     "contender": false,
     "podiums": 7,
@@ -201,6 +201,15 @@
       "points": 2,
       "endPos": 9,
       "startPos": 20,
+      "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "points": 6,
+      "endPos": 7,
+      "startPos": 11,
       "status": "Finished"
     }
   ]

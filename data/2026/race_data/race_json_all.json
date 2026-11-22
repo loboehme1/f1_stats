@@ -310,12 +310,16 @@
     "round": "21",
     "race_name": "Las Vegas Grand Prix",
     "circuit_name": "Las Vegas Strip Street Circuit",
-    "laps": null,
+    "laps": "50",
     "country": "USA",
     "city": "Las Vegas",
     "date": "2026-11-22",
     "time": "04:00:00Z",
-    "fastest_lap": null,
+    "fastest_lap": {
+      "driver_id": "LAW",
+      "rank": "1",
+      "time": "1:35.591"
+    },
     "sprint": false
   },
   {

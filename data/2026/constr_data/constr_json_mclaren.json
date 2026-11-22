@@ -10,9 +10,9 @@
   },
   "standings": {
     "position": "4",
-    "points": "398",
+    "points": "431",
     "wins": "3",
-    "podiums": 8,
+    "podiums": 10,
     "dnf_count": 7,
     "disq_count": 0
   },
@@ -22,11 +22,11 @@
       "name": "Lando Norris",
       "number": "1",
       "standings": {
-        "position": 6,
-        "points": 246,
+        "position": 5,
+        "points": 264,
         "wins": 3,
         "contender": false,
-        "podiums": 1
+        "podiums": 2
       }
     },
     {
@@ -35,10 +35,10 @@
       "number": "81",
       "standings": {
         "position": 7,
-        "points": 152,
+        "points": 167,
         "wins": 0,
         "contender": false,
-        "podiums": 0
+        "podiums": 1
       }
     }
   ],
@@ -161,6 +161,12 @@
       "round": "20",
       "raceName": "Brazilian Grand Prix",
       "date": "2026-11-08",
+      "points": 33
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
       "points": 33
     }
   ]

@@ -15,7 +15,7 @@
   },
   "standings": {
     "position": 10,
-    "points": 42,
+    "points": 52,
     "wins": 0,
     "contender": false,
     "podiums": 1,
@@ -201,6 +201,15 @@
       "points": 0,
       "endPos": 14,
       "startPos": 15,
+      "status": "Finished"
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
+      "points": 10,
+      "endPos": 5,
+      "startPos": 8,
       "status": "Finished"
     }
   ]

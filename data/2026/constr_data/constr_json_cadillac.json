@@ -13,16 +13,16 @@
     "points": "0",
     "wins": "0",
     "podiums": 0,
-    "dnf_count": 16,
+    "dnf_count": 17,
     "disq_count": 0
   },
   "drivers": [
     {
-      "driver_id": "PER",
-      "name": "Sergio Pérez",
-      "number": "11",
+      "driver_id": "BOT",
+      "name": "Valtteri Bottas",
+      "number": "77",
       "standings": {
-        "position": 24,
+        "position": 23,
         "points": 0,
         "wins": 0,
         "contender": false,
@@ -30,11 +30,11 @@
       }
     },
     {
-      "driver_id": "BOT",
-      "name": "Valtteri Bottas",
-      "number": "77",
+      "driver_id": "PER",
+      "name": "Sergio Pérez",
+      "number": "11",
       "standings": {
-        "position": 23,
+        "position": 24,
         "points": 0,
         "wins": 0,
         "contender": false,
@@ -161,6 +161,12 @@
       "round": "20",
       "raceName": "Brazilian Grand Prix",
       "date": "2026-11-08",
+      "points": 0
+    },
+    {
+      "round": "21",
+      "raceName": "Las Vegas Grand Prix",
+      "date": "2026-11-22",
       "points": 0
     }
   ]
