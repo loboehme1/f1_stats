@@ -14,10 +14,6 @@
     "secondary": "#B6BABD"
   },
   "standings": {
-    "position": 6,
-    "points": 250,
-    "wins": 1,
-    "contender": false,
     "podiums": 6,
     "dnf_count": 3,
     "disq_count": 0
