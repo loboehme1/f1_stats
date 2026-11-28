@@ -171,7 +171,7 @@
         "name": "Lewis Hamilton",
         "number": "44",
         "standings": {
-          "podiums": 1
+          "podiums": 0
         }
       },
       {
@@ -282,7 +282,7 @@
         "name": "Kimi Antonelli",
         "number": "12",
         "standings": {
-          "podiums": 1
+          "podiums": 0
         }
       },
       {
@@ -356,7 +356,7 @@
         "name": "Max Verstappen",
         "number": "3",
         "standings": {
-          "podiums": 3
+          "podiums": 2
         }
       },
       {
